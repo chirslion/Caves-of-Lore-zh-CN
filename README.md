@@ -3,8 +3,11 @@
 《Caves of Lore》（Red Plume LLC / Steam / Unity 2022.3.62f3 **Mono**）的**玩家侧文本汉化**。
 译文直接写回游戏资源文件，不需要任何 Mod 加载器。
 
-> **当前状态（2026-10-17，v1.23 第二十三轮实机修复版）**：全文 CN 完成；构建 / 校验 /
-> 打包 / 冷缓存全绿；23 轮实机反馈问题已逐条修复闭环，最新一轮待玩家复测。
+> **当前状态（2026-10-17，v1.24b 第二十四轮术语修正版）**：全文 CN 完成；构建 / 校验 /
+> 打包 / 冷缓存全绿；24 轮实机反馈问题已逐条修复闭环。**复测确认**：配方「任意食物」、
+> 以太环属性说明（DAMAGE / EFFECTS / 元素伤害行）、NPC 对话「差事」按钮均正常 ✓。
+> v1.24b：`+1 个效果与记忆` 统一为 `+1 效果与记忆`、召唤系「怪物生命加成」去掉硬换行；
+> 新增玩家向 `术语说明.txt`（解释效果/记忆/法术持续时间等实际机制）。
 > 修复历史与逐轮记录见开发工作区（本仓库之外的 `workspace/recon/翻译进度.md`）。
 
 ---
@@ -61,6 +64,7 @@
 ├─ origin/                （空占位）原版游戏放这里；本仓库不含游戏本体
 ├─ game/                  （空占位）生成物目录；打包后清空，只进玩家包
 ├─ 汉化安装说明.txt        面向玩家的安装步骤
+├─ 术语说明.txt            游戏内术语机制说明（效果/记忆/法术持续时间/词缀等）
 ├─ 汉化提示词.md           同类游戏汉化方法论（可复用）
 ├─ requirements.txt       Python 依赖（UnityPy 等）
 └─ *.zip                  发布件（玩家包 / 工程包）
@@ -97,7 +101,7 @@
 | `Caves of Lore_Data/level*`（24 个） | 场景 UI 文本（m_Text）+ 排版修正 | 菜单/按钮/场景内固定文字；level0 另含字号与文本框调整 |
 | `Caves of Lore_Data/resources.assets` | 数据/物品/技能/任务文本 + 贴图 + 字体 | 含对话图节点与 Database 文本；7 个字体并入 CJK 子集 |
 | `Caves of Lore_Data/sharedassets*`（15 个） | 对话/数据/UI 文本 + 贴图 | sharedassets0 含标题/创建/服务按钮贴图重绘 |
-| `Caves of Lore_Data/Managed/Assembly-CSharp.dll` | 546 处 ldstr 替换 + 多组 IL 显示层注入 | 运行时文本；枚举/后缀/敌种名等显示层翻译 |
+| `Caves of Lore_Data/Managed/Assembly-CSharp.dll` | 568 处 ldstr 替换 + 多组 IL 显示层注入 | 运行时文本；枚举/后缀/敌种名/配方类型名等显示层翻译 |
 | `Caves of Lore_Data/Managed/CavesL10N.dll`（新增） | 存档边界翻译 + 显示层包装 | 纯反射辅助程序集（netstandard2.0） |
 | `Caves of Lore_Data/Managed/CavesL10N.table.txt`（新增） | 存档边界翻译表 | CN↔EN 双向（含只写别名与保留值标记） |
 

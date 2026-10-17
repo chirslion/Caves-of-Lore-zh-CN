@@ -7,6 +7,9 @@
 装了汉化的存档可以交给原版游戏读取；原版存档装上汉化后也会自动显示中文；
 卸载后任何存档照常使用。
 
+游戏内术语（伤害 / 效果 / 记忆 / 法术持续时间 / 属性词缀等）的机制解释，
+见同目录的 术语说明.txt。
+
 适用版本：Windows / Steam 正式版
           原版数据指纹 Caves of Lore_Data\resources.assets = 34,677,312 字节
 不适用版本：其它版本（游戏更新后文件尺寸会变，安装脚本会自动拒绝，请勿强行覆盖）
@@ -18,7 +21,8 @@
 
   【玩家包】Caves of Lore 简中汉化包 v1.0（玩家版）.zip
       → 解压后是「Caves of Lore 简中汉化包」文件夹，里面有：
-        安装.bat / 卸载.bat / 说明.txt / Caves of Lore_Data\（43 个游戏文件）
+        安装.bat / 卸载.bat / 说明.txt / 术语说明.txt /
+        Caves of Lore_Data\（43 个游戏文件）
       → 不需要 Python，不需要跑任何脚本，按「一」操作即可。
 
   【工程包】Caves of Lore 简中汉化工程 v1.0（工程版）.zip

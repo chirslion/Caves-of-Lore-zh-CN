@@ -19,9 +19,9 @@ tools/ —— 脚本命名与职责（本工程实际构成）
 pack.py 的两类产出（硬性要求，直接产在 output/ 顶层 = 仓库根）：
 
   1. **玩家包**  Caves of Lore 简中汉化包 v1.0（玩家版）.zip
-     43 个搬运式游戏文件 + 安装.bat / 卸载.bat / 说明.txt（bat 由 pack.py 生成，
-     玩家侧不需要 Python）。解压到游戏目录或与其同级，双击 安装.bat 即可；
-     卸载双击 卸载.bat，从 *.l10nbak 还原。
+     43 个搬运式游戏文件 + 安装.bat / 卸载.bat / 说明.txt / 术语说明.txt
+     （bat 与说明由 pack.py 生成，玩家侧不需要 Python）。解压到游戏目录或
+     与其同级，双击 安装.bat 即可；卸载双击 卸载.bat，从 *.l10nbak 还原。
   2. **工程包**  Caves of Lore 简中汉化工程 v1.0（工程版）.zip
      output/ 内容快照：README + refer + tools + fonts + 安装说明 + 提示词；
      origin/ 与 game/ 均为空占位（仅 说明.txt）。收件人把原版游戏放进 origin/，

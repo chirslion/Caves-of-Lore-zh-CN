@@ -156,7 +156,10 @@ def main():
         "毁灭束缚防护召唤位移转化转移"
         "布料纸张血肉木头硬币书籍皮革甲壳泥土节肢宠物家畜两栖软体异变构造巨龙元素巨人哥布林妖精黏液挥砍穿刺钝击酸蚀"
         "钥匙墓园图书馆矿井生锈地窖铲镐桶典籍蝴蝶月长石晶"
-        "基础虚体无定形大地石质熔岩水流寒冰闪电气流木质虚空需要一把刚玉飞行大型距离时") | set(affix_chars)  # + --school/--enumdisp/--itemalias/--affix helper 输出
+        "基础虚体无定形大地石质熔岩水流寒冰闪电气流木质虚空需要一把刚玉飞行大型距离时"
+        # 第二十四轮：ItemAttributeModifier 说明片段 + --recipe 物品类型名 helper 输出
+        "伤害效果击退武器法术火焰冰霜闪电毒素神圣食物原料药水护甲衣物乐器配方箭矢"
+        "护符宝箱跟随图标货币项链戒指空白特殊书笔记盾牌法术书武器盾法球箭袋") | set(affix_chars)  # + --school/--enumdisp/--itemalias/--affix/--recipe helper 输出
     font_file = None
     if os.path.isdir(C.FONTS_DIR):
         for fn in sorted(os.listdir(C.FONTS_DIR)):

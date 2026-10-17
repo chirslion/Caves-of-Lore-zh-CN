@@ -3,7 +3,8 @@
 
 产物（output/ 顶层，两个 *.zip 都是发布件）：
   Caves of Lore 简中汉化包 v1.0（玩家版）.zip
-    └ Caves of Lore 简中汉化包/（安装.bat / 卸载.bat / 说明.txt / Caves of Lore_Data/43 文件）
+    └ Caves of Lore 简中汉化包/（安装.bat / 卸载.bat / 说明.txt / 术语说明.txt /
+       Caves of Lore_Data/43 文件）
   Caves of Lore 简中汉化工程 v1.0（工程版）.zip
     └ Caves of Lore 简中汉化工程/（output/ 仓库内容快照：README/refer/tools/fonts/
        requirements/安装说明/提示词；origin/ 与 game/ 为空占位仅 说明.txt）
@@ -233,12 +234,15 @@ Managed/CavesL10N.table.txt  {CLT_SIZE}  {CLT_MD5}
 
 已知说明（接受项）
 ------------------
+- 游戏内术语（伤害 / 效果 / 记忆 / 法术持续时间 / 属性词缀等）的机制解释，
+  见本文件同目录的 术语说明.txt。
 - 存档：因"存档只存英文"的设计，旧存档里的物品名/任务名等本来就是英文，
   读取后由游戏自动对照重建成中文显示（自愈）；极少数无法对应的旧条目
   会显示英文原文，不影响游戏进程。
 - 为保持游戏内部机制（枚举比对、存档迁移、角色匹配等），少数调试/内部
   文本有意保留英文（如开发日志、按键名、部分队伍人名选项）。
-- 物品「材质」、怪物图鉴「类型/伤害」现已汉化（显示层）；按键设置里的键名与
+- 物品「材质」、怪物图鉴「类型/伤害」、物品属性说明（伤害/效果/元素伤害/击退）、
+  配方通配材料（「任意食物」）现已汉化（显示层）；按键设置里的键名与
   队伍人名保留英文（匹配机制所限，已知接受）。
 - 若游戏更新导致安装被拒，请不要强行覆盖。
 
@@ -304,10 +308,12 @@ def main():
         txt = txt.replace("{%s_MD5}" % key, md5_of(p))
     if os.path.exists(ZP):
         os.remove(ZP)
+    term_txt = io.open(os.path.join(OUTPUT, "术语说明.txt"), encoding="utf-8").read()
     with zipfile.ZipFile(ZP, "w", zipfile.ZIP_DEFLATED, compresslevel=6) as z:
         z.writestr(PLAYER_ROOT + "/安装.bat", write_gbk_bytes(gen_install(files, newset)))
         z.writestr(PLAYER_ROOT + "/卸载.bat", write_gbk_bytes(gen_uninstall(files, newset)))
         z.writestr(PLAYER_ROOT + "/说明.txt", write_gbk_bytes(txt))
+        z.writestr(PLAYER_ROOT + "/术语说明.txt", write_gbk_bytes(term_txt))
         for rel in files:
             z.write(os.path.join(lf, *rel.split("/")),
                     PLAYER_ROOT + "/" + C.DATA_SUB + "/" + rel)

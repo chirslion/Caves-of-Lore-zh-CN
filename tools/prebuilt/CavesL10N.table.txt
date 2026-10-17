@@ -173,6 +173,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 下面有东西在动吗？	Is something moving down there?
 下面肯定有东西。	There is definitely something down there.
 下面藏着什么宝藏呢？	I wonder what treasures lie below?
+不。	No.
 不会被冰封	Cannot Be Frozen
 不会被击退	Cannot be knocked back
 不会被夹击	Cannot Be Flanked
@@ -291,6 +292,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 从没见过这种东西。能摸吗？	Never see such thing. Can touch it?
 从蜘蛛身上收集 7 束丝线	Gather 7 Silk Thread from Spiders
 从被击杀的敌人身上找到额外金币	Find extra Gold on slain enemies
+从边沿退开。	Withdraw from the edge.
 从这上面看风景不错。	The view from up here is nice.
 从远处抓取对手。	Grab an opponent from far away.
 从附近的洞穴采集隧道苔藓。	Gather tunnel moss from nearby caves.
@@ -343,6 +345,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 伊索贝尔的遗珍	Isobel's Inheritance
 伊索贝尔请我们去旧宅下方的洞穴寻找一株奇异植物。到目前为止，我见过的植物有一半对我来说都很奇异，真想象不出她要找的「奇异」是什么样。	Isobel has asked us to seek out a strange plant growing in the caves below the old house. Half of the plants I have seen so far are strange to me, so I can only imagine what she must consider strange.
 伊里卡格	Irikag	1
+众月	The Moons
 会出现该物品的图像，点击图像即可丢下这件物品。	An image of the item will appear, and clicking it will allow you to Drop the item.
 会想念这里。总有一天，回来。	Will miss this place. Return, one day.
 伟力	Might
@@ -355,6 +358,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 伤害海绵	Damage Sponge
 伤害：	Damage:
 伦尼克	Lennic
+伸出手，触碰方尖碑。	Reach out your hand and touch the obelisk.
 但后来什么也没发生。结果好就一切都好，对吧？	But nothing ever came of it, so all is well that ends well, right?
 但愿没有蜘蛛。	Let's hope there are no spiders.
 但愿这番折腾值得。这苔藓黏糊糊的，我暂时不想再碰了。	Let us hope this was worth the trouble. This moss is sticky, and I would rather not touch any more of it for a while.
@@ -519,7 +523,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 便帽	Cap
 保存完好的书页	Well Preserved Page
 保存游戏	Save Game
-保护	Protection
+保护	Protection	1
 保护盟友的形体不被改变。	Protect an ally from having their form altered.
 信不信由你，牛能让人相当放松。	Believe it or not, they can be quite relaxing.
 信仰	Faith
@@ -792,6 +796,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 历史学家围巾	Historian's Scarf
 厚实	Thickness
 厚毛皮	Thick Coat
+原料	ingredient
 原汁原味	Au Naturel
 原生	Native
 去她提到的出口吧。我们终于有办法离开这个洞穴了。	Let us go to the exit she mentioned. We finally have a way out of this cave.
@@ -1000,6 +1005,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 土豆	Potatoes
 土：	Earth:
 圣化	Consecration
+圣所	sanctum
 圣洁	Holiness
 在 10 秒内除去周围环境的所有水汽。\n\n第一级之后每级再增加 20 秒。\n\n仅限战斗外使用	Remove all humidity from your surroundings for 10 seconds.\n\nEach skill level beyond the first adds another 20 seconds.\n\nUsable Outside Combat Only
 在 40 格与 15 格之间展开或收拢物品栏的可见槽位数。	Expand or Reduce the number of visible slots in your inventroy to 40 or 15.
@@ -1153,11 +1159,13 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 天赋	Talent
 天赋：激活你队伍领队角色的天赋。	Talent: Activate the Talent of your leading party member.
 天赋：激活你队伍领队角色的天赋。\n\n每个角色都有一项独特的领队能力。\n\n要使用它，该角色必须被设为队伍领队。在物品栏界面把角色图标拖到最上方的角色槽，即可选定新领队。位于最上方的角色即被视为领队。\n\n探索时，这些能力会帮你在战斗之外应对各种情况。	Talent: Activate the Talent of your leading party member.\n\nEach character has a unique Leader Ability.\n\nTo use it, they must be set as the party leader. Select a new leader by dragging a character icon to the top character slot in the Inventory screen. The character at the top is considered the leader.\n\nThese abilities will help you navigate various situations outside of combat as you explore.
+天顶	zenith
 天顶：\n\n当一轮月亮到达天顶（右上圆环的上部）时，它高悬于天空。处于这个位置时，它能够以特殊方式影响世界。\n	Zenith:\n\nWhen a moon reaches its Zenith (the upper part of the circle in the upper right), it is high in the sky. At this position it has the power to influence the world in special ways.\n
 太阳与月亮的运行在此显示。刻度盘中心即地平线。	Sun and moon rotations are displayd here. The center of the dial is the horizon.
 太阳露	Sundrop
 失稳	Destabilize	1
 失落的护身符	The Lost Trinket
+失败	Failure
 头槌	Headbutt
 夹击	Flanking	1
 夹击对手时额外造成 4 点伤害。	Add 4 bonus damage when flanking an opponent.
@@ -1194,6 +1202,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 女妖之爪	Banshee Claws
 奶桶	Milk Bucket
 奶酪	Cheese
+好。	Yes.
 好一把鲁特琴。从崖边坠落还能幸存，实在非同寻常——它显然不是普通的乐器。	This is a fine lute. It is truly special to have survived the trip over the edge, and is clearly more than just an ordinary instrument.
 好吧，两次。但就这些了。	Ok, twice. But, that was it.
 好吧，以前能——直到这片迷雾漫了过来。	Well, I used to, until this fog rolled in.
@@ -1578,6 +1587,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 形态无法被改变	Cannot be physically altered
 影子见了火光就跑，可他曾抓住过一个。	The shadows flee from torchlight, but he caught them once.
 往前走，别停下。	Move along.
+往坑里投几枚硬币。	Throw some coins into the pit.
 征服	Subjugate
 徒手技能会提高你使用拳头、牙齿或利爪时的命中率。\n\n每 3 级使武器最大伤害提高 1。\n\n影响属性：力量、精神\n	Hand-to-Hand skill increases the chance to hit a target when using fists, teeth or claws.\n\nWeapon Max Damage is increased by 1 at every 3rd level.\n\nModifiers: Strength, Spirit\n
 徒手攻击在所有其他修正之前，最低与最高伤害各 +2。	Unarmed attacks gain 2 minimum and maximum damage before all other modifiers.
@@ -1588,6 +1598,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 循环燃料	Recursive Fuel
 微光之剑	Shimmering Sword
 心志	Heart
+心智	Mind
 心智或精神不足	Insufficient MND or SPI
 心智：	Mind:
 心灵之掌	Psychic Slap
@@ -1670,6 +1681,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 感谢游玩《Caves of Lore》！	Thank you for playing Caves of Lore!
 懦夫	Coward
 懦夫的勇敢撤退	Coward's Brave Retreat
+成功	Success
 成功背刺对手时额外造成 3 点伤害。	Add 3 bonus damage when successfully stabbing an opponent in the back.
 成就信息	Achievement Info Here
 成就名称	Achievement Name
@@ -1951,6 +1963,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 拉齐德和我决定分头探索不同的通道。我觉得这是个错误，但他比我更有智慧。只要书能安然无恙，其他都不重要。\n\n我已经感觉到自己正在渐渐消散……即便我们找到了通往卡林德劳尔的通道，也说不准那里还有没有人能帮上我们。	Razeed and I decided to try separate passages. I think it was a mistake, but he is wiser than I. All that matters is that the book is kept safe.\n\nAlready, I feel myself slipping away... even if we can find the passage to Kalindraur, there's no telling whether anyone will be left there to help us.
 拟态之牙	Mimic Teeth
 拱卫	Guarding
+拱心石	keystone	1
 拳	Fists
 拳击	Boxing
 拿到了！现在把奈拉的记忆还回去，终结这场诅咒！	We have it! Now to return Naira's memories and end this curse!
@@ -2034,6 +2047,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 操作	Controls
 擦碰	Glancing
 攫取	Snatch
+收回手。	Withdraw from it.
 收集 10 份野猪肉	Collect 10 Boar Meat
 收集 10 根股骨	Gather 10 Femurs
 收集 20 只蝴蝶	Collect 20 Butterflies
@@ -2066,6 +2080,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 敌人无法夹击你；身处夹击位置也不会受到额外伤害或效果。	You cannot be flanked by enemies and take no extra damage or effect from being in a flanked position.
 敌意	Hostility
 敏感构成	Sensitive Composition
+敏捷	Agility
 敏锐	Acuity	1
 教程	Tutorials
 散出一团毒云，对其中所有实体造成 4 点毒素伤害。\n\n所有抗毒失败者都会中毒。\n\n第一级之后每级使伤害加成提高 2。\n\n结束回合：是	Emit a cloud of poisonous vapor that deals 4 Poison damage to all entities within it.\n\nAll entities that a fail Resist Poison roll will be poisoned.\n\nSkill levels increase damage bonus by 2 for every level beyond the first.\n\nEnds Turn: Yes
@@ -2195,10 +2210,11 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 月亮在上……我这一生都没见过这样的东西。	By the moons... I have never seen such a thing in all my days.
 月亮未升时回复生命	Gains Health When Moons Are Down
 月刃	Moonblade
+月升	Rising	1
 月升\n	Rising\n
 月升：\n\n当一轮月亮升上地平线时，屏幕左侧对应的宝石会亮起。这一状态可以提供与「天顶」「天底」不同的特殊加成。\n	Rising:\n\nWhen a moon passes above the horizon, the corresponding gem on the left of the screen will light up. This status can grant special bonuses, different from the Zenith and Nadir.\n
 月挂当空时，战斗中每轮获得治疗。	Heal every round in combat when the moons are risen.
-月相	The Moons
+月相	The Moons	1
 月落	Setting
 月落：\n\n当一轮月亮落到地平线以下时，屏幕左侧对应的宝石会熄灭。这一状态可以提供与「天顶」「天底」不同的特殊加成。\n	Setting:\n\nWhen a moon passes below the horizon, the corresponding gem on the left of the screen will go dark. This status can grant special bonuses, different from the Zenith and Nadir.\n
 月迷	Moonstruck
@@ -2758,6 +2774,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 碎界体对钝击伤害有 50% 易伤。	Fragmentals are 50% vulnerable to Blunt Damage.
 碾压	Crushing
 磐石架势	Solid Stance
+磨砺	sharpen
 磨砺材料：	Sharpen With: 
 磨砺材料：\n上古之石\n	Sharpen With: \nElder Stone\n
 祝福武器	Bless Weapon
@@ -2824,6 +2841,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 符文印记	Runic Impressions
 符文护符	Runic Charm
 符文标记	Runes and Marks
+符文石	Glyph Stones	1
 符文蝇	Runefly
 符文：\n\n符文是一组刻在石头上的符号。这些符号由一个核心元素（符文最显著的部分）构成，代表符文所系之物——可能是一轮月亮、一个人，甚至别的东西。 \n\n此外还有次级标记，用来表示符文激活所需的额外条件。\n\n（为避免剧透，本节仍在撰写中）	Runes:\n\nRunes are a collection of symbols, etched in stone. These symbols consist of a central element, the most noticable part of the rune, that represents what kind of thing the rune is tied to. This can be a moon, or an individual, or perhaps even something else. \n\nThere are also secondary markings that indicate additional requirements for the rune to activate.\n\n(to avoid Spoilers, this section is a work in progress)
 第 2 章单独保存	Saves Seperaately for Chapter 2
@@ -2961,6 +2979,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 致我的儿子霍森——雷诺家族财富的继承人，我留下这句箴言。自从雷诺与吉法德在「北方」结盟以来，我们的家族一直作为领导力的「支柱」屹立不倒。埃梅里斯克若要存续，离不开我们。记住我们先祖的古老箴言：「@4」。愿它指引你，也指引我们的人民，前往庇护所。	To my son Hawthen, heir to the Renault family fortune, I leave this word of wisdom. Ever since an alliance was forged in the 'north' between Renault and Gyffard, our families have stood as 'pillars' of leadership. Emerisk needs us, if it is to survive. Remember the ancient word of our fathers, "@4". May it guide you, and our people, to Shelter.
 致谢	Attribution
 舒适	Coziness
+艾伦达尔	Airendal	1
 节肢动物对钝击武器有 25% 易伤。	Athropods have a 25% vulnerability to Blunt weapons.
 节肢动物对锤类攻击有 50% 易伤。该易伤与其他易伤及抗性叠加。	Arthropods are 50% vulnerable to attacks from Hammers. This stacks with other vulnerabilities and resistances.
 节肢动物抵抗 25% 的挥砍伤害。	Arthropods resist 25% of Slashing Damage.
@@ -2989,6 +3008,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 若非用了某种保存方法，这张皮纸早就腐朽在无数个年代之前了。	If not for some preservation technique, this vellum would have rotted many ages ago.
 英雄待机动画	Hero Idle Animation
 荆棘碎片	Bramble Shard
+草药	herb
 草药汤	Herbal Soup
 荒野	Wilds
 药水	Potion	1
@@ -3414,6 +3434,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 邪恶子裔对神圣伤害及效果有 50% 易伤。	Wicked Scions are 50% vulnerable to Holy Damage and Effects.
 邪恶本源	Unholy Origin
 邪恶：	Evil:
+配方	recipes
 配方名称	Recipe Name
 酸刺	Acid Spike
 酸爆	Acid Burst
@@ -3519,6 +3540,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 防御随等级提升而提高。	Defense increases as you gain levels.
 防御：	Defense:
 防御：\n防御在护甲吸收之后进行判定。每点防御都有 50% 的几率吸收 1 点伤害，即使该伤害绕过了护甲。\n\n\n\n\n\n	Defense:\nDefense is rolled after Armor absorption. For each point of defense, you have a 50% chance of absorbing a point of Damage, even if it avoided Armor.\n\n\n\n\n\n
+防护	Protection
 防蚀	Repel Corrosion
 阳光削减最大生命	Sunlight Reduces MaxHP
 阵型	Formations
@@ -3538,6 +3560,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 阿伯曼图斯	Abbermantus
 阿克里斯特	Acristor
 阿克里斯特之爪	Talons of Acristor
+阿奇文	Archaven	1
 阿尔福德·海菲斯特	Alford Hayfest
 阿德拉·梅亚德	Adela Meyard
 阿德拉在找一种陈年奶酪——真正陈年的奶酪。我不知道它有什么特别，但据说就在墓园里一座被水淹没的墓室中。	Adela is looking for some old cheese. Really old cheese. I do not know what is so special about it, but apparently it is in a flooded crypt in the graveyard.
@@ -3698,3 +3721,139 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 （旋转以设置）	(rotate to set)
 （空）	NullOption
 （输入 help 查看命令列表）	(type help for list of commands)
+阿格玛人	Agmarians
+艾伦达尔	Airendal
+阿奇文	Archaven
+加蒙	Gammon
+符文石	Glyph Stones
+哥布林	Goblins
+问候	Greetings
+雷诺	Renault
+敬视镜	Respectacle
+月升	Rising
+属性	Stats
+刻文石板	Tablet Of Glyphs
+天顶	Zenith
+奥术	arcane
+牢笼	cage
+胡萝卜	carrots
+刚玉	corundum
+黑暗领主	dark lord
+梦	dreams
+上古之石	elder stone
+能量	energy
+出口	exit
+织物	fabric
+家人	family
+森林	forest
+墓地	graveyard
+差事	job
+拱心石	keystone
+法力晶石	manatite
+古语	old tongue
+过去	past
+墓碑	tombstone
+训练	training
+叛徒	traitors
+旅人	traveler
+宝藏	treasure
+水	water
+敏捷	Agility	2
+阿格玛人	Agmarians	2
+艾伦达尔	Airendal	2
+奥术	arcane	2
+阿奇文	Archaven	2
+蓝光	blue light	2
+骨头	bone	2
+书	book	2
+牢笼	cage	2
+胡萝卜	carrots	2
+洞穴	caves	2
+典籍	Codex	2
+刚玉	corundum	2
+黑暗领主	dark lord	2
+深度清洁	Deep Cleaning	2
+精致口味	Delicate Palate	2
+次元	dimension	2
+梦	dreams	2
+回响	echo	2
+上古之石	elder stone	2
+埃梅里斯克	Emerisk	2
+能量	energy	2
+铭刻	engraving	2
+出口	exit	2
+甲壳猎人	Exo-Hunter	2
+织物	fabric	2
+失败	Failure	2
+家人	family	2
+迷雾	fog	2
+森林	forest	2
+加蒙	Gammon	2
+符文石	Glyph Stones	2
+哥布林	Goblins	2
+墓地	graveyard	2
+问候	greet	2
+问候	Greetings	2
+草药	herb	2
+原料	ingredient	2
+缺铁	Iron Deficiency	2
+差事	job	2
+只是一时	Just A Phase	2
+卡林德劳尔	Kalindraur	2
+拱心石	keystone	2
+图书管理员	librarian	2
+法力晶石	manatite	2
+人菇	Manshroom	2
+米亚拉	Miala	2
+心智	Mind	2
+月刃	Moonblade	2
+月之门	moongates	2
+月亮	moons	2
+蘑菇	mushrooms	2
+天底	Nadir	2
+不。	No.	2
+古语	old tongue	2
+老妇人	old woman	2
+织球者	Orb Weaver	2
+过去	past	2
+农民	peasant	2
+练习	practice	2
+伸出手，触碰方尖碑。	Reach out your hand and touch the obelisk.	2
+配方	recipes	2
+雷诺	Renault	2
+抗性	Resistance	2
+敬视镜	Respectacle	2
+月升	Rising	2
+圈起来	Round 'Em Up	2
+圣所	sanctum	2
+斯卡芬	Scaphin	2
+效力	serve	2
+月落	Setting	2
+磨砺	sharpen	2
+银	silver	2
+儿子	son	2
+速度	Speed	2
+精神	Spirit	2
+属性	Stats	2
+力量	Strength	2
+成功	Success	2
+刻文石板	Tablet Of Glyphs	2
+泰丝瑞斯	Tethrys	2
+众月	The Moons	2
+往坑里投几枚硬币。	Throw some coins into the pit.	2
+墓碑	tombstone	2
+训练	training	2
+叛徒	traitors	2
+旅人	traveler	2
+宝藏	treasure	2
+隧道视野	Tunnel Vision	2
+闯荡	venture	2
+流浪者	wanderers	2
+水	water	2
+野猪	wild boar	2
+收回手。	Withdraw from it.	2
+从边沿退开。	Withdraw from the edge.	2
+木然表情	Wooden Expression	2
+好。	Yes.	2
+天顶	zenith	2
+天顶	Zenith	2

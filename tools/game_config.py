@@ -27,7 +27,7 @@ CN_FINGERPRINTS = {
     "Caves of Lore_Data/resources.assets": (35113344, "f02b8f2fa9d2958200ee883d7eae0813"),
     "Caves of Lore_Data/sharedassets0.assets": (51323608, "714a6fc7fb1579c5a2584d09c22b463d"),
     "Caves of Lore_Data/level0": (24283776, "a645985dd3afa5e2ecd38941df415e4b"),
-    "Caves of Lore_Data/Managed/Assembly-CSharp.dll": (2744832, "e4534902fb5eb192b0c7d6550e4687b6"),
-    "Caves of Lore_Data/Managed/CavesL10N.dll": (13824, "18ce94e73fcc54c6e0d9f371e5cdab54"),
-    "Caves of Lore_Data/Managed/CavesL10N.table.txt": (372496, "258f157c95e95c7cb319f2fe1e41001b"),
+    "Caves of Lore_Data/Managed/Assembly-CSharp.dll": (2745344, "3d744baea13ad1861be697f0d1239a17"),
+    "Caves of Lore_Data/Managed/CavesL10N.dll": (14848, "ee8638d422419a987c7b6f06354bf122"),
+    "Caves of Lore_Data/Managed/CavesL10N.table.txt": (375660, "015a63a3920e423583ce53f434548204"),
 }
