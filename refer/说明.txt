@@ -1,0 +1,30 @@
+Caves of Lore 汉化 · refer 说明
+==================================================
+
+本目录是全部人工可编辑译文。json 均为 UTF-8、每行一条；
+行格式：
+  对话/NN_图名.json    [ID, 说话人, EN, CN]
+  其余 json            [ID, EN, CN]
+  高亮词.json          [ID, EN, CN] ← 高亮/话题解锁词（见下方规则 6）
+
+ID 方案：<文件短名>#<对象号>/<字段路径>[序号]，例如：
+  res#59702/whatIHaveToSay[0]、lv0#20538/m_Text、res#61728/itemBase.identifiedName
+文件短名：res=resources.assets、saN=sharedassetsN、lvN=levelN、gga=globalmanagers.assets。
+ID 由游戏数据位置生成，重提取/更新游戏后依旧稳定。
+
+排查附赠：对象归属索引.tsv —— 每个界面文本行对应的对象「父链」（如 Controls <- UI_SettingsBackground <- MainCanvas）、字号/模式/尺寸/位置。
+同名对象多份时的归属排查（改字号/文本前）用它定位；查看方式：① 双击 对象归属索引.html（自带关键字过滤，推荐）；② Excel/WPS 双击 .tsv（已带 BOM 不乱码）；③ 命令行 python workspace/tools/find_text.py <关键字>（开发工作区脚本，不在本仓库内）。同名×N 徽章 = 该文本在多个对象出现，改字号/文本前先核对父链。
+
+编辑规则：
+  1. 只改 CN 列（对话文件是最后一列）；EN/ID 不要动；
+  2. 同一 EN 在全目录必须用同一译法（校验脚本会扫描）；
+  3. 引用型/参数型文本（任务名引用、触发器参数、人名候选）都在
+     「参数文本待审.json」，先审核再决定是否翻译（部分会落存档/参与匹配）；
+  4. 「未分类.json」是分类规则的兜底，若发现其实是标识符，回报即可；
+  5. 名词术语.xlsx 是术语主表：新术语先入表再落正文。
+  6. 高亮词.json 的每个词必须与【同节点正文】及【该图话题选项】用完全相同的词
+     （染色/解锁/话题按钮按精确相等联动，不同步会卡玩法进度）；详见
+     workspace/recon/高亮机制.md（开发工作区报告，不在本仓库内）。
+
+重跑行为：extract_refer.py 重复运行不会覆盖已有 CN；
+若条目 ID 消失（游戏更新），CN 会按 EN 全等自动救援并在报告中计数。

@@ -1,0 +1,177 @@
+{
+ "meta": {
+  "kind": "对话/NullboreAppears",
+  "count": 28,
+  "with_cn": 28
+ },
+ "entries": [
+  [
+   "sa1#34/whatIHaveToSay[0]",
+   "Lannon",
+   "If there is something you are after, please tell us. Otherwise, allow us to carry on our way.",
+   "你若有所图，请直说。否则，就让我们继续赶路。"
+  ],
+  [
+   "sa1#36/whatIHaveToSay[0]",
+   "Nullbore",
+   "Such animosity...",
+   "好大的敌意……"
+  ],
+  [
+   "sa1#37/whatIHaveToSay[0]",
+   "Dimas",
+   "I have bad experiences with creatures that have more than two arms.",
+   "对于手臂超过两条的生物，我有过糟糕的经历。"
+  ],
+  [
+   "sa1#380/whatIHaveToSay[0]",
+   "Nullbore",
+   "So far from home. And yet, not so far at all.",
+   "离家如此之远。却又全然不算远。"
+  ],
+  [
+   "sa1#385/whatIHaveToSay[0]",
+   "Bhulown",
+   "Scaphin not fear.",
+   "斯卡芬，不怕。"
+  ],
+  [
+   "sa1#391/whatIHaveToSay[0]",
+   "Lannon",
+   "We cannot share. There is a quest of great importance, and we require the memories. All of them.",
+   "我们不能分享。有一项极其重要的使命，我们需要那些记忆。全部。"
+  ],
+  [
+   "sa1#402/whatIHaveToSay[0]",
+   "Rycard",
+   "Gladly.",
+   "乐意之至。"
+  ],
+  [
+   "sa1#406/whatIHaveToSay[0]",
+   "Nullbore",
+   "So noble. I truly did not expect to be so entertained. One does not get much company in the void.",
+   "真是高尚。我着实没料到会这么有趣。在虚空里，可没什么人能作陪。"
+  ],
+  [
+   "sa1#407/whatIHaveToSay[0]",
+   "Nullbore",
+   "The ruse is up then? No more games?",
+   "把戏到此为止了？不再玩下去了？"
+  ],
+  [
+   "sa1#407/whatIHaveToSay[1]",
+   "Nullbore",
+   " *sigh*",
+   " *叹气*"
+  ],
+  [
+   "sa1#407/whatIHaveToSay[2]",
+   "Nullbore",
+   "I had no intention of sharing of course, but you knew that already, did you not?",
+   "我当然从没打算分享，可你们早就知道，不是吗？"
+  ],
+  [
+   "sa1#407/whatIHaveToSay[3]",
+   "Nullbore",
+   "It took strength for you to reach this place alive. Let us test that strength once more.",
+   "能活着抵达这里，你们靠的是实力。让我们再考验一次那份实力。"
+  ],
+  [
+   "sa1#408/whatIHaveToSay[0]",
+   "Dimas",
+   "I wouldn't have shared such an astounding gem with a foul thing like you anyways.",
+   "反正我也不会把这样一颗惊人的宝石，分享给你这种腌臜东西。"
+  ],
+  [
+   "sa1#412/whatIHaveToSay[0]",
+   "Laszra",
+   "This place does not belong to you, but to a friend of mine.",
+   "这地方不属于你，而属于我的一位朋友。"
+  ],
+  [
+   "sa1#418/whatIHaveToSay[0]",
+   "Laszra",
+   "Careful. This being is immensely dangerous. I can sense it.",
+   "小心。这东西危险至极。我感觉得到。"
+  ],
+  [
+   "sa1#421/whatIHaveToSay[0]",
+   "Nullbore",
+   "Come, share them with me. There is no reason to be afraid.",
+   "来吧，把它们分享给我。没有理由害怕。"
+  ],
+  [
+   "sa1#428/whatIHaveToSay[0]",
+   "Lannon",
+   "You know of our world?",
+   "你知道我们的世界？"
+  ],
+  [
+   "sa1#430/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Fear and caution are not the same.",
+   "恐惧与谨慎不是一回事。"
+  ],
+  [
+   "sa1#431/whatIHaveToSay[0]",
+   "Shione",
+   "I have a healthy dose of both, thank you.",
+   "这两样我都有恰当的分量，谢谢。"
+  ],
+  [
+   "sa1#432/whatIHaveToSay[0]",
+   "Nullbore",
+   "I saw what happened to him. One must be careful in this place. Your mere presence can attract... unpleasant entities.",
+   "我看见了他的下场。在这地方必须小心。你们光是存在，就可能引来……不快的存在。"
+  ],
+  [
+   "sa1#438/whatIHaveToSay[0]",
+   "Nullbore",
+   "I know many places, but I choose to stay here. This place brings so many... gifts.",
+   "我知道许多地方，但我选择留在这里。这地方带来如此多的……礼物。"
+  ],
+  [
+   "sa1#438/whatIHaveToSay[1]",
+   "Nullbore",
+   "I have made this my home, and you are intruders. Still, I am not unkind.",
+   "我把这里当作我的家，而你们是闯入者。不过，我并不刻薄。"
+  ],
+  [
+   "sa1#441/whatIHaveToSay[0]",
+   "Nullbore",
+   "One does not idly come to this place. I imagine that you seek the same thing that drew me here.",
+   "没有人会无缘无故来到这里。我猜，你们寻找的，正是把我引来此地的同一样东西。"
+  ],
+  [
+   "sa1#441/whatIHaveToSay[1]",
+   "Nullbore",
+   "The memories trapped within this gem radiated into the void. I could feel them...",
+   "困在这颗宝石里的记忆，向虚空散发着波动。我能感觉到它们……"
+  ],
+  [
+   "sa1#51/whatIHaveToSay[0]",
+   "Arbo",
+   "*growl*",
+   "*低吼*"
+  ],
+  [
+   "sa1#53/whatIHaveToSay[0]",
+   "Airendal",
+   "Prepare friends. Peace was never an option with this one.",
+   "准备战斗，朋友们。跟这一个，从来谈不成和平。"
+  ],
+  [
+   "sa1#71/whatIHaveToSay[0]",
+   "Merewen",
+   "Let us get to the point. What do you want with us?",
+   "我们直说吧。你想从我们这里得到什么？"
+  ],
+  [
+   "sa1#74/whatIHaveToSay[0]",
+   "Rycard",
+   "I've got a bad feeling about this.",
+   "我对此有种不祥的预感。"
+  ]
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "meta": {
+  "kind": "数据/其它",
+  "count": 49,
+  "with_cn": 49
+ },
+ "entries": [
+  [
+   "lv0#28367/firstUseMessage",
+   "Each character has a unique Talent.\nTo use it, they must be set as the party leader. Select a new leader by dragging a character icon to the top character slot. The character at the top is considered the leader.\n\nUse the Dog's ability to find a key to the door below.",
+   "每个角色都有一项独特的天赋。\n要使用它，该角色必须被设为队伍领队。把角色图标拖到最上方的角色槽，即可选定新领队。位于最上方的角色即被视为领队。\n\n用 Dog 的能力找出下面那扇门的钥匙。"
+  ],
+  [
+   "lv0#28372/armorString",
+   "Increase Armor Rating\nBy 1",
+   "提高护甲值\n1 点"
+  ],
+  [
+   "lv0#28372/weaponString",
+   "Upgrade Material:\n",
+   "升级材质：\n"
+  ],
+  [
+   "lv0#28375/weaponString",
+   "Sharpen With: ",
+   "磨砺材料："
+  ],
+  [
+   "lv1#8377/sceneTitle",
+   "The Lacunaria",
+   "拉库纳里亚"
+  ],
+  [
+   "lv10#739/sceneTitle",
+   "The Forgotten Athenaeum, lvl 3",
+   "被遗忘的藏书殿 第 3 层"
+  ],
+  [
+   "lv11#2204/sceneTitle",
+   "The Forgotten Athenaeum, lvl 4",
+   "被遗忘的藏书殿 第 4 层"
+  ],
+  [
+   "lv12#7697/sceneTitle",
+   "Bleak Halls",
+   "凄凉厅堂"
+  ],
+  [
+   "lv13#11676/sceneTitle",
+   "Fungal Shelf",
+   "菌菇台地"
+  ],
+  [
+   "lv14#619/sceneTitle",
+   "Strange Precipice",
+   "奇异断崖"
+  ],
+  [
+   "lv15#2717/sceneTitle",
+   "Hidden Aquifer",
+   "隐秘含水层"
+  ],
+  [
+   "lv16#5505/sceneTitle",
+   "Infested Chambers",
+   "侵染之厅"
+  ],
+  [
+   "lv17#6642/sceneTitle",
+   "Manatite Mine",
+   "法力晶石矿"
+  ],
+  [
+   "lv18#7462/sceneTitle",
+   "Murky Fissure",
+   "浑浊裂隙"
+  ],
+  [
+   "lv19#9280/sceneTitle",
+   "Renault Family Catacombs",
+   "雷诺家族墓窟"
+  ],
+  [
+   "lv2#777/sceneTitle",
+   "Abandoned Home",
+   "废弃小屋"
+  ],
+  [
+   "lv20#10581/innText",
+   "Stay at the Dormitory?",
+   "要在宿舍休息吗？"
+  ],
+  [
+   "lv20#10581/sceneTitle",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "lv20#11957/mySkillDisplayName",
+   "Brewing",
+   "酿造"
+  ],
+  [
+   "lv20#11957/trainingText",
+   "A Character of your choice will begin training in Crafting.",
+   "你选择的一名角色将开始训练「制作」。"
+  ],
+  [
+   "lv20#11957/trainingTitle",
+   "Select a Character for Craft Training",
+   "选择一名角色进行制作训练"
+  ],
+  [
+   "lv20#11958/mySkillDisplayName",
+   "One-Handed Weapons",
+   "单手武器"
+  ],
+  [
+   "lv20#11958/trainingText",
+   "A Character of your choice will begin training in a One-Handed Weapon Skill.",
+   "你选择的一名角色将开始训练一项单手武器技能。"
+  ],
+  [
+   "lv20#11958/trainingTitle",
+   "Select a Character for One-Handed Weapon Training",
+   "选择一名角色进行单手武器训练"
+  ],
+  [
+   "lv20#11959/mySkillDisplayName",
+   "Two-Handed Weapons",
+   "双手武器"
+  ],
+  [
+   "lv20#11959/trainingText",
+   "A Character of your choice will begin training in a Two-Handed Weapon Skill.",
+   "你选择的一名角色将开始训练一项双手武器技能。"
+  ],
+  [
+   "lv20#11959/trainingTitle",
+   "Select a Character for Two-Handed Weapon Training",
+   "选择一名角色进行双手武器训练"
+  ],
+  [
+   "lv20#11960/mySkillDisplayName",
+   "Ranged Weapons",
+   "远程武器"
+  ],
+  [
+   "lv20#11960/trainingText",
+   "A Character of your choice will begin training in a Ranged Weapon Skill.",
+   "你选择的一名角色将开始训练一项远程武器技能。"
+  ],
+  [
+   "lv20#11960/trainingTitle",
+   "Select a Character for Ranged Weapon Training",
+   "选择一名角色进行远程武器训练"
+  ],
+  [
+   "lv20#11961/trainingText",
+   "A Character of your choice will begin training in a Spell they have Memorized.",
+   "你选择的一名角色将开始训练一项已记忆的法术。"
+  ],
+  [
+   "lv20#11961/trainingTitle",
+   "Select a Character for Spell Training",
+   "选择一名角色进行法术训练"
+  ],
+  [
+   "lv20#11962/mySkillDisplayName",
+   "Hand to Hand Weapons",
+   "徒手格斗"
+  ],
+  [
+   "lv20#11962/trainingText",
+   "A Character of your choice will begin training in a Hand-to-Hand Weapon Skill.",
+   "你选择的一名角色将开始训练一项徒手武器技能。"
+  ],
+  [
+   "lv20#11962/trainingTitle",
+   "Select a Character for Hand-to-Hand Weapon Training",
+   "选择一名角色进行徒手武器训练"
+  ],
+  [
+   "lv21#10143/sceneTitle",
+   "Undermoor Caverns",
+   "幽沼洞窟"
+  ],
+  [
+   "lv22#1110/sceneTitle",
+   "Windy Depths",
+   "风啸深窟"
+  ],
+  [
+   "lv23#4458/sceneTitle",
+   "Winding Passages",
+   "蜿蜒回廊"
+  ],
+  [
+   "lv3#1383/sceneTitle",
+   "Wandering Fragment",
+   "漂泊残片"
+  ],
+  [
+   "lv4#4177/sceneTitle",
+   "Enigmatic Morass",
+   "谜之泥沼"
+  ],
+  [
+   "lv5#13189/sceneTitle",
+   "Withering Hills",
+   "枯败丘陵"
+  ],
+  [
+   "lv6#22280/sceneTitle",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "lv7#9152/innText",
+   "Stay at the Inn?",
+   "要在旅店住宿吗？"
+  ],
+  [
+   "lv8#1948/sceneTitle",
+   "The Forgotten Athenaeum",
+   "被遗忘的藏书殿"
+  ],
+  [
+   "lv9#664/sceneTitle",
+   "The Forgotten Athenaeum, lvl 2",
+   "被遗忘的藏书殿 第 2 层"
+  ],
+  [
+   "res#61701/displayName",
+   "Wooden Buckler",
+   "木圆盾"
+  ],
+  [
+   "res#61702/displayName",
+   "Wooden Buckler",
+   "木圆盾"
+  ],
+  [
+   "res#61703/displayName",
+   "Wooden Buckler",
+   "木圆盾"
+  ],
+  [
+   "res#61704/displayName",
+   "Wooden Buckler",
+   "木圆盾"
+  ]
+ ]
+}

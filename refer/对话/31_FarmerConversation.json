@@ -1,0 +1,363 @@
+{
+ "meta": {
+  "kind": "对话/FarmerConversation",
+  "count": 59,
+  "with_cn": 59
+ },
+ "entries": [
+  [
+   "res#59715/whatIHaveToSay[0]",
+   "traveler",
+   "I remember one in particular. He was mean, and stuck up. My father disliked him very much. I don't remember what happened, but we don't see him around anymore. Named something like, Rez or Zand. Good riddance I say.",
+   "我尤其记得其中一个。他为人刻薄，又自命不凡。我父亲非常讨厌他。后来发生了什么我记不清了，反正再没见过他。好像叫雷兹还是赞德。要我说，走了正好。"
+  ],
+  [
+   "res#59818/whatIHaveToSay[0]",
+   "Emerisk",
+   "Now that is a name that brings joy to my heart. Good soil, clear skies and fine company. What more could a man want? Well, a wife would be nice.",
+   "这名字真是让我心里欢喜。好土壤、好天气、好伙伴。人还求什么？嗯……有个妻子就更好了。"
+  ],
+  [
+   "res#59840/whatIHaveToSay[0]",
+   "traitors",
+   "I heard the story long ago, but if I remember correctly, and I rarely do, they were servants of the dark lord. Even though he was killed long ago, they continued to serve him, and were found doing dark things in the forest.",
+   "我很久以前听过那个故事，若我记得没错——而我难得记得准——他们是黑暗领主，的仆从。尽管他早已被杀，他们仍继续效忠于他，后来被发现鬼鬼祟祟在森林里做着黑暗的勾当。"
+  ],
+  [
+   "res#59840/whatIHaveToSay[1]",
+   "traitors",
+   "What those dark things were I do not know, but they were all three executed, and buried together on a small mound in the graveyard. They should have stuck to farming. Much safer business.",
+   "那些黑暗勾当是什么，我不知道；总之三人全被处决，合葬在墓地里的一座小土丘上。他们本该老老实实务农的。那营生安全多了。"
+  ],
+  [
+   "res#59841/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Sounds like a place to store tools. Oh, it must be a shed! Glad I could help.",
+   "听起来是个放农具的地方。哦，那一定是间棚屋！很高兴能帮上忙。"
+  ],
+  [
+   "res#59843/whatIHaveToSay[0]",
+   "Bhulown",
+   "Is this some kind of... livestock?",
+   "这是某种……牲畜吗？"
+  ],
+  [
+   "res#59873/whatIHaveToSay[0]",
+   "caves",
+   "A traveller once told me that all of the caves are interconnected, part of some ancient city complex. I believe he was a miner or some such occupation. He went into the graveyard one day but never returned, at least not that I saw.",
+   "有位旅人，曾告诉我所有洞穴都是相连的，是某座古代城市的一部分。我想他是矿工之类的人。有一天他进了墓地，再也没回来——至少我没再见过。"
+  ],
+  [
+   "res#59896/whatIHaveToSay[0]",
+   "librarian",
+   "I still remember the tales of adventure she used to tell. And yet, I cannot recall her name anymore... if you want to know, check the tombstones in the graveyard. You will find her near the traitors.",
+   "我还记得她从前讲的那些冒险故事。可如今，连她的名字都想不起来了……若你想知道，就去墓地，查看那里的墓碑。你会在叛徒，旁边找到她。"
+  ],
+  [
+   "res#60005/whatIHaveToSay[0]",
+   "Shione",
+   "Music is a fine job, in its place. But farming is the basis for sustaining our community. If only music could feed us... I might have chosen another profession.",
+   "音乐是个好行当——在它该在的位置上。可支撑我们这个小社会的根基是农耕。要是音乐能填饱肚子……我或许会选别的职业。"
+  ],
+  [
+   "res#60024/whatIHaveToSay[0]",
+   "Agmarians",
+   "I don't know what you are talking about. It sounds like more children's tales to me. You would have gotten along well with the old librarian. She died a few cycles ago... cannot recall how many...",
+   "我不知道你在说什么。对我而言，这听着又像哄孩子的故事。你和从前那位图书管理员一定谈得来。她几个轮前去世了……记不清是几轮了……"
+  ],
+  [
+   "res#60093/whatIHaveToSay[0]",
+   "Airendal",
+   "What a beautiful sight you are. I did not know that fireflies could grow so big!",
+   "你可真是道美丽的风景。我还不知道萤火虫能长这么大！"
+  ],
+  [
+   "res#60121/whatIHaveToSay[0]",
+   "Merewen",
+   "Hello there! I have not seen such a beautiful girl in this town for many cycles. I am in need of a wife to help harvest the grain. If you have interest in such an arrangement be sure to ask my father first. He would be upset if we eloped.",
+   "你好啊！这镇上已经许多轮没见过这么漂亮的姑娘了。我正需要一位妻子来帮忙收割谷子。你要是有意，务必先问过我父亲。要是我们私奔，他会伤心的。"
+  ],
+  [
+   "res#60167/whatIHaveToSay[0]",
+   "book",
+   "I used to enjoy a good story from travelers in the village center. But I have not seen anyone able to read in a long time. My father says he once knew how, but if so then how come he cannot read now?",
+   "我从前爱在村中心听旅人讲故事。可我已经很久没见过识字的人了。我父亲说他曾认得字，可要真是那样，为什么他现在读不了呢？"
+  ],
+  [
+   "res#60167/whatIHaveToSay[1]",
+   "book",
+   "The last person I heard a rousing story from was the librarian.",
+   "我最近一次听人讲起动听的故事，那人就是图书管理员。"
+  ],
+  [
+   "res#60301/whatIHaveToSay[0]",
+   "fog",
+   "I see no problem with fog. It brings moisture, which helps the plants to grow. Sometimes we lose someone to it. Other times we gain someone from it.",
+   "我看迷雾没什么不好。它带来湿气，帮助植物生长。有时我们因它失去一个人；有时又因它多出一个人。"
+  ],
+  [
+   "res#60330/options[0].text",
+   "Farmer",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60330/options[1].text",
+   "Farmer",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60330/options[2].text",
+   "Farmer",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60330/options[3].text",
+   "Farmer",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60330/options[4].text",
+   "Farmer",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60330/options[5].text",
+   "Farmer",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60330/options[6].text",
+   "Farmer",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60330/options[7].text",
+   "Farmer",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60330/options[8].text",
+   "Farmer",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60330/options[9].text",
+   "Farmer",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60387/whatIHaveToSay[0]",
+   "job",
+   "I am a farmer. I love the earth and things in it, but sometimes I wish there were less rocks. Every year my plow runs into something and I need to replace a wheel. This year it was near the scarecrow... cannot remember which one though.",
+   "我是农夫。我爱土地和土里的东西，只是有时希望石头能少些。每年我的犁都撞上什么，得换车轮。今年撞上的地方在稻草人附近……哪一个就想不起来了。"
+  ],
+  [
+   "res#60387/whatIHaveToSay[1]",
+   "job",
+   "I cannot remember much at all these days. The mayor thinks the dark times have returned. Nothing but old wives' tales, if you ask me. Speaking of... I don't suppose you know any eligible women?",
+   "这些日子我什么都记不太清。镇长觉得黑暗的年代又回来了。要我说，都是些老妇人的瞎话。说到这个……你认不认识合适的姑娘？"
+  ],
+  [
+   "res#60516/whatIHaveToSay[0]",
+   "Gallitzin",
+   "You remind me of my youth. I was a strapping lad. Strong and brave. I sought adventure and glory. That is why I became a farmer. To cultivate life is the greatest adventure of all! If only I could remember how...",
+   "你让我想起自己的青春。我曾是个壮实的小伙子。强壮又勇敢。我追寻冒险，与荣耀。正因如此，我才当了农夫。耕耘生命，才是最伟大的冒险！可惜我记不起方法了……"
+  ],
+  [
+   "res#60544/whatIHaveToSay[0]",
+   "Lannon",
+   "It is a beautiful day, is it not? My father only sees the struggles, but I am an optimist. That is why I am certain this year's corn crop will be good.",
+   "今天天气真好，不是吗？我父亲只看见艰难，我却是个乐天派。所以我相信，今年的玉米收成一定好。"
+  ],
+  [
+   "res#60544/whatIHaveToSay[1]",
+   "Lannon",
+   "Granted, nothing has sprouted yet, but I buried the cobs deep and watered them well. Sometimes, though, I get a strange feeling that I'm doing something wrong...",
+   "诚然，什么都还没发芽，可我把玉米棒埋得很深，水也浇得足。只是有时候，我会有种奇怪的感觉，觉得自己做错了什么……"
+  ],
+  [
+   "res#60759/whatIHaveToSay[0]",
+   "Scaphin",
+   "Despite hearing many tales of strange things from my father, I do not recall ever hearing this word. Perhaps I only forgot.",
+   "尽管听父亲讲过许多奇闻异事，我不记得听过这个词。也许只是忘了。"
+  ],
+  [
+   "res#60773/whatIHaveToSay[0]",
+   "Arbo",
+   "What a beautiful pup you are! Good stock no doubt. How would you like to come work with me? I am in need of an animal to plow the fields and you look quite fit. No? Perhaps I should ask the cat...",
+   "多漂亮的狗崽子！血统肯定好。想不想跟我干活去？我正缺一头拉犁的牲口，你看着挺结实。不要？也许我该去问问那只猫……"
+  ],
+  [
+   "res#60796/whatIHaveToSay[0]",
+   "Rycard",
+   "You have rough hands. I see that you are no stranger to work. If you ever need a place to settle down and earn a living please consider my farm.\n\nAlso, if you know anything about planting crops... I am having trouble recalling things these days.",
+   "你双手粗糙，看得出你干惯了活。若哪天你想找个地方安顿下来谋生计，请考虑我的农场。\n\n另外，如果你懂种庄稼的话……这些日子我总想不起事情来。"
+  ],
+  [
+   "res#60838/whatIHaveToSay[0]",
+   "Renault",
+   "That insufferable baron? I'll talk no more of that family name!",
+   "那个讨厌的男爵？那个姓氏，我一个字都不想再多说！"
+  ],
+  [
+   "res#60874/whatIHaveToSay[0]",
+   "Goblins",
+   "My father sometimes talks of them. I assume they are stories he remembers from when he was a child and can no longer distinguish from reality.",
+   "我父亲有时会提起他们。我想，那是他小时候记住的故事，如今已分不清与现实的区别了。"
+  ],
+  [
+   "res#60899/options[0].text",
+   "Baron Vespes",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60899/options[10].text",
+   "Baron Vespes",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60899/options[11].text",
+   "Baron Vespes",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60899/options[12].text",
+   "Baron Vespes",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60899/options[13].text",
+   "Baron Vespes",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60899/options[14].text",
+   "Baron Vespes",
+   "traitors",
+   "叛徒"
+  ],
+  [
+   "res#60899/options[15].text",
+   "Baron Vespes",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60899/options[16].text",
+   "Baron Vespes",
+   "traveler",
+   "旅人"
+  ],
+  [
+   "res#60899/options[1].text",
+   "Baron Vespes",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60899/options[2].text",
+   "Baron Vespes",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60899/options[3].text",
+   "Baron Vespes",
+   "book",
+   "书"
+  ],
+  [
+   "res#60899/options[4].text",
+   "Baron Vespes",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60899/options[5].text",
+   "Baron Vespes",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60899/options[6].text",
+   "Baron Vespes",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60899/options[7].text",
+   "Baron Vespes",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60899/options[8].text",
+   "Baron Vespes",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60899/options[9].text",
+   "Baron Vespes",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60929/whatIHaveToSay[0]",
+   "Codex",
+   "I don't know him. But if he can pull a plow the job is his. My ox wandered off and has not returned.",
+   "我不认识他。不过只要他能拉犁，这活就是他的。我的公牛走丢了，再没回来。"
+  ],
+  [
+   "res#60930/whatIHaveToSay[0]",
+   "Dimas",
+   "Rocks you say? If I see one in the fields I pick it up... and throw it into a rubbish pile. Worthless they are. One cannot be fed with rocks, and plants will not grow well with them around.",
+   "你说石头？地里见一块我就捡起来……扔进垃圾堆。它们毫无用处。石头填不饱肚子，地里留着它们，庄稼也长不好。"
+  ],
+  [
+   "res#60933/whatIHaveToSay[0]",
+   "Laszra",
+   "A wizard? And what does that job entail? Plowing? Tilling? Don't tell me... churning? You probably want to speak to that milk maid. Well, her cows get their food from me so if you are looking for work where it all begins, I am always employing.",
+   "巫师？那活儿都干些什么？犁地？翻土？别告诉我……是搅黄油？你大概想找那个挤奶姑娘谈谈。不过，她那些牛的口粮是我供的——所以你要找「万业之源」的活计，我这儿永远缺人手。"
+  ],
+  [
+   "res#60960/whatIHaveToSay[0]",
+   "dark lord",
+   "Not many tell the story anymore, but I remember. He was killed by a valiant hero who sacrificed his own life to end that reign of evil. I am not sure whether I believe in such stories.",
+   "如今没多少人再讲那个故事了，但我记得。他被一位英勇的英雄所杀——那英雄为终结邪恶的统治，牺牲了自己的性命。我不确定自己信不信这样的故事。"
+  ],
+  [
+   "res#60960/whatIHaveToSay[1]",
+   "dark lord",
+   "Perhaps the dark lord never existed in the first place. It sounds like a very convenient way to avoid personal responsibility. In either case, that is ancient history now.",
+   "也许黑暗领主根本就不存在。这听着像是一种极方便的推脱责任的说法。无论如何，那都已是远古的旧事了。"
+  ],
+  [
+   "res#60960/whatIHaveToSay[2]",
+   "dark lord",
+   "Speaking of responsibility, there is always a job waiting in the fields, if you need one.",
+   "说起责任，若你需要活干，田里总有活等着。"
+  ],
+  [
+   "res#60986/whatIHaveToSay[0]",
+   "graveyard",
+   "I don't see why we waste such fertile land. The caves used to hold the dead in ages past. Why not now? Either way you'll need a key to get in. The mayor had it locked for some reason.",
+   "我真不明白，我们为何要浪费这么肥沃的土地。远古时，是洞穴，收容死者。如今为何不呢？不管怎样，你得有钥匙才进得去。镇长不知为何把它锁上了。"
+  ]
+ ]
+}

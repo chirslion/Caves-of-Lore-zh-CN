@@ -1,0 +1,27 @@
+{
+ "meta": {
+  "kind": "对话/ArcaneLead_SPI",
+  "count": 3,
+  "with_cn": 3
+ },
+ "entries": [
+  [
+   "sa1#38/options[0].text",
+   "Choices",
+   "Reach out your hand and touch the obelisk.",
+   "伸出手，触碰方尖碑。"
+  ],
+  [
+   "sa1#38/options[1].text",
+   "Choices",
+   "Withdraw from the edge.",
+   "从边沿退开。"
+  ],
+  [
+   "sa1#38/whatIHaveToSay[0]",
+   "Choices",
+   "Before you, an obelisk hangs above the depths in a stream of energy.",
+   "在你面前，一座方尖碑悬于深渊之上，笼罩在能量洪流中。"
+  ]
+ ]
+}

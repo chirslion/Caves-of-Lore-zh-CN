@@ -1,0 +1,21 @@
+fonts/ —— 所用字体与授权
+================================================
+
+本工程字体：
+  融合像素字体12px_zh_hans.ttf   12px 简体中文像素字体（Fusion Pixel Font）
+  融合像素字体_OFL授权.txt        SIL Open Font License 1.1 授权原文
+
+  字体名：融合像素字体（Fusion Pixel Font）
+  作者：TakWolf（https://takwolf.com）
+  来源：https://github.com/TakWolf/fusion-pixel-font
+  许可证：SIL Open Font License 1.1
+
+用途：
+  · tools/font_tool.py 按需裁剪字形子集，并按游戏原字体的 '0' 基准
+    （高度 + 底部基线）合并进游戏自带字体——**不新增字体文件**；
+  · 像素按钮贴图重绘（tools/b7_fix.py）同样使用本字体原生 12px 渲染。
+
+注意：
+  · 字体原件与授权随工程仓库提供（OFL 允许再分发）；
+  · 玩家包里只有合并后的游戏字体，不含本 TTF 原件；
+  · 更换字体时必须同步更新本说明与 ../README.md 的「版权与许可」。

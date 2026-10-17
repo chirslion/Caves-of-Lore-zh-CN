@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "kind": "对话/ButcherConversation",
+  "count": 66,
+  "with_cn": 66
+ },
+ "entries": [
+  [
+   "res#59755/whatIHaveToSay[0]",
+   "librarian",
+   "Well, we have a library. Or... we did. I guess we must have a librarian too! I can hardly remember the names of anyone in town anymore, save my closest friends. In the end, as long as they keep buying meat and providing animals I don't much care.",
+   "嗯，我们有一座图书馆。或者说……曾经有。那么我们大概也该有位图书管理员！如今镇上的人名我几乎都记不住了，除了最亲近的朋友。说到底，只要他们一直买肉、一直送牲口来，我也不太在意。"
+  ],
+  [
+   "res#59766/whatIHaveToSay[0]",
+   "graveyard",
+   "We all go there eventually, but I'll wait till my time comes rather than visit those recently departed, thank you very much. There are evil things lurking there, I swear it. I once saw the ground itself rise up, graves and all resting upon the back of some monstrous creature.",
+   "我们迟早都会去那里，不过我会等到时候到来，而不是去拜访刚走的人，多谢关心。那地方潜伏着邪物，我发誓。我亲眼见过大地整个隆起——坟冢连着一切，趴在一头巨兽的背上。"
+  ],
+  [
+   "res#59766/whatIHaveToSay[1]",
+   "graveyard",
+   "Nobody believes such things, of course. I should probably have kept it to myself.",
+   "当然，没人会信这种东西。我大概本该把它烂在肚子里。"
+  ],
+  [
+   "res#59794/whatIHaveToSay[0]",
+   "Airendal",
+   "I... ugh... do you even eat meat? Nevermind. I don't want to know.",
+   "我……呃……你到底吃不吃肉？算了。我不想知道了。"
+  ],
+  [
+   "res#59812/whatIHaveToSay[0]",
+   "Emerisk",
+   "My family has lived here for... well... a long time. I think my family might have been important way back, but who knows? Nobody remembers much about the past.",
+   "我的家人，在这里住了……嗯……很久了。我想我的家族从前也许挺显赫，可谁知道呢？过去的事，没人记得多少了。"
+  ],
+  [
+   "res#59867/whatIHaveToSay[0]",
+   "caves",
+   "I have been wondering what cave rat tastes like. Meat is meat, and any taste can be acquired, but I'm afraid there just isn't the clientele for such things.",
+   "我一直在琢磨洞鼠是什么味道。肉就是肉，什么口味都能吃惯，只怕这种货色没客人买账。"
+  ],
+  [
+   "res#59867/whatIHaveToSay[1]",
+   "caves",
+   "Even so, I'd be willing to buy rat tails off of you. No particular reason...",
+   "即便如此，你手里的鼠尾我倒愿意收购。没什么特别的理由……"
+  ],
+  [
+   "res#59910/whatIHaveToSay[0]",
+   "recievedItem",
+   "If you need any more meat, you'll have to buy it. Not you, of course...  being just a dog and all. I mean your friend.",
+   "要是你还想要肉，就得花钱买了。当然不是说你……你不过是条狗。我是说你的朋友。"
+  ],
+  [
+   "res#59916/whatIHaveToSay[0]",
+   "book",
+   "I once read a book of recipes. Imagine that, not having to remember everythi... what was I saying? Oh, yes. It is difficult to remember them all. I'm sure I have forgotten some good ones in my old age.",
+   "我曾读过一本食谱。想想看，居然不用记住所有东……我刚说到哪儿了？哦，对。要把它们全记住太难了。上了年纪，我肯定把一些好方子给忘了。"
+  ],
+  [
+   "res#59932/whatIHaveToSay[0]",
+   "Rycard",
+   "Strong... quick... but need meat on your bones. I recommend a full rack of ribs a day.",
+   "强壮……敏捷……可你骨头上得挂点肉。我建议你每天来一整扇肋排。"
+  ],
+  [
+   "res#59975/whatIHaveToSay[0]",
+   "corundum",
+   "Hmmmm, no.",
+   "嗯——不。"
+  ],
+  [
+   "res#60013/whatIHaveToSay[0]",
+   "Laszra",
+   "You are far too lean, like the local deer. You need to fatten up!",
+   "你太瘦了，跟本地的鹿似的。你得多长点肉！"
+  ],
+  [
+   "res#60018/whatIHaveToSay[0]",
+   "Agmarians",
+   "I think I heard of them, once. Voracious meat eaters or something like that. They are probably just legends of course.",
+   "我好像听说过他们，就一次。像是些贪婪的食肉者之类的。当然，多半只是传说罢了。"
+  ],
+  [
+   "res#60055/whatIHaveToSay[0]",
+   "family",
+   "That's what matters in this world. I can hardly remember mine anymore though... There used to be a book of family histories in the library. Hah! What am I saying? Acting as if I can read... or books are real.",
+   "在这世上，这才是最重要的。可我连自己的家人都快记不住了……图书馆里从前有一本家族史。哈！我在说什么呢？好像我认字似的……又好像书是真的一样。"
+  ],
+  [
+   "res#60055/whatIHaveToSay[1]",
+   "family",
+   "In the end, family is who you stick close to, whether you remember their names or not.",
+   "说到底，家人就是你紧紧守在一起的那些人，不管你记不记得他们的名字。"
+  ],
+  [
+   "res#60069/whatIHaveToSay[0]",
+   "Goblins",
+   "You can find them out west. Cantankerous creatures... always complicating the hunts from what I hear. Stay on the paths and you'll be safe. They hate to cross paths. I don't know why but it may keep you safe.",
+   "你可以在西边找到它们。些坏脾气的家伙……听说总给狩猎添乱。待在路上，你就安全。它们不愿与人碰面。我不知道为什么，但这或许能保你平安。"
+  ],
+  [
+   "res#60115/whatIHaveToSay[0]",
+   "Merewen",
+   "You are a tough lass. I can tell. But have you considered gaining weight? I have products that can help.",
+   "你是个结实的姑娘，我看得出来。不过，你考虑过长点肉吗？我这儿有货能帮上忙。"
+  ],
+  [
+   "res#60154/whatIHaveToSay[0]",
+   "blue light",
+   "There's nothing but fireflies around here. Beautiful creatures. But blue? I don't think so.",
+   "这一带只有萤火虫。美丽的生灵。但蓝色的？我看没有。"
+  ],
+  [
+   "res#60191/whatIHaveToSay[0]",
+   "Dimas",
+   "There is a gleam in your eye that I know well.",
+   "你眼里的那道光，我再熟悉不过。"
+  ],
+  [
+   "res#60295/whatIHaveToSay[0]",
+   "fog",
+   "Mighty unfortunate if you ask me. Hardwin has had mixed results when hunting on the edge of it, when he goes at all. Nowadays I rely mainly on our livestock for meat.",
+   "要我说，真是太不巧了。哈德温在迷雾边上打猎时好时坏——还得看他去不去。如今我的肉主要靠自家牲口供应。"
+  ],
+  [
+   "res#60295/whatIHaveToSay[1]",
+   "fog",
+   "Oh, what I wouldn't give to taste some of that wild boar once more.",
+   "啊，若能让我再尝一口那野猪，我什么都愿意给。"
+  ],
+  [
+   "res#60324/options[0].text",
+   "Butcher ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60324/options[1].text",
+   "Butcher ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60324/options[2].text",
+   "Butcher ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60324/options[3].text",
+   "Butcher ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60324/options[4].text",
+   "Butcher ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60324/options[5].text",
+   "Butcher ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60324/options[6].text",
+   "Butcher ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60324/options[7].text",
+   "Butcher ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60324/options[8].text",
+   "Butcher ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60324/options[9].text",
+   "Butcher ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60381/whatIHaveToSay[0]",
+   "job",
+   "I provide meat to all the locals. And my best patron? Myself, of course. That's how you know it's good! Only the finest quality meats come out of my shop.",
+   "我给所有本地人供应肉。我最好的主顾是谁？当然是我自己。这才说明它有多好！只有最上等的肉才出得了我的铺子。"
+  ],
+  [
+   "res#60538/whatIHaveToSay[0]",
+   "Lannon",
+   "A fine looking youth you are. But you could use a few extra pounds. May I interest you in some lard?",
+   "多精神的小伙子。不过你身上还缺点斤两。想来点猪油吗？"
+  ],
+  [
+   "res#60627/whatIHaveToSay[0]",
+   "onQuest",
+   "The orchard is west of town. Be careful to stay on the path. Goblins and other creatures much more dangerous than wild boar lurk in those woods.",
+   "果园在镇子西边。千万待在路上。哥布林，还有其他比野猪危险得多的生物，潜伏在那片林子里。"
+  ],
+  [
+   "res#60653/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Another town maybe? Unlikely, since the mayor says this is the only one.",
+   "也许在别的镇子？不太可能——镇长说这是唯一的一个。"
+  ],
+  [
+   "res#60668/whatIHaveToSay[0]",
+   "silver",
+   "Of course I've heard of silver. But that is where my interest wanes. Iron is much better for butchering instruments. Even stone is better than silver for that!",
+   "银色我当然听过。可我的兴趣也就到此为止。做屠宰器具，铁要好得多。干这行，连石头都比银强！"
+  ],
+  [
+   "res#60696/whatIHaveToSay[0]",
+   "dark lord",
+   "Look, if he can make the wild boar even more monstrous and huge, that means more meat for me. Same with anything else. In Emerisk, we adapt. I have no fear of such things.",
+   "听着，要是他真能把野猪，变得更大更凶恶，那意味着更多的肉。别的也一样。在埃梅里斯克，我们自有适应之法。我才不怕这些东西。"
+  ],
+  [
+   "res#60709/whatIHaveToSay[0]",
+   "wild boar",
+   "Some of the best meat you will ever eat is from the wild boar west of town. They spend much of their time looting the orchard. If you would bring me some boar meat I will add it to my shop.",
+   "你吃到过的最好的肉里，就有镇西野猪的份。它们大半时间都在果园里打劫。若你能给我带些野猪肉来，我就把它添进铺子里。"
+  ],
+  [
+   "res#60722/whatIHaveToSay[0]",
+   "Shione",
+   "I will be honest. You need to eat at least one steak a day. It is only fitting for a young lady to keep up her strength.",
+   "我说句实话。你每天至少得吃一块牛排。年轻姑娘要保持体力，这才像话。"
+  ],
+  [
+   "res#60767/whatIHaveToSay[0]",
+   "Arbo",
+   "What a fine dog you are. Here, have this treat, on me.",
+   "多好的狗狗。来，这点吃的给你，我请客。"
+  ],
+  [
+   "res#60806/whatIHaveToSay[0]",
+   "Scaphin",
+   "That name sounds familiar.... but I don't know about them. I specialize more in cattle, wild game and anything that prevents a harvest of the two.",
+   "那名字听着耳熟……可我对他们不了解。我专营的是牛、野味，以及一切妨碍这两样收成的东西。"
+  ],
+  [
+   "res#60825/whatIHaveToSay[0]",
+   "Bhulown",
+   "Would you... like to purchase some meat?",
+   "你……想买点肉吗？"
+  ],
+  [
+   "res#60832/whatIHaveToSay[0]",
+   "Renault",
+   "Just another Emerisk family name. We have many here. I suppose we have a rich history, but I don't waste time on such things.",
+   "不过是埃梅里斯克又一个家族姓氏。我们这儿多的是。要说历史，我们大概也算渊源深厚，可我从不把时间浪费在这种事上。"
+  ],
+  [
+   "res#60885/whatIHaveToSay[0]",
+   "Codex",
+   "I had one once, yes. It was full of recipes, the likes of which you cannot imagine. It was glorious... but those days are gone... along with so much of my memory...",
+   "有过一本，是的。里面满是食谱，其精妙你想象不到。那真是辉煌……可那些日子已经远去了……连同我记忆中的许多东西……"
+  ],
+  [
+   "res#60893/options[0].text",
+   "Woodcutter ***",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60893/options[10].text",
+   "Woodcutter ***",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60893/options[11].text",
+   "Woodcutter ***",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60893/options[12].text",
+   "Woodcutter ***",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60893/options[13].text",
+   "Woodcutter ***",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60893/options[14].text",
+   "Woodcutter ***",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60893/options[15].text",
+   "Woodcutter ***",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60893/options[16].text",
+   "Woodcutter ***",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "res#60893/options[17].text",
+   "Woodcutter ***",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60893/options[18].text",
+   "Woodcutter ***",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60893/options[19].text",
+   "Woodcutter ***",
+   "family",
+   "家人"
+  ],
+  [
+   "res#60893/options[1].text",
+   "Woodcutter ***",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60893/options[2].text",
+   "Woodcutter ***",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60893/options[3].text",
+   "Woodcutter ***",
+   "book",
+   "书"
+  ],
+  [
+   "res#60893/options[4].text",
+   "Woodcutter ***",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60893/options[5].text",
+   "Woodcutter ***",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60893/options[6].text",
+   "Woodcutter ***",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60893/options[7].text",
+   "Woodcutter ***",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60893/options[8].text",
+   "Woodcutter ***",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60893/options[9].text",
+   "Woodcutter ***",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60923/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Now here is a man who has eaten well! Such muscle and tone! If you need to keep up your strength do not hesitate to buy some sausage or steak.",
+   "瞧这位，一看就是吃得好的汉子！好一副肌肉和身板！若要保持体力，别犹豫，来点香肠或牛排吧。"
+  ],
+  [
+   "res#60961/whatIHaveToSay[0]",
+   "completedQuest",
+   "What beautiful cuts of meat! Thank you. I have longed for this flavor for so long.",
+   "多漂亮的肉块！谢谢你。这个味道，我已渴望太久了。"
+  ]
+ ]
+}

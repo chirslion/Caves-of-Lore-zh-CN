@@ -1,0 +1,393 @@
+{
+ "meta": {
+  "kind": "对话/ArcheologistConversation",
+  "count": 64,
+  "with_cn": 64
+ },
+ "entries": [
+  [
+   "res#59736/whatIHaveToSay[0]",
+   "Gallitzin",
+   "The world is a dangerous place. I am glad to have allies such as you.",
+   "这世界很危险。我很庆幸有你这样的盟友。"
+  ],
+  [
+   "res#59763/whatIHaveToSay[0]",
+   "graveyard",
+   "As civilization built upwards towards the light of the sun, so did their graveyards. What lies on the surface is perhaps only a scratch upon the thousands of years of burial beneath.",
+   "文明向光明处层层筑高，墓园也随之层层堆叠。地表所见，或许只是数千年埋葬史的一道浅痕。"
+  ],
+  [
+   "res#59763/whatIHaveToSay[1]",
+   "graveyard",
+   "The caves are filled with dead, and this frequently attracts evil things. How I wish I could dig in the deeper areas, but to do so would mean certain death.",
+   "洞穴里满是亡者，从而常引来邪物。我多希望能往更深处发掘，可那等于送死。"
+  ],
+  [
+   "res#59809/whatIHaveToSay[0]",
+   "Emerisk",
+   "Above us lies Emerisk. It is a small collection of homes and farms. I imagine it was more than that before the calamity fell. Local culture is unlikely to thrive with the loss of memory. But it is still worth saving.",
+   "我们上方就是埃梅里斯克——一小片屋舍与农田。我想，大灾变之前它远不止如此。记忆流失之后，当地的文化怕是难以昌盛。但它依然值得拯救。"
+  ],
+  [
+   "res#59855/whatIHaveToSay[0]",
+   "dark lord",
+   "That sort of thing is very difficult to find archeological evidence for. Supernatural forces do not always leave traces the way we do.",
+   "那种东西极难找到考古学证据。超自然的力量并不总会像我们一样留下痕迹。"
+  ],
+  [
+   "res#59855/whatIHaveToSay[1]",
+   "dark lord",
+   "Don't get me wrong. I believe that he existed for a number of reasons, but proving it is really quite difficult.",
+   "别误会。出于种种理由，我相信他存在过——但要证明，实在困难。"
+  ],
+  [
+   "res#59865/whatIHaveToSay[0]",
+   "caves",
+   "The town above, Emerisk, sits upon a vast network of caves that go deeper than I have ever seen. Civilizations grew from below and built slowly up upon what came before them. It is truly astonishing.",
+   "上方的镇子埃梅里斯克，坐落在庞大到我从未见过的洞穴网络之上。文明自下方生长，又在前人的遗存之上缓缓垒起。实在令人惊叹。"
+  ],
+  [
+   "res#59865/whatIHaveToSay[1]",
+   "caves",
+   "There is hardly any place in these caverns that has not been home to mankind at some point. The very deepest parts are from ages beyond our reckoning.",
+   "这些洞里，几乎没有任何一处未曾有人在某个时期居住过。最深处则来自远超我们纪年的远古。"
+  ],
+  [
+   "res#59929/whatIHaveToSay[0]",
+   "Rycard",
+   "To think, you were just outside our door, yet unable to reach us.",
+   "想想看，你就在我们门外，却无法抵达这里。"
+  ],
+  [
+   "res#59972/whatIHaveToSay[0]",
+   "corundum",
+   "It does not sound familiar, but if it is a real thing it can likely be found here.",
+   "听着不耳熟，但若它真实存在，多半能在这里找到。"
+  ],
+  [
+   "res#59999/whatIHaveToSay[0]",
+   "Laszra",
+   "You live? It is good to see you again #. We must speak of the treasures I have found in your absence!",
+   "你还活着？再见到你真高兴，#。你不在的时候我发现了好些宝物，必须跟你说道说道！"
+  ],
+  [
+   "res#60015/whatIHaveToSay[0]",
+   "Agmarians",
+   "Better than Goblins. Long ago they all tread these roads, or so I was taught. It's odd. My memory is faint these days, but the things I learned in the old tongue I remember the most... I would prefer not to meet any.",
+   "总比哥布林强。很久以前，他们都走这些路——至少我被这样教导过。说来也怪：这些日子我的记忆很模糊，可当年用古语学到的东西却记得最牢……我还是不想遇见他们任何一个。"
+  ],
+  [
+   "res#60062/whatIHaveToSay[0]",
+   "keystone",
+   "The ancient people here etched many sacred markings into stone. Some contained power, while others did not. What you describe sounds so familiar...oh, yes! The room next to the Alchemist station has a large door with strange markings on the archway.",
+   "此地的古人把许多神圣的刻记凿进石头里。有些蕴含力量，有些则没有。你描述的东西听着真熟悉……哦，对了！炼金站隔壁的房间有一扇大门，拱门上刻着奇怪的符号。"
+  ],
+  [
+   "res#60066/whatIHaveToSay[0]",
+   "Goblins",
+   "Treat nothing as fantasy in these dark times. Our knowledge has been undone, and the wise have been made into fools. If stories of such things exist then they were written for a reason. Find the reason behind a story and you will find truth.",
+   "在这黑暗的年月里，别把任何东西当作痴人说梦。我们的知识尽被倾覆，智者沦为愚人。若真有关于这些东西的记述流传下来，那它必定自有缘由。找到故事背后的缘由，你就能找到真相。"
+  ],
+  [
+   "res#60111/whatIHaveToSay[0]",
+   "Merewen",
+   "You look familiar. I have a fair amount of my memories intact, but there are still many holes.",
+   "你看着眼熟。我的记忆还算保存了不少，但依然千疮百孔。"
+  ],
+  [
+   "res#60161/whatIHaveToSay[0]",
+   "book",
+   "We have a library here, in the north-west. There are many books, but some are falling apart, or were written in dead languages.",
+   "我们这儿有一座图书馆，在西北面。书很多，但有些已经散架，有些是用死语言写成的。"
+  ],
+  [
+   "res#60291/whatIHaveToSay[0]",
+   "fog",
+   "Naira is more of an expert on it, but we have all been into it. I do not think there is a single person who has not found themselves wandering through it at some point.",
+   "奈拉对迷霭懂得更多，不过我们人人都进去过。我想，没有人不曾在那迷雾里迷失过自己。"
+  ],
+  [
+   "res#60291/whatIHaveToSay[1]",
+   "fog",
+   "I am glad it does not reach us here. This place is our last chance to survive. I wonder what is happening in other parts of the world.",
+   "幸好迷雾到不了这里。这地方是我们活下去的最后指望。不知道外面其他地方正发生着什么。"
+  ],
+  [
+   "res#60320/options[0].text",
+   "Archeologist ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60320/options[1].text",
+   "Archeologist ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60320/options[2].text",
+   "Archeologist ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60320/options[3].text",
+   "Archeologist ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60320/options[4].text",
+   "Archeologist ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60320/options[5].text",
+   "Archeologist ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60320/options[6].text",
+   "Archeologist ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60320/options[7].text",
+   "Archeologist ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60320/options[8].text",
+   "Archeologist ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60320/options[9].text",
+   "Archeologist ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60377/whatIHaveToSay[0]",
+   "job",
+   "I was an archeologist before the calamity, and I continue that work here. I hope that one day I might unearth something to help us in this struggle.",
+   "大灾变之前我是考古学家，在这里我继续着这门行当。但愿有一天，我能挖出些什么，帮上这场斗争。"
+  ],
+  [
+   "res#60377/whatIHaveToSay[1]",
+   "job",
+   "It is not uncommon to find things that were discarded in the past. Perhaps what was of little value then could be of great help to us.",
+   "挖到昔日被丢弃的东西并不稀奇。也许当年不值一提的物件，如今却能帮上大忙。"
+  ],
+  [
+   "res#60518/whatIHaveToSay[0]",
+   "Dimas",
+   "I can tell a man who digs for a living. There is a look to his face that is unmistakable. I think it is the continual expectation of finding something special, if only you can dig one more time.",
+   "我一眼就能认出以此为生的人。那种神情错不了——永远怀着「再挖一铲就能挖到宝」的期盼。"
+  ],
+  [
+   "res#60534/whatIHaveToSay[0]",
+   "Lannon",
+   "It is good to see new faces here. It has been many cycles since anyone new arrived.",
+   "很高兴在这里见到新面孔。已经许多轮没有新客人来了。"
+  ],
+  [
+   "res#60577/whatIHaveToSay[0]",
+   "treasure",
+   "I find many treasures in my digging. This place was once full of life and commerce. If I find anything interesting, I will stash it in one of the chests nearby. You are welcome to whatever I find.",
+   "挖掘时我找到过不少珍宝。这地方也曾人烟阜盛、市易兴旺。若我找到有趣的东西，就存放在附近的箱子里。找到什么，你尽管取用。"
+  ],
+  [
+   "res#60581/whatIHaveToSay[0]",
+   "librarian",
+   "Can it be that there is someone who knows more than us? I would welcome such a change. There is a library down here. Perhaps there will be something there that can help you.",
+   "难道真有比我们懂得更多的人？我倒欢迎这样的变化。这下面有一座图书馆，也许那里有能帮上你的东西。"
+  ],
+  [
+   "res#60610/whatIHaveToSay[0]",
+   "Bhulown",
+   "What manner of creature are you? Are you new to mankind, or have I only forgotten?",
+   "你是什么生物？是刚出现在人类世界，还是只是我忘了你？"
+  ],
+  [
+   "res#60630/whatIHaveToSay[0]",
+   "Codex",
+   "The language in the Codex is beyond my understanding. I have researched many languages, and yet it remains a mystery to me. How you are able to read any of it is truly a miracle. Perhaps you were chosen.",
+   "典籍里的语言超出我的理解。我研究过许多语言，它对我依旧是个谜。你居然能读懂其中一些，真是奇迹。也许，你是被选中的。"
+  ],
+  [
+   "res#60665/whatIHaveToSay[0]",
+   "silver",
+   "These caves are full of it, but I am not an expert in metals. Occasionally I will find something made from it. I give some of the artifacts I find to others down here, but they become lost again when those people venture out of the Shelter and do not return.",
+   "这些洞穴，遍地都是它；但我算不上金属的行家。偶尔我会挖到用它制成的器物。找到的一些古器，我会分给下面的其他人；可等他们出了庇护所一去不回，这些东西又散失了。"
+  ],
+  [
+   "res#60733/whatIHaveToSay[0]",
+   "Airendal",
+   "When we first arrived, we were in contact with your people. However, I cannot remember why.",
+   "我们初来此地时，曾与你的族人有过来往。可我记不起缘由了。"
+  ],
+  [
+   "res#60763/whatIHaveToSay[0]",
+   "Arbo",
+   "How delightful! I have not seen a dog in a long time.",
+   "太可爱了！我很久没见过狗了。"
+  ],
+  [
+   "res#60803/whatIHaveToSay[0]",
+   "Scaphin",
+   "It is strange that you say that name. I have seen it on artifacts discovered here in the Shelter. All I have are clues. I would certainly like to know more.",
+   "你说出那个名字，真让我意外。我在庇护所出土的古器上见过它。手头只有些线索，我当然想了解更多。"
+  ],
+  [
+   "res#60829/whatIHaveToSay[0]",
+   "Renault",
+   "You speak of the man who made this place perhaps? I would like to know more about this Renault. Unfortunately I am not from Emerisk and did not have any knowledge of him before coming here.",
+   "你说的大概是建造此地的人？我很想多了解这位雷诺。可惜我并非来自埃梅里斯克，来此之前对他一无所知。"
+  ],
+  [
+   "res#60889/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60889/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60889/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60889/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60889/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60889/options[14].text",
+   "Isobel Warde",
+   "treasure",
+   "宝藏"
+  ],
+  [
+   "res#60889/options[15].text",
+   "Isobel Warde",
+   "energy",
+   "能量"
+  ],
+  [
+   "res#60889/options[16].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60889/options[17].text",
+   "Isobel Warde",
+   "keystone",
+   "拱心石"
+  ],
+  [
+   "res#60889/options[18].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60889/options[19].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60889/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60889/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60889/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60889/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60889/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60889/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60889/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60889/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60889/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60946/whatIHaveToSay[0]",
+   "Archaven",
+   "We cannot decipher the true meaning of the name. As a student of history, I have learned that names are always important. Perhaps we will eventually find out what it means.",
+   "我们无法破解这个名字的真意。作为研习历史的人，我深知名字总是至关重要。也许有朝一日，我们会查明它的含义。"
+  ],
+  [
+   "res#60953/whatIHaveToSay[0]",
+   "energy",
+   "I have not studied it, but we seem safe from it here. If the obelisk were not there, what would happen? Some of it escapes to the surface, no doubt. I do not imagine it was meant for good.",
+   "我没有研究过它，但我们在这里似乎不受其害。若没有那座方尖碑，会发生什么？毫无疑问，有一部分会逸散到地表。我不认为它是什么良善之物。"
+  ],
+  [
+   "res#60988/whatIHaveToSay[0]",
+   "Shione",
+   "Music is something we have had little of down here. I tried to learn, but my talents lie elsewhere I am afraid.",
+   "在这下面，我们很少接触音乐。我试过学习，可惜天赋不在此处。"
+  ]
+ ]
+}

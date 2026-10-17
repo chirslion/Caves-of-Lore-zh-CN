@@ -1,0 +1,447 @@
+{
+ "meta": {
+  "kind": "对话/EchoConversation",
+  "count": 73,
+  "with_cn": 73
+ },
+ "entries": [
+  [
+   "res#59706/whatIHaveToSay[0]",
+   "manatite",
+   "There is much of it here. I am unsure why, but it does not stretch the imagination to consider all magical things connected somehow.",
+   "这里到处都是它。我不知为何，但要说一切魔法之物彼此相连，倒也不难想象。"
+  ],
+  [
+   "res#59726/whatIHaveToSay[0]",
+   "Laszra",
+   "My old friend. Or... Kazimar's old friend. I am unsure which.",
+   "我的老朋友。或者……是卡齐玛尔的老朋友。我也说不清是哪个。"
+  ],
+  [
+   "res#59737/whatIHaveToSay[0]",
+   "Gallitzin",
+   "As you once were, I forever am. Lost.",
+   "你昔日的模样，我永远如此。迷失。"
+  ],
+  [
+   "res#59768/whatIHaveToSay[0]",
+   "graveyard",
+   "This place is like a graveyard for things that go missing in other worlds.",
+   "这地方就像一座墓地，收留着在其他世界失踪的东西。"
+  ],
+  [
+   "res#59814/whatIHaveToSay[0]",
+   "Emerisk",
+   "Part of me yearns to be in a normal place, but that part of me is fading. As an echo, I am becoming something else. But what?",
+   "我的一部分渴望身处正常的地方，可那一部分正在消逝。作为一道回响，我正在变成别的东西。可究竟是什么呢？"
+  ],
+  [
+   "res#59853/whatIHaveToSay[0]",
+   "sanctum",
+   "Kazimar held many of his studies in this realm, once he found it. He abandoned it when things became too dangerous. Perhaps, just after Baumonus took notice of him.",
+   "卡齐玛尔找到这片领域后，许多研究都在这里进行。危险逼近时，他弃之而去。也许就在鲍莫努斯注意到他之后。"
+  ],
+  [
+   "res#59853/whatIHaveToSay[1]",
+   "sanctum",
+   "His sanctum is north of here... if there even is a north in this place. It is sealed, and it cannot be opened without three unique orbs. They are guarded behind portals connected to this piece of rock.",
+   "他的圣所在北边……如果这地方也有北的话。它被封住了，没有三颗独一无二的宝珠就无法开启。宝珠藏在与这片岩地相连的传送门之后。"
+  ],
+  [
+   "res#59853/whatIHaveToSay[2]",
+   "sanctum",
+   "Strange though it may be, the moons of Solmaria can still be seen from here. Each of the portals will open when the corresponding moon is above us.",
+   "说来奇怪，从这里仍能望见索尔玛利亚的月亮。当对应的月亮升到我们头顶时，每一道传送门都会开启。"
+  ],
+  [
+   "res#59853/whatIHaveToSay[3]",
+   "sanctum",
+   "Each portal leads to a piece of Solmaria, or perhaps a reflection of those places. It is hard to say here. If you can retrieve the orbs you should be able to enter Kazimar's sanctum and find what you seek.",
+   "每道传送门都通向索尔玛利亚的一隅，或者说是那些地方的倒影。在这里很难说清。若你能取回宝珠，应当就能进入卡齐玛尔的圣所，找到你要找的东西。"
+  ],
+  [
+   "res#59869/whatIHaveToSay[0]",
+   "caves",
+   "They can be vast, but not like this place. This place grows, for it continually feeds on the things of other worlds.",
+   "洞穴可以很辽阔，但不像这个地方。这里在生长，因为它不断吞噬其他世界的东西。"
+  ],
+  [
+   "res#59899/whatIHaveToSay[0]",
+   "Orb Weaver",
+   "If you wish to enter Kazimar's Sanctum you will need to find the orbs.\n\nAsk me about the sanctum if you need more information.",
+   "若你想进入卡齐玛尔的圣所，就得先找到那些宝珠。\n\n若需要更多消息，尽管问我关于圣所。"
+  ],
+  [
+   "res#59927/whatIHaveToSay[0]",
+   "Bhulown",
+   "You may have travelled further than any of your kind by coming here.",
+   "你可能是你们一族中走得最远的人——因为你来到了这里。"
+  ],
+  [
+   "res#59934/whatIHaveToSay[0]",
+   "Rycard",
+   "You look like a man that can get things done. Perhaps... dark things.",
+   "你看着像个能办成事的人。也许……是黑暗的事。"
+  ],
+  [
+   "res#59976/whatIHaveToSay[0]",
+   "corundum",
+   "Ore is not my specialty. I cannot help you in this area.",
+   "矿石不是我的专长。这方面我帮不了你。"
+  ],
+  [
+   "res#59993/whatIHaveToSay[0]",
+   "echo",
+   "I am no longer Kazimar, but some fragment of his memories. When I came here to help Naira I encountered something from my past. It was waiting for me and attempted to trap me here.",
+   "我已不再是卡齐玛尔，只是他记忆的些许残片。当年我来此地帮助奈拉时，我遇上了过去。它就在那里等着我，想把我困在这里。"
+  ],
+  [
+   "res#59993/whatIHaveToSay[1]",
+   "echo",
+   "Kazimar had to abandon me here, a piece of himself, in order to escape. I believe that I am permanently disconnected from him now.",
+   "卡齐玛尔为了脱身，不得不把我——他自身的一片——抛弃在此。我相信，如今我已与他永久地断开了。"
+  ],
+  [
+   "res#60000/whatIHaveToSay[0]",
+   "Dimas",
+   "There are gems in this place that will stagger your very mind.",
+   "这地方有些宝石，会让你的心智为之震颤。"
+  ],
+  [
+   "res#60020/whatIHaveToSay[0]",
+   "Agmarians",
+   "I met one, here. A traveller. There are very few travellers in this place.",
+   "我在这里见过一个。一位旅人。这地方旅人极少。"
+  ],
+  [
+   "res#60065/whatIHaveToSay[0]",
+   "past",
+   "Kazimar was once a disciple of Wister. It was an order founded to protect arcane things from dangerous hands during the reign of the dark lord.",
+   "卡齐玛尔曾是威斯特的门徒。那教团创立的年代，天下正属于黑暗领主。它的宗旨，是保护奥术之物不落入危险之手。"
+  ],
+  [
+   "res#60065/whatIHaveToSay[1]",
+   "past",
+   "He sought dangerous secrets, and opened portals to places locked away from the world. In this place he established a sanctum. But there was a more dangerous place, and that is where he was seen by this creature.",
+   "他追寻危险的秘密，开启通往与世隔绝之地的传送门。在这地方，他建起了一座圣所。但还有一处更危险的地方——正是在那里，他被这个生物看见了。"
+  ],
+  [
+   "res#60065/whatIHaveToSay[2]",
+   "past",
+   "I suspect it was Baumonus, ruler of our world along the spirit Solmaria, before our world was named after her. If Baumonus was able to find Kazimar here, then his prison must be weakening. I pray that it was not Kazimar's unwitting folly that made it so.",
+   "我猜想那是鲍莫努斯——在世界以灵索尔玛利亚为名之前，他与她共同统治着我们的世界。若鲍莫努斯能在这里找到卡齐玛尔，那说明他的囚牢正在削弱。我祈祷，这并非卡齐玛尔无意间的愚行所致。"
+  ],
+  [
+   "res#60071/whatIHaveToSay[0]",
+   "Goblins",
+   "Desperate creatures they are. Whether in wickedness or greed it all depends. Not all are the same, but always desperate for something. Perhaps.... not so different from us.",
+   "他们是些走投无路的生物。出于邪恶还是贪婪，各凭情形。他们并非个个相同，却总在渴求着什么。也许……与我们并无太大不同。"
+  ],
+  [
+   "res#60117/whatIHaveToSay[0]",
+   "Merewen",
+   "I once worked with an enchantress who looked like you. It is you, isn't it?",
+   "我曾与一位附魔师共事，她和你长得一模一样。就是你，对吗？"
+  ],
+  [
+   "res#60151/whatIHaveToSay[0]",
+   "onQuest",
+   "As I said before, in order to enter Kazimar's Sanctum you must collect three orbs. This floating island connects to them if you can understand the moon gates. Only after finding the orbs can you pass the barrier into the sanctum.",
+   "正如我先前所说，要进入卡齐玛尔的圣所，你必须集齐三颗宝珠。若你能看懂月之门的奥妙，这座浮岛便与它们相连。唯有找到宝珠之后，你才能穿过屏障，进入圣所。"
+  ],
+  [
+   "res#60164/whatIHaveToSay[0]",
+   "book",
+   "There may be some from other worlds floating in this void. How fascinating...",
+   "也许有一些来自其他世界的书正漂浮在这片虚空里。多么迷人……"
+  ],
+  [
+   "res#60297/whatIHaveToSay[0]",
+   "fog",
+   "The fog is no more real than I am. Why do I have this puzzling perspective? Where did it come from? I feel as though I am connected to thoughts that are not my own.",
+   "迷雾并不比我更真实。我为何会有这种令人费解的视角？它从何而来？我觉得自己与不属于自己的思绪相连。"
+  ],
+  [
+   "res#60326/options[0].text",
+   "Enchanter ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60326/options[1].text",
+   "Enchanter ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60326/options[2].text",
+   "Enchanter ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60326/options[3].text",
+   "Enchanter ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60326/options[4].text",
+   "Enchanter ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60326/options[5].text",
+   "Enchanter ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60326/options[6].text",
+   "Enchanter ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60326/options[7].text",
+   "Enchanter ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60326/options[8].text",
+   "Enchanter ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60326/options[9].text",
+   "Enchanter ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60383/whatIHaveToSay[0]",
+   "job",
+   "I am an echo of Kazimar. Even after you broke his curse, I remain. What does this mean?",
+   "我是卡齐玛尔的一道回响。即便你破除了他的诅咒，我依然留存。这意味着什么？"
+  ],
+  [
+   "res#60530/whatIHaveToSay[0]",
+   "dark lord",
+   "His name was Azros, and he was only one of many spirits given dominion over various worlds. All were created to do good, but greed and other evil desires overtook some of them. It is all detailed in a book in the Emerisk library.",
+   "他名叫阿兹罗斯，只是众多被授予世界统治权的灵之一。所有灵被造出来都是为了行善，可贪婪与其他邪恶的欲望攫住了其中一些。这一切都记载在埃梅里斯克，那里的图书馆有一本书。"
+  ],
+  [
+   "res#60540/whatIHaveToSay[0]",
+   "Lannon",
+   "Welcome traveller. This is... my home, I suppose.",
+   "欢迎，旅人。这里……算我的家吧。"
+  ],
+  [
+   "res#60582/whatIHaveToSay[0]",
+   "librarian",
+   "Naira? Yes, I remember her fondly, though she may scarcely remember herself.",
+   "奈拉？是的，我怀念她，尽管她也许连自己都记不清了。"
+  ],
+  [
+   "res#60605/whatIHaveToSay[0]",
+   "completedQuest",
+   "Excellent job! I only wish that there was some way to free me when you are done. Perhaps in the future we will find a way.",
+   "干得漂亮！我只希望，等你办完事后，能有办法让我解脱。也许将来我们会找到办法。"
+  ],
+  [
+   "res#60614/whatIHaveToSay[0]",
+   "Codex",
+   "Its origins remain yet a mystery. This place is full of mystery, so I suppose it is welcome here.",
+   "它的来历仍是个谜。这地方处处是谜，我想它在这里倒也自在。"
+  ],
+  [
+   "res#60616/whatIHaveToSay[0]",
+   "dimension",
+   "It is here that Kazimar helped Naira hide her memories. It cost him dearly. Something here saw him, and trapped him. He was only able to escape by leaving this echo; me.",
+   "正是在这里，卡齐玛尔帮助奈拉藏起了她的记忆。他为此付出了沉重代价。这里有东西看见了他，将他困住。他只有留下这道回响，也就是我，才得以逃脱。"
+  ],
+  [
+   "res#60669/whatIHaveToSay[0]",
+   "silver",
+   "It comes from Miala so they say. Since this place is a passage between worlds, perhaps creatures affected by it are also from Miala.",
+   "据说它来自米亚拉。既然这地方是世界之间的通道，也许受它影响的生物也来自米亚拉。"
+  ],
+  [
+   "res#60734/whatIHaveToSay[0]",
+   "Airendal",
+   "An arcane being! There are many of those here, in this place. Some have become corrupted. Others were always dangerous.",
+   "一个奥术生命！这地方有很多这类存在。有些已经腐化。另一些向来危险。"
+  ],
+  [
+   "res#60769/whatIHaveToSay[0]",
+   "Arbo",
+   "I sense intelligence from you. You have a mind. Do I have a mind?",
+   "我感知到你身上的智慧。你有心智。我有心智吗？"
+  ],
+  [
+   "res#60794/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Zakerunda, an ancestor of the Renault family, made it with the Codex somehow. We never figured out how. ",
+   "扎克伦达，雷诺家族的祖先，借助典籍不知怎地把它造了出来。我们始终没弄明白方法。 "
+  ],
+  [
+   "res#60807/whatIHaveToSay[0]",
+   "Scaphin",
+   "If there is more knowledge of them in this place, it has not yet come to me.",
+   "若这地方还有更多关于他们的知识，那还没有传到我这里。"
+  ],
+  [
+   "res#60834/whatIHaveToSay[0]",
+   "Renault",
+   "He built great kingdoms and wonders with his followers. A noble man, they say.",
+   "他与追随者建起了伟大的王国与奇观。人们说，他是个高尚的人。"
+  ],
+  [
+   "res#60895/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60895/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60895/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60895/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60895/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60895/options[14].text",
+   "Isobel Warde",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60895/options[15].text",
+   "Isobel Warde",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60895/options[16].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60895/options[17].text",
+   "Isobel Warde",
+   "past",
+   "过去"
+  ],
+  [
+   "res#60895/options[18].text",
+   "Isobel Warde",
+   "echo",
+   "回响"
+  ],
+  [
+   "res#60895/options[19].text",
+   "Isobel Warde",
+   "sanctum",
+   "圣所"
+  ],
+  [
+   "res#60895/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60895/options[20].text",
+   "Isobel Warde",
+   "Orb Weaver",
+   "织球者"
+  ],
+  [
+   "res#60895/options[21].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60895/options[22].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60895/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60895/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60895/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60895/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60895/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60895/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60895/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60895/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60989/whatIHaveToSay[0]",
+   "Shione",
+   "There is a music in this place. A sound that reverberates in the air. Can you hear it?",
+   "这地方有一种音乐。一种在空气中回荡的声响。你听得见吗？"
+  ]
+ ]
+}

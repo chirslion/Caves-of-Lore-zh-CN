@@ -1,0 +1,3249 @@
+{
+ "meta": {
+  "kind": "数据/特质",
+  "count": 648,
+  "with_cn": 648
+ },
+ "entries": [
+  [
+   "lv0#28353/bodyTraits[10].displayName",
+   "Cannot Be Flanked",
+   "不会被夹击"
+  ],
+  [
+   "lv0#28353/bodyTraits[10].traitDetail",
+   "Amorphous creatures cannot be flanked since they have no defined sides that would make them vulnerable.",
+   "无定形生物没有明确的侧翼可言，因此不会被夹击。"
+  ],
+  [
+   "lv0#28353/bodyTraits[10].traitInfo",
+   "Cannot Be Flanked",
+   "不会被夹击"
+  ],
+  [
+   "lv0#28353/bodyTraits[11].displayName",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/bodyTraits[11].traitDetail",
+   "Amorphous creatures cannot be stunned.",
+   "无定形生物不会被眩晕。"
+  ],
+  [
+   "lv0#28353/bodyTraits[11].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/bodyTraits[12].displayName",
+   "Earthborn",
+   "土生"
+  ],
+  [
+   "lv0#28353/bodyTraits[12].traitDetail",
+   "Creatures made of Stone are immune to damage from Earth spells, abilities and weapons.",
+   "石制生物免疫土系法术、能力与武器造成的伤害。"
+  ],
+  [
+   "lv0#28353/bodyTraits[12].traitInfo",
+   "Immune To Earth Damage",
+   "免疫土伤害"
+  ],
+  [
+   "lv0#28353/bodyTraits[13].displayName",
+   "Bloodless",
+   "无血"
+  ],
+  [
+   "lv0#28353/bodyTraits[13].traitDetail",
+   "Creatures made of Stone are immune to damage from Poison spells, abilities and weapons.",
+   "石制生物免疫毒素法术、能力与武器造成的伤害。"
+  ],
+  [
+   "lv0#28353/bodyTraits[13].traitInfo",
+   "Immune To Poison Damage",
+   "免疫毒素伤害"
+  ],
+  [
+   "lv0#28353/bodyTraits[14].displayName",
+   "Immune To Alteration",
+   "免疫变化系"
+  ],
+  [
+   "lv0#28353/bodyTraits[14].traitDetail",
+   "Effects such as petrify and polymorph have no effect on Stone creatures.",
+   "石化、变形等效果对石制生物无效。"
+  ],
+  [
+   "lv0#28353/bodyTraits[14].traitInfo",
+   "Cannot be physically altered",
+   "形态无法被改变"
+  ],
+  [
+   "lv0#28353/bodyTraits[15].displayName",
+   "Weapon Breaker",
+   "破械者"
+  ],
+  [
+   "lv0#28353/bodyTraits[15].traitDetail",
+   "Creatures made of Stone are 75% resistant to Wood and Wood weapons.",
+   "石制生物对木头与木质武器有 75% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[15].traitInfo",
+   "Extremely Resistant to Wood",
+   "对木头极端抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[16].displayName",
+   "Resistant To Alteration",
+   "抗变化系"
+  ],
+  [
+   "lv0#28353/bodyTraits[16].traitDetail",
+   "Effects such as petrify and polymorph have 50% less effect on Earth creatures.",
+   "石化、变形等效果对土系生物的效果降低 50%。"
+  ],
+  [
+   "lv0#28353/bodyTraits[16].traitInfo",
+   "Very Resistant to being physically altered",
+   "对形态改变有很强抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[17].displayName",
+   "Dense Body",
+   "致密躯体"
+  ],
+  [
+   "lv0#28353/bodyTraits[17].traitDetail",
+   "Earth creatures are immune to stunning effects.",
+   "土系生物免疫眩晕效果。"
+  ],
+  [
+   "lv0#28353/bodyTraits[17].traitInfo",
+   "Cannot be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/bodyTraits[18].displayName",
+   "Resist Earth",
+   "抗土"
+  ],
+  [
+   "lv0#28353/bodyTraits[18].traitDetail",
+   "Earth creatures take 30% less Earth damage.",
+   "土系生物受到的土伤害降低 30%。"
+  ],
+  [
+   "lv0#28353/bodyTraits[18].traitInfo",
+   "Very Resistant to Earth damage",
+   "对土伤害有很强抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[19].displayName",
+   "Rigid Joints",
+   "僵硬关节"
+  ],
+  [
+   "lv0#28353/bodyTraits[19].traitDetail",
+   "Creatures made of Earth take 50% more damage from Ice spells, abilities and weapons.",
+   "土制生物受到的冰霜法术、能力与武器伤害提高 50%。"
+  ],
+  [
+   "lv0#28353/bodyTraits[19].traitInfo",
+   "Very Vulnerable To Ice Damage",
+   "对冰霜伤害极脆弱"
+  ],
+  [
+   "lv0#28353/bodyTraits[1].displayName",
+   "Intangible",
+   "无形"
+  ],
+  [
+   "lv0#28353/bodyTraits[1].traitDetail",
+   "Incorporeal entities are 90% resistant to Physical weapons.",
+   "虚体实体对物理武器有 90% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[1].traitInfo",
+   "Extremely Resistant to Physical Weapons",
+   "对物理武器极端抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[20].displayName",
+   "Mudbane",
+   "惧水"
+  ],
+  [
+   "lv0#28353/bodyTraits[20].traitDetail",
+   "Earthen creatures avoid getting wet.",
+   "土系生物不愿沾水。"
+  ],
+  [
+   "lv0#28353/bodyTraits[20].traitInfo",
+   "Avoids Water",
+   "避开水"
+  ],
+  [
+   "lv0#28353/bodyTraits[21].displayName",
+   "Melty",
+   "易融"
+  ],
+  [
+   "lv0#28353/bodyTraits[21].traitDetail",
+   "Ice creatures are 75% vulnerable to Fire damage and effects.",
+   "冰系生物对火焰伤害及效果有 75% 易伤。"
+  ],
+  [
+   "lv0#28353/bodyTraits[21].traitInfo",
+   "Very Vulnerable To Fire",
+   "对火焰极脆弱"
+  ],
+  [
+   "lv0#28353/bodyTraits[22].displayName",
+   "Frosty",
+   "冰霜之躯"
+  ],
+  [
+   "lv0#28353/bodyTraits[22].traitDetail",
+   "Ice creatures are 100% resistant to Ice damage and effects.",
+   "冰系生物对冰霜伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[22].traitInfo",
+   "Immune To Ice",
+   "免疫冰霜"
+  ],
+  [
+   "lv0#28353/bodyTraits[23].displayName",
+   "Flame Born",
+   "焰生"
+  ],
+  [
+   "lv0#28353/bodyTraits[23].traitDetail",
+   "Fire creatures are 100% resistant to Fire damage and effects.",
+   "火系生物对火焰伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[23].traitInfo",
+   "Immune To Fire",
+   "免疫火焰"
+  ],
+  [
+   "lv0#28353/bodyTraits[24].displayName",
+   "Untouchable",
+   "不可触及"
+  ],
+  [
+   "lv0#28353/bodyTraits[24].traitDetail",
+   "Lava creatures cannot be rooted.",
+   "熔岩生物不会被定身。"
+  ],
+  [
+   "lv0#28353/bodyTraits[24].traitInfo",
+   "Cannot be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/bodyTraits[25].displayName",
+   "Solid Core",
+   "坚核"
+  ],
+  [
+   "lv0#28353/bodyTraits[25].traitDetail",
+   "Lava creatures cannot be stunned.",
+   "熔岩生物不会被眩晕。"
+  ],
+  [
+   "lv0#28353/bodyTraits[25].traitInfo",
+   "Cannot be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/bodyTraits[26].displayName",
+   "Impact Absorbent",
+   "吸震"
+  ],
+  [
+   "lv0#28353/bodyTraits[26].traitDetail",
+   "Lava creatures are 95% resistant to Blunt damage.",
+   "熔岩生物对钝击伤害有 95% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[26].traitInfo",
+   "Extremely Resistant to Blunt Damage",
+   "对钝击伤害极端抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[27].displayName",
+   "Amorphous Flesh",
+   "无定形血肉"
+  ],
+  [
+   "lv0#28353/bodyTraits[27].traitDetail",
+   "Lava creatures are 95% resistant to Piercing damage.",
+   "熔岩生物对穿刺伤害有 95% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[27].traitInfo",
+   "Extremely Resistant to Piercing Damage",
+   "对穿刺伤害极端抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[28].displayName",
+   "Brittle When Cold",
+   "遇寒易碎"
+  ],
+  [
+   "lv0#28353/bodyTraits[28].traitDetail",
+   "Lava creatures are 95% vulnerable to Ice damage and effects.",
+   "熔岩生物对冰霜伤害及效果有 95% 易伤。"
+  ],
+  [
+   "lv0#28353/bodyTraits[28].traitInfo",
+   "Extremely Vulnerable to Ice",
+   "对冰霜极端易伤"
+  ],
+  [
+   "lv0#28353/bodyTraits[29].displayName",
+   "Flame Born",
+   "焰生"
+  ],
+  [
+   "lv0#28353/bodyTraits[29].traitDetail",
+   "Fire creatures are 100% resistant to Fire damage and effects.",
+   "火系生物对火焰伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[29].traitInfo",
+   "Immune To Fire",
+   "免疫火焰"
+  ],
+  [
+   "lv0#28353/bodyTraits[2].displayName",
+   "Immune To Alteration",
+   "免疫变化系"
+  ],
+  [
+   "lv0#28353/bodyTraits[2].traitDetail",
+   "Effects such as petrify and polymorph have no effect on Incorporeal creatures.",
+   "石化、变形等效果对虚体生物无效。"
+  ],
+  [
+   "lv0#28353/bodyTraits[2].traitInfo",
+   "Cannot be physically altered",
+   "形态无法被改变"
+  ],
+  [
+   "lv0#28353/bodyTraits[30].displayName",
+   "Fleshless",
+   "无肉"
+  ],
+  [
+   "lv0#28353/bodyTraits[30].traitDetail",
+   "Fire creatures are 100% resistant to Acid damage and effects.",
+   "火系生物对酸蚀伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[30].traitInfo",
+   "Immune To Acid",
+   "免疫酸蚀"
+  ],
+  [
+   "lv0#28353/bodyTraits[31].displayName",
+   "Bloodless",
+   "无血"
+  ],
+  [
+   "lv0#28353/bodyTraits[31].traitDetail",
+   "Fire creatures are 100% resistant to Poison damage and effects.",
+   "火系生物对毒素伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[31].traitInfo",
+   "Immune To Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/bodyTraits[32].displayName",
+   "Recursive Fuel",
+   "循环燃料"
+  ],
+  [
+   "lv0#28353/bodyTraits[32].traitDetail",
+   "Fire creatures are 100% vulnerable to Ice damage and effects.",
+   "火系生物对冰霜伤害及效果有 100% 易伤。"
+  ],
+  [
+   "lv0#28353/bodyTraits[32].traitInfo",
+   "Totally Vulnerable To Ice",
+   "对冰霜完全易伤"
+  ],
+  [
+   "lv0#28353/bodyTraits[33].displayName",
+   "Recursive Fuel",
+   "循环燃料"
+  ],
+  [
+   "lv0#28353/bodyTraits[33].traitDetail",
+   "Fire creatures are 100% vulnerable to Ice damage and effects.",
+   "火系生物对冰霜伤害及效果有 100% 易伤。"
+  ],
+  [
+   "lv0#28353/bodyTraits[33].traitInfo",
+   "Totally Vulnerable To Ice",
+   "对冰霜完全易伤"
+  ],
+  [
+   "lv0#28353/bodyTraits[34].displayName",
+   "Immaterial",
+   "非实体"
+  ],
+  [
+   "lv0#28353/bodyTraits[34].traitDetail",
+   "Fire creatures are 80% resistant to physical damage.",
+   "火系生物对物理伤害有 80% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[34].traitInfo",
+   "Highly Resistant to Physical Damage",
+   "对物理伤害高度抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[35].displayName",
+   "Flammable",
+   "易燃"
+  ],
+  [
+   "lv0#28353/bodyTraits[35].traitDetail",
+   "Wood creatures are 100% vulnerable to Fire damage and effects.",
+   "木系生物对火焰伤害及效果有 100% 易伤。"
+  ],
+  [
+   "lv0#28353/bodyTraits[35].traitInfo",
+   "Totally Vulnerable to Fire",
+   "对火焰完全易伤"
+  ],
+  [
+   "lv0#28353/bodyTraits[36].displayName",
+   "Layered Structure",
+   "层状结构"
+  ],
+  [
+   "lv0#28353/bodyTraits[36].traitDetail",
+   "Wood creatures are 95% resistant to Piercing damage.",
+   "木系生物对穿刺伤害有 95% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[36].traitInfo",
+   "Extremely Resistant to Piercing",
+   "对穿刺极端抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[37].displayName",
+   "Dense Body",
+   "致密躯体"
+  ],
+  [
+   "lv0#28353/bodyTraits[37].traitDetail",
+   "Wood creatures are 80% resistant to Blunt damage.",
+   "木系生物对钝击伤害有 80% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[37].traitInfo",
+   "Highly Resistant to Blunt",
+   "对钝击高度抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[3].displayName",
+   "Immune To Stun",
+   "免疫眩晕"
+  ],
+  [
+   "lv0#28353/bodyTraits[3].traitDetail",
+   "Incorporeal creatures cannot be Stunned.",
+   "虚体生物不会被眩晕。"
+  ],
+  [
+   "lv0#28353/bodyTraits[3].traitInfo",
+   "Cannot be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/bodyTraits[4].displayName",
+   "Ungraspable",
+   "不可攫"
+  ],
+  [
+   "lv0#28353/bodyTraits[4].traitDetail",
+   "Incorporeal creatures cannot be Rooted.",
+   "虚体生物不会被定身。"
+  ],
+  [
+   "lv0#28353/bodyTraits[4].traitInfo",
+   "Cannot be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/bodyTraits[5].displayName",
+   "Immune To Alteration",
+   "免疫变化系"
+  ],
+  [
+   "lv0#28353/bodyTraits[5].traitDetail",
+   "Effects such as petrify and polymorph have no effect on Void creatures.",
+   "石化、变形等效果对虚空生物无效。"
+  ],
+  [
+   "lv0#28353/bodyTraits[5].traitInfo",
+   "Cannot be physically altered",
+   "形态无法被改变"
+  ],
+  [
+   "lv0#28353/bodyTraits[6].displayName",
+   "Void Form",
+   "虚空之形"
+  ],
+  [
+   "lv0#28353/bodyTraits[6].traitDetail",
+   "Void creatures are 25% resistant to Physical Damage.",
+   "虚空生物对物理伤害有 25% 抗性。"
+  ],
+  [
+   "lv0#28353/bodyTraits[6].traitInfo",
+   "Resistant to Physical Damage",
+   "对物理伤害有抗性"
+  ],
+  [
+   "lv0#28353/bodyTraits[7].displayName",
+   "Immune To Status Effects",
+   "免疫状态效果"
+  ],
+  [
+   "lv0#28353/bodyTraits[7].traitDetail",
+   "Void creatures are immune to status effects such as: On Fire, Chilled, Frozen, Stunned, Rooted and Silenced",
+   "虚空生物免疫以下状态效果：着火、冰寒、冰封、眩晕、定身与沉默"
+  ],
+  [
+   "lv0#28353/bodyTraits[7].traitInfo",
+   "Immune to Status Effects",
+   "免疫状态效果"
+  ],
+  [
+   "lv0#28353/bodyTraits[9].displayName",
+   "Cannot Be Backstabbed",
+   "不会被背刺"
+  ],
+  [
+   "lv0#28353/bodyTraits[9].traitDetail",
+   "Amorphous creatures are immune to being stabbed in the back since they do have have a front or back.",
+   "无定形生物没有正面与背面之分，因此免疫背刺。"
+  ],
+  [
+   "lv0#28353/bodyTraits[9].traitInfo",
+   "Cannot Be Backstabbed",
+   "不会被背刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[0].displayName",
+   "Vulnerable To Flanking",
+   "惧怕夹击"
+  ],
+  [
+   "lv0#28353/speciesTraits[0].traitDetail",
+   "Giant Rats take double damage when flanked.",
+   "巨鼠被夹击时受到双倍伤害。"
+  ],
+  [
+   "lv0#28353/speciesTraits[0].traitInfo",
+   "Extra Vulnerable to Flanking",
+   "对夹击格外脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[100].displayName",
+   "Immune To Ice",
+   "免疫冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[100].traitDetail",
+   "Ruin Crawlers are Immune to Ice Damage and Effects.",
+   "废墟爬行者免疫冰霜伤害及效果。"
+  ],
+  [
+   "lv0#28353/speciesTraits[100].traitInfo",
+   "Immune to Ice",
+   "免疫冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[101].displayName",
+   "Vulnerable To Clubs",
+   "惧怕棍棒"
+  ],
+  [
+   "lv0#28353/speciesTraits[101].traitDetail",
+   "Ruin Crawlers take double damage from Clubs.",
+   "废墟爬行者受到棍棒的伤害翻倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[101].traitInfo",
+   "Totally Vulnerable to Clubs",
+   "对棍棒完全易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[102].displayName",
+   "Jumpy When Flanked",
+   "被夹击时躁动"
+  ],
+  [
+   "lv0#28353/speciesTraits[102].traitDetail",
+   "Ruin Crawlers gain 10 Dodge when they are Flanked.",
+   "废墟爬行者被夹击时获得 10 点闪避。"
+  ],
+  [
+   "lv0#28353/speciesTraits[102].traitInfo",
+   "Increased Dodge When Flanked",
+   "被夹击时闪避提高"
+  ],
+  [
+   "lv0#28353/speciesTraits[103].displayName",
+   "Early Vigor",
+   "先声夺势"
+  ],
+  [
+   "lv0#28353/speciesTraits[103].traitDetail",
+   "Ruin Crawlers gain 3 Movement Rate when at full health.",
+   "废墟爬行者在满生命时获得 3 点移动速度。"
+  ],
+  [
+   "lv0#28353/speciesTraits[103].traitInfo",
+   "Increased Movement Rate when at Full Health",
+   "满生命时移动速度提高"
+  ],
+  [
+   "lv0#28353/speciesTraits[104].displayName",
+   "Resist Knockback",
+   "抵抗击退"
+  ],
+  [
+   "lv0#28353/speciesTraits[104].traitDetail",
+   "Ratakast cannot be knocked back by weapons and abilities.",
+   "拉塔卡斯特不会被武器与能力击退。"
+  ],
+  [
+   "lv0#28353/speciesTraits[104].traitInfo",
+   "Cannot be knocked back",
+   "不会被击退"
+  ],
+  [
+   "lv0#28353/speciesTraits[105].displayName",
+   "Resist Knockback",
+   "抵抗击退"
+  ],
+  [
+   "lv0#28353/speciesTraits[105].traitDetail",
+   "Grave Elders cannot be knocked back by weapons and abilities.",
+   "墓中长者不会被武器与能力击退。"
+  ],
+  [
+   "lv0#28353/speciesTraits[105].traitInfo",
+   "Cannot be knocked back",
+   "不会被击退"
+  ],
+  [
+   "lv0#28353/speciesTraits[106].displayName",
+   "Cannot Be Silenced",
+   "不会被沉默"
+  ],
+  [
+   "lv0#28353/speciesTraits[106].traitDetail",
+   "Grave Elders cannot be silenced or diminished.",
+   "墓中长者不会被沉默或削弱。"
+  ],
+  [
+   "lv0#28353/speciesTraits[106].traitInfo",
+   "Cannot Be Silenced or Diminished",
+   "不会被沉默或削弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[107].displayName",
+   "Repulse",
+   "斥退"
+  ],
+  [
+   "lv0#28353/speciesTraits[107].traitDetail",
+   "When Grave Elders are damaged by Fire, knockback all surrounding entities.",
+   "墓中长者受到火焰伤害时，会击退周围所有实体。"
+  ],
+  [
+   "lv0#28353/speciesTraits[107].traitInfo",
+   "Knockback all surrounding entities when Fire damage is taken",
+   "受到火焰伤害时击退周围所有实体"
+  ],
+  [
+   "lv0#28353/speciesTraits[108].displayName",
+   "Acid Burst",
+   "酸爆"
+  ],
+  [
+   "lv0#28353/speciesTraits[108].traitDetail",
+   "When a Helioon dies, it explodes, dealing Acid damage to all surrounding entities.",
+   "赫利翁死亡时会爆炸，对周围所有实体造成酸蚀伤害。"
+  ],
+  [
+   "lv0#28353/speciesTraits[108].traitInfo",
+   "Explode upon Death",
+   "死亡时爆炸"
+  ],
+  [
+   "lv0#28353/speciesTraits[109].displayName",
+   "Acid Immunity",
+   "酸蚀免疫"
+  ],
+  [
+   "lv0#28353/speciesTraits[109].traitDetail",
+   "Helioons are immune to Acid damage.",
+   "赫利翁免疫酸蚀伤害。"
+  ],
+  [
+   "lv0#28353/speciesTraits[109].traitInfo",
+   "Immune to Acid",
+   "免疫酸蚀"
+  ],
+  [
+   "lv0#28353/speciesTraits[10].displayName",
+   "Slower In Daytime",
+   "白昼迟缓"
+  ],
+  [
+   "lv0#28353/speciesTraits[10].traitDetail",
+   "Slime Drops lose 35% of their Dodge ability during daytime hours. This is true even when underground.",
+   "史莱姆滴在白昼时段失去 35% 的闪避能力，身处地下时也一样。"
+  ],
+  [
+   "lv0#28353/speciesTraits[10].traitInfo",
+   "Dodge is Significantly Decreased During the Day",
+   "白昼时闪避显著降低"
+  ],
+  [
+   "lv0#28353/speciesTraits[110].displayName",
+   "Poison Immunity",
+   "毒素免疫"
+  ],
+  [
+   "lv0#28353/speciesTraits[110].traitDetail",
+   "Fetid Manshrooms are immune to Poison damage and effects.",
+   "腐臭人菇免疫毒素伤害及效果。"
+  ],
+  [
+   "lv0#28353/speciesTraits[110].traitInfo",
+   "Immune to Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/speciesTraits[111].displayName",
+   "Fragile Stem",
+   "脆弱菌柄"
+  ],
+  [
+   "lv0#28353/speciesTraits[111].traitDetail",
+   "Fetid Manshrooms are 80% vulnerable to Slashing Damage.",
+   "腐臭人菇对挥砍伤害有 80% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[111].traitInfo",
+   "Extremely Vulnerable To Slashing",
+   "对挥砍极端易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[112].displayName",
+   "Fragile Stem",
+   "脆弱菌柄"
+  ],
+  [
+   "lv0#28353/speciesTraits[112].traitDetail",
+   "Manshrooms Stalkers are 60% vulnerable to Slashing Damage.",
+   "人菇潜猎者对挥砍伤害有 60% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[112].traitInfo",
+   "Highly Vulnerable To Slashing",
+   "对挥砍高度易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[113].displayName",
+   "Poison Immunity",
+   "毒素免疫"
+  ],
+  [
+   "lv0#28353/speciesTraits[113].traitDetail",
+   "Manshroom Stalkers are immune to Poison damage and effects.",
+   "人菇潜猎者免疫毒素伤害及效果。"
+  ],
+  [
+   "lv0#28353/speciesTraits[113].traitInfo",
+   "Immune to Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/speciesTraits[114].displayName",
+   "Poison Immunity",
+   "毒素免疫"
+  ],
+  [
+   "lv0#28353/speciesTraits[114].traitDetail",
+   "Manshroom Lords are immune to Poison damage and effects.",
+   "人菇领主免疫毒素伤害及效果。"
+  ],
+  [
+   "lv0#28353/speciesTraits[114].traitInfo",
+   "Immune to Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/speciesTraits[115].displayName",
+   "Hollow Stem",
+   "中空菌柄"
+  ],
+  [
+   "lv0#28353/speciesTraits[115].traitDetail",
+   "Manshroom Lords take double damage from Slashing.",
+   "人菇领主受到挥砍的伤害翻倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[115].traitInfo",
+   "Totally Vulnerable To Slashing",
+   "对挥砍完全易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[116].displayName",
+   "Deep Roots",
+   "深根"
+  ],
+  [
+   "lv0#28353/speciesTraits[116].traitDetail",
+   "Manshroom Lords heal 15 Hit Points every turn when standing in water.",
+   "人菇领主站在水中时每回合治疗 15 点生命。"
+  ],
+  [
+   "lv0#28353/speciesTraits[116].traitInfo",
+   "Heal When Standing in Water",
+   "站在水中时获得治疗"
+  ],
+  [
+   "lv0#28353/speciesTraits[117].displayName",
+   "Vengeful",
+   "复仇"
+  ],
+  [
+   "lv0#28353/speciesTraits[117].traitDetail",
+   "When an Agroboar dies, its allies become enraged and gain 3 Strength.",
+   "怒猪死亡时，其盟友会陷入狂怒并获得 3 点力量。"
+  ],
+  [
+   "lv0#28353/speciesTraits[117].traitInfo",
+   "Enrages Allies on Death",
+   "死亡时激怒盟友"
+  ],
+  [
+   "lv0#28353/speciesTraits[118].displayName",
+   "Thick Coat",
+   "厚毛皮"
+  ],
+  [
+   "lv0#28353/speciesTraits[118].traitDetail",
+   "Agroboars are 25% resistant to Ice damage and effects.",
+   "怒猪对冰霜伤害及效果有 25% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[118].traitInfo",
+   "Resistant to Ice",
+   "对冰霜有抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[119].displayName",
+   "Ironwood",
+   "铁木"
+  ],
+  [
+   "lv0#28353/speciesTraits[119].traitDetail",
+   "Blightroot Guardian is 25% resistant to Physical Damage.",
+   "枯萎根守卫对物理伤害有 25% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[119].traitInfo",
+   "Resistant to Physical Damage",
+   "对物理伤害有抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[11].displayName",
+   "Water Chiller",
+   "水体冰寒"
+  ],
+  [
+   "lv0#28353/speciesTraits[11].traitDetail",
+   "Coldspores lose 2 Movement Rate if they start their turn in water.",
+   "寒孢若在水中开始其回合，则失去 2 点移动速度。"
+  ],
+  [
+   "lv0#28353/speciesTraits[11].traitInfo",
+   "Lose Movement When Starting Turn in Water",
+   "在水里开始回合时失去移动"
+  ],
+  [
+   "lv0#28353/speciesTraits[120].displayName",
+   "Ironwood",
+   "铁木"
+  ],
+  [
+   "lv0#28353/speciesTraits[120].traitDetail",
+   "Blightroot Guardian is 50% resistant to Earth Damage.",
+   "枯萎根守卫对土伤害有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[120].traitInfo",
+   "Very Resistant to Earth",
+   "对土有很强抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[121].displayName",
+   "Unstoppable",
+   "势不可挡"
+  ],
+  [
+   "lv0#28353/speciesTraits[121].traitDetail",
+   "Blightroot Guardian cannot be rooted by spells or effects.",
+   "枯萎根守卫不会被法术或效果定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[121].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[122].displayName",
+   "CannotBeStunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[122].traitDetail",
+   "Blightroot Guardian cannot be stunned.",
+   "枯萎根守卫不会被眩晕。"
+  ],
+  [
+   "lv0#28353/speciesTraits[122].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[123].displayName",
+   "Cannot Be Silenced",
+   "不会被沉默"
+  ],
+  [
+   "lv0#28353/speciesTraits[123].traitDetail",
+   "Blightroot Guardian cannot be silenced or diminished.",
+   "枯萎根守卫不会被沉默或削弱。"
+  ],
+  [
+   "lv0#28353/speciesTraits[123].traitInfo",
+   "Cannot Be Silenced or Diminished",
+   "不会被沉默或削弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[124].displayName",
+   "CannotBeStunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[124].traitDetail",
+   "Mycellibrant cannot be stunned.",
+   "菌辉体不会被眩晕。"
+  ],
+  [
+   "lv0#28353/speciesTraits[124].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[125].displayName",
+   "Vile Pores",
+   "秽孔"
+  ],
+  [
+   "lv0#28353/speciesTraits[125].traitDetail",
+   "Mycellibrant is 100% resistant to Poison damage and effects.",
+   "菌辉体对毒素伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[125].traitInfo",
+   "Immune to Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/speciesTraits[126].displayName",
+   "CannotBeStunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[126].traitDetail",
+   "Neladra cannot be stunned.",
+   "内拉德拉不会被眩晕。"
+  ],
+  [
+   "lv0#28353/speciesTraits[126].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[127].displayName",
+   "Resist Knockback",
+   "抵抗击退"
+  ],
+  [
+   "lv0#28353/speciesTraits[127].traitDetail",
+   "Neladra cannot be knocked back by attacks or abilities.",
+   "内拉德拉不会被攻击或能力击退。"
+  ],
+  [
+   "lv0#28353/speciesTraits[127].traitInfo",
+   "Cannot Be Knocked Back",
+   "不会被击退"
+  ],
+  [
+   "lv0#28353/speciesTraits[128].displayName",
+   "Fearborn",
+   "恐惧所生"
+  ],
+  [
+   "lv0#28353/speciesTraits[128].traitDetail",
+   "Neladra is immune to Fear effects.",
+   "内拉德拉免疫恐惧效果。"
+  ],
+  [
+   "lv0#28353/speciesTraits[128].traitInfo",
+   "Immune To Fear\t",
+   "免疫恐惧"
+  ],
+  [
+   "lv0#28353/speciesTraits[129].displayName",
+   "Terrify",
+   "恐吓"
+  ],
+  [
+   "lv0#28353/speciesTraits[129].traitDetail",
+   "Neladra cause her enemies to flee in Terror if they fail to Resist Fear.",
+   "内拉德拉会使抗恐惧失败的敌人惊惧逃窜。"
+  ],
+  [
+   "lv0#28353/speciesTraits[129].traitInfo",
+   "Damaged Enemies are Terrified",
+   "受伤害的敌人陷入惊惧"
+  ],
+  [
+   "lv0#28353/speciesTraits[12].displayName",
+   "Ignores Armor",
+   "无视护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[12].traitDetail",
+   "Slime Mothers ignore 8 points of their targets Armor.",
+   "史莱姆母体无视目标 8 点护甲。"
+  ],
+  [
+   "lv0#28353/speciesTraits[12].traitInfo",
+   "Ignores Some Armor",
+   "无视部分护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[130].displayName",
+   "Void Home",
+   "虚空归所"
+  ],
+  [
+   "lv0#28353/speciesTraits[130].traitDetail",
+   "Azunauri are 75% resistant to Ice damage and effects.",
+   "阿祖纳里对冰霜伤害及效果有 75% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[130].traitInfo",
+   "Highly Resistant to Ice",
+   "对冰霜高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[131].displayName",
+   "Overexposed",
+   "曝露"
+  ],
+  [
+   "lv0#28353/speciesTraits[131].traitDetail",
+   "Azunauri take double physical damage for every major light source they are near.",
+   "阿祖纳里每靠近一处主要光源，受到的物理伤害就翻一倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[131].traitInfo",
+   "Vulnerable to Physical Damage Near Light Sources",
+   "靠近光源时易受物理伤害"
+  ],
+  [
+   "lv0#28353/speciesTraits[132].displayName",
+   "Lurker",
+   "潜伏者"
+  ],
+  [
+   "lv0#28353/speciesTraits[132].traitDetail",
+   "Azunauri avoid light sources, such as torches, campfires and some types of wards.",
+   "阿祖纳里会避开光源，例如火炬、营火与某些类型的结界。"
+  ],
+  [
+   "lv0#28353/speciesTraits[132].traitInfo",
+   "Avoids Light Sources",
+   "避开光源"
+  ],
+  [
+   "lv0#28353/speciesTraits[133].displayName",
+   "Void Pull",
+   "虚空牵引"
+  ],
+  [
+   "lv0#28353/speciesTraits[133].traitDetail",
+   "Azunauri pull their targets towards them when using Abilities.",
+   "阿祖纳里使用能力时会将目标拉向自己。"
+  ],
+  [
+   "lv0#28353/speciesTraits[133].traitInfo",
+   "Abilities Pull Your Target Towards You",
+   "能力会将目标拉向你"
+  ],
+  [
+   "lv0#28353/speciesTraits[134].displayName",
+   "Cold As Death",
+   "死之冰冷"
+  ],
+  [
+   "lv0#28353/speciesTraits[134].traitDetail",
+   "Timberwights are 100% resistant to Ice damage and effects.",
+   "林木尸鬼对冰霜伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[134].traitInfo",
+   "Immune to Ice",
+   "免疫冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[135].displayName",
+   "Terrify",
+   "恐吓"
+  ],
+  [
+   "lv0#28353/speciesTraits[135].traitDetail",
+   "Timberwights cause their enemies to flee in Terror if they fail to Resist Fear.",
+   "林木尸鬼会使抗恐惧失败的敌人惊惧逃窜。"
+  ],
+  [
+   "lv0#28353/speciesTraits[135].traitInfo",
+   "Damaged Enemies are Terrified",
+   "受伤害的敌人陷入惊惧"
+  ],
+  [
+   "lv0#28353/speciesTraits[136].displayName",
+   "Terrify",
+   "恐吓"
+  ],
+  [
+   "lv0#28353/speciesTraits[136].traitDetail",
+   "Timberwights cause their enemies to flee in Terror if they fail to Resist Fear.",
+   "林木尸鬼会使抗恐惧失败的敌人惊惧逃窜。"
+  ],
+  [
+   "lv0#28353/speciesTraits[136].traitInfo",
+   "Damaged Enemies are Terrified",
+   "受伤害的敌人陷入惊惧"
+  ],
+  [
+   "lv0#28353/speciesTraits[137].displayName",
+   "Unstoppable",
+   "势不可挡"
+  ],
+  [
+   "lv0#28353/speciesTraits[137].traitDetail",
+   "Dread Hosts cannot be rooted.",
+   "恐惧宿主不会被定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[137].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[138].displayName",
+   "Unstoppable",
+   "势不可挡"
+  ],
+  [
+   "lv0#28353/speciesTraits[138].traitDetail",
+   "Vascatars cannot be rooted.",
+   "瓦斯卡塔不会被定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[138].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[139].displayName",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[139].traitDetail",
+   "Vascatars cannot be stunned.",
+   "瓦斯卡塔不会被眩晕。"
+  ],
+  [
+   "lv0#28353/speciesTraits[139].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[13].displayName",
+   "Slower In Daytime",
+   "白昼迟缓"
+  ],
+  [
+   "lv0#28353/speciesTraits[13].traitDetail",
+   "Slime Mothers lose 35% of their Dodge ability during daytime hours. This is true even when underground.",
+   "史莱姆母体在白昼时段失去 35% 的闪避能力，身处地下时也一样。"
+  ],
+  [
+   "lv0#28353/speciesTraits[13].traitInfo",
+   "Dodge is significantly decreased During the Day",
+   "白昼时闪避显著降低"
+  ],
+  [
+   "lv0#28353/speciesTraits[140].displayName",
+   "Absorbent Blood",
+   "吸血之血"
+  ],
+  [
+   "lv0#28353/speciesTraits[140].traitDetail",
+   "Vascatars are 100% vulnerable to Poison Damage and Effects",
+   "瓦斯卡塔对毒素伤害及效果有 100% 易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[140].traitInfo",
+   "Totally Vulnerable to Poison",
+   "对毒素完全易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[141].displayName",
+   "Unstoppable",
+   "势不可挡"
+  ],
+  [
+   "lv0#28353/speciesTraits[141].traitDetail",
+   "Bastillere cannot be rooted.",
+   "巴斯提莱尔不会被定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[141].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[142].displayName",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[142].traitDetail",
+   "Bastillere cannot be stunned.",
+   "巴斯提莱尔不会被眩晕。"
+  ],
+  [
+   "lv0#28353/speciesTraits[142].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[143].displayName",
+   "Cannot Be Silenced",
+   "不会被沉默"
+  ],
+  [
+   "lv0#28353/speciesTraits[143].traitDetail",
+   "Bastillere cannot be silenced or diminished.",
+   "巴斯提莱尔不会被沉默或削弱。"
+  ],
+  [
+   "lv0#28353/speciesTraits[143].traitInfo",
+   "Cannot Be Silenced or Diminished",
+   "不会被沉默或削弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[144].displayName",
+   "Cannot Be Silenced",
+   "不会被沉默"
+  ],
+  [
+   "lv0#28353/speciesTraits[144].traitDetail",
+   "Nullbore cannot be silenced or diminished.",
+   "虚无穴兽不会被沉默或削弱。"
+  ],
+  [
+   "lv0#28353/speciesTraits[144].traitInfo",
+   "Cannot Be Silenced or Diminished",
+   "不会被沉默或削弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[145].displayName",
+   "Foreign Composition",
+   "异质构成"
+  ],
+  [
+   "lv0#28353/speciesTraits[145].traitDetail",
+   "Nullbore is 75% vulnerable to Poison Damage and Effects.",
+   "虚无穴兽对毒素伤害及效果有 75% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[145].traitInfo",
+   "Highly Vulnerable to Poison",
+   "对毒素高度易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[146].displayName",
+   "Terrify",
+   "恐吓"
+  ],
+  [
+   "lv0#28353/speciesTraits[146].traitDetail",
+   "Nullbore causes its enemies to flee in Terror if they fail to Resist Fear.",
+   "虚无穴兽会使抗恐惧失败的敌人惊惧逃窜。"
+  ],
+  [
+   "lv0#28353/speciesTraits[146].traitInfo",
+   "Damaged Enemies are Terrified",
+   "受伤害的敌人陷入惊惧"
+  ],
+  [
+   "lv0#28353/speciesTraits[147].displayName",
+   "Unholy Origin",
+   "邪恶本源"
+  ],
+  [
+   "lv0#28353/speciesTraits[147].traitDetail",
+   "Fragmentals are 50% vulnerable to Holy Damage and Effects.",
+   "碎界体对神圣伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[147].traitInfo",
+   "Very Vulnerable To Holy",
+   "对神圣极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[148].displayName",
+   "Fracture Point",
+   "断裂点"
+  ],
+  [
+   "lv0#28353/speciesTraits[148].traitDetail",
+   "Fragmentals are 50% vulnerable to Blunt Damage.",
+   "碎界体对钝击伤害有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[148].traitInfo",
+   "Very Vulnerable To Blunt",
+   "对钝击极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[14].displayName",
+   "Mitosis",
+   "分裂"
+  ],
+  [
+   "lv0#28353/speciesTraits[14].traitDetail",
+   "When Slime Mothers die, they spawn 3 Slime Drops as long as there is enough room adjacent to them.",
+   "史莱姆母体死亡时，只要身旁有足够空间，就会生出 3 只史莱姆滴。"
+  ],
+  [
+   "lv0#28353/speciesTraits[14].traitInfo",
+   "Splits Into Slime Drops on Death",
+   "死亡时分裂成史莱姆滴"
+  ],
+  [
+   "lv0#28353/speciesTraits[15].displayName",
+   "Remnant",
+   "遗骸"
+  ],
+  [
+   "lv0#28353/speciesTraits[15].traitDetail",
+   "When Voracious Cubes die, they spawn a Skeleton or Crypt Knight at their location.",
+   "贪食方块死亡时，会在原地生成一具骷髅或墓穴骑士。"
+  ],
+  [
+   "lv0#28353/speciesTraits[15].traitInfo",
+   "Leaves Behind an Undead Warrior on Death",
+   "死亡时留下亡灵战士"
+  ],
+  [
+   "lv0#28353/speciesTraits[16].displayName",
+   "Avoids Gritty Surfaces",
+   "避开粗粝地表"
+  ],
+  [
+   "lv0#28353/speciesTraits[16].traitDetail",
+   "Giant Snails avoid gritty surfaces, like gravel and sand, as much as possible.",
+   "巨蜗牛会尽量避免粗粝的地表，例如砾石与沙地。"
+  ],
+  [
+   "lv0#28353/speciesTraits[16].traitInfo",
+   "Avoids Grainy Surfaces",
+   "避开颗粒地表"
+  ],
+  [
+   "lv0#28353/speciesTraits[17].displayName",
+   "Relentless",
+   "不屈不挠"
+  ],
+  [
+   "lv0#28353/speciesTraits[17].traitDetail",
+   "Giant Snails will pursue their original target until they or their target are incapacitated.",
+   "巨蜗牛会一直追击最初的目标，直到自己或目标倒下。"
+  ],
+  [
+   "lv0#28353/speciesTraits[17].traitInfo",
+   "Never Gives Up Trying to Kill Its First Target",
+   "绝不放弃追杀最初的目标"
+  ],
+  [
+   "lv0#28353/speciesTraits[18].displayName",
+   "ForcefulBlows",
+   "重拳出击"
+  ],
+  [
+   "lv0#28353/speciesTraits[18].traitDetail",
+   "The Arvillein's powerful blows knocback any target of their that takes damage.",
+   "阿维雷因的重击会击退任何受到其伤害的目标。"
+  ],
+  [
+   "lv0#28353/speciesTraits[18].traitInfo",
+   "Successful attacks knock enemies backwards",
+   "攻击命中时击退敌人"
+  ],
+  [
+   "lv0#28353/speciesTraits[19].displayName",
+   "Unstoppable",
+   "势不可挡"
+  ],
+  [
+   "lv0#28353/speciesTraits[19].traitDetail",
+   "Arvillein cannot be rooted.",
+   "阿维雷因不会被定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[19].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[1].displayName",
+   "Vulnerable To Fire",
+   "惧怕火焰"
+  ],
+  [
+   "lv0#28353/speciesTraits[1].traitDetail",
+   "Giant Rats are 50% vulnerable to Fire damage and effects.",
+   "巨鼠对火焰伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[1].traitInfo",
+   "Very Vulnerable to Fire",
+   "对火焰极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[20].displayName",
+   "Earthwyrm",
+   "地龙"
+  ],
+  [
+   "lv0#28353/speciesTraits[20].traitDetail",
+   "Arvillein are 50% resistant to Earth Damage and effects.",
+   "阿维雷因对土伤害及效果有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[20].traitInfo",
+   "Highly Resistant To Earth",
+   "对土高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[21].displayName",
+   "Vulnerable To Shock",
+   "惧怕电击"
+  ],
+  [
+   "lv0#28353/speciesTraits[21].traitDetail",
+   "Scaphin Polliwogs are 25% vulnerable to Shock damage and effects.",
+   "斯卡芬蝌蚪对电击伤害及效果有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[21].traitInfo",
+   "Vulnerable To Shock",
+   "惧怕电击"
+  ],
+  [
+   "lv0#28353/speciesTraits[22].displayName",
+   "Resist Fire",
+   "抗火"
+  ],
+  [
+   "lv0#28353/speciesTraits[22].traitDetail",
+   "Scaphin Polliwogs are 30% resistant to Fire damage and effects.",
+   "斯卡芬蝌蚪对火焰伤害及效果有 30% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[22].traitInfo",
+   "Resistant To Fire",
+   "对火焰有抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[23].displayName",
+   "Water Agility",
+   "水中敏捷"
+  ],
+  [
+   "lv0#28353/speciesTraits[23].traitDetail",
+   "Scaphin Polliwogs are twice as likely to Dodge when in water.",
+   "斯卡芬蝌蚪在水中闪避的几率翻倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[23].traitInfo",
+   "Higher Agility in Water",
+   "水中更敏捷"
+  ],
+  [
+   "lv0#28353/speciesTraits[24].displayName",
+   "Water Agility",
+   "水中敏捷"
+  ],
+  [
+   "lv0#28353/speciesTraits[24].traitDetail",
+   "Scaphin Lancers are twice as likely to Dodge when in water.",
+   "斯卡芬枪兵在水中闪避的几率翻倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[24].traitInfo",
+   "Higher Agility in Water",
+   "水中更敏捷"
+  ],
+  [
+   "lv0#28353/speciesTraits[25].displayName",
+   "Water Shield",
+   "水之护盾"
+  ],
+  [
+   "lv0#28353/speciesTraits[25].traitDetail",
+   "Scaphin Shamans are 90% resistant to Magic when in water.",
+   "斯卡芬萨满在水中对魔法有 90% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[25].traitInfo",
+   "Shield Against Magic When in Water",
+   "在水中获得魔法护盾"
+  ],
+  [
+   "lv0#28353/speciesTraits[26].displayName",
+   "Water Agility",
+   "水中敏捷"
+  ],
+  [
+   "lv0#28353/speciesTraits[26].traitDetail",
+   "Scaphin Lancers are twice as likely to Dodge when in water.",
+   "斯卡芬枪兵在水中闪避的几率翻倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[26].traitInfo",
+   "Higher Agility in Water",
+   "水中更敏捷"
+  ],
+  [
+   "lv0#28353/speciesTraits[27].displayName",
+   "Vulnerable To Shock",
+   "惧怕电击"
+  ],
+  [
+   "lv0#28353/speciesTraits[27].traitDetail",
+   "Scaphin Lancers are 40% vulnerable to Shock damage and effects.",
+   "斯卡芬枪兵对电击伤害及效果有 40% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[27].traitInfo",
+   "Very Vulnerable To Shock",
+   "对电击极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[28].displayName",
+   "Resist Fire",
+   "抗火"
+  ],
+  [
+   "lv0#28353/speciesTraits[28].traitDetail",
+   "Scaphin Lancers are 30% resistant to Fire damage and effects.",
+   "斯卡芬枪兵对火焰伤害及效果有 30% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[28].traitInfo",
+   "Resistant To Fire",
+   "对火焰有抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[29].displayName",
+   "High Accuracy",
+   "高精准"
+  ],
+  [
+   "lv0#28353/speciesTraits[29].traitDetail",
+   "Goblin Scouts gain a 10% bonus to achieve a critical hit.",
+   "哥布林斥候造成暴击的几率提高 10%。"
+  ],
+  [
+   "lv0#28353/speciesTraits[29].traitInfo",
+   "Higher Critical Chance",
+   "暴击率更高"
+  ],
+  [
+   "lv0#28353/speciesTraits[2].displayName",
+   "Resistant To Poison",
+   "抗毒"
+  ],
+  [
+   "lv0#28353/speciesTraits[2].traitDetail",
+   "Giant Rats are 50% resistant to Poison damage and effects.",
+   "巨鼠对毒素伤害及效果有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[2].traitInfo",
+   "Resistant to Poison",
+   "对毒素有抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[30].displayName",
+   "Earth Spark",
+   "大地火花"
+  ],
+  [
+   "lv0#28353/speciesTraits[30].traitDetail",
+   "Goblin Scouts gain 5 Levels when Underground.",
+   "哥布林斥候身处地下时提升 5 级。"
+  ],
+  [
+   "lv0#28353/speciesTraits[30].traitInfo",
+   "Gain levels when Underground",
+   "身处地下时提升等级"
+  ],
+  [
+   "lv0#28353/speciesTraits[31].displayName",
+   "Earth Spark",
+   "大地火花"
+  ],
+  [
+   "lv0#28353/speciesTraits[31].traitDetail",
+   "Goblin Shamans gain 5 Levels when Underground.",
+   "哥布林萨满身处地下时提升 5 级。"
+  ],
+  [
+   "lv0#28353/speciesTraits[31].traitInfo",
+   "Gain levels when Underground",
+   "身处地下时提升等级"
+  ],
+  [
+   "lv0#28353/speciesTraits[32].displayName",
+   "Spirit Battery",
+   "精神蓄能"
+  ],
+  [
+   "lv0#28353/speciesTraits[32].traitDetail",
+   "Goblin Shamans gain 10 Spirit after they take Shock Damage.",
+   "哥布林萨满受到电击伤害后获得 10 点精神。"
+  ],
+  [
+   "lv0#28353/speciesTraits[32].traitInfo",
+   "Shock Damage raises Spirit",
+   "电击伤害提高精神"
+  ],
+  [
+   "lv0#28353/speciesTraits[33].displayName",
+   "Whispy",
+   "轻灵"
+  ],
+  [
+   "lv0#28353/speciesTraits[33].traitDetail",
+   "Embergit are 50% resistant to Weapon Damage.",
+   "烬火兽对武器伤害有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[33].traitInfo",
+   "Highly Resistant To Weapon Damage",
+   "对武器伤害高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[34].displayName",
+   "Evanescent",
+   "瞬息之形"
+  ],
+  [
+   "lv0#28353/speciesTraits[34].traitDetail",
+   "Embergit cannot be rooted.",
+   "烬火兽不会被定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[34].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[35].displayName",
+   "Perpetually Warm",
+   "恒温之躯"
+  ],
+  [
+   "lv0#28353/speciesTraits[35].traitDetail",
+   "Flambrals cannot be frozen.",
+   "焰灵不会被冰封。"
+  ],
+  [
+   "lv0#28353/speciesTraits[35].traitInfo",
+   "Cannot Be Frozen",
+   "不会被冰封"
+  ],
+  [
+   "lv0#28353/speciesTraits[36].displayName",
+   "Resist Weapon Damage",
+   "抗武器伤害"
+  ],
+  [
+   "lv0#28353/speciesTraits[36].traitDetail",
+   "Stalagren are 20% resistant to Weapon Damage.",
+   "石笋怪对武器伤害有 20% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[36].traitInfo",
+   "Resistant To Weapon Damage",
+   "对武器伤害有抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[37].displayName",
+   "Blinded By Light",
+   "畏光"
+  ],
+  [
+   "lv0#28353/speciesTraits[37].traitDetail",
+   "Stalagren are 90% less likely to successfully hit their target when near a light source.",
+   "石笋怪靠近光源时，命中目标的几率降低 90%。"
+  ],
+  [
+   "lv0#28353/speciesTraits[37].traitInfo",
+   "Blinded When Near Light Sources",
+   "靠近光源时目眩"
+  ],
+  [
+   "lv0#28353/speciesTraits[38].displayName",
+   "Resist Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[38].traitDetail",
+   "Zombies are 60% resistant to Piercing damage.",
+   "僵尸对穿刺伤害有 60% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[38].traitInfo",
+   "Highly Resistant to Piercing Damage",
+   "对穿刺伤害高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[39].displayName",
+   "Resist Slashing",
+   "抗挥砍"
+  ],
+  [
+   "lv0#28353/speciesTraits[39].traitDetail",
+   "Zombies are 50% resistant to Slashing damage.",
+   "僵尸对挥砍伤害有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[39].traitInfo",
+   "Highly Resistant to Slashing Damage",
+   "对挥砍伤害高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[3].displayName",
+   "Vulnerable To Fire",
+   "惧怕火焰"
+  ],
+  [
+   "lv0#28353/speciesTraits[3].traitDetail",
+   "Giant Bats are 50% vulnerable to Fire damage and effects.",
+   "巨蝠对火焰伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[3].traitInfo",
+   "Vulnerable to Fire",
+   "惧怕火焰"
+  ],
+  [
+   "lv0#28353/speciesTraits[40].displayName",
+   "Vulnerable To Blunt",
+   "惧怕钝击"
+  ],
+  [
+   "lv0#28353/speciesTraits[40].traitDetail",
+   "Zombies are 50% vulnerable to Blunt damage.",
+   "僵尸对钝击伤害有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[40].traitInfo",
+   "Very Vulnerable to Blunt Damage",
+   "对钝击伤害极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[41].displayName",
+   "Vulnerable To Earth",
+   "惧怕土"
+  ],
+  [
+   "lv0#28353/speciesTraits[41].traitDetail",
+   "Zombies are 25% vulnerable to Earth damage and effects.",
+   "僵尸对土伤害及效果有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[41].traitInfo",
+   "Vulnerable to Earth Damage",
+   "对土伤害易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[42].displayName",
+   "Vulnerable To Fire",
+   "惧怕火焰"
+  ],
+  [
+   "lv0#28353/speciesTraits[42].traitDetail",
+   "Zombies are 50% vulnerable to Fire damage and effects.",
+   "僵尸对火焰伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[42].traitInfo",
+   "Very Vulnerable to Fire Damage",
+   "对火焰伤害极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[43].displayName",
+   "Resistant To Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[43].traitDetail",
+   "Crypt Knights are 70% resistant to Piercing damage, making them very difficult to damage with most ranged weapons.",
+   "墓穴骑士对穿刺伤害有 70% 抗性，使大多数远程武器很难对其造成伤害。"
+  ],
+  [
+   "lv0#28353/speciesTraits[43].traitInfo",
+   "Highly Resistant to Piercing Damage",
+   "对穿刺伤害高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[44].displayName",
+   "Resistant To Slashing",
+   "抗挥砍"
+  ],
+  [
+   "lv0#28353/speciesTraits[44].traitDetail",
+   "Crypt Knights are 40% resistant to Slashing damage.",
+   "墓穴骑士对挥砍伤害有 40% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[44].traitInfo",
+   "Very Resistant to Slashing Damage",
+   "对挥砍伤害很强抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[45].displayName",
+   "Vulnerable to Blunt",
+   "惧怕钝击"
+  ],
+  [
+   "lv0#28353/speciesTraits[45].traitDetail",
+   "Crypt Knights are 40% vulnerable to Blunt damage.",
+   "墓穴骑士对钝击伤害有 40% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[45].traitInfo",
+   "Very Vulnerable to Blunt Damage",
+   "对钝击伤害极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[46].displayName",
+   "Vulnerable to Shock",
+   "惧怕电击"
+  ],
+  [
+   "lv0#28353/speciesTraits[46].traitDetail",
+   "Crypt Knights are 30% vulnerable to Shock damage and effects.",
+   "墓穴骑士对电击伤害及效果有 30% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[46].traitInfo",
+   "Very Vulnerable to Shock Damage",
+   "对电击伤害极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[47].displayName",
+   "Vulnerable to Fire",
+   "惧怕火焰"
+  ],
+  [
+   "lv0#28353/speciesTraits[47].traitDetail",
+   "Crypt Knights are 60% vulnerable to Fire damage and effects.",
+   "墓穴骑士对火焰伤害及效果有 60% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[47].traitInfo",
+   "Very Vulnerable to Fire Damage",
+   "对火焰伤害极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[48].displayName",
+   "Violent Blows",
+   "狂猛打击"
+  ],
+  [
+   "lv0#28353/speciesTraits[48].traitDetail",
+   "Crypt Knights send their targets flying when successfully landing attacks.",
+   "墓穴骑士攻击命中时会把目标击飞。"
+  ],
+  [
+   "lv0#28353/speciesTraits[48].traitInfo",
+   "Attacks do Extreme Knockback",
+   "攻击造成极强击退"
+  ],
+  [
+   "lv0#28353/speciesTraits[49].displayName",
+   "Ignores Armor",
+   "无视护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[49].traitDetail",
+   "Banshees ignore all Armor on their target.",
+   "报丧女妖无视目标的全部护甲。"
+  ],
+  [
+   "lv0#28353/speciesTraits[49].traitInfo",
+   "Ignores All Armor",
+   "无视全部护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[4].displayName",
+   "Vulnerable To Slashing",
+   "惧怕挥砍"
+  ],
+  [
+   "lv0#28353/speciesTraits[4].traitDetail",
+   "Giant Bats are 50% vulnerable to Slashing damage.",
+   "巨蝠对挥砍伤害有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[4].traitInfo",
+   "Vulnerable to Slashing",
+   "惧怕挥砍"
+  ],
+  [
+   "lv0#28353/speciesTraits[50].displayName",
+   "Drains Life",
+   "吸取生命"
+  ],
+  [
+   "lv0#28353/speciesTraits[50].traitDetail",
+   "Banshees gain 1 Hit Point for every 2 points of damage they deal.",
+   "报丧女妖每造成 2 点伤害便获得 1 点生命。"
+  ],
+  [
+   "lv0#28353/speciesTraits[50].traitInfo",
+   "Drains Life With 50% of Attack",
+   "以 50% 的攻击吸取生命"
+  ],
+  [
+   "lv0#28353/speciesTraits[51].displayName",
+   "Resist Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[51].traitDetail",
+   "Skeletons are 90% resistant to Piercing damage, rendering most ranged weapons fairly useless.",
+   "骷髅对穿刺伤害有 90% 抗性，使大多数远程武器几乎无用。"
+  ],
+  [
+   "lv0#28353/speciesTraits[51].traitInfo",
+   "Extremely Resistant to Piercing",
+   "对穿刺极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[52].displayName",
+   "Resist Slashing",
+   "抗挥砍"
+  ],
+  [
+   "lv0#28353/speciesTraits[52].traitDetail",
+   "Skeletons are 60% resistant to Slashing damage.",
+   "骷髅对挥砍伤害有 60% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[52].traitInfo",
+   "Highly Resistant to Slashing",
+   "对挥砍高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[53].displayName",
+   "Vulnerable To Blunt",
+   "惧怕钝击"
+  ],
+  [
+   "lv0#28353/speciesTraits[53].traitDetail",
+   "Skeletons are 75% vulnerable to Blunt damage.",
+   "骷髅对钝击伤害有 75% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[53].traitInfo",
+   "Highly Vulnerable to Blunt",
+   "对钝击高度易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[54].displayName",
+   "Vulnerable To Earth",
+   "惧怕土"
+  ],
+  [
+   "lv0#28353/speciesTraits[54].traitDetail",
+   "Skeletons are 35% vulnerable to Earth damage and effects.",
+   "骷髅对土伤害及效果有 35% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[54].traitInfo",
+   "Very Vulnerable to Earth",
+   "对土极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[55].displayName",
+   "Vulnerable To Fire",
+   "惧怕火焰"
+  ],
+  [
+   "lv0#28353/speciesTraits[55].traitDetail",
+   "Skeletons are 50% vulnerable to Fire damage and effects.",
+   "骷髅对火焰伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[55].traitInfo",
+   "Very Vulnerable to Fire",
+   "对火焰极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[56].displayName",
+   "Resistant To Ice",
+   "抗冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[56].traitDetail",
+   "Skeletons are 90% resistant to Ice damage and effects.",
+   "骷髅对冰霜伤害及效果有 90% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[56].traitInfo",
+   "Extremely Resistant to Ice",
+   "对冰霜极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[57].displayName",
+   "Vulnerable To Fire",
+   "惧怕火焰"
+  ],
+  [
+   "lv0#28353/speciesTraits[57].traitDetail",
+   "Skeletons are 50% vulnerable to Fire damage and effects.",
+   "骷髅对火焰伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[57].traitInfo",
+   "Very Vulnerable to Fire",
+   "对火焰极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[58].displayName",
+   "Resistant To Ice",
+   "抗冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[58].traitDetail",
+   "Possessed Armors are 90% resistant to Ice damage and effects.",
+   "附魔铠甲对冰霜伤害及效果有 90% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[58].traitInfo",
+   "Extremely Resistant to Ice",
+   "对冰霜极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[59].displayName",
+   "Chilling Touch",
+   "冰寒之触"
+  ],
+  [
+   "lv0#28353/speciesTraits[59].traitDetail",
+   "Possessed Armors Chill targets when they make a successful attack.",
+   "附魔铠甲攻击命中时会使目标陷入冰寒。"
+  ],
+  [
+   "lv0#28353/speciesTraits[59].traitInfo",
+   "Attacks Cause Defenders to Become Chilled",
+   "攻击会使防御者陷入冰寒"
+  ],
+  [
+   "lv0#28353/speciesTraits[5].displayName",
+   "Avoids Light",
+   "回避光亮"
+  ],
+  [
+   "lv0#28353/speciesTraits[5].traitDetail",
+   "Giant Bats avoid light sources, such as torches, campfires and some types of wards.",
+   "巨蝠会避开光源，例如火炬、营火与某些类型的结界。"
+  ],
+  [
+   "lv0#28353/speciesTraits[5].traitInfo",
+   "Avoids Sources of Light",
+   "避开光源"
+  ],
+  [
+   "lv0#28353/speciesTraits[60].displayName",
+   "Layers of Armor",
+   "层层叠甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[60].traitDetail",
+   "Gravebacks are 90% resistant to Slashing damage.",
+   "墓背龟对挥砍伤害有 90% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[60].traitInfo",
+   "Extremely Resistant to Slashing",
+   "对挥砍极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[61].displayName",
+   "Resist Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[61].traitDetail",
+   "Gravebacks are 40% resistant to Piercing damage.",
+   "墓背龟对穿刺伤害有 40% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[61].traitInfo",
+   "Very Resistant to Slashing",
+   "对挥砍很强抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[62].displayName",
+   "Grounded",
+   "接地"
+  ],
+  [
+   "lv0#28353/speciesTraits[62].traitDetail",
+   "Gravebacks are 30% resistant to Shock damage.",
+   "墓背龟对电击伤害有 30% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[62].traitInfo",
+   "Very Resistant to Shock",
+   "对电击很强抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[63].displayName",
+   "Mud Dweller",
+   "泥沼栖居者"
+  ],
+  [
+   "lv0#28353/speciesTraits[63].traitDetail",
+   "Gravebacks are 30% vulnerable to Fire damage and effects.",
+   "墓背龟对火焰伤害及效果有 30% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[63].traitInfo",
+   "Very Vulnerable to Fire",
+   "对火焰极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[64].displayName",
+   "Ignite Monster Lore",
+   "引燃怪物学识"
+  ],
+  [
+   "lv0#28353/speciesTraits[64].traitDetail",
+   "Each round, Lore Eaters deal damage to each opposing entity equal to their Monster Lore skill.",
+   "每轮，噬识者会对每个敌对实体造成等同于其「怪物学识」技能的伤害。"
+  ],
+  [
+   "lv0#28353/speciesTraits[64].traitInfo",
+   "Causes Monster Lore to Deal Damage to Heroes",
+   "使怪物学识对英雄造成伤害"
+  ],
+  [
+   "lv0#28353/speciesTraits[65].displayName",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[65].traitDetail",
+   "Lore Eater is immune to stun effects.",
+   "噬识者免疫眩晕效果。"
+  ],
+  [
+   "lv0#28353/speciesTraits[65].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[66].displayName",
+   "Ice Immunity",
+   "冰霜免疫"
+  ],
+  [
+   "lv0#28353/speciesTraits[66].traitDetail",
+   "Treasure Mimics are 100% resistant to Ice damage and effects.",
+   "宝箱怪对冰霜伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[66].traitInfo",
+   "Immune To Ice\n",
+   "免疫冰霜\n"
+  ],
+  [
+   "lv0#28353/speciesTraits[67].displayName",
+   "Mooncrave",
+   "渴月"
+  ],
+  [
+   "lv0#28353/speciesTraits[67].traitDetail",
+   "Treasure Mimics gain 1% of their health back every turn, for each moon that has not yet risen.",
+   "每有一轮尚未升起的月亮，宝箱怪每回合便回复 1% 的生命。"
+  ],
+  [
+   "lv0#28353/speciesTraits[67].traitInfo",
+   "Gains Health When Moons Are Down",
+   "月亮未升时回复生命"
+  ],
+  [
+   "lv0#28353/speciesTraits[68].displayName",
+   "Ignore Armor",
+   "无视护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[68].traitDetail",
+   "Shades ignore all Armor on their target.",
+   "幽影无视目标的全部护甲。"
+  ],
+  [
+   "lv0#28353/speciesTraits[68].traitInfo",
+   "Ignores All Armor",
+   "无视全部护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[69].displayName",
+   "Cold As Death",
+   "死之冰冷"
+  ],
+  [
+   "lv0#28353/speciesTraits[69].traitDetail",
+   "Shades are 100% resistant to Ice damage and effects.",
+   "幽影对冰霜伤害及效果有 100% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[69].traitInfo",
+   "Immune to Ice",
+   "免疫冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[6].displayName",
+   "Blinded By Light",
+   "畏光"
+  ],
+  [
+   "lv0#28353/speciesTraits[6].traitDetail",
+   "Giant Bats are 75% less likely to successfully hit their target when near a light source.",
+   "巨蝠靠近光源时，命中目标的几率降低 75%。"
+  ],
+  [
+   "lv0#28353/speciesTraits[6].traitInfo",
+   "Blinded When Near Light Sources",
+   "靠近光源时目眩"
+  ],
+  [
+   "lv0#28353/speciesTraits[70].displayName",
+   "Chilling Touch",
+   "冰寒之触"
+  ],
+  [
+   "lv0#28353/speciesTraits[70].traitDetail",
+   "Shades Chill targets when they make a successful attack.",
+   "幽影攻击命中时会使目标陷入冰寒。"
+  ],
+  [
+   "lv0#28353/speciesTraits[70].traitInfo",
+   "Attacks Cause Defenders to Become Chilled",
+   "攻击会使防御者陷入冰寒"
+  ],
+  [
+   "lv0#28353/speciesTraits[71].displayName",
+   "Ignore Armor",
+   "无视护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[71].traitDetail",
+   "Ghasts ignore all Armor on their target.",
+   "食尸鬼无视目标的全部护甲。"
+  ],
+  [
+   "lv0#28353/speciesTraits[71].traitInfo",
+   "Ignores All Armor",
+   "无视全部护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[72].displayName",
+   "Resist Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[72].traitDetail",
+   "Ghasts are 90% resistant to Piercing damage, rendering most ranged weapons fairly useless.",
+   "食尸鬼对穿刺伤害有 90% 抗性，使大多数远程武器几乎无用。"
+  ],
+  [
+   "lv0#28353/speciesTraits[72].traitInfo",
+   "Extremely Resistant to Piercing",
+   "对穿刺极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[73].displayName",
+   "Resist Ice",
+   "抗冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[73].traitDetail",
+   "Ghasts are 50% resistant to Ice damage and effects.",
+   "食尸鬼对冰霜伤害及效果有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[73].traitInfo",
+   "Very Resistant to Ice",
+   "对冰霜很强抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[74].displayName",
+   "Vulnerable To Blunt",
+   "惧怕钝击"
+  ],
+  [
+   "lv0#28353/speciesTraits[74].traitDetail",
+   "Ghasts are 25% vulnerable to Blunt damage.",
+   "食尸鬼对钝击伤害有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[74].traitInfo",
+   "Vulnerable to Blunt",
+   "惧怕钝击"
+  ],
+  [
+   "lv0#28353/speciesTraits[75].displayName",
+   "PreyOnTheWeak",
+   "欺弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[75].traitDetail",
+   "Ghasts prefer to attack the weakest target, bypassing others unless they have no choice.",
+   "食尸鬼偏好攻击最弱的目标，除非别无选择，否则会绕过其他敌人。"
+  ],
+  [
+   "lv0#28353/speciesTraits[75].traitInfo",
+   "Targets The Weakest Opponent",
+   "攻击最弱的对手"
+  ],
+  [
+   "lv0#28353/speciesTraits[76].displayName",
+   "Solace Of Night",
+   "暗夜慰藉"
+  ],
+  [
+   "lv0#28353/speciesTraits[76].traitDetail",
+   "Ghasts double their hitpoints during the night.",
+   "食尸鬼在夜间生命值翻倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[76].traitInfo",
+   "Double Health At Night",
+   "夜间生命翻倍"
+  ],
+  [
+   "lv0#28353/speciesTraits[77].displayName",
+   "Tinder Frame",
+   "引火之躯"
+  ],
+  [
+   "lv0#28353/speciesTraits[77].traitDetail",
+   "Bookwyrms are 75% vulnerable to Fire damage and effects.",
+   "书龙对火焰伤害及效果有 75% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[77].traitInfo",
+   "Highly Vulnerable to Fire",
+   "对火焰高度易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[78].displayName",
+   "Vulnerable To Piercing",
+   "惧怕穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[78].traitDetail",
+   "Bookwyrms are 25% vulnerable to Piercing damage.",
+   "书龙对穿刺伤害有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[78].traitInfo",
+   "Vulnerable to Piercing",
+   "惧怕穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[79].displayName",
+   "Resistant To Slashing",
+   "抗挥砍"
+  ],
+  [
+   "lv0#28353/speciesTraits[79].traitDetail",
+   "Bookwyrms are 25% vulnerable to Piercing damage.",
+   "书龙对穿刺伤害有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[79].traitInfo",
+   "Vulnerable to Piercing",
+   "惧怕穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[7].displayName",
+   "Ignores Armor",
+   "无视护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[7].traitDetail",
+   "Giant Bats ignore 1 point of their target's Armor.",
+   "巨蝠无视目标 1 点护甲。"
+  ],
+  [
+   "lv0#28353/speciesTraits[7].traitInfo",
+   "Ignores Minor Armor",
+   "无视少量护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[80].displayName",
+   "VulnerableToReachWeapons",
+   "惧怕长柄武器"
+  ],
+  [
+   "lv0#28353/speciesTraits[80].traitDetail",
+   "Bookwyrms are 50% vulnerable to Reach Weapons.",
+   "书龙对长柄武器有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[80].traitInfo",
+   "Very Vulnerable to Reach Weapons",
+   "对长柄武器极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[81].displayName",
+   "Flammable",
+   "易燃"
+  ],
+  [
+   "lv0#28353/speciesTraits[81].traitDetail",
+   "Grimoires are 50% vulnerable to Fire Damage and Effects.",
+   "魔典对火焰伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[81].traitInfo",
+   "Very Vulnerable to Fire",
+   "对火焰极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[82].displayName",
+   "MagicalShield",
+   "魔法护盾"
+  ],
+  [
+   "lv0#28353/speciesTraits[82].traitDetail",
+   "Grimoires are 50% resistant to Magic.",
+   "魔典对魔法有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[82].traitInfo",
+   "Very Resistant to Magic",
+   "对魔法很强抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[83].displayName",
+   "Sensitive Composition",
+   "敏感构成"
+  ],
+  [
+   "lv0#28353/speciesTraits[83].traitDetail",
+   "Flowstone Prowlers are 75% vulnerable to Acid damage.",
+   "流石潜兽对酸蚀伤害有 75% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[83].traitInfo",
+   "Highly Vulnerable to Acid",
+   "对酸蚀高度易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[84].displayName",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[84].traitDetail",
+   "Flowstone Prowlers cannot be stunned.",
+   "流石潜兽不会被眩晕。"
+  ],
+  [
+   "lv0#28353/speciesTraits[84].traitInfo",
+   "Cannot Be Stunned",
+   "不会被眩晕"
+  ],
+  [
+   "lv0#28353/speciesTraits[85].displayName",
+   "Earth Feeder",
+   "食土者"
+  ],
+  [
+   "lv0#28353/speciesTraits[85].traitDetail",
+   "Flowstone Prowlers increase in Level as you go further into the game.",
+   "随着游戏深入，流石潜兽的等级会越来越高。"
+  ],
+  [
+   "lv0#28353/speciesTraits[85].traitInfo",
+   "Levels With the Dungeon",
+   "随地城深入而升级"
+  ],
+  [
+   "lv0#28353/speciesTraits[86].displayName",
+   "Resistant To Alteration",
+   "抗变化系"
+  ],
+  [
+   "lv0#28353/speciesTraits[86].traitDetail",
+   "Effects such as petrify and polymorph have 85% less effect on Lesser Occulants.",
+   "石化、变形等效果对次级视者的效果降低 85%。"
+  ],
+  [
+   "lv0#28353/speciesTraits[86].traitInfo",
+   "Extremely Resistant to being physically altered",
+   "对形态改变极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[87].displayName",
+   "Resistant To Alteration",
+   "抗变化系"
+  ],
+  [
+   "lv0#28353/speciesTraits[87].traitDetail",
+   "Lesser Occulants are 85% resistant to Fire damage and effects.",
+   "次级视者对火焰伤害及效果有 85% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[87].traitInfo",
+   "Extremely Resistant to Fire",
+   "对火焰极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[88].displayName",
+   "Resistant To Alteration",
+   "抗变化系"
+  ],
+  [
+   "lv0#28353/speciesTraits[88].traitDetail",
+   "Lesser Occulants are 85% resistant to Shock damage.",
+   "次级视者对电击伤害有 85% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[88].traitInfo",
+   "Extremely Resistant to Shock",
+   "对电击极端抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[89].displayName",
+   "Vulnerable To Piercing",
+   "惧怕穿刺"
+  ],
+  [
+   "lv0#28353/speciesTraits[89].traitDetail",
+   "Lesser Occulants take double Piercing Damage.",
+   "次级视者受到穿刺伤害翻倍。"
+  ],
+  [
+   "lv0#28353/speciesTraits[89].traitInfo",
+   "Totally Vulnerable to Piercing\t",
+   "对穿刺完全易伤"
+  ],
+  [
+   "lv0#28353/speciesTraits[8].displayName",
+   "Drains Life",
+   "吸取生命"
+  ],
+  [
+   "lv0#28353/speciesTraits[8].traitDetail",
+   "Giant Bats gain 1 Hit Point for every point of damage they deal, up to their Max HitPoints.",
+   "巨蝠每造成 1 点伤害便获得 1 点生命，至多不超过其最大生命值。"
+  ],
+  [
+   "lv0#28353/speciesTraits[8].traitInfo",
+   "Drains Life with Attack",
+   "以攻击吸取生命"
+  ],
+  [
+   "lv0#28353/speciesTraits[90].displayName",
+   "Command The Lesser",
+   "号令卑微者"
+  ],
+  [
+   "lv0#28353/speciesTraits[90].traitDetail",
+   "Lesser Occulants cause their minions to be at least level 6.",
+   "次级视者会使其仆从至少达到 6 级。"
+  ],
+  [
+   "lv0#28353/speciesTraits[90].traitInfo",
+   "Raise the Level of Each Minion to Half of Your Level",
+   "将每个仆从的等级提升至你等级的一半"
+  ],
+  [
+   "lv0#28353/speciesTraits[91].displayName",
+   "Vulnerable To Ice",
+   "惧怕冰霜"
+  ],
+  [
+   "lv0#28353/speciesTraits[91].traitDetail",
+   "Agmarian Zombies are 50% vulnerable to Ice damage and effects.",
+   "阿格玛僵尸对冰霜伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[91].traitInfo",
+   "Very Vulnerable to Ice",
+   "对冰霜极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[92].displayName",
+   "Vulnerable To Shock",
+   "惧怕电击"
+  ],
+  [
+   "lv0#28353/speciesTraits[92].traitDetail",
+   "Agmarian Zombies are 25% vulnerable to Shock damage and effects.",
+   "阿格玛僵尸对电击伤害及效果有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[92].traitInfo",
+   "Vulnerable to Shock",
+   "惧怕电击"
+  ],
+  [
+   "lv0#28353/speciesTraits[93].displayName",
+   "Poisonous Vitality",
+   "毒质活力"
+  ],
+  [
+   "lv0#28353/speciesTraits[93].traitDetail",
+   "Agmarian Zombies are healed for 5 Hit Points each time an attack with poison damage hits them.",
+   "阿格玛僵尸每次受到带毒素伤害的攻击时，会被治疗 5 点生命。"
+  ],
+  [
+   "lv0#28353/speciesTraits[93].traitInfo",
+   "Poison Heals",
+   "毒素治疗"
+  ],
+  [
+   "lv0#28353/speciesTraits[94].displayName",
+   "Web Born",
+   "蛛网所生"
+  ],
+  [
+   "lv0#28353/speciesTraits[94].traitDetail",
+   "Crypt Spiders cannot be Rooted.",
+   "墓穴蜘蛛不会被定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[94].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[95].displayName",
+   "Dangerous Under Pressure",
+   "困兽之危"
+  ],
+  [
+   "lv0#28353/speciesTraits[95].traitDetail",
+   "Crypt Spiders are 50% more likely to land a critical hit when they are below 25% health.",
+   "墓穴蜘蛛生命低于 25% 时，造成暴击的几率提高 50%。"
+  ],
+  [
+   "lv0#28353/speciesTraits[95].traitInfo",
+   "Much Higher Critical Chance When Deeply Wounded",
+   "重伤时暴击率大幅提高"
+  ],
+  [
+   "lv0#28353/speciesTraits[96].displayName",
+   "Quick Under Pressure",
+   "困兽之捷"
+  ],
+  [
+   "lv0#28353/speciesTraits[96].traitDetail",
+   "Tunnel Spiders gain 3 Agility when they are below 25% health.",
+   "坑道蜘蛛生命低于 25% 时获得 3 点敏捷。"
+  ],
+  [
+   "lv0#28353/speciesTraits[96].traitInfo",
+   "Much Higher Agility When Deeply Wounded",
+   "重伤时敏捷大幅提高"
+  ],
+  [
+   "lv0#28353/speciesTraits[97].displayName",
+   "Web Born",
+   "蛛网所生"
+  ],
+  [
+   "lv0#28353/speciesTraits[97].traitDetail",
+   "Tunnel Spiders cannot be Rooted.",
+   "坑道蜘蛛不会被定身。"
+  ],
+  [
+   "lv0#28353/speciesTraits[97].traitInfo",
+   "Cannot Be Rooted",
+   "不会被定身"
+  ],
+  [
+   "lv0#28353/speciesTraits[98].displayName",
+   "Unholy Aura",
+   "不洁光环"
+  ],
+  [
+   "lv0#28353/speciesTraits[98].traitDetail",
+   "Wicked Scions are 50% vulnerable to Holy Damage and Effects.",
+   "邪恶子裔对神圣伤害及效果有 50% 易伤。"
+  ],
+  [
+   "lv0#28353/speciesTraits[98].traitInfo",
+   "Very Vulnerable to Holy",
+   "对神圣极脆弱"
+  ],
+  [
+   "lv0#28353/speciesTraits[99].displayName",
+   "Grounded",
+   "接地"
+  ],
+  [
+   "lv0#28353/speciesTraits[99].traitDetail",
+   "Wicked Scions are 75% resistant to Shock Damage.",
+   "邪恶子裔对电击伤害有 75% 抗性。"
+  ],
+  [
+   "lv0#28353/speciesTraits[99].traitInfo",
+   "Highly Resistant to Shock",
+   "对电击高度抗性"
+  ],
+  [
+   "lv0#28353/speciesTraits[9].displayName",
+   "Ignores Armor",
+   "无视护甲"
+  ],
+  [
+   "lv0#28353/speciesTraits[9].traitDetail",
+   "Slime Drops ignore 1 point of their target's Armor.",
+   "史莱姆滴无视目标 1 点护甲。"
+  ],
+  [
+   "lv0#28353/speciesTraits[9].traitInfo",
+   "Ignores Minor Armor",
+   "无视少量护甲"
+  ],
+  [
+   "lv0#28353/typeTraits[0].displayName",
+   "Defenseless In Daylight",
+   "白昼无防"
+  ],
+  [
+   "lv0#28353/typeTraits[0].traitDetail",
+   "Vermin have half of their normal defense during daylight hours. This does not apply when underground.",
+   "害兽在白昼时段的防御减半，身处地下时不适用。"
+  ],
+  [
+   "lv0#28353/typeTraits[0].traitInfo",
+   "Half Defense in Daylight.",
+   "白昼时防御减半。"
+  ],
+  [
+   "lv0#28353/typeTraits[10].displayName",
+   "Vulnerable To Cold",
+   "惧怕寒冷"
+  ],
+  [
+   "lv0#28353/typeTraits[10].traitDetail",
+   "Slimes are 75% vulnerable to Ice damage.",
+   "史莱姆对冰霜伤害有 75% 易伤。"
+  ],
+  [
+   "lv0#28353/typeTraits[10].traitInfo",
+   "Highly Vulnerable to Ice Damage",
+   "对冰霜伤害高度易伤"
+  ],
+  [
+   "lv0#28353/typeTraits[11].displayName",
+   "Vulnerable To Wood",
+   "惧怕木质"
+  ],
+  [
+   "lv0#28353/typeTraits[11].traitDetail",
+   "Slimes take double damage from wooden weapons. If they are resistant to that weapon's damage type they take full damage instead.",
+   "史莱姆受到木质武器的伤害翻倍。若其对这类武器的伤害类型有抗性，则改为承受全额伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[11].traitInfo",
+   "Extra Vulnerable To Wooden Weapons",
+   "对木质武器格外脆弱"
+  ],
+  [
+   "lv0#28353/typeTraits[12].displayName",
+   "Natural Armor",
+   "天生护甲"
+  ],
+  [
+   "lv0#28353/typeTraits[12].traitDetail",
+   "Arthropods gain natural armor equal to half their level.",
+   "节肢动物获得等同其等级一半的天生护甲。"
+  ],
+  [
+   "lv0#28353/typeTraits[12].traitInfo",
+   "High Natural Armor Rating",
+   "天生护甲值高"
+  ],
+  [
+   "lv0#28353/typeTraits[13].displayName",
+   "Natural Armor",
+   "天生护甲"
+  ],
+  [
+   "lv0#28353/typeTraits[13].traitDetail",
+   "Arthropods gain natural armor equal to half their level.",
+   "节肢动物获得等同其等级一半的天生护甲。"
+  ],
+  [
+   "lv0#28353/typeTraits[13].traitInfo",
+   "High Natural Armor Rating",
+   "天生护甲值高"
+  ],
+  [
+   "lv0#28353/typeTraits[14].displayName",
+   "Vulnerable To Blunt",
+   "惧怕钝击"
+  ],
+  [
+   "lv0#28353/typeTraits[14].traitDetail",
+   "Athropods have a 25% vulnerability to Blunt weapons.",
+   "节肢动物对钝击武器有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/typeTraits[14].traitInfo",
+   "Vulnerable To Blunt Damage",
+   "对钝击伤害易伤"
+  ],
+  [
+   "lv0#28353/typeTraits[15].displayName",
+   "Vulnerable To Blunt",
+   "惧怕钝击"
+  ],
+  [
+   "lv0#28353/typeTraits[15].traitDetail",
+   "Mollusks have a 25% vulnerability to Blunt weapons.",
+   "软体动物对钝击武器有 25% 易伤。"
+  ],
+  [
+   "lv0#28353/typeTraits[15].traitInfo",
+   "Vulnerable To Blunt Damage",
+   "对钝击伤害易伤"
+  ],
+  [
+   "lv0#28353/typeTraits[16].displayName",
+   "Resist Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/typeTraits[16].traitDetail",
+   "Arthropods resist 25% of Piercing Damage.",
+   "节肢动物抵抗 25% 的穿刺伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[16].traitInfo",
+   "Resistant To Piercing Damage",
+   "对穿刺伤害有抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[17].displayName",
+   "Resist Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/typeTraits[17].traitDetail",
+   "Mollusks resist 25% of Piercing Damage.",
+   "软体动物抵抗 25% 的穿刺伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[17].traitInfo",
+   "Resistant To Piercing Damage",
+   "对穿刺伤害有抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[18].displayName",
+   "Resist Slashing",
+   "抗挥砍"
+  ],
+  [
+   "lv0#28353/typeTraits[18].traitDetail",
+   "Arthropods resist 25% of Slashing Damage.",
+   "节肢动物抵抗 25% 的挥砍伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[18].traitInfo",
+   "Resistant To Slashing Damage",
+   "对挥砍伤害有抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[19].displayName",
+   "Resist Slashing",
+   "抗挥砍"
+  ],
+  [
+   "lv0#28353/typeTraits[19].traitDetail",
+   "Mollusks resist 25% of Slashing Damage.",
+   "软体动物抵抗 25% 的挥砍伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[19].traitInfo",
+   "Resistant To Slashing Damage",
+   "对挥砍伤害有抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[1].displayName",
+   "Strength In Numbers",
+   "人多势众"
+  ],
+  [
+   "lv0#28353/typeTraits[1].traitDetail",
+   "Vermin do 30% more damage for each adjacent Vermin.",
+   "每有一名相邻的害兽，害兽造成的伤害提高 30%。"
+  ],
+  [
+   "lv0#28353/typeTraits[1].traitInfo",
+   "Each Adjacent Vermin Adds Damage",
+   "每名相邻害兽都提高伤害"
+  ],
+  [
+   "lv0#28353/typeTraits[20].displayName",
+   "Vulnerable To Hammers",
+   "惧怕锤类"
+  ],
+  [
+   "lv0#28353/typeTraits[20].traitDetail",
+   "Arthropods are 50% vulnerable to attacks from Hammers. This stacks with other vulnerabilities and resistances.",
+   "节肢动物对锤类攻击有 50% 易伤。该易伤与其他易伤及抗性叠加。"
+  ],
+  [
+   "lv0#28353/typeTraits[20].traitInfo",
+   "Very Vulnerable To Hammers",
+   "对锤类极脆弱"
+  ],
+  [
+   "lv0#28353/typeTraits[21].displayName",
+   "Vulnerable To Hammers",
+   "惧怕锤类"
+  ],
+  [
+   "lv0#28353/typeTraits[21].traitDetail",
+   "Mollusks are 50% vulnerable to attacks from Hammers. This stacks with other vulnerabilities and resistances.",
+   "软体动物对锤类攻击有 50% 易伤。该易伤与其他易伤及抗性叠加。"
+  ],
+  [
+   "lv0#28353/typeTraits[21].traitInfo",
+   "Very Vulnerable To Hammers",
+   "对锤类极脆弱"
+  ],
+  [
+   "lv0#28353/typeTraits[22].displayName",
+   "Moon Bound",
+   "月之束缚"
+  ],
+  [
+   "lv0#28353/typeTraits[22].traitDetail",
+   "If all three moons are up, Aberrations take damage every round.",
+   "若三轮月亮同时升起，异变体每轮都会受到伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[22].traitInfo",
+   "Takes Continual Damage If All Three Moons Are Up",
+   "三轮月同升时持续受创"
+  ],
+  [
+   "lv0#28353/typeTraits[23].displayName",
+   "Arcane Spirit",
+   "奥术之灵"
+  ],
+  [
+   "lv0#28353/typeTraits[23].traitDetail",
+   "Aberrations are 50% Magic Resistant",
+   "异变体对魔法有 50% 抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[23].traitInfo",
+   "Highly Resistant to Magic",
+   "对魔法高度抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[24].displayName",
+   "Veinless",
+   "无脉"
+  ],
+  [
+   "lv0#28353/typeTraits[24].traitDetail",
+   "All Constructs are Immune to Poison.",
+   "所有构装体免疫毒素。"
+  ],
+  [
+   "lv0#28353/typeTraits[24].traitInfo",
+   "Immune To Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/typeTraits[25].displayName",
+   "Unstably Charged",
+   "电荷不稳"
+  ],
+  [
+   "lv0#28353/typeTraits[25].traitDetail",
+   "Nearby allies take 50% of Shock damage dealt to this creature.",
+   "附近盟友会分担这只生物所受电击伤害的 50%。"
+  ],
+  [
+   "lv0#28353/typeTraits[25].traitInfo",
+   "Shock Damage Spreads to Adjacent Allies",
+   "电击伤害会波及相邻盟友"
+  ],
+  [
+   "lv0#28353/typeTraits[26].displayName",
+   "Guardian of Silver",
+   "白银守望"
+  ],
+  [
+   "lv0#28353/typeTraits[26].traitDetail",
+   "Wyrms are immune to damage done by silver.",
+   "巨龙免疫白银造成的伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[26].traitInfo",
+   "Resist All Damage By Silver Weapons",
+   "抵抗白银武器的全部伤害"
+  ],
+  [
+   "lv0#28353/typeTraits[27].displayName",
+   "Primordial Weakness",
+   "本源弱点"
+  ],
+  [
+   "lv0#28353/typeTraits[27].traitDetail",
+   "All Elementals take 2x damage from weapons made from Corundum.",
+   "所有元素生物受到刚玉武器造成的双倍伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[27].traitInfo",
+   "Extremely Vulnerable to Corundum Weapons",
+   "对刚玉武器极端易伤"
+  ],
+  [
+   "lv0#28353/typeTraits[28].displayName",
+   "Bloodless",
+   "无血"
+  ],
+  [
+   "lv0#28353/typeTraits[28].traitDetail",
+   "All Elementals are 50% Resistant to Poison.",
+   "所有元素生物对毒素有 50% 抗性。"
+  ],
+  [
+   "lv0#28353/typeTraits[28].traitInfo",
+   "Very Resistant To Poison",
+   "对毒素很强抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[29].displayName",
+   "Born Of Magic",
+   "魔法所生"
+  ],
+  [
+   "lv0#28353/typeTraits[29].traitDetail",
+   "All Fae are 60% resistant to Magic.",
+   "所有妖精对魔法有 60% 抗性。"
+  ],
+  [
+   "lv0#28353/typeTraits[29].traitInfo",
+   "Highly Resistant to Magic",
+   "对魔法高度抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[2].displayName",
+   "Vulnerable To Silver",
+   "惧怕白银"
+  ],
+  [
+   "lv0#28353/typeTraits[2].traitDetail",
+   "Undead take double damage from silver weapons if they have no resistance to that weapon's damage type. If they do resist that damage type, they take normal damage.",
+   "亡灵若对白银武器的伤害类型没有抗性，则受到双倍伤害；若其对该伤害类型有抗性，则承受正常伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[2].traitInfo",
+   "Extra Vulnerable to Silver Weapons",
+   "对白银武器格外脆弱"
+  ],
+  [
+   "lv0#28353/typeTraits[30].displayName",
+   "Painful Craze",
+   "痛极而狂"
+  ],
+  [
+   "lv0#28353/typeTraits[30].traitDetail",
+   "Goblinoids gain 10 Strength when on Fire.",
+   "哥布林类着火时获得 10 点力量。"
+  ],
+  [
+   "lv0#28353/typeTraits[30].traitInfo",
+   "Enraged by Fire",
+   "遭火而狂"
+  ],
+  [
+   "lv0#28353/typeTraits[3].displayName",
+   "Immune To Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/typeTraits[3].traitDetail",
+   "All Undead are Immune to Poison damage and effects.",
+   "所有亡灵免疫毒素伤害及效果。"
+  ],
+  [
+   "lv0#28353/typeTraits[3].traitInfo",
+   "Immune To Poison",
+   "免疫毒素"
+  ],
+  [
+   "lv0#28353/typeTraits[4].displayName",
+   "Fearless",
+   "无畏"
+  ],
+  [
+   "lv0#28353/typeTraits[4].traitDetail",
+   "All Undead are Immune to Fear effects unless they are Holy in nature.",
+   "所有亡灵免疫恐惧效果，除非其本质为神圣。"
+  ],
+  [
+   "lv0#28353/typeTraits[4].traitInfo",
+   "Immune to Fear",
+   "免疫恐惧"
+  ],
+  [
+   "lv0#28353/typeTraits[5].displayName",
+   "Vulnerable To Holy",
+   "惧怕神圣"
+  ],
+  [
+   "lv0#28353/typeTraits[5].traitDetail",
+   "Undead have no resistance to Holy damage.",
+   "亡灵对神圣伤害没有抗性。"
+  ],
+  [
+   "lv0#28353/typeTraits[5].traitInfo",
+   "Vulnerable to Holy Damage",
+   "对神圣伤害易伤"
+  ],
+  [
+   "lv0#28353/typeTraits[6].displayName",
+   "Avoids Hallowed Ground",
+   "避开圣地"
+  ],
+  [
+   "lv0#28353/typeTraits[6].traitDetail",
+   "Undead will avoid entering Holy areas, such as Holy wards. Entering these areas, willingly or not, will deal Holy damage.",
+   "亡灵会避开神圣区域，例如神圣结界。无论自愿与否，踏入这些区域都会受到神圣伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[6].traitInfo",
+   "Avoids Holy Areas",
+   "避开神圣区域"
+  ],
+  [
+   "lv0#28353/typeTraits[7].displayName",
+   "Sunbane",
+   "畏日"
+  ],
+  [
+   "lv0#28353/typeTraits[7].traitDetail",
+   "The Undead fear the sun, and have half their maximum Hit Points above ground during daylight hours.",
+   "亡灵畏惧太阳：在地表的白昼时段，其最大生命值减半。"
+  ],
+  [
+   "lv0#28353/typeTraits[7].traitInfo",
+   "Sunlight Reduces MaxHP",
+   "阳光削减最大生命"
+  ],
+  [
+   "lv0#28353/typeTraits[8].displayName",
+   "Resist Piercing",
+   "抗穿刺"
+  ],
+  [
+   "lv0#28353/typeTraits[8].traitDetail",
+   "Slimes resist 60% of Piercing damage, making many ranged weapons far less effective.",
+   "史莱姆抵抗 60% 的穿刺伤害，使许多远程武器效果大打折扣。"
+  ],
+  [
+   "lv0#28353/typeTraits[8].traitInfo",
+   "Highly Resistant to Piercing Damage",
+   "对穿刺伤害高度抗性"
+  ],
+  [
+   "lv0#28353/typeTraits[9].displayName",
+   "Resist Poison",
+   "抗毒"
+  ],
+  [
+   "lv0#28353/typeTraits[9].traitDetail",
+   "Slimes resist 25% of Poison damage.",
+   "史莱姆抵抗 25% 的毒素伤害。"
+  ],
+  [
+   "lv0#28353/typeTraits[9].traitInfo",
+   "Resistant to Poison Damage",
+   "对毒素伤害有抗性"
+  ]
+ ]
+}

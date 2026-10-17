@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "kind": "对话/BhulownConversation",
+  "count": 61,
+  "with_cn": 61
+ },
+ "entries": [
+  [
+   "sa0#10640/whatIHaveToSay[0]",
+   "corundum",
+   "Protect from Goblin. Goblin make war with this. Make Goblin strong.",
+   "防哥布林。哥布林，拿它打仗。哥布林，会变强。"
+  ],
+  [
+   "sa0#10651/whatIHaveToSay[0]",
+   "Merewen",
+   "Female? Is warrior? How carry eggs, fight, same time?",
+   "雌的？还是战士？怎么一边背卵，一边打仗？"
+  ],
+  [
+   "sa0#10698/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Not know about this. Why ask so many words? If human not know human word, why Scaphin know!?",
+   "不知道这个。为什么问这么多话？人类都不知道人类词，斯卡芬，怎么会知道！？"
+  ],
+  [
+   "sa0#10705/whatIHaveToSay[0]",
+   "dark lord",
+   "Ruin Scaphin! Is dead, but leave ruin! Must not drink of deep cave. It taste good. It tempt. It change. Must not drink.",
+   "毁了斯卡芬！他死了，可留下了祸害！千万别喝深洞里的水。它味道好。它诱人。它改变你。千万别喝。"
+  ],
+  [
+   "sa0#10727/whatIHaveToSay[0]",
+   "blue light",
+   "Summjah... sometime cave wall have light, but this not what you speak. Something else?",
+   "苏姆贾……有时洞壁有光，但你说的不是这个。别的东西？"
+  ],
+  [
+   "sa0#10730/whatIHaveToSay[0]",
+   "silver",
+   "Goblin seek. All metal Goblin want, even no skill to make still want.",
+   "哥布林，要找。所有金属，哥布林，都想要——没本事打造，也照样想要。"
+  ],
+  [
+   "sa0#10756/whatIHaveToSay[0]",
+   "Bhulown",
+   "Scaphin not want this, but # now see have value. Wish to understand this.",
+   "斯卡芬本不要这个，可 # 如今看出它有价值。想弄懂它。"
+  ],
+  [
+   "sa0#10769/whatIHaveToSay[0]",
+   "Agmarians",
+   "Long time see. Many cycle not see. Maybe no more? Maybe hide from human like Scaphin. Human like take all for self. All can be like such. Even Scaphin.",
+   "许久不见。许多轮没见。也许再没有了？也许像斯卡芬，躲着人类。人类喜欢把一切都据为己有。谁都会这样。斯卡芬，也不例外。"
+  ],
+  [
+   "sa0#10781/whatIHaveToSay[0]",
+   "Codex",
+   "Keh... type of... snail?",
+   "咳……某种……蜗牛？"
+  ],
+  [
+   "sa0#10794/options[0].text",
+   "Woodcutter ***",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#10794/options[10].text",
+   "Woodcutter ***",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#10794/options[11].text",
+   "Woodcutter ***",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#10794/options[12].text",
+   "Woodcutter ***",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#10794/options[13].text",
+   "Woodcutter ***",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#10794/options[14].text",
+   "Woodcutter ***",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "sa0#10794/options[15].text",
+   "Woodcutter ***",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#10794/options[16].text",
+   "Woodcutter ***",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "sa0#10794/options[17].text",
+   "Woodcutter ***",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#10794/options[18].text",
+   "Woodcutter ***",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#10794/options[19].text",
+   "Woodcutter ***",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#10794/options[1].text",
+   "Woodcutter ***",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#10794/options[20].text",
+   "Woodcutter ***",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#10794/options[2].text",
+   "Woodcutter ***",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#10794/options[3].text",
+   "Woodcutter ***",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#10794/options[4].text",
+   "Woodcutter ***",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#10794/options[5].text",
+   "Woodcutter ***",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#10794/options[6].text",
+   "Woodcutter ***",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#10794/options[7].text",
+   "Woodcutter ***",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#10794/options[8].text",
+   "Woodcutter ***",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#10794/options[9].text",
+   "Woodcutter ***",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#10802/whatIHaveToSay[0]",
+   "wild boar",
+   "Is animal? Food yes?",
+   "是动物？能吃吗？"
+  ],
+  [
+   "sa0#10804/whatIHaveToSay[0]",
+   "Shione",
+   "Teach sounds. Want understand stick noise. Scaphin make noise too. *croak*",
+   "教声音。想懂棍子声。斯卡芬，也发声。*呱*"
+  ],
+  [
+   "sa0#10806/whatIHaveToSay[0]",
+   "Bhulown",
+   "Summjah... self talk healthy? Not know. Talk anyways. Hello self.",
+   "苏姆贾……自言自语健康吗？不知道。总之说就是了。你好，自己。"
+  ],
+  [
+   "sa0#11522/whatIHaveToSay[0]",
+   "dimension",
+   "Mind expand from thinking this. If new dimension, then more dimension not yet find?",
+   "想这个，脑袋会撑大。如果还有一个次元，那是不是还有没找到的次元？"
+  ],
+  [
+   "sa0#11540/whatIHaveToSay[0]",
+   "librarian",
+   "Do not know. Do not care.",
+   "不知道。不在乎。"
+  ],
+  [
+   "sa0#11553/whatIHaveToSay[0]",
+   "Laszra",
+   "More cloth than others. Even his cloth wear cloth. Make it has sense!",
+   "布比别人多。连他的布都穿着布。让它有点道理！"
+  ],
+  [
+   "sa0#11560/whatIHaveToSay[0]",
+   "Lannon",
+   "You lead. Are king? Prince? How then you lead? Wish to understand new thing. Summjah...",
+   "你带队。是国王？是王子？那你怎么带队？想弄懂新东西。苏姆贾……"
+  ],
+  [
+   "sa0#11562/whatIHaveToSay[0]",
+   "book",
+   "Thin wood stack not bring joy. But... near you... feel wood stack speak. Summjah...",
+   "薄薄的木头叠在一起，不让人开心。可……靠近你……感觉木头叠在说话。苏姆贾……"
+  ],
+  [
+   "sa0#11574/whatIHaveToSay[0]",
+   "job",
+   "Is king son. One day king? King not think so. Me not think so. Want see world. Want sky not rocks only. Can such be king?",
+   "是国王的儿子。有一天会当国王？国王不这么想。我也不这么想。想看看世界。想看天空，不只有石头。这样也能当国王吗？"
+  ],
+  [
+   "sa0#11582/whatIHaveToSay[0]",
+   "graveyard",
+   "Humans collect dead. Put together, like family. Why? Scaphin use bone to keep family close. Make club, shield, spoon.",
+   "人类收集死者。摆在一起，像家人。为什么？斯卡芬用骨头，让家人不分离。做成棍子、盾、勺子。"
+  ],
+  [
+   "sa0#11592/whatIHaveToSay[0]",
+   "fog",
+   "Moist good. Humans not like moist? Keh? Is good for skin.",
+   "潮湿好。人类不喜欢潮湿？咳？对皮肤好。"
+  ],
+  [
+   "sa0#11597/whatIHaveToSay[0]",
+   "Scaphin",
+   "Scaphin live side human for many cycle. Once enemy, then friend, then enemy. Always cycle. Maybe stay friend?",
+   "斯卡芬和人类做了许多轮的邻居。先当敌人，再当朋友，再当敌人。总是轮回。也许这次一直做朋友？"
+  ],
+  [
+   "sa0#11615/whatIHaveToSay[0]",
+   "caves",
+   "Caves home. Stay moist. Caves go deep. Never end of how deep. Can there be such thing as no end? Maybe cave end. Maybe not.",
+   "洞穴是家。保持潮湿。洞穴很深。深得没有尽头。真有无穷无尽这种说法吗？也许洞有尽头。也许没有。"
+  ],
+  [
+   "sa0#11620/options[0].text",
+   "Bhulown",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11620/options[1].text",
+   "Bhulown",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11620/options[2].text",
+   "Bhulown",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11620/options[3].text",
+   "Bhulown",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11620/options[4].text",
+   "Bhulown",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11620/options[5].text",
+   "Bhulown",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11620/options[6].text",
+   "Bhulown",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11620/options[7].text",
+   "Bhulown",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11620/options[8].text",
+   "Bhulown",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11620/options[9].text",
+   "Bhulown",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11622/whatIHaveToSay[0]",
+   "Emerisk",
+   "Is above name? Want see not rock sky. Want see Emerisk. Is more than Emerisk? How far sky go?",
+   "上面有名字？想看不是岩石的天空。想看埃梅里斯克。比埃梅里斯克更多吗？天空能到多远？"
+  ],
+  [
+   "sa0#11629/whatIHaveToSay[0]",
+   "Renault",
+   "You Renault? Renault friend? What this Renault? Who this Renault? Human name strange.",
+   "你是雷诺？雷诺，是朋友？这个雷诺，是什么？这个雷诺，是谁？人类名字真怪。"
+  ],
+  [
+   "sa0#11660/whatIHaveToSay[0]",
+   "Arbo",
+   "Animal is friend? This thing new.",
+   "动物是朋友？这事新鲜。"
+  ],
+  [
+   "sa0#11662/whatIHaveToSay[0]",
+   "Rycard",
+   "Keh? Head grow ornament, like Scaphin... but... like horse?",
+   "咳？头上长了装饰，像斯卡芬……可……像马？"
+  ],
+  [
+   "sa0#11693/whatIHaveToSay[0]",
+   "Airendal",
+   "Gourah! It speak!",
+   "咕啦！它会说话！"
+  ],
+  [
+   "sa0#11699/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Strong like Scaphin.",
+   "强壮，像斯卡芬。"
+  ],
+  [
+   "sa0#11701/whatIHaveToSay[0]",
+   "Goblins",
+   "Gourah! You know this? Is dangerous. Seek only greed, destroy. Can Goblin ever good? Summjah...",
+   "咕啦！你认得它？它危险。只求贪欲，只会破坏。哥布林，能有好的一天吗？苏姆贾……"
+  ],
+  [
+   "sa0#11714/whatIHaveToSay[0]",
+   "Dimas",
+   "Saw enter spider lair. Unwise. Glad safe now.",
+   "看见你进了蜘蛛窝。不聪明。幸好现在平安。"
+  ]
+ ]
+}

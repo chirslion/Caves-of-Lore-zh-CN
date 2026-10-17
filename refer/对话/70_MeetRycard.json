@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "kind": "对话/MeetRycard",
+  "count": 21,
+  "with_cn": 21
+ },
+ "entries": [
+  [
+   "sa22#13/whatIHaveToSay[0]",
+   "Merewen",
+   "Come on then. @ and I already have an arrangement.",
+   "那就来吧。@ 和我早有约定。"
+  ],
+  [
+   "sa22#14/whatIHaveToSay[0]",
+   "Rycard",
+   "Can I be blamed? It's lonely down here.",
+   "能怪我吗？这下面多孤单啊。"
+  ],
+  [
+   "sa22#17/whatIHaveToSay[0]",
+   "Stranger",
+   "You mean your mission.",
+   "你是说你的使命吧。"
+  ],
+  [
+   "sa22#17/whatIHaveToSay[1]",
+   "Stranger",
+   "My name is...",
+   "我叫……"
+  ],
+  [
+   "sa22#19/whatIHaveToSay[0]",
+   "Merewen",
+   "As does your need for endless conversation.",
+   "你对没完没了聊天的需求也一样。"
+  ],
+  [
+   "sa22#21/whatIHaveToSay[0]",
+   "Merewen",
+   "You just said you wanted to be here.",
+   "你刚还说你想待在这里。"
+  ],
+  [
+   "sa22#3/whatIHaveToSay[0]",
+   "Rycard",
+   "Why not? I have had little success in this part of the cave.",
+   "有何不可？在这一带洞穴里，我可没什么收获。"
+  ],
+  [
+   "sa22#31/whatIHaveToSay[0]",
+   "Merewen",
+   "I was focused on the book. Do not forget our mission.",
+   "我方才专注在那本书上。别忘了我们的使命。"
+  ],
+  [
+   "sa22#32/whatIHaveToSay[0]",
+   "Stranger",
+   "Welcome traveller! I see that you've met @. I'm sure she mentioned me.",
+   "欢迎，旅人！看来你见过 @ 了。她一定提起过我。"
+  ],
+  [
+   "sa22#33/whatIHaveToSay[0]",
+   "Lannon",
+   "Well, no she didn't.",
+   "嗯，并没有。"
+  ],
+  [
+   "sa22#38/whatIHaveToSay[0]",
+   "Rycard",
+   "You shall soon see for yourself friend, since we are trapped down here.",
+   "你很快就会亲眼见到，朋友——反正我们都困在这下面了。"
+  ],
+  [
+   "sa22#38/whatIHaveToSay[1]",
+   "Rycard",
+   "I have killed many of these rodents of peculiar size, but my need to slay goes unsatisfied.",
+   "这些个头古怪的啮齿动物，我已杀了不少，可我的杀戮之欲仍未餍足。"
+  ],
+  [
+   "sa22#4/whatIHaveToSay[0]",
+   "Rycard",
+   "@ and I have been down here for as long as I can remember.",
+   "打我记事起，@ 和我就在这下面了。"
+  ],
+  [
+   "sa22#4/whatIHaveToSay[1]",
+   "Rycard",
+   "Let me guess, you remember very little as well, yet are still driven towards some end?",
+   "让我猜猜，你也记不得多少，却仍被某种目标驱动着？"
+  ],
+  [
+   "sa22#4/whatIHaveToSay[2]",
+   "Rycard",
+   "You probably wish to escape this place, but I came here to slay a monster.",
+   "你大概想逃离这里，可我来此，是为了斩杀一头怪物。"
+  ],
+  [
+   "sa22#4/whatIHaveToSay[3]",
+   "Rycard",
+   "Also, I might have dropped the door key over the ledge.",
+   "另外，我可能把门钥匙掉到崖沿下面去了。"
+  ],
+  [
+   "sa22#40/whatIHaveToSay[0]",
+   "Lannon",
+   "Maybe you two can sort out your personal problems without me present.",
+   "也许你们俩的私人问题，可以不必当着我解决。"
+  ],
+  [
+   "sa22#40/whatIHaveToSay[1]",
+   "Lannon",
+   "This is still a dangerous place. Perhaps we can help each other.",
+   "这里毕竟仍是个危险的地方。也许我们可以互相帮衬。"
+  ],
+  [
+   "sa22#41/whatIHaveToSay[0]",
+   "Lannon",
+   "Yes, let us call it that.",
+   "好，那就这么叫吧。"
+  ],
+  [
+   "sa22#42/whatIHaveToSay[0]",
+   "Lannon",
+   "I have seen many large animals here, but monsters... do such things even exist?",
+   "这地方的大型动物我见过不少，可怪物……真有这种东西吗？"
+  ],
+  [
+   "sa22#44/whatIHaveToSay[0]",
+   "Arbo",
+   "*Woof!*",
+   "*汪！*"
+  ]
+ ]
+}

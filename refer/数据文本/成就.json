@@ -1,0 +1,689 @@
+{
+ "meta": {
+  "kind": "数据/成就",
+  "count": 136,
+  "with_cn": 136
+ },
+ "entries": [
+  [
+   "lv0#23572/allAchievements[0].displayName",
+   "Wanderer",
+   "漫步者"
+  ],
+  [
+   "lv0#23572/allAchievements[0].displayRequirements",
+   "Walk 1000 steps.",
+   "行走 1000 步。"
+  ],
+  [
+   "lv0#23572/allAchievements[10].displayName",
+   "The Green Hermit",
+   "绿隐士"
+  ],
+  [
+   "lv0#23572/allAchievements[10].displayRequirements",
+   "Find the Green Hermit.",
+   "找到绿隐士。"
+  ],
+  [
+   "lv0#23572/allAchievements[11].displayName",
+   "Verbose",
+   "滔滔不绝"
+  ],
+  [
+   "lv0#23572/allAchievements[11].displayRequirements",
+   "Learn all Topic Words from speaking to characters.",
+   "通过与角色交谈学会所有话题词。"
+  ],
+  [
+   "lv0#23572/allAchievements[12].displayName",
+   "Chatty",
+   "健谈"
+  ],
+  [
+   "lv0#23572/allAchievements[12].displayRequirements",
+   "Hear every unique conversation from playable characters and NPCs.",
+   "听遍可操作角色与 NPC 的每一段独特对话。"
+  ],
+  [
+   "lv0#23572/allAchievements[13].displayName",
+   "You Monster!",
+   "你这怪物！"
+  ],
+  [
+   "lv0#23572/allAchievements[13].displayRequirements",
+   "Break all of Callor's pottery.",
+   "打碎卡洛尔的所有陶器。"
+  ],
+  [
+   "lv0#23572/allAchievements[14].displayName",
+   "Remote Mining",
+   "远程采矿"
+  ],
+  [
+   "lv0#23572/allAchievements[14].displayRequirements",
+   "Mine an Ore that is out of reach.",
+   "采到一处够不到的矿石。"
+  ],
+  [
+   "lv0#23572/allAchievements[15].displayName",
+   "Ancient Blessings",
+   "远古祝福"
+  ],
+  [
+   "lv0#23572/allAchievements[15].displayRequirements",
+   "Find all Stat increasing Obelisks.",
+   "找到所有提升属性的方尖碑。"
+  ],
+  [
+   "lv0#23572/allAchievements[16].displayName",
+   "Touched at an Angle",
+   "天使之触"
+  ],
+  [
+   "lv0#23572/allAchievements[16].displayRequirements",
+   "Activate all Angel Statues.",
+   "激活所有天使雕像。"
+  ],
+  [
+   "lv0#23572/allAchievements[17].displayName",
+   "Super Sleuth",
+   "超级神探"
+  ],
+  [
+   "lv0#23572/allAchievements[17].displayRequirements",
+   "Find every secret in the game.",
+   "找到游戏中的每一个秘密。"
+  ],
+  [
+   "lv0#23572/allAchievements[18].displayName",
+   "Adventurous Palate",
+   "大胆胃口"
+  ],
+  [
+   "lv0#23572/allAchievements[18].displayRequirements",
+   "Milk a non-bovine creature.",
+   "挤取一种非牛生物的奶。"
+  ],
+  [
+   "lv0#23572/allAchievements[19].displayName",
+   "Brew Master",
+   "酿造大师"
+  ],
+  [
+   "lv0#23572/allAchievements[19].displayRequirements",
+   "Craft every type of Potion.",
+   "制作每一种药水。"
+  ],
+  [
+   "lv0#23572/allAchievements[1].displayName",
+   "Nomad",
+   "游牧者"
+  ],
+  [
+   "lv0#23572/allAchievements[1].displayRequirements",
+   "Walk 10000 steps.",
+   "行走 10000 步。"
+  ],
+  [
+   "lv0#23572/allAchievements[20].displayName",
+   "To The Moon!",
+   "直达月球！"
+  ],
+  [
+   "lv0#23572/allAchievements[20].displayRequirements",
+   "Visit all the moons.",
+   "造访所有月亮。"
+  ],
+  [
+   "lv0#23572/allAchievements[21].displayName",
+   "Errand Boy",
+   "跑腿小弟"
+  ],
+  [
+   "lv0#23572/allAchievements[21].displayRequirements",
+   "Complete all Quests.",
+   "完成所有任务。"
+  ],
+  [
+   "lv0#23572/allAchievements[22].displayName",
+   "Lapidary",
+   "宝石匠"
+  ],
+  [
+   "lv0#23572/allAchievements[22].displayRequirements",
+   "Find every Gem through mining Ore.",
+   "通过开采矿石找到每一种宝石。"
+  ],
+  [
+   "lv0#23572/allAchievements[23].displayName",
+   "Life Imitates Art",
+   "生活模仿艺术"
+  ],
+  [
+   "lv0#23572/allAchievements[23].displayRequirements",
+   "Decalcify all the monsters in the Bleak Halls.",
+   "对凄凉厅堂中的所有怪物施放「脱钙」。"
+  ],
+  [
+   "lv0#23572/allAchievements[24].displayName",
+   "All Your Ores Are Mine",
+   "你的矿都是我的"
+  ],
+  [
+   "lv0#23572/allAchievements[24].displayRequirements",
+   "Find every ore deposit in the game.",
+   "找到游戏中的每一处矿床。"
+  ],
+  [
+   "lv0#23572/allAchievements[25].displayName",
+   "Legend Seeker",
+   "传说追寻者"
+  ],
+  [
+   "lv0#23572/allAchievements[25].displayRequirements",
+   "Find all Unique Weapons.",
+   "找到所有唯一武器。"
+  ],
+  [
+   "lv0#23572/allAchievements[26].displayName",
+   "Obliterator",
+   "湮灭者"
+  ],
+  [
+   "lv0#23572/allAchievements[26].displayRequirements",
+   "Deal 500 Damage in a single attack.",
+   "单次攻击造成 500 点伤害。"
+  ],
+  [
+   "lv0#23572/allAchievements[27].displayName",
+   "Damage Sponge",
+   "伤害海绵"
+  ],
+  [
+   "lv0#23572/allAchievements[27].displayRequirements",
+   "Take 50,000 total Damage.",
+   "累计承受 50,000 点伤害。"
+  ],
+  [
+   "lv0#23572/allAchievements[28].displayName",
+   "Meat Grinder",
+   "绞肉机"
+  ],
+  [
+   "lv0#23572/allAchievements[28].displayRequirements",
+   "Deal 200,000 total Damage.",
+   "累计造成 200,000 点伤害。"
+  ],
+  [
+   "lv0#23572/allAchievements[29].displayName",
+   "Isn't It Ironic?",
+   "讽刺吗？"
+  ],
+  [
+   "lv0#23572/allAchievements[29].displayRequirements",
+   "Petrify an Occulant.",
+   "石化一只视者。"
+  ],
+  [
+   "lv0#23572/allAchievements[2].displayName",
+   "Traveler",
+   "旅行者"
+  ],
+  [
+   "lv0#23572/allAchievements[2].displayRequirements",
+   "Walk 50000 steps.",
+   "行走 50000 步。"
+  ],
+  [
+   "lv0#23572/allAchievements[30].displayName",
+   "Hardcore Survivor",
+   "硬核幸存者"
+  ],
+  [
+   "lv0#23572/allAchievements[30].displayRequirements",
+   "Win the game without any characters dying.",
+   "在没有任何角色死亡的情况下通关。"
+  ],
+  [
+   "lv0#23572/allAchievements[31].displayName",
+   "Indomitable",
+   "不屈"
+  ],
+  [
+   "lv0#23572/allAchievements[31].displayRequirements",
+   "Begin and finish the game on Nightmare Difficulty without changing it.",
+   "在「梦魇」难度下从头到尾通关，且中途不更改难度。"
+  ],
+  [
+   "lv0#23572/allAchievements[32].displayName",
+   "Eidetic Memory",
+   "过目不忘"
+  ],
+  [
+   "lv0#23572/allAchievements[32].displayRequirements",
+   "Have one character memorize every Spell that is found in a Spellbook.",
+   "让一名角色记忆法术书中记载的每一个法术。"
+  ],
+  [
+   "lv0#23572/allAchievements[33].displayName",
+   "Bibliophile",
+   "藏书家"
+  ],
+  [
+   "lv0#23572/allAchievements[33].displayRequirements",
+   "Obtain every book and note.",
+   "获得每一本书与便笺。"
+  ],
+  [
+   "lv0#23572/allAchievements[34].displayName",
+   "Multipotentialite",
+   "多面手"
+  ],
+  [
+   "lv0#23572/allAchievements[34].displayRequirements",
+   "Unlock every Trait associated with a Monster.",
+   "解锁与怪物关联的每一项特质。"
+  ],
+  [
+   "lv0#23572/allAchievements[35].displayName",
+   "Lore Master",
+   "学识大师"
+  ],
+  [
+   "lv0#23572/allAchievements[35].displayRequirements",
+   "Learn every monster Characteristic.",
+   "学会每一种怪物特征。"
+  ],
+  [
+   "lv0#23572/allAchievements[3].displayName",
+   "Making the Rounds",
+   "例行巡查"
+  ],
+  [
+   "lv0#23572/allAchievements[3].displayRequirements",
+   "Talk to every Guard in the game.",
+   "与游戏中的每一名卫兵交谈。"
+  ],
+  [
+   "lv0#23572/allAchievements[4].displayName",
+   "Making Friends",
+   "广结善缘"
+  ],
+  [
+   "lv0#23572/allAchievements[4].displayRequirements",
+   "Talk to every character in Kalindraur.",
+   "与卡林德劳尔的每一个角色交谈。"
+  ],
+  [
+   "lv0#23572/allAchievements[5].displayName",
+   "Getting to Know the Locals",
+   "熟识乡邻"
+  ],
+  [
+   "lv0#23572/allAchievements[5].displayRequirements",
+   "Talk to the Townsfolk in Emerisk.",
+   "与埃梅里斯克的镇民交谈。"
+  ],
+  [
+   "lv0#23572/allAchievements[6].displayName",
+   "Are Ya Yellow?",
+   "你怕了吗？"
+  ],
+  [
+   "lv0#23572/allAchievements[6].displayRequirements",
+   "Flee from combat 50 times.",
+   "从战斗中逃跑 50 次。"
+  ],
+  [
+   "lv0#23572/allAchievements[7].displayName",
+   "Butterfly Collector",
+   "蝴蝶收藏家"
+  ],
+  [
+   "lv0#23572/allAchievements[7].displayRequirements",
+   "Collect 50 Butterflies.",
+   "收集 50 只蝴蝶。"
+  ],
+  [
+   "lv0#23572/allAchievements[8].displayName",
+   "Au Naturel",
+   "原汁原味"
+  ],
+  [
+   "lv0#23572/allAchievements[8].displayRequirements",
+   "Win without Respeccing your Characters.",
+   "在从未洗点的情况下通关。"
+  ],
+  [
+   "lv0#23572/allAchievements[9].displayName",
+   "A Dog's World",
+   "狗狗的世界"
+  ],
+  [
+   "lv0#23572/allAchievements[9].displayRequirements",
+   "Talk to Tassie.",
+   "与 Tassie 交谈。"
+  ],
+  [
+   "res#63112/allAchievements[0].displayName",
+   "Wanderer",
+   "漫步者"
+  ],
+  [
+   "res#63112/allAchievements[0].displayRequirements",
+   "Walk 1000 steps.",
+   "行走 1000 步。"
+  ],
+  [
+   "res#63112/allAchievements[10].displayName",
+   "You Monster!",
+   "你这怪物！"
+  ],
+  [
+   "res#63112/allAchievements[10].displayRequirements",
+   "Break all of Callor's pottery.",
+   "打碎卡洛尔的所有陶器。"
+  ],
+  [
+   "res#63112/allAchievements[11].displayName",
+   "Ancient Blessings",
+   "远古祝福"
+  ],
+  [
+   "res#63112/allAchievements[11].displayRequirements",
+   "Find all Stat increasing Obelisks .",
+   "找到所有提升属性的方尖碑。"
+  ],
+  [
+   "res#63112/allAchievements[12].displayName",
+   "Touched at an Angle",
+   "天使之触"
+  ],
+  [
+   "res#63112/allAchievements[12].displayRequirements",
+   "Activate all Angel Statues.",
+   "激活所有天使雕像。"
+  ],
+  [
+   "res#63112/allAchievements[13].displayName",
+   "Super Sleuth",
+   "超级神探"
+  ],
+  [
+   "res#63112/allAchievements[13].displayRequirements",
+   "Find every secret in the game.",
+   "找到游戏中的每一个秘密。"
+  ],
+  [
+   "res#63112/allAchievements[14].displayName",
+   "Adventurous Palate",
+   "大胆胃口"
+  ],
+  [
+   "res#63112/allAchievements[14].displayRequirements",
+   "Milk a non-bovine creature.",
+   "挤取一种非牛生物的奶。"
+  ],
+  [
+   "res#63112/allAchievements[15].displayName",
+   "Brew Master",
+   "酿造大师"
+  ],
+  [
+   "res#63112/allAchievements[15].displayRequirements",
+   "Craft every type of Potion.",
+   "制作每一种药水。"
+  ],
+  [
+   "res#63112/allAchievements[16].displayName",
+   "To The Moon!",
+   "直达月球！"
+  ],
+  [
+   "res#63112/allAchievements[16].displayRequirements",
+   "Visit all the moons.",
+   "造访所有月亮。"
+  ],
+  [
+   "res#63112/allAchievements[17].displayName",
+   "Errand Boy",
+   "跑腿小弟"
+  ],
+  [
+   "res#63112/allAchievements[17].displayRequirements",
+   "Complete all Quests.",
+   "完成所有任务。"
+  ],
+  [
+   "res#63112/allAchievements[18].displayName",
+   "Lapidary",
+   "宝石匠"
+  ],
+  [
+   "res#63112/allAchievements[18].displayRequirements",
+   "Find every Gem through mining Ore.",
+   "通过开采矿石找到每一种宝石。"
+  ],
+  [
+   "res#63112/allAchievements[19].displayName",
+   "Life Imitates Art",
+   "生活模仿艺术"
+  ],
+  [
+   "res#63112/allAchievements[19].displayRequirements",
+   "Decalcify all the monsters in the Bleak Halls.",
+   "对凄凉厅堂中的所有怪物施放「脱钙」。"
+  ],
+  [
+   "res#63112/allAchievements[1].displayName",
+   "Nomad",
+   "游牧者"
+  ],
+  [
+   "res#63112/allAchievements[1].displayRequirements",
+   "Walk 10000 steps.",
+   "行走 10000 步。"
+  ],
+  [
+   "res#63112/allAchievements[20].displayName",
+   "All Your Ores Are Mine",
+   "你的矿都是我的"
+  ],
+  [
+   "res#63112/allAchievements[20].displayRequirements",
+   "Find every ore deposit in the game.",
+   "找到游戏中的每一处矿床。"
+  ],
+  [
+   "res#63112/allAchievements[21].displayName",
+   "Legend Seeker",
+   "传说追寻者"
+  ],
+  [
+   "res#63112/allAchievements[21].displayRequirements",
+   "Find all Unique Weapons.",
+   "找到所有唯一武器。"
+  ],
+  [
+   "res#63112/allAchievements[22].displayName",
+   "Obliterator",
+   "湮灭者"
+  ],
+  [
+   "res#63112/allAchievements[22].displayRequirements",
+   "Deal 500 Damage in a single attack.",
+   "单次攻击造成 500 点伤害。"
+  ],
+  [
+   "res#63112/allAchievements[23].displayName",
+   "Damage Sponge",
+   "伤害海绵"
+  ],
+  [
+   "res#63112/allAchievements[23].displayRequirements",
+   "Take 50,000 total Damage.",
+   "累计承受 50,000 点伤害。"
+  ],
+  [
+   "res#63112/allAchievements[24].displayName",
+   "Meat Grinder",
+   "绞肉机"
+  ],
+  [
+   "res#63112/allAchievements[24].displayRequirements",
+   "Deal 200,000 total Damage.",
+   "累计造成 200,000 点伤害。"
+  ],
+  [
+   "res#63112/allAchievements[25].displayName",
+   "Isn't It Ironic?",
+   "讽刺吗？"
+  ],
+  [
+   "res#63112/allAchievements[25].displayRequirements",
+   "Petrify an Occulant.",
+   "石化一只视者。"
+  ],
+  [
+   "res#63112/allAchievements[26].displayName",
+   "Hardcore Survivor",
+   "硬核幸存者"
+  ],
+  [
+   "res#63112/allAchievements[26].displayRequirements",
+   "Win the game without an characters dying.",
+   "在没有任何角色死亡的情况下通关。"
+  ],
+  [
+   "res#63112/allAchievements[27].displayName",
+   "Indomitable",
+   "不屈"
+  ],
+  [
+   "res#63112/allAchievements[27].displayRequirements",
+   "Begin and finish the game on Nightmare Difficulty without changing it.",
+   "在「梦魇」难度下从头到尾通关，且中途不更改难度。"
+  ],
+  [
+   "res#63112/allAchievements[28].displayName",
+   "Eidetic Memory",
+   "过目不忘"
+  ],
+  [
+   "res#63112/allAchievements[28].displayRequirements",
+   "Have one character memorize every Spell that is found in a Spellbook.",
+   "让一名角色记忆法术书中记载的每一个法术。"
+  ],
+  [
+   "res#63112/allAchievements[29].displayName",
+   "Bibliophile",
+   "藏书家"
+  ],
+  [
+   "res#63112/allAchievements[29].displayRequirements",
+   "Obtain every book and note.",
+   "获得每一本书与便笺。"
+  ],
+  [
+   "res#63112/allAchievements[2].displayName",
+   "Traveler",
+   "旅行者"
+  ],
+  [
+   "res#63112/allAchievements[2].displayRequirements",
+   "Walk 50000 steps.",
+   "行走 50000 步。"
+  ],
+  [
+   "res#63112/allAchievements[30].displayName",
+   "Multipotentialite",
+   "多面手"
+  ],
+  [
+   "res#63112/allAchievements[30].displayRequirements",
+   "Unlock every Trait associated with a Monster.",
+   "解锁与怪物关联的每一项特质。"
+  ],
+  [
+   "res#63112/allAchievements[31].displayName",
+   "Lore Master",
+   "学识大师"
+  ],
+  [
+   "res#63112/allAchievements[31].displayRequirements",
+   "Learn every monster Characteristic.",
+   "学会每一种怪物特征。"
+  ],
+  [
+   "res#63112/allAchievements[3].displayName",
+   "Are Ya Yellow?",
+   "你怕了吗？"
+  ],
+  [
+   "res#63112/allAchievements[3].displayRequirements",
+   "Flee from combat 50 times.",
+   "从战斗中逃跑 50 次。"
+  ],
+  [
+   "res#63112/allAchievements[4].displayName",
+   "Butterfly Collector",
+   "蝴蝶收藏家"
+  ],
+  [
+   "res#63112/allAchievements[4].displayRequirements",
+   "Collect 50 Butterflies.",
+   "收集 50 只蝴蝶。"
+  ],
+  [
+   "res#63112/allAchievements[5].displayName",
+   "Au Naturel",
+   "原汁原味"
+  ],
+  [
+   "res#63112/allAchievements[5].displayRequirements",
+   "Win without Respeccing your Characters.",
+   "在从未洗点的情况下通关。"
+  ],
+  [
+   "res#63112/allAchievements[6].displayName",
+   "A Dog's World",
+   "狗狗的世界"
+  ],
+  [
+   "res#63112/allAchievements[6].displayRequirements",
+   "Talk to Tassie.",
+   "与 Tassie 交谈。"
+  ],
+  [
+   "res#63112/allAchievements[7].displayName",
+   "The Green Hermit",
+   "绿隐士"
+  ],
+  [
+   "res#63112/allAchievements[7].displayRequirements",
+   "Find the Green Hermit.",
+   "找到绿隐士。"
+  ],
+  [
+   "res#63112/allAchievements[8].displayName",
+   "Verbose",
+   "滔滔不绝"
+  ],
+  [
+   "res#63112/allAchievements[8].displayRequirements",
+   "Learn all Topic Words from speaking to characters.",
+   "通过与角色交谈学会所有话题词。"
+  ],
+  [
+   "res#63112/allAchievements[9].displayName",
+   "Chatty",
+   "健谈"
+  ],
+  [
+   "res#63112/allAchievements[9].displayRequirements",
+   "Hear every unique conversation from playable characters and NPCs.",
+   "听遍可操作角色与 NPC 的每一段独特对话。"
+  ]
+ ]
+}

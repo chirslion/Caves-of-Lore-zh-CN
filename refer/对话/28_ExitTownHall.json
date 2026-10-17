@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "kind": "对话/ExitTownHall",
+  "count": 9,
+  "with_cn": 9
+ },
+ "entries": [
+  [
+   "sa6#44/whatIHaveToSay[0]",
+   "Entity",
+   "New entities observed. Assess.",
+   "观察到新实体。进行评估。"
+  ],
+  [
+   "sa6#46/whatIHaveToSay[0]",
+   "Entity",
+   "The harvest does not require answers. We go.",
+   "收割不需要答案。我们走。"
+  ],
+  [
+   "sa6#522/whatIHaveToSay[0]",
+   "Arbo",
+   "*deep growl*",
+   "*低沉地吼*"
+  ],
+  [
+   "sa6#523/whatIHaveToSay[0]",
+   "Lannon",
+   "Caution friends. This may be beyond our strength.",
+   "小心，朋友们。这也许超出了我们的实力。"
+  ],
+  [
+   "sa6#524/whatIHaveToSay[0]",
+   "Entity",
+   "Harvest quantity below standard. Something has changed.",
+   "收割量低于标准。有东西改变了。"
+  ],
+  [
+   "sa6#526/whatIHaveToSay[0]",
+   "Rycard",
+   "Another abomination? Perhaps this is the monster I have been seeking.",
+   "又一个憎恶之物？也许这正是我一直在找的怪物。"
+  ],
+  [
+   "sa6#527/whatIHaveToSay[0]",
+   "Merewen",
+   "Entities? You are the only entity here.",
+   "实体？这里唯一的实体就是你。"
+  ],
+  [
+   "sa6#536/whatIHaveToSay[0]",
+   "Lannon",
+   "What are you?",
+   "你是什么？"
+  ],
+  [
+   "sa6#544/whatIHaveToSay[0]",
+   "Entity",
+   "You... see. Hear. Impossible.",
+   "你们……看得见。听得见。不可能。"
+  ]
+ ]
+}

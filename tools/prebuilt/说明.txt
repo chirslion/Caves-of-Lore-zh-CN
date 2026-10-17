@@ -1,0 +1,25 @@
+prebuilt/ —— 预编译补丁件（工程包内置）
+================================================
+
+本目录是工程包（output/ 仓库快照）**逐字节复现构建产物**所必需的二进制输入。
+它们由开发工作区（workspace/，不在工程包内）的源码生成，发布时整体同步：
+
+  Assembly-CSharp.dll   2,744,832 B  e4534902fb5eb192b0c7d6550e4687b6
+      补丁版游戏程序集：546 处 ldstr 替换 + 多组 IL 显示层注入
+      （workspace/colpatch 的 apply-map 产物）
+  CavesL10N.dll            13,824 B  18ce94e73fcc54c6e0d9f371e5cdab54
+      存档边界翻译 + 显示层包装辅助程序集
+      （workspace/savefix 的 CavesL10N.csproj 产物）
+  CavesL10N.table.txt     372,496 B  258f157c95e95c7cb319f2fe1e41001b
+      存档边界翻译表（workspace/savefix/table_gen.py 产物）
+  affix_words.tsv           3,516 B  品质词缀词表（与 DLL 注入共用；构建字体字符集用）
+      （workspace/savefix/affix_words.tsv 的发布副本）
+
+使用方式：
+  build_game.py 优先读 workspace/ 下的最新产物；工程包内没有 workspace/，
+  自动回退到本目录同名文件并登记进 game/loc_files/Managed/。
+
+注意：
+  · **不要手工编辑本目录**；更新流程 = 在 workspace/ 重新生成 → 同步到本目录 →
+    更新上面的尺寸与 md5；
+  · 本目录不参与玩家包（玩家包只含 loc_files 内的最终文件）。

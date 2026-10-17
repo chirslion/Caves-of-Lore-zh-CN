@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_resistance_text",
+  "count": 5,
+  "with_cn": 5
+ },
+ "entries": [
+  [
+   "res#60457/whatIHaveToSay[0]",
+   "Start",
+   "<i>Shields of Magravar\r\r</i>\n\r\n\tAs in my other writings, I maintain this thread of thinking, that the ancient world was no less primitive than our own. We build upon the success of others, and create new wonders. Even so, there were ancient wonders to rival our own, that have fallen into obscurity, lost to war and time.",
+   "<i>马格拉瓦之盾\r\r</i>\n\r\n\t一如我在其他著述中所持的脉络，我坚持这样一条思路：古代世界并不比我们的世界更原始。我们立于他人成就之上，创造新的奇观。即便如此，也曾有能与我们的奇观比肩的古代杰作，它们湮没无闻，失落在战乱与岁月之中。"
+  ],
+  [
+   "res#60457/whatIHaveToSay[1]",
+   "Start",
+   "\tOne such wonder I have sought belonged to the people of Magravar, that ancient kingdom of fine craftsmen. How they fell into ruin I do not know, and much of their workmanship went with them. Yet, stories of the things they once made are known throughout the towns and villages. Such things I cannot attribute to mere coincidence, and so I began my research.",
+   "\t我所追寻的奇观之一，属于马格拉瓦人——那个工匠技艺精湛的古老王国。他们如何倾覆，我不得而知，他们的许多手艺也随之湮灭。然而，关于他们昔日造物的传说，却在城镇与村庄间广为流传。我不认为这些都是巧合，于是开始了我的研究。"
+  ],
+  [
+   "res#60457/whatIHaveToSay[2]",
+   "Start",
+   "\tOne item in particular was so common that it may still exist within our borders, buried beneath soil and stone. The shields that the Magravarians wrought were said to stop anything, from the hottest flame, to the coldest wind. Even the acidic breath of the great swamp dragons could not corrode them.",
+   "\t其中有一件器物极为常见，或许至今仍存在于我们的疆域之内，埋于泥土与岩石之下。据说马格拉瓦人锻造的盾牌能挡下一切——从最炽热的火焰到最凛冽的寒风。就连沼泽巨龙的酸息也无法腐蚀它们。"
+  ],
+  [
+   "res#60457/whatIHaveToSay[3]",
+   "Start",
+   "\tWith these shields the people of Magravar tamed much of the region, which at one point was so fraught with spawn of the dark lord that few dared leave their homes.\n\n \tIf such wonders still exist, I seek to find them, and so find a defense against the might of King Mal-Gammon and his armies.",
+   "\t借助这些盾牌，马格拉瓦人驯服了这片区域的许多地方——那里一度遍布黑暗领主的孽种，几乎无人敢踏出家门。\n\n \t倘若这等奇物尚存，我定要寻到它们，从而找到抵御马尔-加蒙王及其大军之威的办法。"
+  ],
+  [
+   "res#60457/whatIHaveToSay[4]",
+   "Start",
+   "\tWister himself has prophesied of the coming fall of Kestros, and the end of the reign of Mal-Gammon. I will seek to fulfill this prophecy through my research. If I succeed, I will see these shields afterwards returned to the ground, that none may abuse such power.\n\nSor, Disciple of Wister\r\n",
+   "\t威斯特本人曾预言凯斯特罗斯的倾覆将至，以及马尔-加蒙统治的终结。我将竭力以研究促成这一预言。若我成功，事后我会将这些盾牌重新归还大地，以免有人滥用此等力量。\n\n索尔，威斯特的门徒\r\n"
+  ]
+ ]
+}

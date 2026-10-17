@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "kind": "对话/MeetDimas",
+  "count": 21,
+  "with_cn": 21
+ },
+ "entries": [
+  [
+   "sa16#103/whatIHaveToSay[0]",
+   "Dimas",
+   "Then I shall find my own way out and meet you again.",
+   "那我就自己找路出去，再与你们会合。"
+  ],
+  [
+   "sa16#105/whatIHaveToSay[0]",
+   "Shione",
+   "Greetings. I am sure you have an exciting tale to tell.",
+   "致意。我相信你有一段精彩的故事要讲。"
+  ],
+  [
+   "sa16#110/whatIHaveToSay[0]",
+   "Airendal",
+   "Light. Inside cocoon. @ saw. Kept you safe?",
+   "光。茧里面。@ 看见了。护住了你？"
+  ],
+  [
+   "sa16#17/options[0].text",
+   "Dimas",
+   "No.",
+   "不。"
+  ],
+  [
+   "sa16#17/options[1].text",
+   "Dimas",
+   "Yes.",
+   "好。"
+  ],
+  [
+   "sa16#17/whatIHaveToSay[0]",
+   "Dimas",
+   "May I join you?",
+   "我可以加入你们吗？"
+  ],
+  [
+   "sa16#22/whatIHaveToSay[0]",
+   "Dimas",
+   "... at your service.",
+   "……听候差遣。"
+  ],
+  [
+   "sa16#26/whatIHaveToSay[0]",
+   "Dimas",
+   "Again, thank you for freeing me. Now let us get out of here.",
+   "再次感谢你解救了我。现在，我们离开这里吧。"
+  ],
+  [
+   "sa16#27/whatIHaveToSay[0]",
+   "Stranger",
+   "I must have been in there for days... weeks? I have no idea. Too long, that's for sure.",
+   "我在里面一定待了好几天……也许几周？我完全不知道。反正，太久了。"
+  ],
+  [
+   "sa16#37/whatIHaveToSay[0]",
+   "Rycard",
+   "The thought of being trapped in a cocoon... no thanks.",
+   "一想到被关在茧里……不了，谢谢。"
+  ],
+  [
+   "sa16#39/whatIHaveToSay[0]",
+   "Bhulown",
+   "Detail no matter. You free. Why humans care so about past? Many Scaphin not survive. You lucky.",
+   "细节不重要。你，自由了。人类为什么这么在意过去？许多斯卡芬都没能活下来。你，幸运。"
+  ],
+  [
+   "sa16#82/whatIHaveToSay[0]",
+   "Dimas",
+   "May I join you?",
+   "我可以加入你们吗？"
+  ],
+  [
+   "sa16#83/whatIHaveToSay[0]",
+   "Lannon",
+   "It must have been quite an ordeal. What is your name?",
+   "那一定是一段煎熬。你叫什么名字？"
+  ],
+  [
+   "sa16#84/whatIHaveToSay[0]",
+   "Stranger",
+   "Free at last! I thought I was done for. I was in there for days!",
+   "终于自由了！我以为自己完了。我在里面待了好几天！"
+  ],
+  [
+   "sa16#85/whatIHaveToSay[0]",
+   "Merewen",
+   "How long were you in there?",
+   "你在里面待了多久？"
+  ],
+  [
+   "sa16#90/options[0].text",
+   "Dimas",
+   "Failure",
+   "失败"
+  ],
+  [
+   "sa16#90/options[1].text",
+   "Dimas",
+   "Success",
+   "成功"
+  ],
+  [
+   "sa16#92/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I know what it's like to feel trapped, but this is much worse.",
+   "被困住是什么滋味，我懂；可你这遭遇要糟得多。"
+  ],
+  [
+   "sa16#93/whatIHaveToSay[0]",
+   "Dimas",
+   "Indeed. I will not take this second chance lightly.",
+   "确实。这第二次机会，我不会轻慢对待。"
+  ],
+  [
+   "sa16#95/whatIHaveToSay[0]",
+   "Dimas",
+   "Oh, I do! It is quite a tale. But... perhaps we could leave here first.",
+   "哦，当然有！那可是段了不得的故事。不过……也许我们先离开这里再说。"
+  ],
+  [
+   "sa16#98/whatIHaveToSay[0]",
+   "Dimas",
+   "I appreciate your freeing me, but clearly you have no room. Please do not take me for a fool, and let me know if you change your mind.",
+   "谢谢你救我出来，可你们显然没有空位了。别把我当傻子，要是改变主意，告诉我一声。"
+  ]
+ ]
+}

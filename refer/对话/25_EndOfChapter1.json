@@ -1,0 +1,255 @@
+{
+ "meta": {
+  "kind": "对话/EndOfChapter1",
+  "count": 41,
+  "with_cn": 41
+ },
+ "entries": [
+  [
+   "sa20#109/whatIHaveToSay[0]",
+   "Merewen",
+   "Mind yourself. This is a holy thing.",
+   "当心点。这是圣物。"
+  ],
+  [
+   "sa20#126/whatIHaveToSay[0]",
+   "Laszra",
+   "Let's deal with that after we lift this curse. Perhaps more memories come to us.",
+   "等我们解除这诅咒，再来处理那件事吧。也许到那时我们会想起更多。"
+  ],
+  [
+   "sa20#14/whatIHaveToSay[0]",
+   "Laszra",
+   "I don't believe you ever stopped.",
+   "我看，你从来就没停下过。"
+  ],
+  [
+   "sa20#140/whatIHaveToSay[0]",
+   "Naira",
+   "@... I suspect it was not a sheep that you were looking for.",
+   "@……我猜，你要找的从来不是一只羊。"
+  ],
+  [
+   "sa20#140/whatIHaveToSay[1]",
+   "Naira",
+   "Your daughter was here, in Kalindraur.",
+   "你的女儿来过这里，就在卡林德劳尔。"
+  ],
+  [
+   "sa20#143/whatIHaveToSay[0]",
+   "Naira",
+   "Allow me to compose my thoughts. There are memories swirling in my head, looking to settle in place.",
+   "容我理一理思绪。脑海里有许多记忆翻涌着，正要各归其位。"
+  ],
+  [
+   "sa20#143/whatIHaveToSay[1]",
+   "Naira",
+   "I will tell you about the Codex when I can.",
+   "等时机合适，我会告诉你们典籍的事。"
+  ],
+  [
+   "sa20#143/whatIHaveToSay[2]",
+   "Naira",
+   "In the meantime, meet me in the room with the stone platform. We have a visitor.",
+   "在此之前，到有石台的房间来找我。我们有位访客。"
+  ],
+  [
+   "sa20#150/whatIHaveToSay[0]",
+   "Rycard",
+   "Things just got a lot more interesting.",
+   "事情一下子有趣多了。"
+  ],
+  [
+   "sa20#151/whatIHaveToSay[0]",
+   "Merewen",
+   ".. Maybe...",
+   "……也许吧……"
+  ],
+  [
+   "sa20#153/whatIHaveToSay[0]",
+   "Naira",
+   "Leunamar is not the god of truth. He is truth.",
+   "卢纳玛尔不是真理之神。他就是真理。"
+  ],
+  [
+   "sa20#18/whatIHaveToSay[0]",
+   "Naira",
+   "Kalindraur, though much about it eludes me, is a focus of power and energy reaching out into all Solmaria.",
+   "卡林德劳尔——尽管关于它的大部分事我都想不起来——是一处焦点，汇聚着力量与能量。它的影响延伸至整个索尔玛利亚。"
+  ],
+  [
+   "sa20#18/whatIHaveToSay[1]",
+   "Naira",
+   "Defeating those monsters has unlocked the access point where the Codex can transfer its power.",
+   "击败那些怪物，解开了典籍，转移力量的接入点。"
+  ],
+  [
+   "sa20#197/whatIHaveToSay[0]",
+   "Arbo",
+   "*Woof!*",
+   "*汪！*"
+  ],
+  [
+   "sa20#198/whatIHaveToSay[0]",
+   "Airendal",
+   "Continue on, as always. You will do what is in your nature.",
+   "一如既往，走下去吧。你会顺从你的天性行事。"
+  ],
+  [
+   "sa20#20/whatIHaveToSay[0]",
+   "Naira",
+   "From here, I can use the Codex to free Emerisk from this curse.",
+   "从这里，我可以用典籍，将埃梅里斯克，从这诅咒中解放。"
+  ],
+  [
+   "sa20#20/whatIHaveToSay[1]",
+   "Naira",
+   "Perhaps, even the whole of Solmaria.",
+   "也许，连整个索尔玛利亚也能一并解放。"
+  ],
+  [
+   "sa20#201/whatIHaveToSay[0]",
+   "Lannon",
+   "Here is the Mynswar Opal. It was not easy to get.",
+   "这是明斯瓦蛋白石。得来可不容易。"
+  ],
+  [
+   "sa20#206/whatIHaveToSay[0]",
+   "Naira",
+   "Meet me in the southwest chamber, in the room with the stone platform.",
+   "到西南边的厅堂来找我，有石台的那间。"
+  ],
+  [
+   "sa20#206/whatIHaveToSay[1]",
+   "Naira",
+   "The guardian will be joining us.",
+   "守护者也会与我们同去。"
+  ],
+  [
+   "sa20#21/whatIHaveToSay[0]",
+   "Naira",
+   "That was the idea. Perhaps it was even less safe in that place.",
+   "本来就是这么打算的。也许那个地方反而更不安全。"
+  ],
+  [
+   "sa20#21/whatIHaveToSay[1]",
+   "Naira",
+   "Its presence alone... I can feel my memories returning.",
+   "仅仅是它的存在……我就能感到记忆在回归。"
+  ],
+  [
+   "sa20#222/whatIHaveToSay[0]",
+   "Merewen",
+   "And I...",
+   "而我……"
+  ],
+  [
+   "sa20#223/whatIHaveToSay[0]",
+   "Rycard",
+   "Ominous...",
+   "不祥之兆……"
+  ],
+  [
+   "sa20#23/whatIHaveToSay[0]",
+   "Naira",
+   "I can. The Codex is a physical manifestation of Leunamar. He is truth, and power over darkness.",
+   "我能。典籍，是卢纳玛尔在世间的具现。他即是真理，是统御黑暗的力量。"
+  ],
+  [
+   "sa20#233/whatIHaveToSay[0]",
+   "Naira",
+   "My daughter. I sent you to bring the book back to me, and you did. I missed you, even when I did not know why.",
+   "我的女儿。我派你把那本书，带回来给我，你做到了。我想念你，哪怕当时我不知为何。"
+  ],
+  [
+   "sa20#237/whatIHaveToSay[0]",
+   "Lannon",
+   "My what?",
+   "我的……什么？"
+  ],
+  [
+   "sa20#251/whatIHaveToSay[0]",
+   "Naira",
+   "The purity of his spirit led the guardian of this place to call out to him.",
+   "他灵魂的纯净，令此地的守护者向他发出了呼唤。"
+  ],
+  [
+   "sa20#266/whatIHaveToSay[0]",
+   "Shione",
+   "Then, I can go back to being a normal bard?",
+   "那么，我能回去当个普通的吟游诗人了？"
+  ],
+  [
+   "sa20#289/whatIHaveToSay[0]",
+   "Gallitzin",
+   "But why was @ drawn to it?",
+   "可 @ 为什么会被它吸引？"
+  ],
+  [
+   "sa20#324/whatIHaveToSay[0]",
+   "Bhulown",
+   "And I, to... smash enemies!",
+   "而我，负责……砸扁敌人！"
+  ],
+  [
+   "sa20#326/whatIHaveToSay[0]",
+   "Merewen",
+   "That is not very comforting.",
+   "这话并不怎么让人安心。"
+  ],
+  [
+   "sa20#330/whatIHaveToSay[0]",
+   "Rycard",
+   "Do you mean to say that we've been travelling with a god?",
+   "你是说，我们一路同行的是位神明？"
+  ],
+  [
+   "sa20#41/whatIHaveToSay[0]",
+   "Rycard",
+   "Well, some of us don't know what to go back to.",
+   "嗯，我们当中有些人，不知道该回到哪里去。"
+  ],
+  [
+   "sa20#45/whatIHaveToSay[0]",
+   "Gallitzin",
+   "And you succeeded, my friend. You returned the book.",
+   "你成功了，我的朋友。你把那本书，还了回去。"
+  ],
+  [
+   "sa20#47/whatIHaveToSay[0]",
+   "Dimas",
+   "Good, we have questions that need answers.",
+   "好，我们有问题需要解答。"
+  ],
+  [
+   "sa20#50/whatIHaveToSay[0]",
+   "Naira",
+   "Perhaps the guardian led her here as well. I am unsure, but she left on her own. We could not stop her.",
+   "也许守护者也把她引到了这里。我不确定，但她是自己离开的。我们拦不住她。"
+  ],
+  [
+   "sa20#56/whatIHaveToSay[0]",
+   "Rycard",
+   "Maybe... I will spend more time with you.",
+   "也许……我会多陪陪你。"
+  ],
+  [
+   "sa20#77/whatIHaveToSay[0]",
+   "Lannon",
+   "One last thing... I never did find that sheep.",
+   "最后一件事……那只羊，我始终没找到。"
+  ],
+  [
+   "sa20#85/whatIHaveToSay[0]",
+   "Lannon",
+   "Then you can tell us about the Codex? Do you know why I was drawn to it?",
+   "那你能给我们讲讲典籍，的事了吗？你知道我为什么会被它吸引吗？"
+  ],
+  [
+   "sa20#89/whatIHaveToSay[0]",
+   "Lannon",
+   "I do not even remember her...",
+   "我甚至不记得她了……"
+  ]
+ ]
+}

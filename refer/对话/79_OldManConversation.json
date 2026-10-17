@@ -1,0 +1,333 @@
+{
+ "meta": {
+  "kind": "对话/OldManConversation",
+  "count": 54,
+  "with_cn": 54
+ },
+ "entries": [
+  [
+   "res#59721/whatIHaveToSay[0]",
+   "Rycard",
+   "Elias? Is that you? I sure do miss your venison stew.",
+   "伊莱亚斯？是你吗？我可真想念你的炖鹿肉。"
+  ],
+  [
+   "res#59748/whatIHaveToSay[0]",
+   "blue light",
+   "They are attracted to light... fireflies, lanterns and the like. I haven't seen them since I was a child. Some folk even spoke to them. I was too afraid. Oh, and they... they would... the campfires would burn so brightly. So very beautiful. I do love campfires... don't you?",
+   "它们被光吸引……萤火虫、灯笼之类的。我打小就没再见过了。有些人甚至能和它们交谈。我太害怕了。哦，还有它们……它们会……营火会烧得那样明亮。美极了。我真喜欢营火……你呢？"
+  ],
+  [
+   "res#59762/whatIHaveToSay[0]",
+   "Dimas",
+   "Elias, you have put on weight. I keep telling you not to eat so much cheese, but I suppose Adela is too good of a saleswoman.",
+   "伊莱亚斯，你发福了。我一直叫你别吃那么多奶酪，不过，看来阿德拉这生意做得太好了。"
+  ],
+  [
+   "res#59826/whatIHaveToSay[0]",
+   "Emerisk",
+   "I was a boy when this town got its name. But I can't remember the story any longer... I can hardly remember simple things, like where I put my slippers, or my old family sword.",
+   "这镇子得名的时候，我还是个小子。可那个故事我再也想不起来了……连简单的事我都记不清，比如拖鞋放在哪儿，或者我那把祖传的剑。"
+  ],
+  [
+   "res#59856/whatIHaveToSay[0]",
+   "Airendal",
+   "Who is holding that blue lantern? It reminds me of the lights in my childhood, before they were hunted down... yes, blue is my favorite color.",
+   "那盏蓝灯笼是谁提着的？它让我想起童年时的那些光——在它们被猎杀殆尽之前……对，蓝色是我最喜欢的颜色。"
+  ],
+  [
+   "res#59911/whatIHaveToSay[0]",
+   "Laszra",
+   "Another young whippersnapper? There haven't been any whippers to snap in this town for a long time!",
+   "又一个毛头小子？这镇上已经很久没有「毛头」可揪了！"
+  ],
+  [
+   "res#59995/whatIHaveToSay[0]",
+   "caves",
+   "The nearby hills are riddled with caves. There are many ancient secrets still hidden within them, or so it is rumored.\n",
+   "附近的山丘布满了洞穴。据说里面还藏着许多古老的秘密。\n"
+  ],
+  [
+   "res#59995/whatIHaveToSay[1]",
+   "caves",
+   "This whole village is built on ancient ruins you know. I used to play in them as a child. Sadly, I can remember very little of those times... or these times for that matter. Haha!",
+   "你知道吗，整个村子就建在古代废墟上。我小时候常在里面玩。可惜，那段时光我记不清了……其实这些日子的事也一样记不清。哈哈！"
+  ],
+  [
+   "res#60032/whatIHaveToSay[0]",
+   "Agmarians",
+   "Eh? Agrarians? Why yes, we are.",
+   "嗯？农人？没错，我们当然是。"
+  ],
+  [
+   "res#60099/whatIHaveToSay[0]",
+   "dark lord",
+   "Door closed? I certainly hope so. It can get very drafty around here.",
+   "门关上了？那我可太希望如此了。这一带风大得很。"
+  ],
+  [
+   "res#60129/whatIHaveToSay[0]",
+   "Merewen",
+   "You'd make a fine wife for my son Eli... umm.. err... whatever his name is.",
+   "你会是我儿子伊莱的好媳妇……嗯……呃……管他叫什么来着。"
+  ],
+  [
+   "res#60173/whatIHaveToSay[0]",
+   "book",
+   "I haven't seen a book since the librarian wandered into the fog. Never did see her again; not that I saw her all that well to begin with.\n\nShe probably fell into one of those dangerous caves.",
+   "自打那位图书管理员走进迷雾，我就再没见过书。她也再没回来过——反正我本来也没怎么看清过她。\n\n那些危险的洞穴，她多半是掉进去了。"
+  ],
+  [
+   "res#60188/whatIHaveToSay[0]",
+   "Archaven",
+   "No she can't draw! Not like I can. Well, like I used to.",
+   "不，她不会画画！我可不一样。嗯，是「从前」的我。"
+  ],
+  [
+   "res#60309/whatIHaveToSay[0]",
+   "fog",
+   "Folk wander into it, and mark my words, folk wander out of it.\n\nI don't care what the Mayor says. This can't be the only village in the world. I reckon there are at least two!",
+   "人们会晃进迷雾，听我一句，也会有人晃出来。\n\n我才不管镇长怎么说。这不可能世上唯一的村子。我打赌至少有两个！"
+  ],
+  [
+   "res#60338/options[0].text",
+   "OldMan",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60338/options[1].text",
+   "OldMan",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60338/options[2].text",
+   "OldMan",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60338/options[3].text",
+   "OldMan",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60338/options[4].text",
+   "OldMan",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60338/options[5].text",
+   "OldMan",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60338/options[6].text",
+   "OldMan",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60338/options[7].text",
+   "OldMan",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60338/options[8].text",
+   "OldMan",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60338/options[9].text",
+   "OldMan",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60395/whatIHaveToSay[0]",
+   "job",
+   "I am a farmer at heart, but with all the folk that have disappeared, someone needs to run the inn. For who you might ask? Well, there have also been new folk appearing; like you!",
+   "我骨子里是个农夫，可那么多人失踪之后，总得有人打理旅店。给谁住？你问得好——近来还冒出不少新面孔，比如你！"
+  ],
+  [
+   "res#60395/whatIHaveToSay[1]",
+   "job",
+   "Oftentimes the inn is full to capacity with wanderers. We have to send them to the town hall.",
+   "旅店常常被流浪者，挤得满满当当。我们只好把他们安排到镇公所去。"
+  ],
+  [
+   "res#60552/whatIHaveToSay[0]",
+   "Lannon",
+   "Elias, is that you? No, much too scrawny... remind me of a scarecrow.",
+   "伊莱亚斯，是你吗？不，瘦得离谱……像个稻草人。"
+  ],
+  [
+   "res#60575/whatIHaveToSay[0]",
+   "wanderers",
+   "Folk go into the fog and never return. Others come out and we never seen them before. They rarely speak or look you in the eyes. Or so I am told. My vision is as bad as my memory!",
+   "人们走进迷雾，就再也不回来。也有些人从里面走出来，却是我们从未见过的。他们很少说话，也不看你的眼睛。至少别人是这么说的。我的视力和记性一样糟！"
+  ],
+  [
+   "res#60593/whatIHaveToSay[0]",
+   "graveyard",
+   "Beware! Strange shapes roam at night within its gates. This hasn't happened since the last... this hasn't happened... This has never happened. Nothing is happening.\n...\nHave fun in the graveyard!",
+   "当心！夜里园门内有奇怪的影子游荡。自打上回……不，从没发生过……从来没发生过这种事。什么也没发生。\n……\n在墓地玩得开心！"
+  ],
+  [
+   "res#60647/whatIHaveToSay[0]",
+   "Goblins",
+   "Ahhh. That is an uncommon word these days, but I remember. In my father's time they were more common, and I myself was lucky enough to see one as a child. But that is the last time I ever did.",
+   "啊。这年头这个词可不常听到了，但我记得。我父亲那会儿，它们多些；我自己小时候也算走运，见过一个。可那也是我最后一次见到了。"
+  ],
+  [
+   "res#60647/whatIHaveToSay[1]",
+   "Goblins",
+   "I would not call myself lucky if I saw one now. Most folk will deny they exist. They remain well hidden, until villages are weak and easy prey. But I know a place where they hide...",
+   "如今要是再见一个，我可不会说自己走运。多数人会否认它们存在。它们藏得极深——直到村子虚弱，成了好下手的猎物。不过我知道一个它们藏身的地方……"
+  ],
+  [
+   "res#60753/whatIHaveToSay[0]",
+   "Shione",
+   "Do I play a what? An implement? Why yes, I suppose I am quite handy with a hammer and nail.",
+   "我弹什么？乐器？对，对，锤子和钉子我用得倒是挺顺手。"
+  ],
+  [
+   "res#60781/whatIHaveToSay[0]",
+   "Arbo",
+   "Did you say something? I can't hear you over all the racket the dog is making.",
+   "你说什么？狗闹出这么大动静，我根本听不见。"
+  ],
+  [
+   "res#60800/whatIHaveToSay[0]",
+   "Bhulown",
+   "You look like a fun lad. A bit ugly, but fun nonetheless. It is in the eyes you see. I can see it.",
+   "你看上去是个有趣的小伙子。丑了点，但还是有趣。看眼睛就知道。我看得出来。"
+  ],
+  [
+   "res#60846/whatIHaveToSay[0]",
+   "Renault",
+   "My father once served under a general Renault. Back before they got all pompous.",
+   "我父亲曾在一位雷诺将军麾下效力。那还是在他们变得自命不凡之前。"
+  ],
+  [
+   "res#60863/whatIHaveToSay[0]",
+   "Codex",
+   "No my legs aren't cold. Why would you ask that and not offer a blanket? Strange fellows.",
+   "不，我的腿不冷。你问这个却不递条毯子过来？奇怪的家伙。"
+  ],
+  [
+   "res#60907/options[0].text",
+   "Baron Vespes",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60907/options[10].text",
+   "Baron Vespes",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60907/options[11].text",
+   "Baron Vespes",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60907/options[12].text",
+   "Baron Vespes",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60907/options[13].text",
+   "Baron Vespes",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60907/options[14].text",
+   "Baron Vespes",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60907/options[15].text",
+   "Baron Vespes",
+   "wanderers",
+   "流浪者"
+  ],
+  [
+   "res#60907/options[1].text",
+   "Baron Vespes",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60907/options[2].text",
+   "Baron Vespes",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60907/options[3].text",
+   "Baron Vespes",
+   "book",
+   "书"
+  ],
+  [
+   "res#60907/options[4].text",
+   "Baron Vespes",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60907/options[5].text",
+   "Baron Vespes",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60907/options[6].text",
+   "Baron Vespes",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60907/options[7].text",
+   "Baron Vespes",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60907/options[8].text",
+   "Baron Vespes",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60907/options[9].text",
+   "Baron Vespes",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60957/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Elias? You seem larger than I remember. Do not forget to collect the firewood from Hardwin or he will charge me for it anyways.",
+   "伊莱亚斯？你比我印象里壮实多了。别忘了去哈德温那儿取柴火，不然他照样会跟我收钱。"
+  ],
+  [
+   "res#60976/whatIHaveToSay[0]",
+   "Scaphin",
+   "As a child I used to sneak into the caves to play with their children. Oh, what trouble we got into, and what distress we caused our parents in doing so. Haha.. hah... ha... what are we talking about?",
+   "小时候，我常溜进洞穴，和他们的孩子一起玩。哦，我们闯了多少祸，害得爹妈们操了多少心。哈哈……哈……哈……我们刚才在说什么？"
+  ]
+ ]
+}

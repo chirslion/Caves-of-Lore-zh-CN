@@ -1,0 +1,363 @@
+{
+ "meta": {
+  "kind": "对话/IrikagConversationOld",
+  "count": 59,
+  "with_cn": 59
+ },
+ "entries": [
+  [
+   "res#59708/whatIHaveToSay[0]",
+   "manatite",
+   "Is power, yes. But not for Irikag. Only bring trouble. Not want. No buy, no sell. No touch!",
+   "是力量，没错。但不是给伊里卡格的。只会惹麻烦。不要。不买，不卖。不碰！"
+  ],
+  [
+   "res#59739/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Irikag has wares for man-beast. Enemy skins. Metal flakes. Sharp pointies. Come see!",
+   "伊里卡格有好货给人类兽。敌人的皮。金属片。尖尖利利。来看看！"
+  ],
+  [
+   "res#59774/whatIHaveToSay[0]",
+   "graveyard",
+   "Too many fright. Will not go there. Dead humans no purchase. Only steal! No, not steal coin. Steal flesh. Irikag no like!",
+   "太吓人。不去那里。死人不会买东西。只会偷！不，不偷钱。偷肉。伊里卡格不喜欢！"
+  ],
+  [
+   "res#59821/whatIHaveToSay[0]",
+   "Emerisk",
+   "Long time Irikag trade with. But trade in secret. Too many know about Irikag, then must go. Humans no trust Goblins.",
+   "伊里卡格和他们做了很久的生意。但是偷偷地做。知道伊里卡格的人太多，就得走。人类，不信哥布林。"
+  ],
+  [
+   "res#59875/whatIHaveToSay[0]",
+   "caves",
+   "Ah... safe, comfy caves. Is good to be in caves. Would spend all time in caves. Hate light, like gargoyles, but must do business.",
+   "啊……安全、舒服的洞穴。待在洞穴里真好。恨不得一直待在洞穴里。讨厌光，跟石像鬼一样，但生意还得做。"
+  ],
+  [
+   "res#59940/whatIHaveToSay[0]",
+   "Rycard",
+   "Repeat customer good. Want more weapon? No discount!",
+   "回头客，好。还想要武器？不打折！"
+  ],
+  [
+   "res#59980/whatIHaveToSay[0]",
+   "corundum",
+   "Make good weapon. Irikag always look for, but hide in danger. To find, must go deep. Deeper go, deeper danger.",
+   "做武器，好用。伊里卡格一直在找，但它藏在危险里。想找到，就得往深处去。越深处，越危险。"
+  ],
+  [
+   "res#60012/whatIHaveToSay[0]",
+   "Dimas",
+   "Fat one.",
+   "胖子一个。"
+  ],
+  [
+   "res#60027/whatIHaveToSay[0]",
+   "Agmarians",
+   "Make Scaphin look friend! Is always killing. Remind of human, but strong. Not pathetic, weak.",
+   "比斯卡芬，倒显得像朋友了！那玩意儿见谁杀谁。像人类，但强壮。不像人类那样可怜、软弱。"
+  ],
+  [
+   "res#60076/whatIHaveToSay[0]",
+   "Goblins",
+   "Irikag is one. You knows it, yes? But Irikag not like others. Irikag smarter! No want to kill human. Want only more treasure.",
+   "伊里卡格就是。你知道的，对吧？但伊里卡格和其他不一样。伊里卡格更聪明！不想杀人。只想要更多财宝。"
+  ],
+  [
+   "res#60102/whatIHaveToSay[0]",
+   "Archaven",
+   "No like! Try sell goods, but rude! No open door. Forgets where...",
+   "不喜欢！想卖货，可他们没礼貌！不开门。忘了在哪儿了……"
+  ],
+  [
+   "res#60124/whatIHaveToSay[0]",
+   "Merewen",
+   "It stares. No stare at Irikag's wares! Only look. And purchase.",
+   "它盯着看。别盯着伊里卡格的货！只许看。和买。"
+  ],
+  [
+   "res#60169/whatIHaveToSay[0]",
+   "book",
+   "Read many books. Is true. Learn many great thing. Like buy, sell, trade, steal! You name, Irikag know.",
+   "读过许多书。真的。学会许多了不起的事。比如买、卖、交易、偷！你说得出，伊里卡格就懂。"
+  ],
+  [
+   "res#60195/whatIHaveToSay[0]",
+   "Manshroom",
+   "No good to eat. Too tough. Want to kill Irikag. No bother with.",
+   "不好吃。太硬。还想杀伊里卡格。别去招惹。"
+  ],
+  [
+   "res#60304/whatIHaveToSay[0]",
+   "fog",
+   "Good for sneaking. Find many loose coin. Nobody will miss a few small coin.",
+   "适合偷偷溜进去。能捡到好多散钱。少几枚小钱，没人会发现。"
+  ],
+  [
+   "res#60333/options[0].text",
+   "Irikag",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60333/options[1].text",
+   "Irikag",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60333/options[2].text",
+   "Irikag",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60333/options[3].text",
+   "Irikag",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60333/options[4].text",
+   "Irikag",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60333/options[5].text",
+   "Irikag",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60333/options[6].text",
+   "Irikag",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60333/options[7].text",
+   "Irikag",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60333/options[8].text",
+   "Irikag",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60333/options[9].text",
+   "Irikag",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60390/whatIHaveToSay[0]",
+   "job",
+   "Job? Yes! This is job! Irikag in no way forced. Sell goods, bring happiness.",
+   "差事？对！这就是差事！伊里卡格绝不是被逼的。卖货，带来快乐。"
+  ],
+  [
+   "res#60547/whatIHaveToSay[0]",
+   "Lannon",
+   "What can it even afford? Look poor. Perhaps is thief?",
+   "它买得起什么？看着穷酸。也许是个贼？"
+  ],
+  [
+   "res#60584/whatIHaveToSay[0]",
+   "librarian",
+   "Irikag read, yes. Such surprise? Has you thinking that Irikag not goblin of culture? Irikag know many things. Just no tell for free.",
+   "伊里卡格会读书，没错。这么惊讶？你以为伊里卡格不是有文化的哥布林？伊里卡格懂很多。只是不白说。"
+  ],
+  [
+   "res#60618/whatIHaveToSay[0]",
+   "dimension",
+   "Irikag prefer this one. More dimension is more problem for Irikag. No like other realms.",
+   "伊里卡格更喜欢这一个。次元越多，伊里卡格的麻烦越多。不喜欢别的领域。"
+  ],
+  [
+   "res#60673/whatIHaveToSay[0]",
+   "silver",
+   "Eh, Irikag no want. Is shiny yes, but no like. Not all shiny is for like. Fire shiny, but no touch. See, very normal no like this metal. Why act so strange. Everything normal.",
+   "呃，伊里卡格不要。是亮闪闪，但不稀罕。亮的东西不是都要稀罕。火也亮，可不能碰。看，不稀罕这种金属，很正常。你们干吗这么古怪。一切正常。"
+  ],
+  [
+   "res#60736/whatIHaveToSay[0]",
+   "Airendal",
+   "It burns the eyes! Cannot look at it!",
+   "烧眼睛！看不得！"
+  ],
+  [
+   "res#60776/whatIHaveToSay[0]",
+   "Arbo",
+   "What can animal buy? Should join goblin. We train. Fight well!",
+   "动物能买什么？不如加入哥布林。我们训练。能打！"
+  ],
+  [
+   "res#60811/whatIHaveToSay[0]",
+   "Scaphin",
+   "Hhhhsssss! No like Scaphin. Always want take Irikag treasure. Always hunt Irikag. Why no one leave Irikag alone? Now. Buy.",
+   "嘶嘶嘶！不喜欢斯卡芬。总想抢伊里卡格的财宝。总来猎杀伊里卡格。为什么没人放过伊里卡格？现在。买货。"
+  ],
+  [
+   "res#60824/whatIHaveToSay[0]",
+   "Laszra",
+   "Irikag love return customer. No discount!",
+   "伊里卡格喜欢回头客。不打折！"
+  ],
+  [
+   "res#60841/whatIHaveToSay[0]",
+   "Renault",
+   "... what is this word? Nevermind, Irikag no longer want! In fact, Irikag already have. Sell for 1000 gold. Yes, trust Irikag.",
+   "……这是什么词？算了，伊里卡格不要了！其实，伊里卡格早有了。卖你一千金币。对，信伊里卡格。"
+  ],
+  [
+   "res#60860/whatIHaveToSay[0]",
+   "Bhulown",
+   "Hhhssss! Scaphin! Irikag refuse service! Will not budge! Unless... you have coin? Perhaps, coin greater than face.",
+   "嘶嘶！斯卡芬！伊里卡格拒绝服务！绝不让步！除非……你有钱？也许，钱比脸面更大。"
+  ],
+  [
+   "res#60871/whatIHaveToSay[0]",
+   "dark lord",
+   "HHHhsssssss! Why you say this word!? You think gone, but not know! Be safe. Is best be safe. Too many serve, even if gone. Irikag no like this.",
+   "嘶嘶嘶！你为什么说这个词！？你以为他没了，可你不知道！小心为上。最好小心为上。太多人还效忠着，就算他没了。伊里卡格不喜欢这个。"
+  ],
+  [
+   "res#60902/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60902/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60902/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60902/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60902/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60902/options[14].text",
+   "Isobel Warde",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60902/options[15].text",
+   "Isobel Warde",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60902/options[16].text",
+   "Isobel Warde",
+   "Manshroom",
+   "人菇"
+  ],
+  [
+   "res#60902/options[17].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60902/options[18].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60902/options[19].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60902/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60902/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60902/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60902/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60902/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60902/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60902/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60902/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60902/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60974/whatIHaveToSay[0]",
+   "Codex",
+   "It asks too much! Forbidden, says Irikag!",
+   "它要价太高！被禁止的，伊里卡格说！"
+  ],
+  [
+   "res#60991/whatIHaveToSay[0]",
+   "Shione",
+   "Wicked siren! No put Irikag to sleep and steal treasure!",
+   "邪恶的海妖！别想把伊里卡格唱睡，偷走财宝！"
+  ]
+ ]
+}

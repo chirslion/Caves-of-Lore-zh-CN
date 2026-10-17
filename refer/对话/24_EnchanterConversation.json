@@ -1,0 +1,507 @@
+{
+ "meta": {
+  "kind": "对话/EnchanterConversation",
+  "count": 83,
+  "with_cn": 83
+ },
+ "entries": [
+  [
+   "res#59707/whatIHaveToSay[0]",
+   "manatite",
+   "Manatite is an ore that either gathers arcane energy, or is formed from it. I am not sure which, but it is a powerful source that can be used to imbue items with power. I can do this for you if you bring enough of it to me.",
+   "法力晶石是一种矿石，要么汇聚奥术能量，要么由奥术能量凝结而成。我也说不准是哪种，但它是极强的能量源，可用来为物品注入力量。你若能带足够的量给我，我可以为你附魔。"
+  ],
+  [
+   "res#59727/whatIHaveToSay[0]",
+   "Laszra",
+   "#, you have returned! I thought it impossible, but as I have learned from your friends, there is strength still left in this world. I have more hope now than ever.",
+   "#，你回来了！我原以为不可能，但从你的朋友们身上我明白了，这世上仍有力量尚存。我如今比以往任何时候都更有希望。"
+  ],
+  [
+   "res#59738/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Another soul rescued from this abysmal curse. Welcome friend. We could use your help.",
+   "又有一个灵魂从这深重的诅咒中获救。欢迎，朋友。我们正需要你的帮助。"
+  ],
+  [
+   "res#59769/whatIHaveToSay[0]",
+   "graveyard",
+   "I do not hold them in any particular regard, except to find ancient treasures among them. The entire world is a graveyard if you think about it. I suppose when I die, someone will one day find the treasures buried with me. It is only fitting.",
+   "我对墓地并无特别的敬意，只是想在其中找到古代珍宝。细想起来，整个世界都是墓地。我猜我死后，总有一天会有人挖出陪葬的珍宝。这倒也相称。"
+  ],
+  [
+   "res#59800/whatIHaveToSay[0]",
+   "completedQuest",
+   "Amazing! It exists after all, and I experience the same shifting that it does. I will study this and see what I can uncover.",
+   "太神奇了！它果然存在，而我也经历着与它同样的漂移。我要好好研究它，看看能揭开什么。"
+  ],
+  [
+   "res#59815/whatIHaveToSay[0]",
+   "Emerisk",
+   "It is small compared to where I came from. That much I know. I have not seen it, or at least I do not recall if I have. I also do not know why I was on my way to this region, but I am grateful that I was, for I may have been lost otherwise.",
+   "与我来的地方相比，这里很小。这一点我清楚。我没见过它，至少不记得见过。我也不明白自己当初为何正前往这一带，但我很庆幸——否则我恐怕早已迷失。"
+  ],
+  [
+   "res#59870/whatIHaveToSay[0]",
+   "caves",
+   "Wonderful places for hiding the arcane. It is true, you can hide magical things in plain sight, but why not go the extra step and hide it in a cave as well! Or for that matter... another dimension...",
+   "藏匿奥术之物的绝佳去处。诚然，魔法之物可以藏在光天化日之下，但何不再进一步，把它藏进洞穴！再不然……藏进另一个次元……"
+  ],
+  [
+   "res#59903/whatIHaveToSay[0]",
+   "onQuest",
+   "The plant I need can be found only underground. Though I have never seen one for myself, I was told that It likes to grow in damp places. It can be observed shifting between planes just as I do.",
+   "我需要的那种植物只长在地下。虽然我从未亲眼见过，但听说它喜欢生长在潮湿之处。可以观察到它在位面之间漂移，就像我一样。"
+  ],
+  [
+   "res#59928/whatIHaveToSay[0]",
+   "Bhulown",
+   "Fascinating! Tell me, what are you? I must know more.",
+   "太迷人了！告诉我，你是什么？我必须了解更多。"
+  ],
+  [
+   "res#59935/whatIHaveToSay[0]",
+   "Rycard",
+   "You look like a man that can get things done. I may yet ask a favor of you and your fellowship.",
+   "你看着像个能办成事的人。说不定哪天，我会请你和你的同伴帮个忙。"
+  ],
+  [
+   "res#59977/whatIHaveToSay[0]",
+   "corundum",
+   "I am not very knowledgable about ores unless they contain arcane power in some way.",
+   "除非矿石以某种方式蕴含着奥术之力，否则我对矿石并不太了解。"
+  ],
+  [
+   "res#59996/whatIHaveToSay[0]",
+   "Glyph Stones",
+   "The glyph stone in this place is likely even older than the Shelter itself. I never expected it to come alive. It must be the presence of the Codex.\n\nThese stones were erected to mark signifcant events, and to tell stories that would otherwise be forgotten.",
+   "此地的符文石，恐怕比庇护所本身还要古老。我从没料到它会活过来。这一定是典籍，是它的存在使然。\n\n这些石碑立起来，是为了标记重大事件，讲述那些本会被人遗忘的故事。"
+  ],
+  [
+   "res#59996/whatIHaveToSay[1]",
+   "Glyph Stones",
+   "I believe that the Codex has reacted to these stories, and the truth in them. It is difficult to understand what is happening with this book, but clearly it is connecting to the stone.",
+   "我相信，典籍，对这些故事以及其中的真实有所回应。很难理解这本书，它正发生什么；但它显然正在与石碑建立联系。"
+  ],
+  [
+   "res#59996/whatIHaveToSay[2]",
+   "Glyph Stones",
+   "Since the Codex has such a strong connection to the stones, it may be possible for you to connect to them as well. Concentrate on it and see if you can feel the presence of the stone.",
+   "既然典籍，与这些石碑联系如此紧密，你或许也能与它们相连。凝神专注，试试能否感知到石碑的存在。"
+  ],
+  [
+   "res#60001/whatIHaveToSay[0]",
+   "Dimas",
+   "The structure of gems helps them to contain magic. Some rings and necklaces become enchanted without the wearer even knowing.",
+   "宝石的结构有助于容纳魔法。有些戒指与项链在佩戴者毫不知情的情况下就受了附魔。"
+  ],
+  [
+   "res#60021/whatIHaveToSay[0]",
+   "Agmarians",
+   "Ancient writings mention them frequently. Opinions vary wildly, so it is likely that all are true in part. I would regard them as dangerous, intelligent; perhaps wise. Not animals by any means, and possibly capable of being a friend.",
+   "古代文献常常提到他们。各种说法大相径庭，所以大概每种说法都有几分真实。我会把他们看作危险而聪慧的存在；也许颇具智慧。绝不是动物，而且有可能成为朋友。"
+  ],
+  [
+   "res#60072/whatIHaveToSay[0]",
+   "Goblins",
+   "These I remember well, for it was not long ago that I almost fell to their fury. It was outside these very walls. Why they were down here in these ancient tombs I do not know.",
+   "这些我记得很清楚，因为就在不久之前，我差点死于他们的狂暴。就在这些墙外。他们为何会下到这些古老的墓穴里，我不知道。"
+  ],
+  [
+   "res#60072/whatIHaveToSay[1]",
+   "Goblins",
+   "But they are vicious, and greedy; as likely to barter with you as kill you. The ones I encountered leaned towards the latter. They are part of the reason we sealed the doors.",
+   "他们凶残而贪婪；可能与你做交易，也可能杀了你。我遇到的那些偏向后一种。我们封死大门，部分原因正是他们。"
+  ],
+  [
+   "res#60118/whatIHaveToSay[0]",
+   "Merewen",
+   "I once worked with an enchantress who looked like you. Strange, that I can remember that.",
+   "我曾与一位附魔师共事，她和你长得一模一样。奇怪，这我居然还记得。"
+  ],
+  [
+   "res#60146/whatIHaveToSay[0]",
+   "zenith",
+   "When a moon rises, not just above the horizon, but to a point where its energy can be strongly felt, it is called a zenith. The opposite is true for the nadir, which is when a moon's energy can no longer be felt at all.",
+   "当一轮月亮升起，不只是升出地平线，而是升到它的能量能被强烈感知之处，这便称为天顶。天底则相反——那是月亮的能量彻底无法被感知之时。"
+  ],
+  [
+   "res#60146/whatIHaveToSay[1]",
+   "zenith",
+   "Just as light can be focused, I suspect that there are objects that can focus this energy as well. If such a thing exists, it could cause the energy of a moon to be felt when it is closer to the horizon.",
+   "正如光可以被汇聚，我猜想也有能汇聚这种能量的器物。若真有这样的东西，就能让月亮尚靠近地平线时，其能量也被人感知。"
+  ],
+  [
+   "res#60165/whatIHaveToSay[0]",
+   "book",
+   "In the library we have some. I have not found much use for them unfortunately. I think the former inhabitants merely gathered what they could, not what was useful.",
+   "图书馆里有一些。可惜我还没发现它们有什么大用。我想，从前的居民只是见到什么就收什么，而不是收有用的东西。"
+  ],
+  [
+   "res#60298/whatIHaveToSay[0]",
+   "fog",
+   "My interest in the fog is different than the others. It does not appear physical, which has been observed by some of the others, but more so, arcane symbols can be viewed through it.",
+   "我对迷雾的兴趣与他人不同。它看起来并非实体——这一点别人也观察到过；更甚的是，透过它能看到奥术符号。"
+  ],
+  [
+   "res#60327/options[0].text",
+   "Enchanter ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60327/options[1].text",
+   "Enchanter ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60327/options[2].text",
+   "Enchanter ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60327/options[3].text",
+   "Enchanter ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60327/options[4].text",
+   "Enchanter ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60327/options[5].text",
+   "Enchanter ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60327/options[6].text",
+   "Enchanter ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60327/options[7].text",
+   "Enchanter ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60327/options[8].text",
+   "Enchanter ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60327/options[9].text",
+   "Enchanter ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60384/whatIHaveToSay[0]",
+   "job",
+   "Chief Enchanter of... Queen something something... I can't entirely remember. But what I do remember is a great deal of arcane lore. The more arcane, the more I remember, especially when that lore was in an ancient tongue.",
+   "首席附魔师，效力于……某某女王……我记不全了。但我记得的东西是大量的奥术学识。越是奥术的东西，我记得越牢，尤其是用古代语言写成的学识。"
+  ],
+  [
+   "res#60384/whatIHaveToSay[1]",
+   "job",
+   "I am eager to see what strange treasures you have encountered. I am willing to enchant things for you if you can find a rare ore called manatite.",
+   "我迫不及待想看看你遇到过哪些奇异的宝物。若你能找到一种稀有矿石，名为法力晶石，我愿意为你附魔。"
+  ],
+  [
+   "res#60519/whatIHaveToSay[0]",
+   "Respectacle",
+   "I felt a strange presence appear the moment you were taken into the other realm. It is some kind of artifact, created by the tear in our world.\n\nI shall call it, the Respectacle, for it must be respected. Not for any other reason.",
+   "你被带入另一个领域的那一刻，我感到一个陌生的存在出现了。它是某种人造之物，由我们世界的那道裂口所生。\n\n我将称它为——敬视镜。因为它必须受人敬重，没有别的原因。"
+  ],
+  [
+   "res#60519/whatIHaveToSay[1]",
+   "Respectacle",
+   "I believe it latched on to the narrowest gap between worlds; the same gap that you used to escape. Be very careful around it. We do not know what it is capable of.",
+   "我相信它攀附在世界之间最狭窄的缝隙上——正是你用来逃脱的那道缝隙。在它周围务必小心。我们不知道它有何能力。"
+  ],
+  [
+   "res#60531/whatIHaveToSay[0]",
+   "dark lord",
+   "I know that he had a name... but I cannot recall at the moment. He put this world to ruin, and would have gone further if he had not been stopped. We are fortunate to live in such times as this... bad as it may seem.",
+   "我知道他有个名字……可此刻想不起来。他让这个世界陷入毁灭，若不是被阻止，还会走得更远。我们能活在这样的时代已是万幸……哪怕看上去糟糕透顶。"
+  ],
+  [
+   "res#60531/whatIHaveToSay[1]",
+   "dark lord",
+   "Unfortunately his creatures remain, and even continue to grow. Solmaria may never be rid of them. I remember hearing once that some of them came from wherever he did; not from Solmaria, that much is certain.",
+   "可惜他的造物仍在，甚至在不断滋长。索尔玛利亚也许永远摆脱不了它们。我记得听人说过，其中一些来自他来的地方；它们并非出自索尔玛利亚——这一点是肯定的。"
+  ],
+  [
+   "res#60541/whatIHaveToSay[0]",
+   "Lannon",
+   "Welcome to my study! I am eager to discuss things with you.",
+   "欢迎来到我的书房！我正迫不及待想和你聊聊。"
+  ],
+  [
+   "res#60583/whatIHaveToSay[0]",
+   "librarian",
+   "I was not here when she first arrived and restored this place, so I have not seen her. Nor would I remember her if I had, for none of the others can, and I do not hold myself above them.",
+   "她初来此地、修复这个地方时，我并不在这里，所以没见过她。就算见过，我大概也记不住——因为其他人都记不住，而我不认为自己比他们高明。"
+  ],
+  [
+   "res#60613/whatIHaveToSay[0]",
+   "Just A Phase",
+   "If I am to stay anchored to this dimension I need to find something that can pierce the veil between worlds. There is a rare plant with such properties, or so I believe.\n\nWill you find this plant and bring it to me?",
+   "若要让我锚定在这个次元，我需要找到能刺穿世界帷幕的东西。有一种稀有植物，我相信它有这种特性。\n\n你愿意找到这种植物，带来给我吗？"
+  ],
+  [
+   "res#60617/whatIHaveToSay[0]",
+   "dimension",
+   "You have likely noticed my... problem. I sometimes find myself somewhere else entirely. Only for a second or two, but there I am. I believe I am travelling to some sort of arcane realm. How I came to have this malady I am unsure.",
+   "你大概注意到我的……毛病了。我有时会发现自己完全身处别处。只有一两秒，但我确实就在那里。我相信我是在向某种奥术领域漂移。这毛病从何而来，我也不清楚。"
+  ],
+  [
+   "res#60617/whatIHaveToSay[1]",
+   "dimension",
+   "Perhaps I have spent too much time delving into the unknown, and now it has a hold on me. Or maybe I did something in my past. It troubles me greatly, but what can I do?\n\nMy last resort is to obtain a plant that has similar properties and see if there is some kind of connection.",
+   "也许是我探究未知太久，如今它抓住了我。又或许是我过去做过什么。这让我极为不安，可我又能怎么办？\n\n我最后的指望，是找到一种具有类似特性的植物，看看其间是否有什么联系。"
+  ],
+  [
+   "res#60623/whatIHaveToSay[0]",
+   "training",
+   "I would be happy to train you in the use of your spells, but I cannot in my current state. It is very hard to focus while not properly bound to this dimension.",
+   "我很乐意训练你们运用法术，可我目前的状态做不到。未能正确锚定于这个次元，要集中精神就极难。"
+  ],
+  [
+   "res#60625/whatIHaveToSay[0]",
+   "energy",
+   "It is not mere energy that lies below us. It has been tainted by evil and can only be used for thus. It flows into an obelisk east of here, and I suspect similar obelisks were made to channel this energy.",
+   "我们脚下所埋的，并不只是能量。它已被邪恶污染，只能用于邪途。它流入此地以东的一座方尖碑；我猜想，类似的方尖碑就是为了引导这种能量，才被造出来的。"
+  ],
+  [
+   "res#60625/whatIHaveToSay[1]",
+   "energy",
+   "That energy can summon creatures of vile nature. All of my other attempts to study it have failed.\n\nStrangely, it gives off the same feel as the moons when they reach their zenith or nadir.",
+   "那种能量，能召唤出邪恶本性的生物。我其余研究它的尝试都失败了。\n\n奇怪的是，当众月行至天顶，它散发的感觉与那时相同。"
+  ],
+  [
+   "res#60670/whatIHaveToSay[0]",
+   "silver",
+   "It is not too rare, but does contain power of some kind. It does not appear to be arcane in nature, and yet it has a connection to various creatures in this world.",
+   "它不算太稀有，但确实蕴含着某种力量。它似乎并非奥术性质，却与这世上的多种生物有联系。"
+  ],
+  [
+   "res#60735/whatIHaveToSay[0]",
+   "Airendal",
+   "An arcane being! Most impressive! We must talk.",
+   "一个奥术生命！太了不起了！我们必须谈谈。"
+  ],
+  [
+   "res#60749/whatIHaveToSay[0]",
+   "Codex",
+   "This book of yours is written in a language that even I do not know. It is far more ancient than anything I have ever seen.",
+   "你这部书足以一种连我都不认识的语言写成。它比我见过的任何东西都要古老得多。"
+  ],
+  [
+   "res#60770/whatIHaveToSay[0]",
+   "Arbo",
+   "I sense intelligence from you. What a fascinating creature.",
+   "我感知到你身上的智慧。多么迷人的生物。"
+  ],
+  [
+   "res#60798/whatIHaveToSay[0]",
+   "keystone",
+   "I have no doubt that it is connected to something here. Arcane symbols have many purposes. They can be anything from warnings to guides. Some are barriers and others keys. The ancient inhabitants left many secrets.",
+   "我毫不怀疑它与这里的某样东西相连。奥术符号用途众多：从警示到指引，无所不包。有些是屏障，另一些是钥匙。古代居民留下了许多秘密。"
+  ],
+  [
+   "res#60808/whatIHaveToSay[0]",
+   "Scaphin",
+   "I have found only a little written about these creatures. They do not appear to write or record anything so all that we know is based on old stories of encounters with them.",
+   "关于这些生物，我只找到过寥寥记载。他们似乎不书写、不记录，所以我们所知的一切都来自与他们相遇的古老故事。"
+  ],
+  [
+   "res#60835/whatIHaveToSay[0]",
+   "Renault",
+   "This place was built by an ancestor of their family. They were more noble of character in those days. Now, nobility means something different.",
+   "这地方是他们家族的一位先祖建造的。那个年代的人，品格更为高贵。如今，「高贵」的含义已经不同了。"
+  ],
+  [
+   "res#60896/options[0].text",
+   "Kazimar",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60896/options[10].text",
+   "Kazimar",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60896/options[11].text",
+   "Kazimar",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60896/options[12].text",
+   "Kazimar",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60896/options[13].text",
+   "Kazimar",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60896/options[14].text",
+   "Kazimar",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60896/options[15].text",
+   "Kazimar",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60896/options[16].text",
+   "Kazimar",
+   "Just A Phase",
+   "只是一时"
+  ],
+  [
+   "res#60896/options[17].text",
+   "Kazimar",
+   "Glyph Stones",
+   "符文石"
+  ],
+  [
+   "res#60896/options[18].text",
+   "Kazimar",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60896/options[19].text",
+   "Kazimar",
+   "energy",
+   "能量"
+  ],
+  [
+   "res#60896/options[1].text",
+   "Kazimar",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60896/options[20].text",
+   "Kazimar",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60896/options[21].text",
+   "Kazimar",
+   "keystone",
+   "拱心石"
+  ],
+  [
+   "res#60896/options[22].text",
+   "Kazimar",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60896/options[23].text",
+   "Kazimar",
+   "training",
+   "训练"
+  ],
+  [
+   "res#60896/options[24].text",
+   "Kazimar",
+   "Respectacle",
+   "敬视镜"
+  ],
+  [
+   "res#60896/options[25].text",
+   "Kazimar",
+   "zenith",
+   "天顶"
+  ],
+  [
+   "res#60896/options[2].text",
+   "Kazimar",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60896/options[3].text",
+   "Kazimar",
+   "book",
+   "书"
+  ],
+  [
+   "res#60896/options[4].text",
+   "Kazimar",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60896/options[5].text",
+   "Kazimar",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60896/options[6].text",
+   "Kazimar",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60896/options[7].text",
+   "Kazimar",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60896/options[8].text",
+   "Kazimar",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60896/options[9].text",
+   "Kazimar",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60954/whatIHaveToSay[0]",
+   "training",
+   "I am finally stable again. Thank you ever so much. We can begin training whenever you would like.",
+   "我终于又稳定下来了。太感谢你了。你想什么时候开始训练都行。"
+  ],
+  [
+   "res#60962/whatIHaveToSay[0]",
+   "Archaven",
+   "Little remains to teach us of how it was made. I have uncovered some arcane symbols, but I lack the proper spells to search further.",
+   "关于它是如何建造的，已几乎无可查考。我发现了一些奥术符号，但缺少进一步探查所需的法术。"
+  ],
+  [
+   "res#60990/whatIHaveToSay[0]",
+   "Shione",
+   "Music is a sort of magic all on its own. I wonder, could the fabric of reality bend to your art just as the soul does?",
+   "音乐本身就是一种魔法。我在想，现实的织理是否也能像灵魂一样，为你的艺术所打动？"
+  ]
+ ]
+}

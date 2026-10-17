@@ -1,0 +1,459 @@
+{
+ "meta": {
+  "kind": "对话/LibrarianConversation",
+  "count": 75,
+  "with_cn": 75
+ },
+ "entries": [
+  [
+   "res#59734/whatIHaveToSay[0]",
+   "exit",
+   "We entered this place from the south, but it is too dangerous and we locked the door. I will not open it until the outside is clear. I cannot risk this place falling to the evil things that have infested the halls outside.",
+   "我们由南面进入。此地太过危险，我们已锁上门。在洞外安全之前，我不会打开它。我不能拿这里冒险，外面的大厅里满是盘踞的邪物。"
+  ],
+  [
+   "res#59734/whatIHaveToSay[1]",
+   "exit",
+   "There is another exit somewhere nearby. I found this key when we first arrived. Perhaps this will help you reach the surface. It would not surprise me if there are many secrets to this place.",
+   "附近某处还有另一个出口。我们初到时，我发现了这把钥匙。也许它能帮你回到地面。这地方藏着许多秘密，我一点也不会惊讶。"
+  ],
+  [
+   "res#59740/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Welcome to the Shelter friend. If you visit the training grounds you might learn something.",
+   "欢迎来到庇护所，朋友。去训练场看看，也许你能学点什么。"
+  ],
+  [
+   "res#59775/whatIHaveToSay[0]",
+   "graveyard",
+   "Graveyards are places of rest and peace. They can bring sorrow, but also remind us of things we love. At least they should. Dark spirits sometimes find them and corrupt those that rest.",
+   "墓地是安息与宁静之所。它们会带来哀伤，也唤醒我们珍爱之物。至少本该如此。有时黑暗的灵体找上墓地，玷污安息者。"
+  ],
+  [
+   "res#59775/whatIHaveToSay[1]",
+   "graveyard",
+   "I have limited experience, but I read a book that the librarian had once that talked about how the dead are raised into an unholy existence.",
+   "我见识有限，但我读过图书管理员的一本书，讲的是死者如何被唤起，变成亵渎的存在。"
+  ],
+  [
+   "res#59822/whatIHaveToSay[0]",
+   "Emerisk",
+   "It sits above us. How far I cannot say, but we are almost directly below it. And above it actually. Callor says that the town was founded ages ago. It has built up over time from the ruins below us.",
+   "它就在我们上方。说不清多远，但我们几乎正在它正下方。其实也在它之上。卡勒说这镇子是很久以前建起来的，从我们脚下的废墟一层层长成了现在这样。"
+  ],
+  [
+   "res#59854/whatIHaveToSay[0]",
+   "arcane",
+   "This place is full of the arcane. The builders had many powerful secrets that they hid away. Peering into that arcane world can reveal much. Since you can read, you should go to the southern hall. There are plaques there that seem to describe various arcane symbols.",
+   "这地方充满了奥术。建造者曾将许多强大的秘密封藏于此。窥探那个奥术世界能揭示很多。既然你识字，就该去南边的大厅。那里的石板似乎描述着各种奥术符号。"
+  ],
+  [
+   "res#59876/whatIHaveToSay[0]",
+   "caves",
+   "I believe these caves are more than just natural formations. There is power flowing through them, and this place appears to feed on it. It is what powers these strange lights.",
+   "我相信这些洞穴不只是天然形成。有力量在它们之中流动，而这个地方似乎在汲取它。正是它驱动着这些奇异的光。"
+  ],
+  [
+   "res#59908/whatIHaveToSay[0]",
+   "energy",
+   "It is drawn to the surface by various obelisks. I do not understand it fully. Kazimar insists it is purely evil. I am unsure, but caution is a good course of action.\n\nSuch an energy source is unlikely to be natural. Whatever it is, it is dangerous.",
+   "它被各种方尖碑引向地面。我并不完全理解它。卡兹玛坚称它纯属邪恶。我不确定，但谨慎总归是好的。\n\n这样的能量源不太可能是天然的。不管它是什么，它很危险。"
+  ],
+  [
+   "res#59914/whatIHaveToSay[0]",
+   "Kalindraur",
+   "This place shelters us from the evil that drains our memories. A power greater than the greatest evil... that is a comforting thought.",
+   "这个地方庇护我们，让我们免遭那吞噬记忆的邪恶。一种比至恶更强大的力量……这想法令人安心。"
+  ],
+  [
+   "res#59941/whatIHaveToSay[0]",
+   "Rycard",
+   "You may have entered these caves for reasons unrelated to our goals, but I am glad that you are here.",
+   "你进入这些洞穴也许另有缘由，与我们的目标无关。但我很高兴你在这里。"
+  ],
+  [
+   "res#59961/whatIHaveToSay[0]",
+   "exit",
+   "There is an exit on the cliffs to the east, above the reservoir of energy. I cannot recall how I know this, but it can only be opened with the spoken word \"@3@\". It is old magic, from before this place fell into ruin. It would not surprise me if there are many more secrets to this place.",
+   "东边的崖壁上有一处出口。那里汇聚着能量，蓄池就横在崖边。我说不上来我是怎么知道的，但它只能用咒语“@3@”开启。那是古老的魔法，远在这地方沦为废墟之前。这地方还藏着许多秘密，我一点也不会惊讶。"
+  ],
+  [
+   "res#59961/whatIHaveToSay[1]",
+   "exit",
+   "We entered here from the south, but it was too dangerous so we locked the door. I will not open it until the outside is clear. I cannot risk this place falling to the evil things that have infested the halls outside.",
+   "我们由南面进入此地，但那里太过危险，我们锁上了门。在洞外安全之前，我不会打开它。我不能拿这里冒险，外面的大厅里满是盘踞的邪物。"
+  ],
+  [
+   "res#59965/whatIHaveToSay[0]",
+   "Bhulown",
+   "A Scaphin? I did not expect to lay eyes upon one of your kind in such circumstances as this. Welcome.",
+   "一个斯卡芬？在这种境况下见到你这样的存在，真是意想不到。欢迎。"
+  ],
+  [
+   "res#59981/whatIHaveToSay[0]",
+   "corundum",
+   "It does not sound familiar, but if it is a real thing it can likely be found here.",
+   "听着不耳熟，但若它真实存在，多半能在这里找到。"
+  ],
+  [
+   "res#60028/whatIHaveToSay[0]",
+   "Agmarians",
+   "You have heard these legends? They betrayed mankind in ages past. I do wonder though... knowing the heart of man, is that really how it happened or do we deceive ourselves?",
+   "你听过这些传说？远古时代，他们背叛了人类。不过我真的怀疑……以人心之叵测，事情真是那样，还是我们在自欺？"
+  ],
+  [
+   "res#60077/whatIHaveToSay[0]",
+   "Goblins",
+   "I encountered them when I fled to this place. I was almost overrun when I found some markings scratched into the ground. They did not pursue me further. I believe the markings were of arcane origin.",
+   "我逃来此地时遇上了它们。就在快被淹没时，我在地上发现了一些刻痕。它们便不再追我。我相信那些刻痕源自奥术。"
+  ],
+  [
+   "res#60125/whatIHaveToSay[0]",
+   "Merewen",
+   "If you were sent to us by the librarian, then you must be connected to us somehow. Perhaps we will find out soon enough.",
+   "若是图书管理员，派你来的——那你必定与我们有着某种联系。也许很快我们就会知道。"
+  ],
+  [
+   "res#60170/whatIHaveToSay[0]",
+   "book",
+   "Some are important, some are not. What matters more is whether anyone can read them, and most cannot. Some ability was preserved in this place, but much has been lost, both memory and ability.",
+   "有些书重要，有些无关紧要。更要紧的是有没有人读得懂——而多数人读不懂。这地方还保留着一些能力，但失去的更多：记忆，和能力。"
+  ],
+  [
+   "res#60170/whatIHaveToSay[1]",
+   "book",
+   "The town above is full of people, and I suspect not a single one of them can read anymore. This cursed loss of memory... I believe we will lift it, somehow.",
+   "上面的镇子里全是人，我怀疑他们中已无一人识字。这该死的记忆流失……我相信，我们总有办法解除它。"
+  ],
+  [
+   "res#60196/whatIHaveToSay[0]",
+   "recievedItem",
+   "We entered this place from the south, but it is too dangerous and we locked the door. I will not open it until the outside is clear. I cannot risk this place falling to the evil things that have infested the halls outside.",
+   "我们由南面进入此地，但那里太过危险，我们锁上了门。在洞外安全之前，我不会打开它。我不能拿这里冒险，外面的大厅里满是盘踞的邪物。"
+  ],
+  [
+   "res#60196/whatIHaveToSay[1]",
+   "recievedItem",
+   "There are many more secrets in this place. If you are patient and observant you may yet find them.",
+   "这地方还有多得多的秘密。只要你有耐心、够细心，或许还能找到它们。"
+  ],
+  [
+   "res#60305/whatIHaveToSay[0]",
+   "fog",
+   "We do not understand it, for the most part. We must find out more. Perhaps there are writings... or... anything. Forgive me, there is so little we know and so much to learn.\n\n\tI have spent less time in the fog than anyone here, and yet I still have lost many memories.",
+   "对它，我们大体上并不了解。我们必须了解更多。也许会有文字记录……或者……什么都好。原谅我，我们知道得太少，要学的太多。\n\n\t在这里，我在迷雾中待的时间比任何人都短，却依然失去了许多记忆。"
+  ],
+  [
+   "res#60334/options[0].text",
+   "Librarian ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60334/options[1].text",
+   "Librarian ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60334/options[2].text",
+   "Librarian ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60334/options[3].text",
+   "Librarian ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60334/options[4].text",
+   "Librarian ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60334/options[5].text",
+   "Librarian ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60334/options[6].text",
+   "Librarian ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60334/options[7].text",
+   "Librarian ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60334/options[8].text",
+   "Librarian ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60334/options[9].text",
+   "Librarian ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60391/whatIHaveToSay[0]",
+   "job",
+   "I have worked to gather as many people to this place as possible. I was the first one here, as far as I can remember. I suppose you could say I am a recruiter or sorts.",
+   "我一直在尽力把尽可能多的人聚集到这里。据我所记得的，我是第一个来到这里的人。可以说，我算是个招募者吧。"
+  ],
+  [
+   "res#60391/whatIHaveToSay[1]",
+   "job",
+   "I also manage the supplies and make sure everything is running well. It may not be as glamorous as some of the other jobs here, but without it this place would fall back into ruin.",
+   "我也管理补给，确保一切运转正常。这差事也许不如这里其他工作体面，但没有它，这地方就会重新沦为废墟。"
+  ],
+  [
+   "res#60548/whatIHaveToSay[0]",
+   "Lannon",
+   "It has been my enduring hope that someone would finally bring the book here safely.",
+   "我一直盼望着，终于有人能把那本书平安带到这儿来。"
+  ],
+  [
+   "res#60576/whatIHaveToSay[0]",
+   "tombstone",
+   "A tombstone with my name on it? When I first arrived here I could not recall my own name, so I searched the town archives of the deceased, and picked this one. It seemed fitting at the time. I am sorry to have caused any confusion.",
+   "一座刻着我名字的墓碑？我初到这里时想不起自己的名字，就翻查镇上亡者的档案，挑了这个。当时觉得挺合适。若引起了什么困惑，我很抱歉。"
+  ],
+  [
+   "res#60576/whatIHaveToSay[1]",
+   "tombstone",
+   "Many of the tombstones hold clues to family lineage and arcane secrets. I remember seeing a book of lineages once, but I cannot remember where it went.",
+   "许多墓碑，都藏着家族血脉与奥术秘密的线索。我记得曾见过一本谱系之书，但想不起来它去哪了。"
+  ],
+  [
+   "res#60585/whatIHaveToSay[0]",
+   "librarian",
+   "If she knows of the book then she is our last hope, along with you. If you can bring her the book perhaps we will find a way to stop the memory loss. Whether or not we can reverse it is another question entirely.",
+   "如果她知道那本书，那她就是我们最后的希望——还有你。若你能把书带给她，也许我们就能找到阻止记忆流失的办法。至于能否逆转，那完全是另一个问题。"
+  ],
+  [
+   "res#60631/whatIHaveToSay[0]",
+   "Codex",
+   "There was someone, before me... the memory is faint. I recall them telling me that the book saw deep into a person's soul. I do not know how a book is capable of such a thing, but I believe the one wielding the book matters. We will not attempt to take it from you.",
+   "在我之前，曾有一个人……记忆很淡了。我记得他们说过：那本书，能窥入人的灵魂深处。我不知道一本书怎能有这般本事，但我相信，执掌书的人才是关键。我们不会试图把它从你手中夺走。"
+  ],
+  [
+   "res#60664/whatIHaveToSay[0]",
+   "Laszra",
+   "I can hardly believe that it is you. I thought that you were lost to us. Our mission must continue.",
+   "我几乎不敢相信是你。我以为你已与我们失散。我们的使命必须继续。"
+  ],
+  [
+   "res#60674/whatIHaveToSay[0]",
+   "silver",
+   "These caves are full of it, but I am not an expert in metals. Occasionally I will find something made from it. I give some of the artifacts I find to others down here, but they become lost again when those people venture out of the Shelter and do not return.",
+   "这些洞穴，遍地都是它；但我算不上金属的行家。偶尔我会挖到用它制成的器物。找到的一些古器，我会分给下面的其他人；可等他们出了庇护所一去不回，这些东西又散失了。"
+  ],
+  [
+   "res#60737/whatIHaveToSay[0]",
+   "Airendal",
+   "It is you! I know you... don't I? I cannot recall...",
+   "是你！我认得你……对吧？我想不起来了……"
+  ],
+  [
+   "res#60777/whatIHaveToSay[0]",
+   "Arbo",
+   "They are lucky to have you. I wish there were other dogs here for you to meet.",
+   "他们有你真幸运。真希望这儿还有别的狗能让你认识。"
+  ],
+  [
+   "res#60812/whatIHaveToSay[0]",
+   "Scaphin",
+   "I have never seen one, but there were sightings in Emerisk from time to time. Usually they keep to swamps and damp places.",
+   "我从未见过。但埃梅里斯克不时有人目击它们。它们通常栖身于沼泽和潮湿之地。"
+  ],
+  [
+   "res#60842/whatIHaveToSay[0]",
+   "Renault",
+   "A long family line with a history of honor and bravery. I believe there is still at least one Renault still living in Emerisk. Perhaps they follow the family legacy.",
+   "一个历史悠久、以荣誉与勇敢著称的家族。我相信在埃梅里斯克，至少还住着一位雷诺。也许他们仍在延续家族的传统。"
+  ],
+  [
+   "res#60867/whatIHaveToSay[0]",
+   "keystone",
+   "And you say this stone reacted to the slaying of that creature? Fascinating. Perhaps it was a test of strength? I will study this. In the meantime, ask some of the others here.",
+   "你说这块石头对那只生物的死亡起了反应？真有意思。也许那是一场力量的试炼？我会研究这个。这期间，去问问这里的其他人。"
+  ],
+  [
+   "res#60873/whatIHaveToSay[0]",
+   "dark lord",
+   "Before any of us were born there was a king who ruled over the entire face of Solmaria. Even the moons bent to his power. I do not know where he came from, or in fact, if this dark lord was even a man. The texts that I possess do not say where he came from.",
+   "在我们任何人出生之前，有一位国王统治着索尔玛利亚全境。连月轮也屈从于他的力量。我不知道他来自何方，甚至不知道这位黑暗领主是否还是人。我手头的文献也没有记载他的来处。"
+  ],
+  [
+   "res#60873/whatIHaveToSay[1]",
+   "dark lord",
+   "Rumors were that he was immortal; some kind of god, or demigod. None know for sure, except perhaps the librarian that we seek.\n\n     His power was so great that he ruled all the lands. But even in this strength he was not all knowing. Good men and women rose up to challenge him.",
+   "传言他不死不灭，是某种神明，或半神。无人确知其详——也许只有我们在寻找的那位图书管理员。\n\n     他的力量强大到统治了所有土地。但即便拥有这等力量，他也并非全知全能。善良的人们奋起挑战他。"
+  ],
+  [
+   "res#60873/whatIHaveToSay[2]",
+   "dark lord",
+   "At last they defeated him, and he has been gone from this world ever since. You bring troubling news of dark power beneath us. Even if this is all that remains of him, it still contains his will and follows his purposes.",
+   "最终他们击败了他，自那以后他便从这个世界上消失了。你带来了令人不安的消息：我们脚下有黑暗的力量。纵使这是他仅存的残响，其中依然承载着他的意志，遵循着他的意图。"
+  ],
+  [
+   "res#60873/whatIHaveToSay[3]",
+   "dark lord",
+   "You should seek out the library in town. Perhaps some of the librarian's books contain more information on this subject. Any light shed on this may help to stop this calamity that eats away at our minds.",
+   "你应当去镇上的图书馆看看，那里曾属于图书管理员。他的藏书中也许有关于此事更多的信息。任何能照亮的线索，都可能帮我们阻止这场蚕食心智的灾祸。"
+  ],
+  [
+   "res#60903/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60903/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60903/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60903/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60903/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60903/options[14].text",
+   "Isobel Warde",
+   "exit",
+   "出口"
+  ],
+  [
+   "res#60903/options[15].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60903/options[16].text",
+   "Isobel Warde",
+   "energy",
+   "能量"
+  ],
+  [
+   "res#60903/options[17].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60903/options[18].text",
+   "Isobel Warde",
+   "keystone",
+   "拱心石"
+  ],
+  [
+   "res#60903/options[19].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60903/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60903/options[20].text",
+   "Isobel Warde",
+   "tombstone",
+   "墓碑"
+  ],
+  [
+   "res#60903/options[21].text",
+   "Isobel Warde",
+   "arcane",
+   "奥术"
+  ],
+  [
+   "res#60903/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60903/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60903/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60903/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60903/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60903/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60903/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60903/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60965/whatIHaveToSay[0]",
+   "Dimas",
+   "There is something about you... a glow. I have seen it on those that have touched death and escaped narrowly.",
+   "你身上有些东西……一种光晕。我在那些与死亡擦肩而过的人身上见过它。"
+  ],
+  [
+   "res#60992/whatIHaveToSay[0]",
+   "Shione",
+   "It would be something special to hear music in these halls. I imagine there once was, long ago.",
+   "若能在这些厅堂里听见音乐，那一定很特别。我想，很久以前这里曾经有过。"
+  ]
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "kind": "对话/ScaphinVillager1Conversation",
+  "count": 61,
+  "with_cn": 61
+ },
+ "entries": [
+  [
+   "res#59710/whatIHaveToSay[0]",
+   "manatite",
+   "Make baby toy. Night light.",
+   "做婴儿玩具。夜灯。"
+  ],
+  [
+   "res#59743/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Armor yes. Clothes under that? No like!",
+   "铠甲，行。铠甲底下还穿衣服？不喜欢！"
+  ],
+  [
+   "res#59781/whatIHaveToSay[0]",
+   "graveyard",
+   "Put body under ground? We already underground. Many human bodies here.",
+   "把尸体埋地下？我们本来就在地下。这里人类尸体很多。"
+  ],
+  [
+   "res#59829/whatIHaveToSay[0]",
+   "Emerisk",
+   "Human home danger. Our home also danger. Manshroom threat both.",
+   "人类的家，危险。我们的家，也危险。人菇，威胁两处。"
+  ],
+  [
+   "res#59881/whatIHaveToSay[0]",
+   "caves",
+   "Caves are best. Sun is bad. Too dry.",
+   "洞穴最好。太阳糟糕。太干。"
+  ],
+  [
+   "res#59947/whatIHaveToSay[0]",
+   "Rycard",
+   "Too many wear. Humans change cloth, humans change look.",
+   "穿得太多。人类换布，人类就变样。"
+  ],
+  [
+   "res#59985/whatIHaveToSay[0]",
+   "corundum",
+   "Goblin want! But we not give.",
+   "哥布林，想要！可我们不给。"
+  ],
+  [
+   "res#60003/whatIHaveToSay[0]",
+   "Archaven",
+   "Is... a wearing cloth? Yes, make human fancy. Must be.",
+   "是……穿的布？对，让人类变花哨。一定是。"
+  ],
+  [
+   "res#60035/whatIHaveToSay[0]",
+   "Agmarians",
+   "Never meet. But bad.",
+   "没见过。但坏。"
+  ],
+  [
+   "res#60082/whatIHaveToSay[0]",
+   "Goblins",
+   "Scagh! Make deal, but take instead. No trust!",
+   "嘶咔！说好了交易，却直接抢。不能信！"
+  ],
+  [
+   "res#60132/whatIHaveToSay[0]",
+   "Merewen",
+   "You change clothes? Or new human?",
+   "你们换了衣服？还是新的人类？"
+  ],
+  [
+   "res#60145/whatIHaveToSay[0]",
+   "Laszra",
+   "Wear blanket cloth on back. Is cold?",
+   "背上一块毯子布。冷吗？"
+  ],
+  [
+   "res#60176/whatIHaveToSay[0]",
+   "book",
+   "Sometimes human body have this. You look bodies. You find book. See? Here book. You take. Relieve burden of thin wood slices.",
+   "有时人类尸身上有这个。你们翻尸体。你们找到书。看？书在这儿。你们拿走。给这些薄木片减负。"
+  ],
+  [
+   "res#60189/whatIHaveToSay[0]",
+   "Dimas",
+   "Is too round. Human?",
+   "太圆了。人类？"
+  ],
+  [
+   "res#60199/whatIHaveToSay[0]",
+   "Bhulown",
+   "Son to king. Unlike others. Wish to wear cloth. Wish to see sky. Why?",
+   "国王的儿子。和别人不一样。想穿布。想看天。为什么？"
+  ],
+  [
+   "res#60312/whatIHaveToSay[0]",
+   "fog",
+   "Yes, like fog. Keep skin moist.",
+   "对，像雾。让皮肤湿润。"
+  ],
+  [
+   "res#60341/options[0].text",
+   "Scaphin Villager 1 ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60341/options[1].text",
+   "Scaphin Villager 1 ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60341/options[2].text",
+   "Scaphin Villager 1 ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60341/options[3].text",
+   "Scaphin Villager 1 ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60341/options[4].text",
+   "Scaphin Villager 1 ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60341/options[5].text",
+   "Scaphin Villager 1 ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60341/options[6].text",
+   "Scaphin Villager 1 ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60341/options[7].text",
+   "Scaphin Villager 1 ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60341/options[8].text",
+   "Scaphin Villager 1 ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60341/options[9].text",
+   "Scaphin Villager 1 ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60398/whatIHaveToSay[0]",
+   "job",
+   "Am Scaphin.",
+   "是斯卡芬。"
+  ],
+  [
+   "res#60555/whatIHaveToSay[0]",
+   "Lannon",
+   "Clothing strange. Not armor. Why?",
+   "衣服怪。不是铠甲。为什么？"
+  ],
+  [
+   "res#60588/whatIHaveToSay[0]",
+   "librarian",
+   "No. This is not word.",
+   "不。这不是词。"
+  ],
+  [
+   "res#60602/whatIHaveToSay[0]",
+   "Manshroom",
+   "Is natural, no. Made by evil. Mushroom good for food, hat. Not for enemy.",
+   "是天生的？不。邪恶造的。蘑菇能做吃的、做帽子。不当敌人。"
+  ],
+  [
+   "res#60620/whatIHaveToSay[0]",
+   "dimension",
+   "Like cave, above cave?",
+   "像洞穴，在洞穴上方？"
+  ],
+  [
+   "res#60678/whatIHaveToSay[0]",
+   "silver",
+   "Scaphin no use. But have many. Bring thread, I give silver. Wish understand cloth.",
+   "斯卡芬，用不上。但有很多。带线来，我给银子。想弄懂布。"
+  ],
+  [
+   "res#60687/whatIHaveToSay[0]",
+   "dark lord",
+   "Make the evil sauce! Deep deep it is. The sauce make want evil!",
+   "酿造邪恶的酱汁！深深，很深。那酱汁让人想使坏！"
+  ],
+  [
+   "res#60732/whatIHaveToSay[0]",
+   "completedQuest",
+   "Now can make cloth. First, learn weave. Be like human?",
+   "现在能做布了。先，学纺织。要变得像人类？"
+  ],
+  [
+   "res#60740/whatIHaveToSay[0]",
+   "Airendal",
+   "Helioon and Coldspore make baby?",
+   "赫利翁和寒孢，会生小宝宝吗？"
+  ],
+  [
+   "res#60758/whatIHaveToSay[0]",
+   "onQuest",
+   "Spider make thread, wear no cloth. Spider make cloth for food. Wish to have this cloth for self. Bring cloth? I give silver.",
+   "蜘蛛吐线，不穿布。蜘蛛织布存食物。想要这样的布给自己。带布来？我给银子。"
+  ],
+  [
+   "res#60784/whatIHaveToSay[0]",
+   "Arbo",
+   "No cloth. Is good. But nature cloth? How is this?",
+   "不穿布。挺好。可是天然的布？怎么回事？"
+  ],
+  [
+   "res#60816/whatIHaveToSay[0]",
+   "Scaphin",
+   "Scaphin good. Scaphin strong. But Scaphin strong make weak to evil thought. Many evil Scaphin now.",
+   "斯卡芬，好。斯卡芬，强。可斯卡芬太强，反而挡不住邪恶的念头。如今许多坏斯卡芬。"
+  ],
+  [
+   "res#60849/whatIHaveToSay[0]",
+   "Renault",
+   "None here that name.",
+   "这儿没有叫那个的。"
+  ],
+  [
+   "res#60910/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60910/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60910/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60910/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60910/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60910/options[14].text",
+   "Isobel Warde",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60910/options[15].text",
+   "Isobel Warde",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60910/options[16].text",
+   "Isobel Warde",
+   "Manshroom",
+   "人菇"
+  ],
+  [
+   "res#60910/options[17].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60910/options[18].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60910/options[19].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60910/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60910/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60910/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60910/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60910/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60910/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60910/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60910/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60910/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60977/whatIHaveToSay[0]",
+   "Codex",
+   "Sound fancy. Scaphin not need fancy.",
+   "听着花哨。斯卡芬不需要花哨。"
+  ],
+  [
+   "res#60995/whatIHaveToSay[0]",
+   "Shione",
+   "So much cloth! But music stick good.",
+   "这么多布！可乐器棍子好。"
+  ]
+ ]
+}

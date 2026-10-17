@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_twoHanded",
+  "count": 5,
+  "with_cn": 5
+ },
+ "entries": [
+  [
+   "res#60480/whatIHaveToSay[0]",
+   "Start",
+   "\n\n\tI leave this instruction to you, my son Vin, that you may understand what I have left you.\n\n\n\tThis family heirloom, made by my father's father, is more than a blade. It is a legacy that will carry forward our family name. ",
+   "\n\n\t我把这些教诲留给你，我的儿子文，好让你明白我留给你的究竟是什么。\n\n\n\t这件传家之物，由我父亲的父亲亲手打造，绝不只是一把剑。它是承载我家族姓氏的遗训。 "
+  ],
+  [
+   "res#60480/whatIHaveToSay[1]",
+   "Start",
+   "Honor is bound to it, and if you wield it, then you bind yourself to that honor.\n\n\tI leave you these instructions, meager though they may be. You will find a proper teacher in time, for you cannot learn the blade on your own.\n\n\tBear in mind the weight of the blade. Not only its drag to the earth, but what it means to wield it. In both respects, you have two options: guide the blade, or be guided by it. ",
+   "荣耀与它相系；你既执起此剑，便也把自己系于那份荣耀之上。\n\n\t留下这些叮嘱给你，虽然菲薄。你终会找到一位正式的师父——剑之一道，无法独自学成。\n\n\t记住剑的分量。不只是它坠向大地的重量，还有执剑本身的意义。在这两层意义上，你都有两条路：引导剑，或者被剑引导。 "
+  ],
+  [
+   "res#60480/whatIHaveToSay[2]",
+   "Start",
+   "Both are acceptable if you have intent, but you cannot go into battle without understanding where you stand with it.\n\n\tIf you guide the swing, you must be fully in command. It must know where you send it, and you must know where it will come to rest. Its path must be fully known to you.\n\n\tIf you are weak, you may still fight. Use the weight of the blade",
+   "只要心怀此意，两条路都可行；但若不明白自己与剑的相处之道，便不可上阵。\n\n\t若你引导挥斩，就必须完全掌握主动：剑要知道你将送往何处，你也必须知道它将止于何方。它的轨迹，你须了然于胸。\n\n\t若你力弱，也仍有可为。借剑的重量……"
+  ],
+  [
+   "res#60480/whatIHaveToSay[3]",
+   "Start",
+   "to your advantage. Let it tell you where it wishes to go and where it will come to rest.\n\n\tAbove all, speak and listen to the blade. One does not swing wildly and find success. Every strike is intentional. Every strike is thought out. In time, these thoughts and plans become second nature, and are quickly formed. ",
+   "……为己所用。让它告诉你，它想去往何处、将止于何方。\n\n\t最重要的是：与剑交谈，听剑说话。胡乱挥舞得不到任何成果。每一击都出于本意，每一击都经过思量。久而久之，这些思量与谋划会成为你的第二天性，瞬息即成。 "
+  ],
+  [
+   "res#60480/whatIHaveToSay[4]",
+   "Start",
+   "\tBut, you are just a child, and I must go to war. Even a skilled swordsman may fall in battle. If I return, I will become your teacher as you grow. If I do not, then I have a man in mind. He will find you when the time is right.\n\n\tFarewell son. I love you. Take care of your brothers and sisters. And take care of the blade and it will take care of you.\n\nPrince Inastrus of Ollidan, to his son Vin",
+   "\t可是，你还只是个孩子，而我必须上战场。再老练的剑客也可能战死沙场。若我能归来，我会在你成长中亲自教导你；若我回不来，我心里已有一人选。时机到了，他会来找你。\n\n\t再会了，儿子。我爱你。照顾好你的弟妹们。照看好这把剑，它便会照看好你。\n\n奥利丹的伊纳斯特鲁斯亲王，写给儿子文\t"
+  ]
+ ]
+}

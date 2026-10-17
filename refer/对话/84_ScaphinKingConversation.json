@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "kind": "对话/ScaphinKingConversation",
+  "count": 61,
+  "with_cn": 61
+ },
+ "entries": [
+  [
+   "res#59709/whatIHaveToSay[0]",
+   "manatite",
+   "Gouraah! Shiny rocks make light. Children toy. Scaphin no need. Humans want for power. Scaphin power not come from this.",
+   "咕啦！亮石头会发光。小孩的玩具。斯卡芬不需要。人类想要力量。斯卡芬的力量不来自这东西。"
+  ],
+  [
+   "res#59742/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Strong! Like Scaphin warrior! Before warriors turn...",
+   "强壮！像斯卡芬，的战士！在战士们都堕落之前……"
+  ],
+  [
+   "res#59780/whatIHaveToSay[0]",
+   "graveyard",
+   "Things die, mushrooms return things to dirt.",
+   "东西会死，蘑菇把东西还给泥土。"
+  ],
+  [
+   "res#59828/whatIHaveToSay[0]",
+   "Emerisk",
+   "Humans grow weak, make room for Scaphin. Caves home of Scaphin. Scaphin rule caves. Soon, Scaphin will live in human homes? No, too dry.",
+   "人类变弱，给斯卡芬腾地方。洞穴是斯卡芬的家。斯卡芬统治洞穴。不久，斯卡芬要住进人类的房子？不，太干。"
+  ],
+  [
+   "res#59880/whatIHaveToSay[0]",
+   "caves",
+   "Caves go up, caves go down. Caves go in, caves go out. Everywhere caves.\n\nEvil power lives here now. Scaphin must flee or turn. Made by dark lord.",
+   "洞穴向上，洞穴向下。洞穴向内，洞穴向外。到处都是洞穴。\n\n邪恶的力量如今住在这里。斯卡芬要么逃走，要么堕落。黑暗领主，造的。"
+  ],
+  [
+   "res#59946/whatIHaveToSay[0]",
+   "Rycard",
+   "You? No more business with human!",
+   "你？不再和人类做买卖！"
+  ],
+  [
+   "res#59984/whatIHaveToSay[0]",
+   "corundum",
+   "Blue rock. Trade with Goblin or Human. Once trade. No longer. Human now stupid. Goblin too mean.",
+   "蓝石头。和哥布林，或人类交易。曾经交易。如今不了。人类现在蠢了。哥布林太刻薄。"
+  ],
+  [
+   "res#60034/whatIHaveToSay[0]",
+   "Agmarians",
+   "Scaaagghhh!!! Scaphin no like. Will not share the wet places.",
+   "嘶——啊！！！斯卡芬不喜欢。潮湿的地方，绝不分享。"
+  ],
+  [
+   "res#60052/whatIHaveToSay[0]",
+   "Bhulown",
+   "Son is #. Want wear human cloth. Can such be king? Prove worth. You take. Return worthy son.",
+   "儿子是 #。想穿人类的布。这样能当国王？证明价值。你们带上他。带着有价值的人回来。"
+  ],
+  [
+   "res#60057/whatIHaveToSay[0]",
+   "Bhulown",
+   "Son. Prove worth. Scaphin need strength. Return worthy, or no return.",
+   "儿子。证明价值。斯卡芬，需要力量。带着价值回来，否则别回来。"
+  ],
+  [
+   "res#60081/whatIHaveToSay[0]",
+   "Goblins",
+   "Scagh! Goblins... small Scaphin. Squishy. Mean and make noise. Scaphin big, but Goblins many.",
+   "嘶咔！哥布林……小小的斯卡芬。软塌塌。刻薄，还吵。斯卡芬大，可哥布林多。"
+  ],
+  [
+   "res#60094/whatIHaveToSay[0]",
+   "Dimas",
+   "I warn not to go. Human not listen. Lucky to escape. Is pretty stone worth death?",
+   "我警告过别去。人类不听。能逃出来算走运。漂亮的石头值得拿命换吗？"
+  ],
+  [
+   "res#60131/whatIHaveToSay[0]",
+   "Merewen",
+   "Human... female? No no. Human male.",
+   "人类……母的？不不。人类公的。"
+  ],
+  [
+   "res#60175/whatIHaveToSay[0]",
+   "book",
+   "Tree skin block. Is it pillow? Scaphin not understand this human thing.",
+   "树皮的方块。是枕头吗？斯卡芬不懂人类这东西。"
+  ],
+  [
+   "res#60311/whatIHaveToSay[0]",
+   "fog",
+   "Underground always wet. Air thick. Good for lungs.",
+   "地下总是潮湿。空气厚。对肺好。"
+  ],
+  [
+   "res#60340/options[0].text",
+   "Scaphin King ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60340/options[1].text",
+   "Scaphin King ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60340/options[2].text",
+   "Scaphin King ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60340/options[3].text",
+   "Scaphin King ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60340/options[4].text",
+   "Scaphin King ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60340/options[5].text",
+   "Scaphin King ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60340/options[6].text",
+   "Scaphin King ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60340/options[7].text",
+   "Scaphin King ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60340/options[8].text",
+   "Scaphin King ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60340/options[9].text",
+   "Scaphin King ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60397/whatIHaveToSay[0]",
+   "job",
+   "I lead Scaphin. Raise son. Enjoy bath. Conquer Manshroom.",
+   "我带领斯卡芬。养育儿子。享受沐浴。征服人菇。"
+  ],
+  [
+   "res#60554/whatIHaveToSay[0]",
+   "Lannon",
+   "Human seem different. Other humans fading.",
+   "人类看着不一样。别的人类在褪色。"
+  ],
+  [
+   "res#60574/whatIHaveToSay[0]",
+   "Laszra",
+   "What is chin hair purpose? Upsidedown head?",
+   "下巴的毛有什么用？脑袋长倒了？"
+  ],
+  [
+   "res#60587/whatIHaveToSay[0]",
+   "librarian",
+   "What is this word?",
+   "这词是什么？"
+  ],
+  [
+   "res#60601/whatIHaveToSay[0]",
+   "Manshroom",
+   "Deep evil put by dark lord. Evil come to Scaphin. Evil come to all living. Unliving too. It remake. It remake mushroom into Manshroom. Manshroom take caves from Scaphin.",
+   "深层的邪恶，黑暗领主，放下的。邪恶来到斯卡芬这里。邪恶来到一切活物。死物也一样。它重塑。它把蘑菇重造成人菇。人菇，夺走斯卡芬的洞穴。"
+  ],
+  [
+   "res#60607/whatIHaveToSay[0]",
+   "Codex",
+   "Scaphin not need this word.",
+   "斯卡芬不需要这个词。"
+  ],
+  [
+   "res#60619/whatIHaveToSay[0]",
+   "dimension",
+   "Keh? No understand.",
+   "咳？不懂。"
+  ],
+  [
+   "res#60677/whatIHaveToSay[0]",
+   "silver",
+   "Sometimes make weapon. Need many fire. Scaphin like wet. Fire not like wet.",
+   "有时造武器。需要很多火。斯卡芬，喜欢潮湿。火不喜欢潮湿。"
+  ],
+  [
+   "res#60686/whatIHaveToSay[0]",
+   "dark lord",
+   "Long time gone. Make Scaphin go war. We free, for short. Now evil come back. Make Scaphin hate. Make Scaphin want blood. Scaphin cannot win.",
+   "过去很久了。让斯卡芬，去打战。我们自由了，短暂地。如今邪恶回来了。让斯卡芬，满怀憎恨。让斯卡芬，渴望鲜血。斯卡芬，赢不了。"
+  ],
+  [
+   "res#60739/whatIHaveToSay[0]",
+   "Airendal",
+   "Blue like corundum. Fly like Helioon. What is it?",
+   "蓝色，像刚玉。会飞，像赫利翁。它是什么？"
+  ],
+  [
+   "res#60783/whatIHaveToSay[0]",
+   "Arbo",
+   "What is speaking meat!? Is it evil?",
+   "会说话的肉是什么！？是邪恶吗？"
+  ],
+  [
+   "res#60815/whatIHaveToSay[0]",
+   "Scaphin",
+   "Scaphin no take. Scaphin fill. You leave empty, we fill. Sometimes kill for make space, mostly wait.",
+   "斯卡芬不拿。斯卡芬补齐。你们留下空的，我们填上。有时杀腾地方，大多时候等。"
+  ],
+  [
+   "res#60848/whatIHaveToSay[0]",
+   "Renault",
+   "Is food? Drink? Mushroom?",
+   "是食物？饮品？蘑菇？"
+  ],
+  [
+   "res#60864/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Keh? Too many strange human word.",
+   "咳？太多奇怪的人类词了。"
+  ],
+  [
+   "res#60909/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60909/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60909/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60909/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60909/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60909/options[14].text",
+   "Isobel Warde",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60909/options[15].text",
+   "Isobel Warde",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60909/options[16].text",
+   "Isobel Warde",
+   "Manshroom",
+   "人菇"
+  ],
+  [
+   "res#60909/options[17].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60909/options[18].text",
+   "Isobel Warde",
+   "son",
+   "儿子"
+  ],
+  [
+   "res#60909/options[19].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60909/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60909/options[20].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60909/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60909/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60909/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60909/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60909/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60909/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60909/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60909/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60994/whatIHaveToSay[0]",
+   "Shione",
+   "What this noise? Is speaking? Make want to sleep. Gentle speaking...",
+   "这声音是什么？是在说话？让人想睡。轻柔的说话声……"
+  ]
+ ]
+}

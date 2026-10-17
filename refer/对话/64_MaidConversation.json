@@ -1,0 +1,381 @@
+{
+ "meta": {
+  "kind": "对话/MaidConversation",
+  "count": 62,
+  "with_cn": 62
+ },
+ "entries": [
+  [
+   "res#59758/whatIHaveToSay[0]",
+   "librarian",
+   "They work in libraries. We have a library. I once chased a cow into it, but I never did find it. How does a cow get lost in a library? Now it stays locked.",
+   "他们在图书馆里工作。我们有一座图书馆。我曾追着一头牛跑进去，结果再没找到它。一头牛怎么会在一座图书馆里走丢呢？现在图书馆一直锁着。"
+  ],
+  [
+   "res#59776/whatIHaveToSay[0]",
+   "graveyard",
+   "The graveyard has many crypts, which are fairly haunted. It wasn't always this way. I used to enter them all the time. I mean, some of the time. Please don't spread rumors that I like to spend time in crypts.",
+   "墓地里有许多墓室，闹鬼闹得厉害。以前不是这样的。我从前常进去——我是说，偶尔进去。请别散布谣言，说我喜欢泡在墓室里。"
+  ],
+  [
+   "res#59796/whatIHaveToSay[0]",
+   "Airendal",
+   "I... do not know what to make of you.",
+   "我……不知道该怎么看你。"
+  ],
+  [
+   "res#59823/whatIHaveToSay[0]",
+   "Emerisk",
+   "One day, it will be the milk capital of the world. That shouldn't be hard since the mayor says we are the only town in the world. It does not sound right to me, but who am I to argue?",
+   "总有一天，它会成为世界的奶业之都。这应该不难——既然镇长说我们是世上唯一的镇子。我觉得这听着不对，可我算老几，轮得到我争辩？"
+  ],
+  [
+   "res#59823/whatIHaveToSay[1]",
+   "Emerisk",
+   "The mayor really does love this town, unlike the baron, who just uses us to keep himself rich.",
+   "镇长是真心爱这个镇子；不像男爵，只是利用我们养肥自己。"
+  ],
+  [
+   "res#59919/whatIHaveToSay[0]",
+   "book",
+   "I saw a book flying once. Can they all do that?",
+   "我见过一本书飞起来。它们都会飞吗？"
+  ],
+  [
+   "res#59942/whatIHaveToSay[0]",
+   "Rycard",
+   "Sir, I can see that you are a man of culture. Perhaps some smoked cheeses would interest you?",
+   "先生，看得出您是位有品位的人。要来点烟熏奶酪吗？"
+  ],
+  [
+   "res#59982/whatIHaveToSay[0]",
+   "corundum",
+   "My focuses lie in dairy and the production of delicous food.",
+   "我的专长在乳品和美味食物的制作。"
+  ],
+  [
+   "res#60014/whatIHaveToSay[0]",
+   "Archaven",
+   "There are many ancient and hidden places below us... I have said too much. Regardless, I have not heard of it.",
+   "我们脚下有许多古老而隐秘的地方……我说得太多了。总之，这个名字我没听过。"
+  ],
+  [
+   "res#60029/whatIHaveToSay[0]",
+   "Agmarians",
+   "Oh, I don't know much about that sort of thing. It is an odd word... I remember a story my mother used to tell me about serpents that live in the sea. They had a similar name... \"Ag\" something.",
+   "哦，那种事我懂得不多。这词有点古怪……我记得母亲从前给我讲过一个海蛇的故事。它们的名字有点像……好像叫「阿格」什么。"
+  ],
+  [
+   "res#60053/whatIHaveToSay[0]",
+   "Dimas",
+   "You look like a man who has eaten his fair share of cheese. Why stop now? I can offer many varieties!",
+   "您看着像吃过不少奶酪的人。何必就此打住？我这儿有好多品种！"
+  ],
+  [
+   "res#60078/whatIHaveToSay[0]",
+   "Goblins",
+   "As long as they leave my cows alone I do not care whether they exist or not. Many people know the name, but nothing else.",
+   "只要他们别碰我的牛，他们存不存在我都不在乎。许多人只知道这个名字，别的就一概不知了。"
+  ],
+  [
+   "res#60126/whatIHaveToSay[0]",
+   "Merewen",
+   "If you would like some beauty tips from a milk maid I will let you in on a secret. It's the cowpox.",
+   "若你想听挤奶姑娘的美容秘诀，我就透露一个秘密：全靠牛痘。"
+  ],
+  [
+   "res#60157/whatIHaveToSay[0]",
+   "blue light",
+   "I have seen one, by the old run down house on the west side of town. Sometimes, I even see smoke coming from the chimney. Odd, is it not?",
+   "我见过一个，在镇子西边那栋破败的老屋旁。有时候，我甚至看见烟囱里冒烟。奇怪，不是吗？"
+  ],
+  [
+   "res#60192/whatIHaveToSay[0]",
+   "Bhulown",
+   "Do you like cheese? That is all.",
+   "你喜欢奶酪吗？就这个问题。"
+  ],
+  [
+   "res#60306/whatIHaveToSay[0]",
+   "fog",
+   "I don't travel much beyond the yard. Everything I need is there. The only fog that I see rolls in on cool mornings.",
+   "我很少走出院子。我需要的一切都在那里。我见到的唯一的雾，是凉飕飕的清晨飘来的那种。"
+  ],
+  [
+   "res#60335/options[0].text",
+   "Maid ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60335/options[1].text",
+   "Maid ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60335/options[2].text",
+   "Maid ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60335/options[3].text",
+   "Maid ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60335/options[4].text",
+   "Maid ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60335/options[5].text",
+   "Maid ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60335/options[6].text",
+   "Maid ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60335/options[7].text",
+   "Maid ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60335/options[8].text",
+   "Maid ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60335/options[9].text",
+   "Maid ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60392/whatIHaveToSay[0]",
+   "job",
+   "I milk the cows. Then I make butter and cheese to sell. It is my passion. I used to make some extraordinary cheeses, but I can't remember the recipes anymore.",
+   "我给牛挤奶，然后做黄油和奶酪出卖。这是我的热爱。我曾做出过极出色的奶酪，可那些配方，如今我记不得了。"
+  ],
+  [
+   "res#60549/whatIHaveToSay[0]",
+   "Lannon",
+   "Hello patron. May I interest you in some milk or cheese?",
+   "你好，主顾。想来点牛奶或奶酪吗？"
+  ],
+  [
+   "res#60573/whatIHaveToSay[0]",
+   "Laszra",
+   "You are old. Some of the best cheese is old.",
+   "你上年纪了。可最好的奶酪，都是上年纪的。"
+  ],
+  [
+   "res#60643/whatIHaveToSay[0]",
+   "onQuest",
+   "There is one piece of cheese in particular that I seek. It is an old family heirloom, and it only gets better with age. This one piece is centuries old. Please, retrieve it from the flooded crypt.",
+   "我尤其想找一块奶酪。它是祖传的传家宝，越陈越香。这一块已有数百年的历史。请你去被水淹没的墓室把它取回来。"
+  ],
+  [
+   "res#60656/whatIHaveToSay[0]",
+   "caves",
+   "They are excellent for storing cheese. I should not say this... but so are crypts. When the caves became too dangerous I switched to storing cheese in them. Now the crypts are dangerous too. All that cheese... lost.\n\n     Unless, maybe you could retrieve it for me?",
+   "它们非常适合储藏奶酪。我不该说这个……但墓室也一样。洞穴变得太危险后，我就改把奶酪存进墓室。如今墓室也危险了。那么多奶酪……全没了。\n\n     除非——也许你能帮我取回来？"
+  ],
+  [
+   "res#60675/whatIHaveToSay[0]",
+   "silver",
+   "Silver Miala glows,\nforever in repose.\nAsk not, why she cries.\nBelieve not, that she dies.\n\n... or something like that. It is a nursery rhyme I heard as a child.",
+   "银色的米亚拉，\n长眠中永耀光华。\n莫问她为何流泪，\n莫信她已然逝去。\n\n……差不多是这个意思。是我小时候听过的童谣。"
+  ],
+  [
+   "res#60698/whatIHaveToSay[0]",
+   "dark lord",
+   "If I am to have a lord, I have no color preference. But I do not think that there is such a thing as a dark lord anyways.",
+   "若要拥立一位领主，我对颜色没有偏好。反正，黑暗领主，我是不太信其存在的。"
+  ],
+  [
+   "res#60711/whatIHaveToSay[0]",
+   "wild boar",
+   "I wonder, would boar milk make good cheese? I would love to know.",
+   "我在想，野猪的奶能不能做出好奶酪？我很想知道。"
+  ],
+  [
+   "res#60724/whatIHaveToSay[0]",
+   "Shione",
+   "In my experience, travellers always appreciate a good stick of butter for light snacking. It helps to build the strength for your next journey.",
+   "依我的经验，旅人都喜欢备上一根好黄油，随手充饥。它能为你下一段旅程积蓄力气。"
+  ],
+  [
+   "res#60778/whatIHaveToSay[0]",
+   "Arbo",
+   "Hello there. Would you like some milk? Or is that cats? I can't remember.",
+   "你好呀。想来点牛奶吗？还是说，那是给猫的？我记不清了。"
+  ],
+  [
+   "res#60813/whatIHaveToSay[0]",
+   "Scaphin",
+   "I have not heard of them. Whatever they are, I wonder if they like cheese.",
+   "我没听说过他们。不管他们是什么，不知道他们喜不喜欢奶酪。"
+  ],
+  [
+   "res#60843/whatIHaveToSay[0]",
+   "Renault",
+   "That would be the baron. I do not much like him.",
+   "那说的是男爵。我不太喜欢他。"
+  ],
+  [
+   "res#60858/whatIHaveToSay[0]",
+   "completedQuest",
+   "Thank you so much! I never could recreate the family recipe, but now I believe I can finally begin making a new batch! Take this wedge as a measure of my gratitude.",
+   "太感谢你了！我一直没能复刻家族的配方，如今我相信总算能做新的一批了！请收下这块奶酪，聊表谢意。"
+  ],
+  [
+   "res#60888/whatIHaveToSay[0]",
+   "recipes",
+   "I can't find any of mine. I do have an old paper with funny images on it though, if you'd like to have it.",
+   "我自己的配方一张都找不到了。不过我有一张旧纸，上面有些好玩的图画，你想要的话就拿去。"
+  ],
+  [
+   "res#60904/options[0].text",
+   "Woodcutter ***",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60904/options[10].text",
+   "Woodcutter ***",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60904/options[11].text",
+   "Woodcutter ***",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60904/options[12].text",
+   "Woodcutter ***",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60904/options[13].text",
+   "Woodcutter ***",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60904/options[14].text",
+   "Woodcutter ***",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60904/options[15].text",
+   "Woodcutter ***",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60904/options[16].text",
+   "Woodcutter ***",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "res#60904/options[17].text",
+   "Woodcutter ***",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60904/options[18].text",
+   "Woodcutter ***",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60904/options[19].text",
+   "Woodcutter ***",
+   "recipes",
+   "配方"
+  ],
+  [
+   "res#60904/options[1].text",
+   "Woodcutter ***",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60904/options[2].text",
+   "Woodcutter ***",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60904/options[3].text",
+   "Woodcutter ***",
+   "book",
+   "书"
+  ],
+  [
+   "res#60904/options[4].text",
+   "Woodcutter ***",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60904/options[5].text",
+   "Woodcutter ***",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60904/options[6].text",
+   "Woodcutter ***",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60904/options[7].text",
+   "Woodcutter ***",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60904/options[8].text",
+   "Woodcutter ***",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60904/options[9].text",
+   "Woodcutter ***",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60925/whatIHaveToSay[0]",
+   "Gallitzin",
+   "You have been drinking your milk, that much is clear. But, may I interest you in some... more milk?",
+   "看得出，你一直在喝牛奶。不过，要不要再来点……更多的牛奶？"
+  ],
+  [
+   "res#60985/whatIHaveToSay[0]",
+   "Codex",
+   "Nope. Don't know.",
+   "不。不知道。"
+  ]
+ ]
+}

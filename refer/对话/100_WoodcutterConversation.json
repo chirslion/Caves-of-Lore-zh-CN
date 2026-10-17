@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "kind": "对话/WoodcutterConversation",
+  "count": 66,
+  "with_cn": 66
+ },
+ "entries": [
+  [
+   "res#59698/whatIHaveToSay[0]",
+   "Dimas",
+   "Can you cut wood with a pick? Certainly, if you like to waste all day doing it. Give me a sturdy axe any day!",
+   "你能用镐头砍柴吗？当然能，如果你乐意浪费一整天的话。不过无论何时，我都宁愿要一把结实的斧头！"
+  ],
+  [
+   "res#59760/whatIHaveToSay[0]",
+   "librarian",
+   "I don't remember her anymore... but... I think she knew of the blue light.",
+   "我已经不记得她了……可是……我想，她曾知晓蓝光。"
+  ],
+  [
+   "res#59787/whatIHaveToSay[0]",
+   "graveyard",
+   "I still see things outside of the village, on the edge of the fog. But never near the graveyard. Perhaps there is nothing there that they want.",
+   "我仍能在村外看见一些东西，它们总在迷雾，总在边缘。可它们从不靠近墓地。也许那里没有它们想要的东西。"
+  ],
+  [
+   "res#59791/whatIHaveToSay[0]",
+   "Bhulown",
+   "Are you what I think you are? Here, in the village? Strange times these are...",
+   "莫非你正如我所想？就在此地，就在村里？这世道真是古怪……"
+  ],
+  [
+   "res#59798/whatIHaveToSay[0]",
+   "Airendal",
+   "I followed the blue light into the fog, but it abandoned me... why?",
+   "我跟着蓝光走进了迷雾，它却抛下了我……为什么？"
+  ],
+  [
+   "res#59835/whatIHaveToSay[0]",
+   "Emerisk",
+   "I live here, but my home is the woods. It saddens me that the fog has thoroughly filled them. I cannot even remember much about them anymore. Wherever there is fog, my memory fails.",
+   "我住在这里，但我的家在林中。令我悲伤的是——迷雾。它已将那片林子彻底吞没。我甚至不再记得它的许多模样。凡有迷雾之处，我的记忆便随之衰退。"
+  ],
+  [
+   "res#59886/whatIHaveToSay[0]",
+   "caves",
+   "The caves... I took shelter in them from time to time. They helped me regain my thoughts and press on. Without them I would have been lost forever. But be careful. The deep holes are easy to miss in the fog.",
+   "那些洞穴……我时常在其中躲避。它们帮我重拾思绪、继续前行。没有它们，我早就永远迷失了。但千万小心。那些深洞很容易隐没在迷雾，稍不留神就会错过。"
+  ],
+  [
+   "res#59902/whatIHaveToSay[0]",
+   "Archaven",
+   "There is a forest nearby called... Kalindros, or... Kalindross. I cannot recall exactly, but perhaps they are related.",
+   "附近曾有一片森林，叫……卡林德罗斯，或者……卡林德劳斯。我记不确切了，但也许它们有渊源。"
+  ],
+  [
+   "res#59922/whatIHaveToSay[0]",
+   "book",
+   "I carried one with me into the fog. I do not remember why. Here. You may have it. I cannot read, even if there was anything on those pages.",
+   "我曾带着一本书走进迷雾。我不记得为什么。给。你可以拿走它。就算那些书页上写着什么，我也读不了了。"
+  ],
+  [
+   "res#59953/whatIHaveToSay[0]",
+   "Rycard",
+   "Something about you I don't like. You should have stayed in the fog.",
+   "你身上有某种我不喜欢的东西。你本该留在迷雾里的。"
+  ],
+  [
+   "res#59991/whatIHaveToSay[0]",
+   "corundum",
+   "What is that? I have never heard of it.",
+   "那是什么？我从未听说过。"
+  ],
+  [
+   "res#60041/whatIHaveToSay[0]",
+   "Agmarians",
+   "I am unaware of such a name. Try asking the the town smith. He remembers far more than most. I find it quite odd.",
+   "我不知晓这个名字。去问问镇上的铁匠吧。他记得的东西比大多数人多得多。我觉得这相当古怪。"
+  ],
+  [
+   "res#60088/whatIHaveToSay[0]",
+   "Goblins",
+   "There are many kinds. They like the rocky crags beyond the woods. Yes, the woodlands are a lovely place and just full of them. We are talking about squirrels, aren't we?",
+   "它们种类繁多。喜欢林外的嶙峋山崖。是啊，林地是个可爱的地方，到处都是它们。我们说的是松鼠，对不对？"
+  ],
+  [
+   "res#60092/whatIHaveToSay[0]",
+   "Wooden Expression",
+   "I was harvesting wood from the old orchard recently and was forced to flee for my life. The trees had come to life. When the fear wore off, I thought how marvelous it would be to obtain some of that wood. The things I could make... would you retrieve some for me?",
+   "我最近去老果园伐木，不得不为保命而逃。那些树活了过来。等惊恐消退后，我想：若能弄到那种木料该有多奇妙。我能做出来的东西……你愿意替我取一些回来吗？"
+  ],
+  [
+   "res#60138/whatIHaveToSay[0]",
+   "Merewen",
+   "I do not remember you... are you one of the fogborn?",
+   "我不记得你……你是雾生者之一吗？"
+  ],
+  [
+   "res#60159/whatIHaveToSay[0]",
+   "blue light",
+   "I used to see it travelling through the town at night. It would go into the fog, and I would follow. That is what first led me into the fog.",
+   "我过去常在夜里看见它穿行镇上。它会走进迷雾，而我便跟上去。正是它第一次把我引进了雾中。"
+  ],
+  [
+   "res#60159/whatIHaveToSay[1]",
+   "blue light",
+   "The light no longer travels... I know not why, and I have given up trying to solve its mysteries. I have already lost so much...\n\nNow there are other blue lights in the fog, and I dare not follow them.",
+   "那道光不再出现了……我不知缘由，也已放弃解开它的谜团。我失去的已经太多……\n\n如今，另有蓝光隐没于迷雾。我不敢再跟上去。"
+  ],
+  [
+   "res#60318/whatIHaveToSay[0]",
+   "fog",
+   "I've been into it... many times. Why do I remember that I don't remember? The others don't know what they've lost... they think all is well. But I know better.",
+   "我进过里面……很多次。为什么我偏偏记得“我不记得了”？其他人不知道他们失去了什么……他们以为一切都好。但我清楚得很。"
+  ],
+  [
+   "res#60318/whatIHaveToSay[1]",
+   "fog",
+   "The further I went into it, the more I lost myself. At the same time, I felt I was nearing some truth. And yet the things I saw on the edge of the fog... they were always on the edge, no matter how deep I went...",
+   "我走得越深，失去的自我就越多。同时，我又感到自己离某种真相越来越近。可我在迷雾边缘看见的那些东西……无论我走多深，它们始终在边缘……"
+  ],
+  [
+   "res#60347/options[0].text",
+   "Woodcutter ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60347/options[1].text",
+   "Woodcutter ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60347/options[2].text",
+   "Woodcutter ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60347/options[3].text",
+   "Woodcutter ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60347/options[4].text",
+   "Woodcutter ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60347/options[5].text",
+   "Woodcutter ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60347/options[6].text",
+   "Woodcutter ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60347/options[7].text",
+   "Woodcutter ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60347/options[8].text",
+   "Woodcutter ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60347/options[9].text",
+   "Woodcutter ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60404/whatIHaveToSay[0]",
+   "job",
+   "Wood. Chop it. Collect it. Burn it. This is my life. Or it was... until I chased the blue light into the fog. I try to get by now... but I lost much while searching. I saw things... in the forest...",
+   "木头。劈它。收它。烧它。这就是我的命。或者说，曾是我的命……直到我追着蓝光，走进迷雾。现在我只是勉强过活……追寻的路上我失去了太多。我在森林，看见了东西……"
+  ],
+  [
+   "res#60561/whatIHaveToSay[0]",
+   "Lannon",
+   "I saw you wander into the fog. You know what secrets lurk there don't you?",
+   "我看见你走进了迷雾。你知道那里潜伏着什么秘密，对吧？"
+  ],
+  [
+   "res#60661/whatIHaveToSay[0]",
+   "onQuest",
+   "The orchard is to the west. Be careful. What once was harvested now seeks to harvest us. I cannot say how this has occurred but it must be the work of the dark lord.",
+   "果园在西边。千万小心。昔日被收获的东西，如今想要收获我们。我说不上这怎么会发生，但幕后黑手一定是黑暗领主。"
+  ],
+  [
+   "res#60684/whatIHaveToSay[0]",
+   "silver",
+   "Ore is not where my knowledge lies.",
+   "矿石非我所长。"
+  ],
+  [
+   "res#60700/whatIHaveToSay[0]",
+   "dark lord",
+   "Of course they all say he was defeated. But the things I have seen in the forest... could they be natural? I... don't remember enough to know for sure. They just feel wrong.",
+   "他们当然都说他已被击败。但我在森林里看见的那些东西……它们可能是自然的吗？我……记不清了，无法确定。它们就是感觉不对劲。"
+  ],
+  [
+   "res#60726/whatIHaveToSay[0]",
+   "Shione",
+   "I often hear music wafting through the trees when I am gathering wood. I dare not find its source. The forest is dangerous these days.",
+   "我拾柴时，常听见乐声穿过林间飘来。我不敢去寻找它的源头。这些日子，森林很危险。"
+  ],
+  [
+   "res#60751/whatIHaveToSay[0]",
+   "Laszra",
+   "Perhaps axes and bows are not your strong suit.",
+   "也许斧头和弓并非你的拿手好戏。"
+  ],
+  [
+   "res#60762/whatIHaveToSay[0]",
+   "completedQuest",
+   "This wood is incredible! In all my days I have never seen anything like it. Well, at least not that I can remember.",
+   "这木料真是不可思议！我这一生从未见过这样的东西。好吧，至少从我还能记得的部分来说。"
+  ],
+  [
+   "res#60790/whatIHaveToSay[0]",
+   "Arbo",
+   "I can see that the fog has not touched you old friend.",
+   "看得出迷雾未曾侵染你，老伙计。"
+  ],
+  [
+   "res#60822/whatIHaveToSay[0]",
+   "Scaphin",
+   "I do not see them in the woodlands often. They prefer cooler, damper environment. I even recall they... they had... what are we talking about again?",
+   "我在林地不常看见斯卡芬。它们偏好更阴凉潮湿的环境。我甚至记得它们……它们有……我们刚才在说什么来着？"
+  ],
+  [
+   "res#60855/whatIHaveToSay[0]",
+   "Renault",
+   "This name... I have no love for this name, though... I cannot recall why.",
+   "这名字……我对这名字毫无好感，可是……我想不起为什么了。"
+  ],
+  [
+   "res#60861/whatIHaveToSay[0]",
+   "Codex",
+   "When you say that word I see a symbol in my mind. You must stop! You will drive me even more mad.",
+   "你说出那个词时，我脑中就浮现一个符号。你必须停下！你会把我逼得更疯的。"
+  ],
+  [
+   "res#60883/whatIHaveToSay[0]",
+   "recievedItem",
+   "I hope the book suits you more than it did me. But I do wish I knew why I carried it into the fog. Perhaps it had something to do with the blue light.",
+   "希望这本书对你比我合用。不过我确实想知道，我当初为何要把它带进迷雾。也许它和蓝光有些关系。"
+  ],
+  [
+   "res#60916/options[0].text",
+   "Woodcutter ***",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60916/options[10].text",
+   "Woodcutter ***",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60916/options[11].text",
+   "Woodcutter ***",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60916/options[12].text",
+   "Woodcutter ***",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60916/options[13].text",
+   "Woodcutter ***",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60916/options[14].text",
+   "Woodcutter ***",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60916/options[15].text",
+   "Woodcutter ***",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60916/options[16].text",
+   "Woodcutter ***",
+   "Wooden Expression",
+   "木然表情"
+  ],
+  [
+   "res#60916/options[17].text",
+   "Woodcutter ***",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60916/options[18].text",
+   "Woodcutter ***",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60916/options[19].text",
+   "Woodcutter ***",
+   "forest",
+   "森林"
+  ],
+  [
+   "res#60916/options[1].text",
+   "Woodcutter ***",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60916/options[2].text",
+   "Woodcutter ***",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60916/options[3].text",
+   "Woodcutter ***",
+   "book",
+   "书"
+  ],
+  [
+   "res#60916/options[4].text",
+   "Woodcutter ***",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60916/options[5].text",
+   "Woodcutter ***",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60916/options[6].text",
+   "Woodcutter ***",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60916/options[7].text",
+   "Woodcutter ***",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60916/options[8].text",
+   "Woodcutter ***",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60916/options[9].text",
+   "Woodcutter ***",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60927/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I reckon you can wield an axe better than most. But strength is not the most important factor in splitting wood. If you miss the wood altogether your strength means nothing.",
+   "我估摸你用斧头比大多数人都强。但劈木头，力气并非最关键。若你压根劈偏了，再大的力气也白搭。"
+  ],
+  [
+   "res#60972/whatIHaveToSay[0]",
+   "Renault",
+   "I have no love for that name, though... I cannot recall why.",
+   "我对那个名字毫无好感，只是……想不起为什么了。"
+  ],
+  [
+   "res#60979/whatIHaveToSay[0]",
+   "forest",
+   "I make most of my living there. But the woods have grown dangerous and strange. If the fog wasn't bad enough, now the trees move, as though possessed.",
+   "我大半的生计都靠这片林子。但林子变得又危险又古怪。先是迷雾。现在连树木也动了，像是被附了身。"
+  ],
+  [
+   "res#60979/whatIHaveToSay[1]",
+   "forest",
+   "Dark times are coming and are here already! My memory of the forest fades each day, and as it does, so goes my life, and my craft.",
+   "黑暗的时代正在到来——而且已经到了！我对森林的记忆一天天消退，随之而去的，是我的生活，我的手艺。"
+  ]
+ ]
+}

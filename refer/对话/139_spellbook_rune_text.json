@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_rune_text",
+  "count": 5,
+  "with_cn": 5
+ },
+ "entries": [
+  [
+   "res#60458/whatIHaveToSay[0]",
+   "Start",
+   "<i>Runic Impressions, Volume II,\nRunes and My Lack of Knowledge Thereof </i>\n\n\nMy studies of moon runes have led me to some startling conclusions. To some, I am elated. Towards others, I am disturbed. It seemed reasonable to assume that all runes were carved by hand, bearing in them the classic signs of the artist's strokes.",
+   "<i>《符文印记》第二卷，\n符文与我对其所知之匮乏 </i>\n\n\n对月之符文的研究，将我引向了几个惊人的结论。有些令我欣喜，有些则令我深感不安。过去想当然的假设是：所有符文皆为手工镌刻，带有匠人运笔的典型痕迹。"
+  ],
+  [
+   "res#60458/whatIHaveToSay[1]",
+   "Start",
+   "Then I came upon a new rune with no imperfections. I thought that it must have been made by some arcane tool, or a craftsman beyond the skill of any I have ever seen. I was wrong.\n\n\tMy discovery came as I began an experiment. I sought to hide a ring which I had made, and carved runes to my liking. With the proper moons and blood lineage present, I began my process; which I dare not reveal.",
+   "直到我遇到了一枚毫无瑕疵的新符文。我以为它定是某种奥术器具所造，或出自技艺远超我平生所见的匠人之手。我错了。\n\n\t这一发现始于一次实验。我想要藏起一枚自己打造的戒指，并按自己的心意刻下符文。在月亮与血脉条件齐备之时，我开始了流程——具体细节，我不敢透露。"
+  ],
+  [
+   "res#60458/whatIHaveToSay[2]",
+   "Start",
+   "However, as I finished and the ring vanished into the air, hidden by the power of the moons, another rune did appear. I did not carve this rune, nor do I know where it came from. It simply appeared. I have decided to call this rune an obfuscating rune (long-winded, I know), for as it appeared, the other runes vanished entirely. I could find no trace of the carvings, and nothing I did would bring back the ring.",
+   "然而，就在我完成仪式、戒指在月光之力下隐入空气之时，另一枚符文出现了。这枚符文并非我刻下的，我也不知道它从何而来。它就是出现了。我决定称它为「混淆符文」（我知道，这名字太啰嗦）——因为它一出现，其他符文便彻底消失了。刻痕的踪影一点也找不到，我用尽办法也没能唤回那枚戒指。"
+  ],
+  [
+   "res#60458/whatIHaveToSay[3]",
+   "Start",
+   "To this day I do not know how to bring my ring back, which is a great disappointment, I might add, since it was imbued with other... experiments of mine. I do not say this lightly, for I protect my secrets well, but I would tell them all to the one who could illuminate my mind with an understanding of what I have seen. My runes are bound, unable to return even in the presence of the moons, and I have no idea why.",
+   "时至今日，我仍不知道怎样唤回那枚戒指——顺便说，这实在令人失望，因为上面还附着我另一些……实验。我说这话并非轻率，毕竟我一向严守自己的秘密；但若有人能洞明我所目睹之事、为我解惑，我愿把全部秘密告诉他。我的符文被束缚住了，即便众月当空也无法返回，我完全不明白原因。"
+  ],
+  [
+   "res#60458/whatIHaveToSay[4]",
+   "Start",
+   "\n\nVesig Komalkys, Scholar of runes and ancient languages",
+   "\n\n维西格·科马尔基斯，符文与古代语言学者"
+  ]
+ ]
+}

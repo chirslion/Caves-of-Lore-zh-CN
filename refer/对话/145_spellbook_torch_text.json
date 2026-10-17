@@ -1,0 +1,69 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_torch_text",
+  "count": 10,
+  "with_cn": 10
+ },
+ "entries": [
+  [
+   "res#60464/whatIHaveToSay[0]",
+   "Start",
+   "<i>The Burning of Amyeria\r</i>\n\r\n     In the age before the reign of King Mol-Gammon, many cycles before even his father came to power, there was a man named Dryfus. He lived as a woodcutter in the western hill country of what would later become the kingdom of Amyeria - ",
+   "<i>阿梅利亚之焚\r</i>\n\r\n     在马尔-加蒙王君临之前的年代，比他父亲掌权还要早许多轮的时候，有一个叫德莱弗斯的人。他靠伐木为生，住在日后成为阿梅利亚王国的那片西部丘陵—— "
+  ],
+  [
+   "res#60464/whatIHaveToSay[1]",
+   "Start",
+   "In those days only the race of men was known to roam the earth. Now it came to pass that on a day like any other, while Dryfus was cutting wood with his axe, he landed a blow upon a strange tree.\"",
+   "那些日子里，大地上已知的漫游者只有人类。且说有一天，与往常无异，德莱弗斯正挥斧伐木，一斧落在了一棵奇怪的树上。\""
+  ],
+  [
+   "res#60464/whatIHaveToSay[2]",
+   "Start",
+   "As his axe bit into thick bark the tree groaned. Withdrawing in surprise he saw that his blade was wet with blood. Being a kind and cautious man he begged forgiveness from the tree, asking what he might do to make recompense for the wound.",
+   "斧刃咬进厚厚的树皮，那棵树竟呻吟起来。他惊愕地抽回斧头，发现刃上沾着血。他生性善良谨慎，便向树恳求宽恕，询问该怎样补偿这道伤口。"
+  ],
+  [
+   "res#60464/whatIHaveToSay[3]",
+   "Start",
+   "      The tree spoke with a voice that was not heard so much as felt, ''For many long cycles you have lived off of this forest. But now you go too deep. If you cut out its heart, will it still live? Take your axe and ask no more of these woods.''\n\n     Dryfus agreed and retreated from the woods.",
+   "      那棵树开口了，与其说听见，不如说是感到它的声音，''长久以来，你倚靠这片森林过活。可如今你伐得太深了。若剖出它的心，它还能活吗？带上你的斧头，莫再向这片林子索求。''\n\n     德莱弗斯答应了，退出了树林。"
+  ],
+  [
+   "res#60464/whatIHaveToSay[4]",
+   "Start",
+   "     Later that cycle, as winter approached, there came into the hills an army bound for Ollidan. The army, seeking warmth, approached the forest and began to cut. When they had finished taking all that they wished, they set fire to the rest so that their enemies would have nothing from it. ",
+   "     那一轮稍晚，冬日渐近，一支开往奥利丹的军队进入了丘陵。军队为了取暖，来到林边，开始砍伐。等他们取够了想要的一切，便放火烧了剩下的树木，好让敌人什么也得不到。 "
+  ],
+  [
+   "res#60464/whatIHaveToSay[5]",
+   "Start",
+   "     When Dryfus saw this he was filled with sadness, and rushed into the forest to seek the tree that he had spoken to.\r\n\r\n     Though the flames raged, Dryfus fought his way to the tree, and seeing it there burnt he took hold of one of its remaining branches and retreated.",
+   "     德莱弗斯见此，心中悲痛，冲进林中寻找那棵曾与他说话的树。\r\n\r\n     尽管烈焰翻腾，德莱弗斯还是杀出一条路来到树前；见它已被烧焦，他抓住残留的一根枝条，退了回来。"
+  ],
+  [
+   "res#60464/whatIHaveToSay[6]",
+   "Start",
+   "As he carried it, he felt the pain of the forest and the heat of the flames; the memory of them etched into the wood by some unknown means.\n\n\tWhen he emerged from the flames he was filled with anger and called out to the encamped army to answer for their deeds. But they sought to kill him for opposing them and surrounded him with weapons drawn. ",
+   "他抱着枝条时，感到了森林的痛楚与火焰的灼热——不知以何种方式，那些记忆被刻进了木头里。\n\n\t当他从火焰中走出，满腔怒火，向驻扎的军队高声喝问，要他们为所作所为负责。可他们竟因他出言反对而要杀他，拔出武器将他围住。 "
+  ],
+  [
+   "res#60464/whatIHaveToSay[7]",
+   "Start",
+   "As they drew close, the branch burst into flame and lashed out at all who approached. Any who attempted to take hold of him was severely burned.\n\n\tThough the branch persisted in flame it was not consumed, and Dryfus then felt that the fire was both a memory of the forest's pain and also a measure of his indignation.",
+   "他们逼近时，枝条猛然腾起火焰，抽打每一个靠近的人。任何想要抓住他的人都被严重烧伤。\n\n\t枝条虽然持续燃烧，却并未被烧尽；德莱弗斯这才感到，那火焰既记着森林的痛苦，也量度着他的愤慨。"
+  ],
+  [
+   "res#60464/whatIHaveToSay[8]",
+   "Start",
+   "As the flames grew, the army became terrified and retreated back to the land from which they came.\n\n\tThe torch came to rest within the kingdom of Amyeria For cycles, no one dared touch it, or suffer burns. And indeed, this was true until King Celedon seized it, seeking to increase his power.",
+   "火焰愈盛，军队惊惧不已，退回了他们来的地方。\n\n\t这支火把从此留在了阿梅利亚王国。许多轮里，无人敢触碰它，以免被灼伤。而事实也确实如此，直到塞勒顿王为扩张自己的权势，将它攫取到手。"
+  ],
+  [
+   "res#60464/whatIHaveToSay[9]",
+   "Start",
+   "Instead, he and his kingdom were reduced to ashes in a fire that could not be put out, though many attempted.\n\n\tMay those who seek to protect be as a flame, and those who seek to usurp be as wood.",
+   "结果，他和他的王国在一场无法扑灭的大火中化为灰烬——尽管有许多人尝试灭火。\n\n\t愿守护者如焰，愿篡夺者如柴。"
+  ]
+ ]
+}

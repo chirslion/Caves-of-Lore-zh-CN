@@ -1,0 +1,51 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_consecration_text",
+  "count": 7,
+  "with_cn": 7
+ },
+ "entries": [
+  [
+   "res#60108/whatIHaveToSay[0]",
+   "BlessWeapon",
+   "<i>Consecration of Items\r</i>\n\r\n\tJust as consecrations can be placed upon an area, so can they also be placed onto things. Blessing items in such a way has even been recorded to leave a permanent mark, though I imagine it would take a spirit of intense good to create something that would remain holy. Most consecrations fade with time.",
+   "<i>物品的圣化\r</i>\n\r\n\t正如圣化可以施于一片区域，它同样可以施于器物之上。以这种方式祝福物品，甚至有记载会留下永久的印记——不过我想，要造出恒久神圣之物，非有极善之灵不可。多数的圣化都会随时间消褪。"
+  ],
+  [
+   "res#60692/whatIHaveToSay[0]",
+   "Exorcise",
+   "<i>Consecration of the Dead\r</i>\n\r\n\tThe consecration of a dead body could potentially prevent it from becoming inhabited by evil, but more interestingly, performing such a ritual on an undead may even cast the spirit from the body or send them fleeing in terror.",
+   "<i>亡者的圣化\r</i>\n\r\n\t为尸体施加圣化，或许能阻止邪物寄居其中；而更有趣的是，对亡灵施行此礼，甚至可能将邪灵逐出躯体，或令其惊惧逃窜。"
+  ],
+  [
+   "res#60720/whatIHaveToSay[0]",
+   "HolyWard",
+   "<i>Wards Against Evil</i>\r\n\r\n\tAll evil, from the creation of the undead to a minor theft leave a mark upon the world. This is called a desecration, but the reverse is also true. Acts of good, whether small or large leave a mark upon the world. As a desecration draws evil, so a consecration repels it.",
+   "<i>抵御邪恶的结界</i>\r\n\r\n\t一切邪恶，从制造亡灵到小偷小摸，都会在世间留下痕迹，此谓「亵渎」；而反过来亦是如此。善行，无论大小，也会在世间留下痕迹。亵渎引来邪恶，圣化则将其斥退。"
+  ],
+  [
+   "res#60720/whatIHaveToSay[1]",
+   "HolyWard",
+   "\tIn my studies there appear many ways, some intentional and some not, to create a consecrated area. At times, the mere desire to do good can have a minor effect against evil. Prayers, rituals and items that have become holy may all repel evil.\r",
+   "\t在我的研究中，创造圣化之域的方法有许多，有些出于有意，有些则不然。有时，单是向善的意愿，也能对邪恶产生微弱的抵御。祈祷、仪式，以及成为圣物的器物，都能斥退邪恶。\r"
+  ],
+  [
+   "res#60720/whatIHaveToSay[2]",
+   "HolyWard",
+   "\tThe strongest effects seem to be when multiple individuals come together with a will to oppose that which evil stands for. Such powerful places might exist for hundreds of cycles. I seek such a place, to continue my further studies.",
+   "\t效果最强之时，似乎是许多人怀着共同的意志，对抗邪恶所代表之物。这般强大的圣所或可存续数百轮。我正在寻找这样的地方，以继续更深的研究。"
+  ],
+  [
+   "res#60971/whatIHaveToSay[0]",
+   "Start",
+   "<i>On Protection from Evil\r</i>\n\r\n\tIn my earlier writings, I described the basic means by which evil spirits come to inhabit or mimic the bodies of the dead, but it would be of very little use (unless that use be bent towards evil) to speak only of their creation and not of their destruction.\r",
+   "<i>论辟邪\r</i>\n\r\n\t在此前的著述中，我描述了邪灵寄居或仿冒死者躯体的基本原理；但若只谈其生成、不谈其破灭，便几无所用（除非这用处是要助长邪恶）。\r"
+  ],
+  [
+   "res#60971/whatIHaveToSay[1]",
+   "Start",
+   "\tThe undead can be difficult to return to their previous state, or even to repel, but it can be done. The evil spirits that inhabit the dead will not willingly return to the realm from which they come.",
+   "\t要令亡灵回归本来的状态、甚至只是将其斥退，都颇为困难，但并非不可为。寄居于死者体内的邪灵，绝不会甘愿返回它们来的领域。"
+  ]
+ ]
+}

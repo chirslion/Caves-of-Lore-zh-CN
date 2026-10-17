@@ -1,0 +1,351 @@
+{
+ "meta": {
+  "kind": "对话/ArboConversation",
+  "count": 57,
+  "with_cn": 57
+ },
+ "entries": [
+  [
+   "sa0#10629/whatIHaveToSay[0]",
+   "corundum",
+   "*lies down*",
+   "*趴下*"
+  ],
+  [
+   "sa0#10643/whatIHaveToSay[0]",
+   "silver",
+   "*ears perk up*",
+   "*竖起耳朵*"
+  ],
+  [
+   "sa0#10652/whatIHaveToSay[0]",
+   "manatite",
+   "*pant*",
+   "*喘气*"
+  ],
+  [
+   "sa0#10669/whatIHaveToSay[0]",
+   "dimension",
+   "*tilts head*",
+   "*歪头*"
+  ],
+  [
+   "sa0#10685/whatIHaveToSay[0]",
+   "Rycard",
+   "*sits*",
+   "*坐下*"
+  ],
+  [
+   "sa0#10700/whatIHaveToSay[0]",
+   "Scaphin",
+   "*deep growl*",
+   "*低沉地吼*"
+  ],
+  [
+   "sa0#10709/whatIHaveToSay[0]",
+   "Bhulown",
+   "*lick*",
+   "*舔你*"
+  ],
+  [
+   "sa0#10728/whatIHaveToSay[0]",
+   "Laszra",
+   "Old friend. Smell old. Has treat?",
+   "老朋友。气味很旧。有小零食吗？"
+  ],
+  [
+   "sa0#10750/whatIHaveToSay[0]",
+   "book",
+   "*cocks head slightly*",
+   "*微微偏头*"
+  ],
+  [
+   "sa0#10767/whatIHaveToSay[0]",
+   "Airendal",
+   "*Aroo?*",
+   "*嗷呜？*"
+  ],
+  [
+   "sa0#10780/whatIHaveToSay[0]",
+   "dark lord",
+   "*growl*",
+   "*低吼*"
+  ],
+  [
+   "sa0#10790/whatIHaveToSay[0]",
+   "Agmarians",
+   "*deep growl*",
+   "*低沉地吼*"
+  ],
+  [
+   "sa0#10809/whatIHaveToSay[0]",
+   "Emerisk",
+   "*licks your hand*",
+   "*舔了舔你的手*"
+  ],
+  [
+   "sa0#11295/whatIHaveToSay[0]",
+   "caves",
+   "*digs*",
+   "*刨土*"
+  ],
+  [
+   "sa0#11302/whatIHaveToSay[0]",
+   "fog",
+   "*lies down to rest*",
+   "*趴下休息*"
+  ],
+  [
+   "sa0#11310/options[0].text",
+   "Arbo",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11310/options[1].text",
+   "Arbo",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11310/options[2].text",
+   "Arbo",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11310/options[3].text",
+   "Arbo",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11310/options[4].text",
+   "Arbo",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11310/options[5].text",
+   "Arbo",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11310/options[6].text",
+   "Arbo",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11310/options[7].text",
+   "Arbo",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11310/options[8].text",
+   "Arbo",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11310/options[9].text",
+   "Arbo",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11378/whatIHaveToSay[0]",
+   "job",
+   "*growls*",
+   "*低吼*"
+  ],
+  [
+   "sa0#11525/whatIHaveToSay[0]",
+   "Lannon",
+   "*Woof! Woof!*\n*pant*",
+   "*汪！汪！*\n*喘气*"
+  ],
+  [
+   "sa0#11564/whatIHaveToSay[0]",
+   "Shione",
+   "*listens intently*",
+   "*凝神倾听*"
+  ],
+  [
+   "sa0#11569/whatIHaveToSay[0]",
+   "graveyard",
+   "*whimper*",
+   "*呜咽*"
+  ],
+  [
+   "sa0#11580/whatIHaveToSay[0]",
+   "Kalindraur",
+   "*pant*",
+   "*喘气*"
+  ],
+  [
+   "sa0#11608/whatIHaveToSay[0]",
+   "Merewen",
+   "*tilts head*",
+   "*歪头*"
+  ],
+  [
+   "sa0#11621/whatIHaveToSay[0]",
+   "Codex",
+   "*pants*",
+   "*喘气*"
+  ],
+  [
+   "sa0#11632/whatIHaveToSay[0]",
+   "Arbo",
+   "*ruff? ... ruff!*",
+   "*嗷呜？……嗷呜！*"
+  ],
+  [
+   "sa0#11673/options[0].text",
+   "Baron Vespes",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11673/options[10].text",
+   "Baron Vespes",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11673/options[11].text",
+   "Baron Vespes",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11673/options[12].text",
+   "Baron Vespes",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11673/options[13].text",
+   "Baron Vespes",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#11673/options[14].text",
+   "Baron Vespes",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#11673/options[15].text",
+   "Baron Vespes",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11673/options[16].text",
+   "Baron Vespes",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11673/options[17].text",
+   "Baron Vespes",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11673/options[18].text",
+   "Baron Vespes",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11673/options[1].text",
+   "Baron Vespes",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11673/options[2].text",
+   "Baron Vespes",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11673/options[3].text",
+   "Baron Vespes",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11673/options[4].text",
+   "Baron Vespes",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11673/options[5].text",
+   "Baron Vespes",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11673/options[6].text",
+   "Baron Vespes",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11673/options[7].text",
+   "Baron Vespes",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11673/options[8].text",
+   "Baron Vespes",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11673/options[9].text",
+   "Baron Vespes",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#11691/whatIHaveToSay[0]",
+   "Goblins",
+   "*bares teeth*",
+   "*龇出牙*"
+  ],
+  [
+   "sa0#11695/whatIHaveToSay[0]",
+   "Gallitzin",
+   "*pant*",
+   "*喘气*"
+  ],
+  [
+   "sa0#11698/whatIHaveToSay[0]",
+   "librarian",
+   "*tilts head*",
+   "*歪头*"
+  ],
+  [
+   "sa0#11706/whatIHaveToSay[0]",
+   "Dimas",
+   "*sniff*",
+   "*嗅了嗅*"
+  ],
+  [
+   "sa0#11709/whatIHaveToSay[0]",
+   "Renault",
+   "*barks*",
+   "*吠叫*"
+  ]
+ ]
+}

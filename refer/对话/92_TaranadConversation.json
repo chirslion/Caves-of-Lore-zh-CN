@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "kind": "对话/TaranadConversation",
+  "count": 66,
+  "with_cn": 66
+ },
+ "entries": [
+  [
+   "res#59733/whatIHaveToSay[0]",
+   "recievedItem",
+   "This is just. These will use gift for benefit of this place. This one feels blessed. Tethrys is blessed.",
+   "此乃公正。诸位将用这馈赠，造福此地。此身深感蒙福。泰丝瑞斯，亦蒙福。"
+  ],
+  [
+   "res#59759/whatIHaveToSay[0]",
+   "librarian",
+   "This has seen a book. This cannot read. This does not have the sensory organs required to read. This has other senses. This can speak to you because of such.",
+   "此身见过书。此身无法阅读。此身没有阅读所需的感官。此身有别的感官。此身能与诸位交谈，正是因此。"
+  ],
+  [
+   "res#59786/whatIHaveToSay[0]",
+   "graveyard",
+   "This does not understand fully. Do these live in the ground? These smell like spending much time underground. Perhaps this is so.",
+   "此身未能尽解。诸位住在土里吗？诸位的气味，像久居地下。也许正是如此。"
+  ],
+  [
+   "res#59797/whatIHaveToSay[0]",
+   "Airendal",
+   "It is unlike the other, but this has seen it before. Very rare.",
+   "与此前那物不同，可此身见过。极为罕见。"
+  ],
+  [
+   "res#59834/whatIHaveToSay[0]",
+   "Emerisk",
+   "This has heard the name. Descendants of Elok'Ora.",
+   "此身听过这名字。埃洛克欧拉的后裔。"
+  ],
+  [
+   "res#59921/whatIHaveToSay[0]",
+   "book",
+   "What these describe is such as a mind, but not alive. To hold information on a stone, or a jumbari; such a thing is known to this one, but elusive to understand fully.",
+   "诸位所描述的，近似于心智，却非活物。把讯息存于石上，或存于朱姆巴里；此身知晓这等物事，却难以全然理解。"
+  ],
+  [
+   "res#59952/whatIHaveToSay[0]",
+   "Rycard",
+   "It is like the others, but dirtier.",
+   "与其余来者相似，只是更脏。"
+  ],
+  [
+   "res#59990/whatIHaveToSay[0]",
+   "corundum",
+   "Many words that these bring to this one. Many thoughts that cannot be words. Communication is difficult. This one is trying.",
+   "诸位向此身带来许多词语。许多思绪无法化作词语。交流艰难。此身正在努力。"
+  ],
+  [
+   "res#60004/whatIHaveToSay[0]",
+   "Codex",
+   "This one has little knowledge of such. What these seek is to understand it, yes? Do not only understand. Do. Understanding cannot act on its own.",
+   "此身对此所知甚少。诸位所寻求的，是理解它，对吗？不要止于理解。要行动。理解无法独自行动。"
+  ],
+  [
+   "res#60040/whatIHaveToSay[0]",
+   "Agmarians",
+   "This does not know. Today this has seen many strange creatures. This one will not be believed, if this ever sees another of this one's kind.",
+   "此身不知。今日此身见了许多奇异生灵。若此身日后遇见同族，怕是无人肯信。"
+  ],
+  [
+   "res#60060/whatIHaveToSay[0]",
+   "Bhulown",
+   "This one has seen similar. Different, but similar.",
+   "此身见过相似的。不同，但相似。"
+  ],
+  [
+   "res#60087/whatIHaveToSay[0]",
+   "Goblins",
+   "These ask, but this one does not know.",
+   "诸位在问，可此身不知。"
+  ],
+  [
+   "res#60137/whatIHaveToSay[0]",
+   "Merewen",
+   "Does it glow? This cannot tell.",
+   "它会发光吗？此身分辨不出。"
+  ],
+  [
+   "res#60149/whatIHaveToSay[0]",
+   "Dimas",
+   "Is it some kind of korranga weed? It is round, yes. But not stationary.",
+   "是某种科兰加草吗？它是圆的，没错。可它并不静止。"
+  ],
+  [
+   "res#60158/whatIHaveToSay[0]",
+   "blue light",
+   "Blue is not such that this one can understand. This one does not have the sensory organs to understand. This one can understand light.",
+   "蓝色，非此身所能理解。此身没有理解它所需的感官。此身能理解光。"
+  ],
+  [
+   "res#60317/whatIHaveToSay[0]",
+   "fog",
+   "This might speak to the fog that these experience. Perhaps these see a fog where these are unable... or not permitted to see.",
+   "这或许正应了诸位所经历的迷雾。也许在诸位无法……或不被允许看见之处，所见便是迷雾。"
+  ],
+  [
+   "res#60346/options[0].text",
+   "Taranad",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60346/options[1].text",
+   "Taranad",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60346/options[2].text",
+   "Taranad",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60346/options[3].text",
+   "Taranad",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60346/options[4].text",
+   "Taranad",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60346/options[5].text",
+   "Taranad",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60346/options[6].text",
+   "Taranad",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60346/options[7].text",
+   "Taranad",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60346/options[8].text",
+   "Taranad",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60346/options[9].text",
+   "Taranad",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60403/whatIHaveToSay[0]",
+   "job",
+   "This one is a guardian. Does this need to have worry? These are unusual visitors. These will not find access beyond the island. For safety.",
+   "此身是守护者。需要担忧吗？诸位是不同寻常的访客。诸位无法通行到岛屿之外。为了安全。"
+  ],
+  [
+   "res#60403/whatIHaveToSay[1]",
+   "job",
+   "This one did not expect visitors. Guardian job is lonely, but just. This one is vigilant.\n\nWhy did these come here?",
+   "此身不曾料到有访客。守护之职孤寂，却公正。此身时刻警醒。\n\n诸位为何来此？"
+  ],
+  [
+   "res#60560/whatIHaveToSay[0]",
+   "Lannon",
+   "It walks on two legs. A just thing. This one has never seen one like it.",
+   "它用两条腿行走。公正之物。此身从未见过像它这样的。"
+  ],
+  [
+   "res#60565/whatIHaveToSay[0]",
+   "Laszra",
+   "It is a brittle limb, yet it walks. Such determination is just.",
+   "一条脆弱的肢体，却仍能行走。此等决心，公正。"
+  ],
+  [
+   "res#60635/whatIHaveToSay[0]",
+   "manatite",
+   "Such a word is unknown to this. One such as this has no need for things. This one can see that these must collect to live. This one needs only to sit in the wind to live.",
+   "此等词语，此身不知。如此身者，无需物事。此身看得出，诸位必须聚敛，方能生存。此身只需临风而坐，便可存活。"
+  ],
+  [
+   "res#60657/whatIHaveToSay[0]",
+   "caves",
+   "Caves are many in this place. This one does not desire to spend time in them.",
+   "此地洞穴众多。此身不愿在其中久留。"
+  ],
+  [
+   "res#60683/whatIHaveToSay[0]",
+   "silver",
+   "This one does not know of such. Perhaps these would find such a thing underground.",
+   "此身不知此物。也许诸位能在地下找到。"
+  ],
+  [
+   "res#60699/whatIHaveToSay[0]",
+   "dark lord",
+   "Dark is not always bad, but this one thinks these do intend it so. The gate to here was made in times such as you speak. Some hid. This one has not seen these, but perhaps some have. All such as these left when darkness was defeated.",
+   "黑暗并非总是恶，可此身认为，诸位所指确为恶。通向此地的门，正是在诸位所言的年代所造。有些存在躲藏了起来。此身未曾见过它们，但也许有别的同族见过。黑暗败退之时，那些存在便都离去了。"
+  ],
+  [
+   "res#60699/whatIHaveToSay[1]",
+   "dark lord",
+   "Such a tale is told. This one did not know of truth until now.",
+   "确有这般传说。此身直到如今，才知其中真实。"
+  ],
+  [
+   "res#60712/whatIHaveToSay[0]",
+   "wild boar",
+   "An animal. This one understands the concept. Such a place as this contains animals. Such things are dangerous, but just. All must eventually be consumed.",
+   "一种动物。此身明白其含义。这样的地方自有动物栖居。此等生灵危险，却公正。万物终将彼此吞噬。"
+  ],
+  [
+   "res#60717/whatIHaveToSay[0]",
+   "Kalindraur",
+   "A home that protects. Such a thing is just. This one knows of such a place. Are these from such a place? This one is elated.\n\nAlumandraur is also such a place.",
+   "一个庇护之所。公正之物。此身知晓这样的地方。诸位来自那样的地方吗？此身不胜欣喜。\n\n阿鲁曼道尔，也是这样的地方。"
+  ],
+  [
+   "res#60725/whatIHaveToSay[0]",
+   "Shione",
+   "This can hear the harmony.",
+   "此身能听见和声。"
+  ],
+  [
+   "res#60754/whatIHaveToSay[0]",
+   "Tethrys",
+   "Such is this one's home. Chooses to give to these a gift. Not from this place. From the place of these. This is just.",
+   "此等物事，正是此身的家园。它选择赐予诸位一份礼物。不来自此地。来自诸位来的地方。此乃公正。"
+  ],
+  [
+   "res#60789/whatIHaveToSay[0]",
+   "Arbo",
+   "It is not like the others. This one thinks so.",
+   "它与其余的来者不同。此身如此认为。"
+  ],
+  [
+   "res#60821/whatIHaveToSay[0]",
+   "Scaphin",
+   "The word is known to this one, but there are none here. This one was told tales of such.",
+   "此词语，此身知晓，可此地并无他们。此身听人讲过他们的传说。"
+  ],
+  [
+   "res#60854/whatIHaveToSay[0]",
+   "Renault",
+   "It is a name? This one has trouble to speak names. In this place, names are felt. This one has been told the custom of these. This one will try to remember names.",
+   "是一个名字？此身不擅说出名字。在此地，名字是被感知的。此身被告知过诸位的习俗。此身会试着记住名字。"
+  ],
+  [
+   "res#60880/whatIHaveToSay[0]",
+   "dimension",
+   "Is here such a thing as dimension? Or, is it something else? This one does not know, but this is now curious about such things. Perhaps, where is less important than, is. Here, is Tethrys.",
+   "此处也有次元这样的东西吗？还是说，是别的什么？此身不知，但如今对此心生好奇。也许，「何处」不如「是何」重要。这里，就是泰丝瑞斯。"
+  ],
+  [
+   "res#60915/options[0].text",
+   "Taranad",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60915/options[10].text",
+   "Taranad",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60915/options[11].text",
+   "Taranad",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60915/options[12].text",
+   "Taranad",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60915/options[13].text",
+   "Taranad",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60915/options[14].text",
+   "Taranad",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60915/options[15].text",
+   "Taranad",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60915/options[16].text",
+   "Taranad",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "res#60915/options[17].text",
+   "Taranad",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60915/options[18].text",
+   "Taranad",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60915/options[19].text",
+   "Taranad",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60915/options[1].text",
+   "Taranad",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60915/options[20].text",
+   "Taranad",
+   "Tethrys",
+   "泰丝瑞斯"
+  ],
+  [
+   "res#60915/options[21].text",
+   "Taranad",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60915/options[2].text",
+   "Taranad",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60915/options[3].text",
+   "Taranad",
+   "book",
+   "书"
+  ],
+  [
+   "res#60915/options[4].text",
+   "Taranad",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60915/options[5].text",
+   "Taranad",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60915/options[6].text",
+   "Taranad",
+   "Archaven",
+   "阿奇文"
+  ],
+  [
+   "res#60915/options[7].text",
+   "Taranad",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60915/options[8].text",
+   "Taranad",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60915/options[9].text",
+   "Taranad",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60926/whatIHaveToSay[0]",
+   "Gallitzin",
+   "It looks dangerous, yet kind. This likes.",
+   "看着危险，却又温和。此身喜欢。"
+  ]
+ ]
+}

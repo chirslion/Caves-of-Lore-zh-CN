@@ -1,0 +1,315 @@
+{
+ "meta": {
+  "kind": "对话/GardenerConversatiopn",
+  "count": 51,
+  "with_cn": 51
+ },
+ "entries": [
+  [
+   "res#59773/whatIHaveToSay[0]",
+   "graveyard",
+   "Living so close to it, I hear strange noises at night. Those screams... it must be a fox though. They can sound so much like a person in distress when they call out. They do keep the rabbits off of my vegetables though.",
+   "住得离它这么近，夜里我常听见奇怪的声响。那些惨叫……不过一定只是狐狸。它们嚎起来，真像有人遭了难。不过它们倒是替我把兔子从菜地里赶开了。"
+  ],
+  [
+   "res#59820/whatIHaveToSay[0]",
+   "Emerisk",
+   "I grew up in this place and married my childhood sweetheart. These are much better times than in the past. An old woman used to tell me stories of Goblins! Imagine that.",
+   "我在这里长大，娶了青梅竹马的爱人。如今的日子比从前好得多。有位老妇人，从前常给我讲哥布林，的故事！你想想看。"
+  ],
+  [
+   "res#59852/whatIHaveToSay[0]",
+   "Archaven",
+   "I don't know much about fancy things like that. But good soil and seed I can tell you all about. For instance... actually I cannot tell you about those things at all. My memory these days...",
+   "那种花哨的东西我懂得不多。不过好土壤和好种子，我能跟你讲上一天。比如说……其实，那些我也讲不出来。这些日子我的记性……"
+  ],
+  [
+   "res#59874/whatIHaveToSay[0]",
+   "caves",
+   "My wife used to go into the caves, but it is much too dangerous now. She keeps forgetting her way, and the last time she took an entire day to return. She did find an interesting herb though. You could ask her about it.",
+   "我妻子从前常进洞穴，可如今太危险了。她老是记不住路，上次花了整整一天才回来。不过她确实找到过一种有趣的草药。你可以去问问她。"
+  ],
+  [
+   "res#59904/whatIHaveToSay[0]",
+   "old woman",
+   "I cannot remember where I know her from. She was strange, I remember that. And... she lived in a cave I think. I was supposed to keep her a secret. Oh no, I should not have said anything.",
+   "我想不起是在哪儿认识她的。她很古怪——这点我记得。还有……她好像住在一个洞穴里。我本该替她保密的。哎呀，我不该说出来的。"
+  ],
+  [
+   "res#59905/whatIHaveToSay[0]",
+   "Laszra",
+   "Can you use magic to make plants grow? I am unsure if I would use such a shortcut if it could. There must be a cost for any shortcut.",
+   "你能用魔法让植物生长吗？就算能，我也不确定自己会不会走这种捷径。任何捷径，都必有代价。"
+  ],
+  [
+   "res#59939/whatIHaveToSay[0]",
+   "Rycard",
+   "Hello, sir. You look like a man with many tales to tell. I would love to hear them some time.",
+   "你好，先生。你看着像是有满肚子故事的人。改天我很想听你讲讲。"
+  ],
+  [
+   "res#59960/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Have you considered taking up gardening? It is healthy for the body and the mind. A man of your strength would do well.",
+   "你考虑过侍弄园艺吗？它对身心都有益。像你这样健壮的人，一定能把园子打理得极好。"
+  ],
+  [
+   "res#60002/whatIHaveToSay[0]",
+   "Scaphin",
+   "The old woman used to speak of these... but that is all that I can remember.",
+   "那位老妇人，从前常说起这些……可我记得的只有这么多了。"
+  ],
+  [
+   "res#60006/whatIHaveToSay[0]",
+   "Dimas",
+   "Vegetables are wonderful. You... have had them before, right?",
+   "蔬菜是好东西。你……以前吃过吧？"
+  ],
+  [
+   "res#60008/whatIHaveToSay[0]",
+   "dark lord",
+   "I am not afraid of him. Because he is dead. That is why. Otherwise, I would be very scared.",
+   "我不怕他。因为他已经死了。正因为如此。不然的话，我会怕得要命。"
+  ],
+  [
+   "res#60010/whatIHaveToSay[0]",
+   "Goblins",
+   "Everyone pretends that they aren't real. But I am sure that I have seen them, on the edge of the fog.",
+   "所有人都假装他们不存在。可我确信自己见过他们，就在迷雾的边缘。"
+  ],
+  [
+   "res#60026/whatIHaveToSay[0]",
+   "Agmarians",
+   "An old woman would tell me stories of them, but to be honest they never sounded that frightening to me. I would love to meet one, perhaps... Goblins on the other hand; I heard they feast on humans!",
+   "那位老妇人，会给我讲他们的故事；不过说实话，他们听起来从来没那么可怕。我倒很想见一个……至于哥布林，就不一样了；听说他们以人为食！"
+  ],
+  [
+   "res#60123/whatIHaveToSay[0]",
+   "Merewen",
+   "Hello, ma'am. Welcome to Emerisk.",
+   "你好，女士。欢迎来到埃梅里斯克。"
+  ],
+  [
+   "res#60144/whatIHaveToSay[0]",
+   "Bhulown",
+   "Do you eat people? I certainly hope not.",
+   "你吃人吗？我当然希望你不吃。"
+  ],
+  [
+   "res#60168/whatIHaveToSay[0]",
+   "book",
+   "With such fine construction and delightful artwork on the covers it is a shame that there is nothing inside of them. I wonder what their original purpose was. I would very much like to know.",
+   "装帧如此精美，封面上还有赏心悦目的图画，内里却空无一字，实在可惜。不知道它们本来的用途是什么。我非常想知道。"
+  ],
+  [
+   "res#60303/whatIHaveToSay[0]",
+   "fog",
+   "Normally, fog is good for my crops. It settles into a fine dew in the morning for my thirsty plants. But the fog on the edge of town is not wet. How odd.",
+   "通常来说，雾对庄稼有好处。清晨它凝成细细的露水，滋润我干渴的作物。可镇子边缘的迷雾却是干的。真古怪。"
+  ],
+  [
+   "res#60332/options[0].text",
+   "Gardener ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60332/options[1].text",
+   "Gardener ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60332/options[2].text",
+   "Gardener ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60332/options[3].text",
+   "Gardener ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60332/options[4].text",
+   "Gardener ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60332/options[5].text",
+   "Gardener ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60332/options[6].text",
+   "Gardener ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60332/options[7].text",
+   "Gardener ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60332/options[8].text",
+   "Gardener ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60332/options[9].text",
+   "Gardener ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60389/whatIHaveToSay[0]",
+   "job",
+   "I grow and sell vegetables. It is my love of plants that drew my wife and I together.",
+   "我种菜，也卖菜。我和妻子，正是因对植物的共同喜爱而走到一起。"
+  ],
+  [
+   "res#60546/whatIHaveToSay[0]",
+   "Lannon",
+   "Hello, friend. It is always nice to see a new face. Or have we met?",
+   "你好，朋友。见到新面孔总是让人高兴。还是说，我们见过？"
+  ],
+  [
+   "res#60567/whatIHaveToSay[0]",
+   "Airendal",
+   "How peculiar. Do you speak?",
+   "真奇特。你会说话吗？"
+  ],
+  [
+   "res#60594/whatIHaveToSay[0]",
+   "onQuest",
+   "I am grateful for your help. I once found an ancient coin while digging with my hoe, but I have yet to come across my lost trinket.",
+   "多谢你帮忙。我锄地时曾挖到过一枚古币，可弄丢的那件小饰物，至今还没找到。"
+  ],
+  [
+   "res#60637/whatIHaveToSay[0]",
+   "Codex",
+   "Is that some sort of garden tool? I could use something to help with weeding.",
+   "那是某种园艺工具吗？我倒正需要个拔草的好帮手。"
+  ],
+  [
+   "res#60706/whatIHaveToSay[0]",
+   "completedQuest",
+   "Thank you very much. My wife will be so grateful to have this back once I remind her that she lost it.\n\nI do not have much, but please take this ancient coin as a token of my appreciation.",
+   "太感谢你了。等我提醒妻子她弄丢了这东西，她一定会非常感激。\n\n我没有多少家当，但请收下这枚古币，聊表谢意。"
+  ],
+  [
+   "res#60775/whatIHaveToSay[0]",
+   "Arbo",
+   "I could use help from a good boy like you. I keep losing things in the garden soil while tilling. That is why I wear my wedding ring around my neck now. However, I do not recall what I lost anymore.",
+   "我正需要你这样一只好狗狗帮忙。我翻地时老是把东西丢在园土里。所以现在我把婚戒挂在脖子上。可是，我已经想不起自己到底丢了什么了。"
+  ],
+  [
+   "res#60840/whatIHaveToSay[0]",
+   "Renault",
+   "I am not very good at remembering names. I suppose I might have met someone with that name before. Please forgive my lack of memory. I seem to have less and less of it these days.",
+   "我记名字不太行。也许我从前真见过叫那个名字的人。请原谅我的记性。这些日子，它似乎越来越少了。"
+  ],
+  [
+   "res#60901/options[0].text",
+   "Samm Redmund",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60901/options[10].text",
+   "Samm Redmund",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60901/options[11].text",
+   "Samm Redmund",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60901/options[12].text",
+   "Samm Redmund",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60901/options[13].text",
+   "Samm Redmund",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60901/options[14].text",
+   "Samm Redmund",
+   "old woman",
+   "老妇人"
+  ],
+  [
+   "res#60901/options[1].text",
+   "Samm Redmund",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60901/options[2].text",
+   "Samm Redmund",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60901/options[3].text",
+   "Samm Redmund",
+   "book",
+   "书"
+  ],
+  [
+   "res#60901/options[4].text",
+   "Samm Redmund",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60901/options[5].text",
+   "Samm Redmund",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60901/options[6].text",
+   "Samm Redmund",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60901/options[7].text",
+   "Samm Redmund",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60901/options[8].text",
+   "Samm Redmund",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60901/options[9].text",
+   "Samm Redmund",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60982/whatIHaveToSay[0]",
+   "Shione",
+   "Some say that singing to vegetables makes them grow. If so, I wonder which instrument they prefer.",
+   "有人说，对着蔬菜唱歌能让它们长得更好。若真如此，我倒是好奇它们喜欢哪种乐器。"
+  ]
+ ]
+}

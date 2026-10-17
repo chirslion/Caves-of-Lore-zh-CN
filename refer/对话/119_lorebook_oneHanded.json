@@ -1,0 +1,51 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_oneHanded",
+  "count": 7,
+  "with_cn": 7
+ },
+ "entries": [
+  [
+   "res#60476/whatIHaveToSay[0]",
+   "Start",
+   "\n\r\n\t\"\"No.\"\" Arunas said simply.\r\n\"\"But master, we must engage!\"\", shouted Lianon. \"\"This evil must be destroyed!\"\" \r\n\r\n\tStep by step, the skeletal warriors drew closer.",
+   "\n\r\n\t「不行。」阿鲁纳斯只说了两个字。\r\n「可是师父，我们必须应战！」利亚侬喊道，「这邪恶必须被铲除！」\r\n\r\n\t骷髅战士一步一步逼近。"
+  ],
+  [
+   "res#60476/whatIHaveToSay[1]",
+   "Start",
+   "Their eye sockets were empty. Tattered cloth and rusting armor hung from their bones. Something dark had given them motion, and they lumbered as hastily as their bodies would allow.\n\r\n\t\"\"No soul remains in these forms, but they are not empty husks. This is the work of evil spirits.\"\" Arunas said as he looked at his young apprentice.\r",
+   "它们的眼窝空空如也。破布与锈甲挂在骨架上。某种黑暗之物赋予了它们行动之力，它们以躯体所能承受的最大幅度笨重地逼来。\n\r\n\t「这些躯壳里没有灵魂，可它们也不是空壳。这是恶灵的手笔。」阿鲁纳斯望着年轻的学徒说道。\r"
+  ],
+  [
+   "res#60476/whatIHaveToSay[2]",
+   "Start",
+   "\t\"\"Then let us slay them!\"\" Lianon begged. \"\"Why do we delay?\"\"\n\n\t\"\"Watch them, girl. See how they use a sword.\"\" Arunas said calmly, as the first skeleton raised its sword into the air.\r\n\r\n\tWith a downward slash its blade bit the earth, sending small stones fleeing as a cloud of dust rose into the air. \r",
+   "\t「那就杀了它们！」利亚侬央求道，「我们为何还不动手？」\n\n\t「看它们，孩子。看它们怎么用剑。」阿鲁纳斯平静地说。第一具骷髅把剑高高举起。\r\n\r\n\t剑锋向下劈落，咬进泥土，碎石四溅，尘土扬起。 \r"
+  ],
+  [
+   "res#60476/whatIHaveToSay[3]",
+   "Start",
+   "\t\rArunas easily stepped to the side. \"\"They lack passion, and skill. Where do you think they learned to use the blade?\"\", he asked.\r\n\"\"I suppose they did not learn at all.\"\" Lianon responded.\r\n\r\n\tArunas pointed to the left flank. A skeleton charged them, swinging wildly as it went. He extended his staff, and caught it in the chest, holding it back as its legs dug into the ground over and over. ",
+   "\t\r阿鲁纳斯轻巧地侧身避开。「它们既没有热忱，也没有技艺。你觉得，它们的剑法是哪儿学来的？」他问道。\r\n「我看，它们根本没学过。」利亚侬答道。\r\n\r\n\t阿鲁纳斯指向左侧。一具骷髅朝他们冲来，一边冲一边胡乱挥砍。他伸出长杖抵住它的胸口，把它拦在原地，任它的双腿一遍遍刨地。 "
+  ],
+  [
+   "res#60476/whatIHaveToSay[4]",
+   "Start",
+   "He shook his head slowly and spoke, \"\"Exactly. Now watch them, for many lessons lie in learning what not to do.\"\"\n\n\tLianon's eyes widened. The old man was frustrating, as always, but now she understood what he was doing. She watched the skeleton's posture.",
+   "他缓缓摇头，说道：「正是如此。现在好好看——『不该怎么做』里藏着许多功课。」\n\n\t利亚侬睁大了眼睛。老人一如既往地恼人，可此刻她明白了他的用意。她观察起那具骷髅的架势。"
+  ],
+  [
+   "res#60476/whatIHaveToSay[5]",
+   "Start",
+   "\tEverything was wrong, from stance to technique. This did not mean they weren't dangerous. She remembered using a similar stance at the start of her training, and winced. These were the perfect example of what not to do.\n\n\n\tThe skeletons did not tire or falter.",
+   "\t从架势到手法，一无是处。但这并不意味着它们不危险。她想起自己初学时就摆过类似的架势，不禁皱了下眉。这些骷髅，正是「错误示范」的活标本。\n\n\n\t骷髅们不知疲倦，也绝不退缩。"
+  ],
+  [
+   "res#60476/whatIHaveToSay[6]",
+   "Start",
+   "\r\tAfter a minute of observation, Arunas turned to Lianon and nodded.  She did not need words to understand. A smile drew slowly from the corners of her mouth as she unsheathed her sword. Her feet angled slightly, her stance shifting in an instant. She flew.\r\n\n\n\n",
+   "\r\t观察了一分钟，阿鲁纳斯转向利亚侬，点了点头。她不需要言语就懂了。嘴角缓缓扬起笑意，她拔出长剑。双足微微一转，架势在刹那间就位。她如飞般掠出。\r\n\n\n\n"
+  ]
+ ]
+}

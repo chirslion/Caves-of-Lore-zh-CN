@@ -1,0 +1,1379 @@
+{
+ "meta": {
+  "kind": "数据/教程与提示",
+  "count": 274,
+  "with_cn": 274
+ },
+ "entries": [
+  [
+   "lv0#19893/tooltipNote",
+   "Sell all Quivers and Arrows",
+   "出售所有箭袋与箭矢"
+  ],
+  [
+   "lv0#20312/tooltipNote",
+   "Sell all Armor",
+   "出售所有护甲"
+  ],
+  [
+   "lv0#20360/tooltipNote",
+   "This is how much gold you have to spend in shops.",
+   "这是你在商店中可支配的金币。"
+  ],
+  [
+   "lv0#20512/tooltipNote",
+   "Sort all items that are not in a chest by type: Quiver",
+   "按类型整理不在箱子里的所有物品：箭袋"
+  ],
+  [
+   "lv0#20570/tooltipNote",
+   "<color=#FFE017>Willpower:\r</color>\n\nWillpower is used to force your will upon others, or to resist having your will overturned. Abilities or Spells that attempt to move you against your will or to Intimidate you use this.",
+   "<color=#FFE017>意志力：\r</color>\n\n意志力用于将自己的意志强加于人，或抵抗他人对你意志的扭转。试图让你违背意愿移动、或威吓你的能力与法术都以它结算。"
+  ],
+  [
+   "lv0#20615/tooltipNote",
+   "Set the Formation of your party when they enter combat.",
+   "设定队伍进入战斗时的阵型。"
+  ],
+  [
+   "lv0#20628/tooltipNote",
+   "Number of Points left to buy Abilities and Traits",
+   "剩余可用于购买能力与特质的点数"
+  ],
+  [
+   "lv0#20666/tooltipNote",
+   "Set the Formation of your party when they enter combat.",
+   "设定队伍进入战斗时的阵型。"
+  ],
+  [
+   "lv0#20686/tooltipNote",
+   "This indicates that the red moon Gammon is above the horizon. Each moon has various effects which you can learn about in the Lore.",
+   "这表示红月加蒙位于地平线之上。每轮月亮都有各种效果，可在「学识」中了解。"
+  ],
+  [
+   "lv0#20725/tooltipNote",
+   "Sell all Reach Weapons",
+   "出售所有长柄武器"
+  ],
+  [
+   "lv0#20730/tooltipNote",
+   "Sort all items that are not in a chest by type: Weapon",
+   "按类型整理不在箱子里的所有物品：武器"
+  ],
+  [
+   "lv0#20787/tooltipNote",
+   "Sort all items that are not in a chest by type: Unidentified",
+   "按类型整理不在箱子里的所有物品：未鉴定"
+  ],
+  [
+   "lv0#20796/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#20819/tooltipNote",
+   "Sell all Swords",
+   "出售所有刀剑"
+  ],
+  [
+   "lv0#20840/tooltipNote",
+   "Skip the Intro",
+   "跳过片头"
+  ],
+  [
+   "lv0#20887/tooltipNote",
+   "Toggle Info to show notes about how to control the game, review important processes or see other important information.",
+   "切换信息面板，查看游戏操作说明、重要流程与其他重要信息。"
+  ],
+  [
+   "lv0#20929/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#21021/tooltipNote",
+   "<color=#FFE017>Experience:\r</color>\n\nExperience points allow your characters to gain levels. When battles are won or quests are completed, you are awarded Experience Points.\nWhen these points are high enough, your experience bar will be full and you will gain a level. The experience bar will then reset and you will regain all missing Health and Mana.\n\nFor more specific information, look at the Level tooltip.",
+   "<color=#FFE017>经验：\r</color>\n\n经验值让角色得以升级。赢得战斗或完成任务时，你会获得经验值。\n当经验值足够高时，经验条会填满，你将提升一级。随后经验条重置，你也会回复全部失去的生命与法力。\n\n如需更具体的信息，请查看「等级」提示。"
+  ],
+  [
+   "lv0#21028/tooltipNote",
+   "Advance one inventory page.",
+   "前往物品栏下一页。"
+  ],
+  [
+   "lv0#21174/tooltipNote",
+   "Toggle the Joysticks.\nYou can use your left thumb to maneuver your character.\nYour right thumb will highlight nearby things to interact with.",
+   "切换虚拟摇杆。\n用左拇指操控你的角色移动。\n用右拇指高亮附近可交互的物体。"
+  ],
+  [
+   "lv0#21191/tooltipNote",
+   "Sell all Rings and Necklaces",
+   "出售所有戒指与项链"
+  ],
+  [
+   "lv0#21223/tooltipNote",
+   "Sort all items that are not in a chest by type: SpellBook, Book, Lore Book",
+   "按类型整理不在箱子里的所有物品：法术书、书、学识书"
+  ],
+  [
+   "lv0#21276/tooltipNote",
+   "Toggle Stealth mode On/Off.\nStealth can help you evade detection, but you will move slower. [Z]",
+   "切换潜行模式开/关。\n潜行有助于避开侦测，但移动会更慢。[Z]"
+  ],
+  [
+   "lv0#21299/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#21311/tooltipNote",
+   "Sort all items that are not in a chest by type: Potion",
+   "按类型整理不在箱子里的所有物品：药水"
+  ],
+  [
+   "lv0#21950/tooltipNote",
+   "Sell all Bows",
+   "出售所有弓"
+  ],
+  [
+   "lv0#22051/tooltipNote",
+   "Sell all Clubs",
+   "出售所有棍棒"
+  ],
+  [
+   "lv0#22106/tooltipNote",
+   "Send the current character out of combat.",
+   "让当前角色退出战斗。"
+  ],
+  [
+   "lv0#22176/tooltipNote",
+   "Sell all Ingredients",
+   "出售所有原料"
+  ],
+  [
+   "lv0#22201/tooltipNote",
+   "Hollow Squares indicate that the item is empty.",
+   "空心方块表示该物品位为空。"
+  ],
+  [
+   "lv0#22224/tooltipNote",
+   "Attempt to brew from the ingredients in the hopper.",
+   "用投料器中的原料尝试酿造。"
+  ],
+  [
+   "lv0#22244/tooltipNote",
+   "Display all available Abilities and Spells.",
+   "显示所有可用的能力与法术。"
+  ],
+  [
+   "lv0#22325/tooltipNote",
+   "Sort all items that are not in a chest by type: Shield",
+   "按类型整理不在箱子里的所有物品：盾牌"
+  ],
+  [
+   "lv0#22336/tooltipNote",
+   "Sell all Hammers",
+   "出售所有锤类"
+  ],
+  [
+   "lv0#22375/tooltipNote",
+   "Mark this item for sale. All marked items can be sold together at a vendor.",
+   "将此物品标记为待售。所有标记物品可在商人处一并出售。"
+  ],
+  [
+   "lv0#22380/tooltipNote",
+   "Sort all items that are not in a chest by type: Newest",
+   "按类型整理不在箱子里的所有物品：最新"
+  ],
+  [
+   "lv0#22399/tooltipNote",
+   "<color=#FFE017>To Hit:\r</color>\n\nHit attempts begin with a random roll of 1-20.\nYour ToHit value is then added to that roll along with any Lore Boost you may have from learning about that type of monster.\n\nYour ToHit roll is then matched against a defenders Dodge roll. If you match or beat their value then you have scored a hit.\n\nToHit is increased by 10% if you have not moved on your turn.\n",
+   "<color=#FFE017>命中：\r</color>\n\n命中以 1-20 的随机掷骰开始。\n随后将你的命中值，以及你因了解该类怪物而获得的学识加成，加到掷值上。\n\n再用你的命中掷值对抗防御者的闪避掷值。若达到或超过对方的数值，即命中。\n\n若你的回合中未移动，命中提高 10%。\n"
+  ],
+  [
+   "lv0#22612/tooltipNote",
+   "Sort all items that are not in a chest by type: Orb",
+   "按类型整理不在箱子里的所有物品：法球"
+  ],
+  [
+   "lv0#22696/tooltipNote",
+   "Dismiss this character from the party. They will wait in Kalindraur.",
+   "将该角色移出队伍。他/她会留在卡林德劳尔等候。"
+  ],
+  [
+   "lv0#22769/tooltipNote",
+   "<color=#FFE017>Spirit:\r</color>\n+ Spell Damage/Intensity\n+ Mana Points (secondary)\n+ Resist Magic\n+ Determines max Spell Tier (if higher than MND)\n\n<color=#00BFBF>Skills:\r</color>\n+ Music\n+ Identify\n+ Craft\n+ Hand to Hand Weapons\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.",
+   "<color=#FFE017>精神：\r</color>\n+ 法术伤害/强度\n+ 法力值（次要）\n+ 抵抗魔法\n+ 决定最高法术层级（若高于 MND）\n\n<color=#00BFBF>技能：\r</color>\n+ 音乐\n+ 鉴定\n+ 制作\n+ 徒手格斗\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。"
+  ],
+  [
+   "lv0#22772/tooltipNote",
+   "<color=#FFE017>Strength:\r</color>\n+ Weapon Damage\r\n+ Resisting Physical\r\n+ Resisting Fear\r\n+ Hit Points (secondary)\r\n\r\n<color=#00BFBF>Skills:\r</color>\n+ Hand-To-Hand Weapons\r\n+ One-Handed Weapons\r\n+ Two-Handed Weapons\r\n+ Ranged Weapons\n\n<color=#FFE017>How Stats work:\r</color>\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.",
+   "<color=#FFE017>力量：\r</color>\n+ 武器伤害\r\n+ 抵抗物理\r\n+ 抵抗恐惧\r\n+ 生命值（次要）\r\n\r\n<color=#00BFBF>技能：\r</color>\n+ 徒手格斗\r\n+ 单手武器\r\n+ 双手武器\r\n+ 远程武器\n\n<color=#FFE017>属性如何生效：\r</color>\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。"
+  ],
+  [
+   "lv0#22893/tooltipNote",
+   "Blue Squares represent Plants.",
+   "蓝色方块代表植物。"
+  ],
+  [
+   "lv0#22982/tooltipNote",
+   "Create a side panel that allows you to drag items across inventory pages.",
+   "打开侧栏，让你可以跨物品栏页面拖动物品。"
+  ],
+  [
+   "lv0#23020/tooltipNote",
+   "Show Skills, and increase them with Skill Points after leveling up.",
+   "显示技能；升级后可在此用技能点提升它们。"
+  ],
+  [
+   "lv0#23111/tooltipNote",
+   "A + symbol indicates that the item will regenerate in time.",
+   "+ 符号表示该物品会随时间再生。"
+  ],
+  [
+   "lv0#23183/tooltipNote",
+   "Sell all Food",
+   "出售所有食物"
+  ],
+  [
+   "lv0#23198/tooltipNote",
+   "Go to the first page in your inventory.",
+   "前往物品栏第一页。"
+  ],
+  [
+   "lv0#23214/tooltipNote",
+   "Toggle the Joysticks.\nYou can use your left thumb to maneuver your character.\nYour right thumb will highlight nearby things to interact with.",
+   "切换虚拟摇杆。\n用左拇指操控你的角色移动。\n用右拇指高亮附近可交互的物体。"
+  ],
+  [
+   "lv0#23231/tooltipNote",
+   "Clear brewing ingredients.",
+   "清空酿造原料。"
+  ],
+  [
+   "lv0#23278/tooltipNote",
+   "This indicates that this item has been marked for Sale. At the next vendor, you can sell all marked items together.",
+   "这表示该物品已被标记为待售。在下一个商人处，你可以将所有标记物品一并出售。"
+  ],
+  [
+   "lv0#23353/tooltipNote",
+   "Take an Automatic action that does not require your input.",
+   "执行一个无需你操作的自动行动。"
+  ],
+  [
+   "lv0#23415/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#23429/tooltipNote",
+   "Red Squares represent Ore and other hard substances.",
+   "红色方块代表矿石及其他坚硬物质。"
+  ],
+  [
+   "lv0#23474/tooltipNote",
+   "Sell all Bows",
+   "出售所有弓"
+  ],
+  [
+   "lv0#23505/tooltipNote",
+   "Sell all Clothing",
+   "出售所有衣物"
+  ],
+  [
+   "lv0#23522/tooltipNote",
+   "Sort all items that are not in a chest by type: Charm",
+   "按类型整理不在箱子里的所有物品：护符"
+  ],
+  [
+   "lv0#23583/tooltipNote",
+   "Flip the direction your character is facing.",
+   "翻转你的角色面朝的方向。"
+  ],
+  [
+   "lv0#23588/tooltipNote",
+   "Toggle the Sorting Menu, which allows you to sort your items by type.",
+   "切换排序菜单，可按类型整理物品。"
+  ],
+  [
+   "lv0#23613/tooltipNote",
+   "<color=#FFE017>Speed:\r</color>\n+ Initiative\n+ Movement Rate\n+ To Hit\n+ Dodge\n\n<color=#00BFBF>Skills:\r</color>\n+ Awareness\n+ Evasion\n+ First Aid\n+ Music\n\n<color=#FFE017>How Stats work:\r</color>\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.",
+   "<color=#FFE017>速度：\r</color>\n+ 先攻\n+ 移动速度\n+ 命中\n+ 闪避\n\n<color=#00BFBF>技能：\r</color>\n+ 警觉\n+ 回避\n+ 急救\n+ 音乐\n\n<color=#FFE017>属性如何生效：\r</color>\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。"
+  ],
+  [
+   "lv0#23783/tooltipNote",
+   "Show Abilities and add them to your Quickslots for combat.",
+   "显示能力，并将它们加入战斗快捷栏。"
+  ],
+  [
+   "lv0#23839/tooltipNote",
+   "Sort all items that are not in a chest by type: Food",
+   "按类型整理不在箱子里的所有物品：食物"
+  ],
+  [
+   "lv0#23993/tooltipNote",
+   "Remove the waypoint.",
+   "移除路点。"
+  ],
+  [
+   "lv0#24067/tooltipNote",
+   "Summon a Hero from the Shelter",
+   "从庇护所召唤一名英雄"
+  ],
+  [
+   "lv0#24117/tooltipNote",
+   "Sell all Reach Weapons",
+   "出售所有长柄武器"
+  ],
+  [
+   "lv0#24180/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#24190/tooltipNote",
+   "<color=#FFE017>Reflex:\r</color>\n\nReflex allows you an opportunity to dodge certain abilities, resist being rooted and avoid traps when you would otherwise be damaged.",
+   "<color=#FFE017>反应：\r</color>\n\n反应让你有机会躲开某些能力、抵抗定身，并在本会受伤时避开陷阱。"
+  ],
+  [
+   "lv0#24225/tooltipNote",
+   "Sell all Quivers and Arrows",
+   "出售所有箭袋与箭矢"
+  ],
+  [
+   "lv0#24251/tooltipNote",
+   "Sell all Axes",
+   "出售所有斧类"
+  ],
+  [
+   "lv0#24259/tooltipNote",
+   "Go back one inventory page.",
+   "返回物品栏上一页。"
+  ],
+  [
+   "lv0#24313/tooltipNote",
+   "Sell all Orbs",
+   "出售所有法球"
+  ],
+  [
+   "lv0#24373/tooltipNote",
+   "This is how much gold you have to spend in shops.",
+   "这是你在商店中可支配的金币。"
+  ],
+  [
+   "lv0#24391/tooltipNote",
+   "<color=#FFE017>Strength:\r</color>\n+ Weapon Damage\r\n+ Resisting Physical\r\n+ Resisting Fear\r\n+ Hit Points (secondary)\r\n\r\n<color=#00BFBF>Skills:\r</color>\n+ Hand-To-Hand Weapons\r\n+ One-Handed Weapons\r\n+ Two-Handed Weapons\r\n+ Ranged Weapons",
+   "<color=#FFE017>力量：\r</color>\n+ 武器伤害\r\n+ 抵抗物理\r\n+ 抵抗恐惧\r\n+ 生命值（次要）\r\n\r\n<color=#00BFBF>技能：\r</color>\n+ 徒手格斗\r\n+ 单手武器\r\n+ 双手武器\r\n+ 远程武器"
+  ],
+  [
+   "lv0#24411/tooltipNote",
+   "<color=#FFE017>Leveling:\r</color>\n\nLevels are how far your character has progressed. When battles are won or quests are completed, you are awarded Experience Points.\nWhen these points are high enough, your experience bar will be full and you will gain a level. The experience bar will then reset and you will regain all missing Health and Mana.\nWhen you level up you also gain:\n+ Skill Points - These can be aded in the Skills menu to raise skill levels.\n<color=#FFBF00>+ Ability Points </color>- These can be used to purchase new Abilities under the Abilities menu.\nAbility Points are awarded every 5 levels and are represented by an orange mark near your portrait.\n<color=#00BFFF>+ Trait Points </color>- These can be used to purchase new Traits under the Traits menu.\nTrait Points are awarded every 3 levels and are represented by a blue mark near your portrait.\nNew traits become availble to choose when you learn enough about a monster through Monster Lore.\n<color=#F50002>+ Max Health </color> - Health points gained are equal to your Resistance points over 10 plus half your Strength points over 10.\n<color=#005BF5>+ Max Mana </color> -  Mana points gained are equal to your Mind points over 10 plus half your Spirit points over 10.\n",
+   "<color=#FFE017>升级：\r</color>\n\n等级代表你角色的成长程度。赢得战斗或完成任务时，你会获得经验值。\n当经验值足够高时，经验条会填满，你将提升一级。随后经验条重置，你也会回复全部失去的生命与法力。\n升级时你还会获得：\n+ 技能点——可在技能菜单中投入，以提升技能等级。\n<color=#FFBF00>+ 能力点 </color>——可在能力菜单中购买新能力。\n能力点每 5 级发放一次，以你头像旁的橙色标记表示。\n<color=#00BFFF>+ 特质点 </color>——可在特质菜单中购买新特质。\n特质点每 3 级发放一次，以你头像旁的蓝色标记表示。\n当你通过「怪物学识」对某种怪物了解得足够多时，即可选择新的特质。\n<color=#F50002>+ 最大生命 </color>——获得的生命点数等于你的抗性点数除以 10，加上力量点数的一半除以 10。\n<color=#005BF5>+ 最大法力 </color>——获得的法力点数等于你的心智点数除以 10，加上精神点数的一半除以 10。\n"
+  ],
+  [
+   "lv0#24515/tooltipNote",
+   "Open a list of Lore options that can be used from your Moldy Book.",
+   "打开「发霉的书」中可用的学识选项列表。"
+  ],
+  [
+   "lv0#24549/tooltipNote",
+   "Open a list of Actions that you can take from your current position.",
+   "打开你当前位置可采取的行动列表。"
+  ],
+  [
+   "lv0#24591/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#24596/tooltipNote",
+   "<color=#FFE017>Armor:\r</color>\n\nArmor is guaranteed damage reduction except against attacks that ignore Armor, such as Acid.\n\nIf you are dealt 10 points of damage and have 5 Armor, you will take only 5 damage.",
+   "<color=#FFE017>护甲：\r</color>\n\n护甲提供稳定的伤害减免，但对无视护甲的攻击（例如酸蚀）无效。\n\n若你受到 10 点伤害而拥有 5 点护甲，则只会承受 5 点伤害。"
+  ],
+  [
+   "lv0#24679/tooltipNote",
+   "Show the Traits that affect the selected character.",
+   "显示影响所选角色的特质。"
+  ],
+  [
+   "lv0#24741/tooltipNote",
+   "Sell all Swords",
+   "出售所有刀剑"
+  ],
+  [
+   "lv0#24806/tooltipNote",
+   "Sell all Hammers",
+   "出售所有锤类"
+  ],
+  [
+   "lv0#24821/tooltipNote",
+   "Sell all Instruments",
+   "出售所有乐器"
+  ],
+  [
+   "lv0#24908/tooltipNote",
+   "This indicates that you are comparing an item with one that you are wearing.",
+   "这表示你正在将一件物品与已穿戴的物品作比较。"
+  ],
+  [
+   "lv0#25022/tooltipNote",
+   "This indicates that this item has been marked for Sale. At the next vendor, you can sell all marked items together.",
+   "这表示该物品已被标记为待售。在下一个商人处，你可以将所有标记物品一并出售。"
+  ],
+  [
+   "lv0#25057/tooltipNote",
+   "Show the Traits that affect the selected character.",
+   "显示影响所选角色的特质。"
+  ],
+  [
+   "lv0#25082/tooltipNote",
+   "Display all available Items that can be used on the current character.",
+   "显示当前角色可使用的所有物品。"
+  ],
+  [
+   "lv0#25107/tooltipNote",
+   "Sort all items that are not in a chest by type: Current Barter Price",
+   "按类型整理不在箱子里的所有物品：当前议价"
+  ],
+  [
+   "lv0#25143/tooltipNote",
+   "Go to the last inventory page that contains items.",
+   "前往含物品的最后一个物品栏页面。"
+  ],
+  [
+   "lv0#25207/tooltipNote",
+   "Toggle Camp On/Off to rest and talk to your companions. [C]",
+   "开/关露营，以便休息并与同伴交谈。[C]"
+  ],
+  [
+   "lv0#25226/tooltipNote",
+   "Orange Squares represent Chests and other item stashes.",
+   "橙色方块代表箱子及其他储物处。"
+  ],
+  [
+   "lv0#25245/tooltipNote",
+   "Show Spells and add them to your Quickslots for combat.",
+   "显示法术，并将它们加入战斗快捷栏。"
+  ],
+  [
+   "lv0#25273/tooltipNote",
+   "Sell all Clubs",
+   "出售所有棍棒"
+  ],
+  [
+   "lv0#25375/tooltipNote",
+   "<color=#FFE017>Agility:\r</color>\n+ To Hit\n+ Reflex\n+ Resist Mind\n+ Dodge\n\r\n<color=#00BFBF>Skills:\r</color>\n+ Evasion\n+ Ranged Weapons\n+ Disarm\n+ Stealth\n+ Craft\n\n<color=#FFE017>How Stats work:\r</color>\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.",
+   "<color=#FFE017>敏捷：\r</color>\n+ 命中\n+ 反应\n+ 抗心智\n+ 闪避\n\r\n<color=#00BFBF>技能：\r</color>\n+ 回避\n+ 远程武器\n+ 卸除武器\n+ 潜行\n+ 制作\n\n<color=#FFE017>属性如何生效：\r</color>\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。"
+  ],
+  [
+   "lv0#25386/tooltipNote",
+   "<color=#FFE017>Mana:\r</color>\n\nThis bar represents how much Mana, or Mana Points, you have. Your maximum Mana Points are increased when you gain a level.\n\nThe amount increased is equal to your Mind points over 10 plus half your Spirit points over 10.",
+   "<color=#FFE017>法力：\r</color>\n\n这根条代表你拥有的法力（法力值）。升级时最大法力值会提高。\n\n提高量等于你的心智点数除以 10，再加上精神点数的一半除以 10。"
+  ],
+  [
+   "lv0#25402/tooltipNote",
+   "Sort all items that are not in a chest by type: Unidentified",
+   "按类型整理不在箱子里的所有物品：未鉴定"
+  ],
+  [
+   "lv0#25432/tooltipNote",
+   "This indicates that you are comparing an item with one that you are wearing.",
+   "这表示你正在将一件物品与已穿戴的物品作比较。"
+  ],
+  [
+   "lv0#25457/tooltipNote",
+   "Sort all items that are not in a chest by type: Instrument",
+   "按类型整理不在箱子里的所有物品：乐器"
+  ],
+  [
+   "lv0#25520/tooltipNote",
+   "Sell all Ore",
+   "出售所有矿石"
+  ],
+  [
+   "lv0#25610/tooltipNote",
+   "<color=#FFE017>Resistance:\r</color>\n+ Hit Points (primary)\n+ Willpower\n+ Resist Physical\n+ Resist Magic\n+ Defense\n\n<color=#00BFBF>Skills:\r</color>\n+ Survival\n+ First Aid\n\n<color=#FFE017>How Stats work:\r</color>\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.",
+   "<color=#FFE017>抗性：\r</color>\n+ 生命值（主要）\n+ 意志力\n+ 抵抗物理\n+ 抵抗魔法\n+ 防御\n\n<color=#00BFBF>技能：\r</color>\n+ 生存\n+ 急救\n\n<color=#FFE017>属性如何生效：\r</color>\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。"
+  ],
+  [
+   "lv0#25670/tooltipNote",
+   "Open your Map to see how much you have explored. [M]",
+   "打开地图，查看你的探索进度。[M]"
+  ],
+  [
+   "lv0#25681/tooltipNote",
+   "Show the Traits that affect the selected character.",
+   "显示影响所选角色的特质。"
+  ],
+  [
+   "lv0#25749/tooltipNote",
+   "Sun and moon rotations are displayd here. The center of the dial is the horizon.",
+   "太阳与月亮的运行在此显示。刻度盘中心即地平线。"
+  ],
+  [
+   "lv0#25799/tooltipNote",
+   "Sell all Staves",
+   "出售所有法杖"
+  ],
+  [
+   "lv0#25816/tooltipNote",
+   "Sell all Armor",
+   "出售所有护甲"
+  ],
+  [
+   "lv0#25834/tooltipNote",
+   "<color=#FFE017>Mind:\r</color>\n+ Resisting Fear\n+ Resist Mind\n+ Mana Points (primary)\n+ Skill Points\n+ Learn Skills, Abilities and Spells Faster\n+ Determines max Spell Tier (if higher than SPI)\n\n<color=#00BFBF>Skills:\r</color>\n+ Awareness\n+ Monster Lore\n+ Survival\n+ Disarm\n+ Identify\n+ Barter\n\n<color=#FFE017>How Stats work:\r</color>\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.",
+   "<color=#FFE017>心智：\r</color>\n+ 抵抗恐惧\n+ 抗心智\n+ 法力值（主要）\n+ 技能点\n+ 更快学会技能、能力与法术\n+ 决定最高法术层级（若高于 SPI）\n\n<color=#00BFBF>技能：\r</color>\n+ 警觉\n+ 怪物学识\n+ 生存\n+ 卸除武器\n+ 鉴定\n+ 议价\n\n<color=#FFE017>属性如何生效：\r</color>\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。"
+  ],
+  [
+   "lv0#25953/tooltipNote",
+   "Sell all Shields",
+   "出售所有盾牌"
+  ],
+  [
+   "lv0#25974/tooltipNote",
+   "Use the Talent of your party leader.  [Q]",
+   "使用你队伍领队的天赋。  [Q]"
+  ],
+  [
+   "lv0#26184/tooltipNote",
+   "This indicates that you are comparing an item with one that you are wearing.",
+   "这表示你正在将一件物品与已穿戴的物品作比较。"
+  ],
+  [
+   "lv0#26192/tooltipNote",
+   "Take crafting result.",
+   "取出制作成品。"
+  ],
+  [
+   "lv0#26285/tooltipNote",
+   "Delay your turn until after the next character goes.",
+   "将你的回合推迟到下一名角色行动之后。"
+  ],
+  [
+   "lv0#26332/tooltipNote",
+   "Sort all items that are not in a chest by type: Ore, Gem",
+   "按类型整理不在箱子里的所有物品：矿石、宝石"
+  ],
+  [
+   "lv0#26420/tooltipNote",
+   "Show Shared and Personal Inventory.",
+   "显示共享物品栏与个人物品栏。"
+  ],
+  [
+   "lv0#26431/tooltipNote",
+   "The number of moves you have left.",
+   "你剩余的移动次数。"
+  ],
+  [
+   "lv0#26582/tooltipNote",
+   "Sell all Gems",
+   "出售所有宝石"
+  ],
+  [
+   "lv0#26594/tooltipNote",
+   "Expand or Reduce the number of visible slots in your inventroy to 40 or 15.",
+   "在 40 格与 15 格之间展开或收拢物品栏的可见槽位数。"
+  ],
+  [
+   "lv0#26610/tooltipNote",
+   "This indicates that the silver moon Miala is above the horizon. Each moon has various effects which you can learn about in the Lore.",
+   "这表示银月米亚拉位于地平线之上。每轮月亮都有各种效果，可在「学识」中了解。"
+  ],
+  [
+   "lv0#26706/tooltipNote",
+   "Sell all Charms",
+   "出售所有护符"
+  ],
+  [
+   "lv0#26743/tooltipNote",
+   "Sort all items that are not in a chest by the order in which they appear in your inventory.",
+   "按物品在物品栏中的排列顺序，整理不在箱子里的所有物品。"
+  ],
+  [
+   "lv0#26811/tooltipNote",
+   "<color=#FFE017>Initiative:\r</color>\n\nInitiative determines the order in which your character goes at the start of combat. It is determined first, by your Speed value, and then modified by your formation.\n\nFormation can be modified in the Formation Menu, available in-between the Stats and Resist buttons. \n\nYour turn can also be delayed with the Delay Turn button.",
+   "<color=#FFE017>先攻：\r</color>\n\n先攻决定战斗开始时你的角色行动的顺序。它先由你的速度值决定，再受队伍阵型修正。\n\n阵型可在「属性」与「抗性」按钮之间的阵型菜单中调整。 \n\n你也可以用「推迟回合」按钮延后你的回合。"
+  ],
+  [
+   "lv0#26822/tooltipNote",
+   "Show the Traits that affect the selected character.",
+   "显示影响所选角色的特质。"
+  ],
+  [
+   "lv0#26843/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#26850/tooltipNote",
+   "Your Energy Level determines how much health and mana you gain when resting. If you are not tired, you will not gain much back when resting. Combat and movement increase tiredness.",
+   "你的精力水平决定休息时回复多少生命与法力。若不疲劳，休息时回得不多。战斗与移动都会加重疲劳。"
+  ],
+  [
+   "lv0#26854/tooltipNote",
+   "Sell all Orbs",
+   "出售所有法球"
+  ],
+  [
+   "lv0#26894/tooltipNote",
+   "Add or Remove this item from the Quickslot.",
+   "将这件物品加入或移出快捷栏。"
+  ],
+  [
+   "lv0#26949/tooltipNote",
+   "Sort all items that are not in a chest by type: Clothing",
+   "按类型整理不在箱子里的所有物品：衣物"
+  ],
+  [
+   "lv0#27002/tooltipNote",
+   "This displays permanent Stat Increases that you gained through other means, and cannot be changed.",
+   "这里显示你通过其他途径获得的永久属性提升，无法更改。"
+  ],
+  [
+   "lv0#27018/tooltipNote",
+   "End your turn.",
+   "结束你的回合。"
+  ],
+  [
+   "lv0#27086/tooltipNote",
+   "Sort all items that are not in a chest by type: Ring, Necklace",
+   "按类型整理不在箱子里的所有物品：戒指、项链"
+  ],
+  [
+   "lv0#27126/tooltipNote",
+   "Sell all Charms",
+   "出售所有护符"
+  ],
+  [
+   "lv0#27192/tooltipNote",
+   "Sell all Shields",
+   "出售所有盾牌"
+  ],
+  [
+   "lv0#27358/tooltipNote",
+   "Sort all items that are not in a chest by type: Note",
+   "按类型整理不在箱子里的所有物品：笔记"
+  ],
+  [
+   "lv0#27371/tooltipNote",
+   "Sell all Rings and Necklaces",
+   "出售所有戒指与项链"
+  ],
+  [
+   "lv0#27404/tooltipNote",
+   "<color=#FFE017>Movement:\r</color>\n\nMovement determines how many tiles you can move in combat.\n\nMovement is equal to your Speed / 3, (rounded).",
+   "<color=#FFE017>移动：\r</color>\n\n移动力决定你在战斗中能移动多少格。\n\n移动力等于你的速度 ÷ 3（四舍五入）。"
+  ],
+  [
+   "lv0#27425/tooltipNote",
+   "<color=#FFE017>Defense:\r</color>\n\nDefense is a 50/50 chance to reduce physical damage of any type, including damage that ignores armor.\n\nDefense is calculated after your armor reduces incoming damage and acts as a secondary defense.",
+   "<color=#FFE017>防御：\r</color>\n\n防御是一项 50/50 的判定，可减免任何类型的物理伤害，包括无视护甲的伤害。\n\n防御在你的护甲减免伤害之后结算，作为第二层防护。"
+  ],
+  [
+   "lv0#27432/tooltipNote",
+   "Toggle the combat grid On/Off.",
+   "开/关战斗网格。"
+  ],
+  [
+   "lv0#27443/tooltipNote",
+   "Sell all Axes",
+   "出售所有斧类"
+  ],
+  [
+   "lv0#27489/tooltipNote",
+   "Sell all Staves",
+   "出售所有法杖"
+  ],
+  [
+   "lv0#27571/tooltipNote",
+   "Sort all items that are not in a chest by type: Armor",
+   "按类型整理不在箱子里的所有物品：护甲"
+  ],
+  [
+   "lv0#27604/tooltipNote",
+   "Use a Spell or Ability in this slot.",
+   "在此槽位使用法术或能力。"
+  ],
+  [
+   "lv0#27733/tooltipNote",
+   "<color=#FFE017>Dodge:\r</color>\n\nDodge is an attempt to ignore an attack entirely, so that no damage calculation is made. Some effects require a hit, and Dodge is the only way to avoid them.\nDodge attempts begin with a random roll of 1-20.\n\nYour Dodge value is then added to that roll and compared to the attackers ToHit value.\nIf you beat the ToHit value you have successfully dodged.",
+   "<color=#FFE017>闪避：\r</color>\n\n闪避是尝试完全无视一次攻击，使伤害计算根本不会发生。某些效果必须先命中才能生效，而闪避是避开它们的唯一办法。\n闪避以 1-20 的随机掷骰开始。\n\n随后将你的闪避值加到掷值上，与攻击者的命中值比较。\n若你超过对方的命中值，闪避成功。"
+  ],
+  [
+   "lv0#27821/tooltipNote",
+   "Sell all Clothing",
+   "出售所有衣物"
+  ],
+  [
+   "lv0#27856/tooltipNote",
+   "Sell all Potions",
+   "出售所有药水"
+  ],
+  [
+   "lv0#27870/tooltipNote",
+   "This indicates that the blue moon Tethrys is above the horizon. Each moon has various effects which you can learn about in the Lore.",
+   "这表示蓝月泰丝瑞斯位于地平线之上。每轮月亮都有各种效果，可在「学识」中了解。"
+  ],
+  [
+   "lv0#28085/tooltipNote",
+   "Sort all items that are not in a chest by type: Ingredient",
+   "按类型整理不在箱子里的所有物品：原料"
+  ],
+  [
+   "lv0#28145/tooltipNote",
+   "Sort all items that are not in a chest by type: Chest",
+   "按类型整理不在箱子里的所有物品：箱子"
+  ],
+  [
+   "lv0#28150/tooltipNote",
+   "<color=#FFE017>Health:\r</color>\n\nThis bar represents how much Health, or Hit Points, you have. Your maximum Hit Points are increased when you gain a level.\n\nThe amount increased is equal to your Resistance points over 10 plus half your Strength points over 10.\n",
+   "<color=#FFE017>生命：\r</color>\n\n这根条代表你拥有的生命（生命值）。升级时最大生命值会提高。\n\n提高量等于你的抗性点数除以 10，再加上力量点数的一半除以 10。\n"
+  ],
+  [
+   "lv0#28235/tooltipNote",
+   "Sell all Instruments",
+   "出售所有乐器"
+  ],
+  [
+   "lv0#28290/tooltipNote",
+   "Open a list of Search options that gives a bonus to Awareness for the selected focus.",
+   "打开搜索选项列表，为所选焦点提供「警觉」加成。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[0]",
+   "Tiles that are within movement range will be highlighted blue.",
+   "移动范围内的格子会以蓝色高亮。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[10]",
+   "To the Left of Skip Button is the Delay button: If you have not taken any actions this will delay them for one turn.",
+   "「跳过」按钮左侧是「推迟」按钮：若你尚未采取任何行动，它会将行动推迟一回合。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[11]",
+   "Moving to either edge of the screen will bring up a Flee button, allowing that character to exit combat.",
+   "移动到屏幕任一侧边缘会出现「逃跑」按钮，让该角色退出战斗。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[12]",
+   "In the upper right corner the Potion button will allow the active character to use items.",
+   "右上角的「药水」按钮可让当前角色使用物品。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[13]",
+   "To the right of that is the Spells/Abilities button that will allow you to see all of your Spells and Abilities at once.",
+   "再往右是「法术/能力」按钮，可一次查看你所有的法术与能力。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[1]",
+   "You can turn the grid on and off with the Grid button in the upper left of the screen.",
+   "你可以用屏幕左上角的「网格」按钮开关战斗网格。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[2]",
+   "Click on a tile to select it. Doing so will highlight enemies that are within range of that position with your current weapon.",
+   "点击一格将其选中。这样做会高亮出该位置在你当前武器射程内的敌人。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[3]",
+   "Click that tile again to move to that location.",
+   "再次点击该格即可移动到那里。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[4]",
+   "Click on an enemy to make an attack.",
+   "点击敌人发起攻击。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[5]",
+   "Making an attack without moving will grant a 10% bonus to hit an enemy, as well as +1 minimum damage before additional modifiers.",
+   "未移动便攻击时，命中敌人的几率提高 10%，并在其他修正之前获得 +1 最低伤害。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[6]",
+   "Click on your current character twice to skip their turn.",
+   "连点两次当前角色即可跳过其回合。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[7]",
+   "There are three buttons active on the bottom of the screen at the start of your turn: Auto, Delay and Skip.",
+   "回合开始时，屏幕底部有三个可用按钮：自动、推迟与跳过。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[8]",
+   "On the Far Bottom Left is the Auto button: This will make an automatic move and attack if possible.",
+   "最左下角是「自动」按钮：可行时会自动移动并攻击。"
+  ],
+  [
+   "lv0#28362/combatTooltipAlerts[9]",
+   "On the Far Bottom Right is the Skip Turn button: This will end your turn. When skipping by clicking on your character this will turn yellow when the next click will be final.",
+   "最右下角是「跳过回合」按钮：会结束你的回合。通过点击角色跳过时，若下一次点击将是最终确认，按钮会变为黄色。"
+  ],
+  [
+   "lv0#28395/tooltipNote",
+   "Toggle Settings to Save, Load or alter Preferences.",
+   "切换设置菜单，可存档、读档或更改偏好设置。"
+  ],
+  [
+   "lv0#28425/tooltipNote",
+   "Toggle your torch On/Off.\nUsing a torch reduces your ability to evade detection. [T]",
+   "开/关火炬。\n使用火炬会降低你避开侦测的能力。[T]"
+  ],
+  [
+   "lv0#28815/androidDialogue",
+   "If you wish to see this again, Press the Info button.",
+   "如果想再次查看，请按「信息」按钮。"
+  ],
+  [
+   "lv0#28815/controllerDialogue",
+   "If you wish to see this again, Press Start (≡) button.",
+   "如果想再次查看，请按 Start (≡) 按钮。"
+  ],
+  [
+   "lv0#28815/dialogue",
+   "If you wish to see this again, Click the Info button.",
+   "如果想再次查看，请点击「信息」按钮。"
+  ],
+  [
+   "lv0#28816/dialogue",
+   "From your Inventory, select the Skills Tab.",
+   "在物品栏界面选择「技能」页签。"
+  ],
+  [
+   "lv0#28817/androidDialogue",
+   "Potions and other items can be used by pressing on the Potion icon.",
+   "按「药水」图标即可使用药水及其他物品。"
+  ],
+  [
+   "lv0#28817/controllerDialogue",
+   "Potions and other items can be used by pressing the Left Trigger (LT).",
+   "按 Left Trigger (LT) 即可使用药水及其他物品。"
+  ],
+  [
+   "lv0#28817/dialogue",
+   "Potions and other items can be used by clicking on the Potion icon.",
+   "点击「药水」图标即可使用药水及其他物品。"
+  ],
+  [
+   "lv0#28818/dialogue",
+   "The number of moves you have left is displayed here.",
+   "你剩余的移动次数显示在这里。"
+  ],
+  [
+   "lv0#28819/dialogue",
+   "If you wish to consume the item, click on the apple core to the item's effects.",
+   "若要食用该物品，点击果核图标即可看到物品的效果。"
+  ],
+  [
+   "lv0#28820/androidDialogue",
+   "If an enemy is out of range you may need to end your turn by pressing the End Turn button.",
+   "若敌人不在射程内，你可能需要按「结束回合」按钮来结束回合。"
+  ],
+  [
+   "lv0#28820/controllerDialogue",
+   "If an enemy is out of range you can hold Cancel (B) and press the Right Trigger (RT) to end your turn.",
+   "若敌人不在射程内，你可以按住 Cancel (B) 并按下 Right Trigger (RT) 来结束回合。"
+  ],
+  [
+   "lv0#28820/dialogue",
+   "If an enemy is out of range you may need to end your turn by clicking the End Turn button.",
+   "若敌人不在射程内，你可能需要点击「结束回合」按钮来结束回合。"
+  ],
+  [
+   "lv0#28822/androidDialogue",
+   "You can also drag your finger while holding down to reposition before a move.",
+   "你也可以在按住的同时拖动手指，在移动前调整位置。"
+  ],
+  [
+   "lv0#28822/controllerDialogue",
+   "Releasing Select (A) moved you to that location. Pressing Execute (X) or Cancel (B) will cancel an action.",
+   "松开 Select (A) 便会移动到该位置。按 Execute (X) 或 Cancel (B) 会取消行动。"
+  ],
+  [
+   "lv0#28822/dialogue",
+   "Releasing your click moved you to that location. A right-click will cancel a held down click.",
+   "松开点击便会移动到该位置。右键点击可以取消按住的点击。"
+  ],
+  [
+   "lv0#28823/androidDialogue",
+   "Move to a tile closer to your opponent.",
+   "移动到离对手更近的一格。"
+  ],
+  [
+   "lv0#28823/dialogue",
+   "Move to a tile closer to your opponent.",
+   "移动到离对手更近的一格。"
+  ],
+  [
+   "lv0#28825/dialogue",
+   "Spells and Abilities can be dragged into your Combat Slots above.",
+   "法术与能力可以拖入上方的战斗槽位。"
+  ],
+  [
+   "lv0#28826/androidDialogue",
+   "To view all of your Spells and Abilities, press on the Powers icon.",
+   "要查看你所有的法术与能力，按「能力」图标。"
+  ],
+  [
+   "lv0#28826/controllerDialogue",
+   "To view all of your Spells and Abilities, press the Right Trigger (RT).",
+   "要查看你所有的法术与能力，按 Right Trigger (RT)。"
+  ],
+  [
+   "lv0#28826/dialogue",
+   "To view all of your Spells and Abilities, click on the Powers icon.",
+   "要查看你所有的法术与能力，点击「能力」图标。"
+  ],
+  [
+   "lv0#28827/dialogue",
+   "These are the positions your characters will take when entering combat.",
+   "这些是角色进入战斗时会占据的位置。"
+  ],
+  [
+   "lv0#28828/androidDialogue",
+   "Press on an icon in the Quick Bar to activate it. Some require a response, while others do not.",
+   "按快捷栏中的图标即可激活。有些需要等待响应，有些则不需要。"
+  ],
+  [
+   "lv0#28828/controllerDialogue",
+   "Holding a Bumper (RB) or (LB) will bring up the Quick Slot menu. Some require a response, while others do not.",
+   "按住 Bumper (RB) 或 (LB) 会唤出快捷栏菜单。有些需要等待响应，有些则不需要。"
+  ],
+  [
+   "lv0#28828/dialogue",
+   "Click on an icon in the Quick Bar to activate it. Some require a response, while others do not.",
+   "点击快捷栏中的图标即可激活。有些需要等待响应，有些则不需要。"
+  ],
+  [
+   "lv0#28829/dialogue",
+   "You can find out more about a Spell or Ability by clicking the Info button.",
+   "点击「信息」按钮可了解更多关于某项法术或能力的信息。"
+  ],
+  [
+   "lv0#28830/dialogue",
+   "Items will highlight the slot that they can be equipped in. Drag the item into the highlighted slot or hit the yellow plus symbol in the lower right.",
+   "物品会高亮出它可以装备的槽位。把物品拖入高亮的槽位，或点击右下角的黄色加号。"
+  ],
+  [
+   "lv0#28831/controllerDialogue",
+   "You can also end your turn by pressing (A) twice on your active character.",
+   "你也可以连按两次 (A) 于当前角色来结束回合。"
+  ],
+  [
+   "lv0#28831/dialogue",
+   "You can also end your turn by clicking twice on your active character.",
+   "你也可以连点两次当前角色来结束回合。"
+  ],
+  [
+   "lv0#28832/androidDialogue",
+   "Press on a tile to show enemies that are within range of your weapon. Pressing it again will move you to that tile.",
+   "按某一格可显示你武器射程内的敌人。再次按下即可移动到该格。"
+  ],
+  [
+   "lv0#28832/controllerDialogue",
+   "Hold Select (A) and drag with the DPad to show enemies that are within weapon range of a tile.",
+   "按住 Select (A) 并用十字键拖动，可显示某一格武器射程内的敌人。"
+  ],
+  [
+   "lv0#28832/dialogue",
+   "Click and drag on a tile to show enemies that are within range of your weapon.",
+   "在某格上点击并拖动，可显示你武器射程内的敌人。"
+  ],
+  [
+   "lv0#28833/dialogue",
+   "From your Inventory, select the Abilities Tab.",
+   "在物品栏界面选择「能力」页签。"
+  ],
+  [
+   "lv0#28834/controllerDialogue",
+   "The End Turn button will turn yellow after your first press, as a warning.",
+   "「结束回合」按钮在你第一次按下后会变为黄色，以示提醒。"
+  ],
+  [
+   "lv0#28834/dialogue",
+   "The End Turn button will turn yellow after your first click, as a warning.",
+   "「结束回合」按钮在你第一次点击后会变为黄色，以示提醒。"
+  ],
+  [
+   "lv0#28835/dialogue",
+   "Most skills will increase on their own when you use them.",
+   "大多数技能会在你使用时自行成长。"
+  ],
+  [
+   "lv0#28836/dialogue",
+   "Consumable items can heal, or give Stat bonuses. Click on one to see its effects.",
+   "可食用物品能治疗或提供属性加成。点击其中一件即可查看其效果。"
+  ],
+  [
+   "lv0#28837/dialogue",
+   "Each turn consists of two main actions: Movement and Attack.",
+   "每个回合包含两种主要行动：移动与攻击。"
+  ],
+  [
+   "lv0#28838/dialogue",
+   "From here you can increase your skills with Skill Points when you gain levels.",
+   "升级之后，你可以在这里用技能点提升技能。"
+  ],
+  [
+   "lv0#28839/controllerDialogue",
+   "You can hold down Select ([ ]) at any time see key mapping for buttons currently on screen.",
+   "你可以随时按住 Select ([ ]) 查看屏幕上各按钮的按键映射。"
+  ],
+  [
+   "lv0#28840/androidDialogue",
+   "If you have not taken any action yet, you may Delay your turn by pressing the Delay button.",
+   "若你尚未采取任何行动，可以按「推迟」按钮延后你的回合。"
+  ],
+  [
+   "lv0#28840/controllerDialogue",
+   "If you have not taken any action yet, you may Delay your turn by holding (B) and pressing Left Trigger (LT).",
+   "若你尚未采取任何行动，可以按住 (B) 并按下 Left Trigger (LT) 来延后你的回合。"
+  ],
+  [
+   "lv0#28840/dialogue",
+   "If you have not taken any action yet, you may Delay your turn by clicking the Delay button.",
+   "若你尚未采取任何行动，可以点击「推迟」按钮延后你的回合。"
+  ],
+  [
+   "lv0#28841/dialogue",
+   "Spells and Abilities can be increased by using them, or by training them at a training station.",
+   "法术与能力可以通过使用来成长，也可以在训练站进行训练。"
+  ],
+  [
+   "lv0#28842/dialogue",
+   "From your Inventory, select the Formation Button.",
+   "在物品栏界面选择「阵型」按钮。"
+  ],
+  [
+   "lv0#28843/dialogue",
+   "The green circle indicates your attack radius from the center position.",
+   "绿色圆圈表示以中心位置为原点的攻击半径。"
+  ],
+  [
+   "lv0#28844/dialogue",
+   "Spells and Abilities are very similar. Select an ability to see its stats.",
+   "法术与能力非常相似。选择一项能力即可查看其数据。"
+  ],
+  [
+   "lv0#28845/dialogue",
+   "The Quick Bar allows you to access spells and abilities quickly.",
+   "快捷栏让你能快速使用法术与能力。"
+  ],
+  [
+   "lv0#28846/controllerDialogue",
+   "If you wish to Flee, move to the edge of the battlefield and the Flee button will appear. Press Start (≡).",
+   "若你想逃跑，移动到战场边缘便会出现「逃跑」按钮。按 Start (≡)。"
+  ],
+  [
+   "lv0#28846/dialogue",
+   "If you wish to Flee, move to the edge of the battlefield and the Flee button will appear.",
+   "若你想逃跑，移动到战场边缘便会出现「逃跑」按钮。"
+  ],
+  [
+   "lv0#28847/dialogue",
+   "Clicking on an item will show you its stats. Red and green on the right indicate whether that items stat will increase or descrease when equipped.",
+   "点击一件物品会显示其数据。右侧的红绿数字表示装备后该项数值会上升还是下降。"
+  ],
+  [
+   "lv0#28848/dialogue",
+   "You must select two starting abilities. Each of these abilities are for use in combat, and using them will unlock more abilities.",
+   "你必须选择两项初始能力。这些能力都可用于战斗，使用它们还会解锁更多能力。"
+  ],
+  [
+   "lv0#28849/androidDialogue",
+   "To attack, press on the enemy.",
+   "要攻击，按敌人。"
+  ],
+  [
+   "lv0#28849/controllerDialogue",
+   "To attack, press Select (A) on the enemy.",
+   "要攻击，对敌人按 Select (A)。"
+  ],
+  [
+   "lv0#28849/dialogue",
+   "To attack, click on the enemy.",
+   "要攻击，点击敌人。"
+  ],
+  [
+   "lv0#28850/dialogue",
+   "In this menu you can drag characters into different formation slots.",
+   "在这个菜单中，你可以把角色拖进不同的阵型位置。"
+  ],
+  [
+   "lv0#28851/dialogue",
+   "You can find out more about a skill by clicking the Skill Info button.",
+   "点击「技能信息」按钮可了解更多关于某项技能的信息。"
+  ],
+  [
+   "lv0#28852/dialogue",
+   "Tiles that you can move to are highlighted.",
+   "你可以移动到的格子会高亮显示。"
+  ],
+  [
+   "lv0#28853/dialogue",
+   "Some Spells and Abilities have to be trained high enough to unlock another Spell or Ability.",
+   "某些法术与能力需要训练到足够高的等级，才能解锁另一个法术或能力。"
+  ],
+  [
+   "lv0#28854/dialogue",
+   "You can equip a character by entering the Inventory screen. Just click on their icon.",
+   "进入物品栏界面即可为角色换装。点击其图标即可。"
+  ],
+  [
+   "lv0#28855/dialogue",
+   "Your Skills are shown here. Click on Awareness.",
+   "你的技能显示在这里。点击「警觉」。"
+  ],
+  [
+   "lv0#28856/dialogue",
+   "You can Randomize your character with the Random button. The numbers may fall far below or above the number of points you have to distribute to your stats.",
+   "你可以用「随机」按钮随机生成角色。结果可能远低于或远高于你得分配的总点数。"
+  ],
+  [
+   "lv0#28857/controllerDialogue",
+   "Your characters strengths and weaknesses are determined by their stats, listed on the left. Use the dpad or joystick to maneuver to the highlighted box and press Select (A) to see a description.",
+   "你角色的强项与弱点由其属性决定，列在左侧。用十字键或摇杆移动到高亮的方框，按 Select (A) 查看说明。"
+  ],
+  [
+   "lv0#28857/dialogue",
+   "Your characters strengths and weaknesses are determined by their stats, listed on the left. Click on one to get a description.",
+   "你角色的强项与弱点由其属性决定，列在左侧。点击其中一项即可查看说明。"
+  ],
+  [
+   "lv0#28858/dialogue",
+   "Click on Distribute to do a random but even distribution of your total available points.",
+   "点击「分配」，将你可用的总点数随机但平均地分配出去。"
+  ],
+  [
+   "lv0#28859/dialogue",
+   "When you are finished, you may click the Accept button.",
+   "完成后，你可以点击「接受」按钮。"
+  ],
+  [
+   "lv0#28860/dialogue",
+   "You can reset your attributes with the Reset button.",
+   "你可以用「重置」按钮重置属性。"
+  ],
+  [
+   "lv0#28861/dialogue",
+   "You must select a starting trait. This trait will give you an advantage, and as the game progresses you can unlock and gain more.",
+   "你必须选择一项初始特质。它会为你带来优势；随着游戏推进，你还能解锁并获得更多特质。"
+  ],
+  [
+   "lv0#28862/dialogue",
+   "With the points reset, you can manually distribute. For every 2 points above 10 it will take an additional skill point to increase. For example, increasing to 12 only takes 2. But to increase to 14 takes 6. To 15 takes 9.\n\nIt becomes increasingly difficult to keep raising a stat.",
+   "重置点数后，你可以手动分配。属性在 10 以上时，每提高 2 点就需要多花 1 个技能点。例如：升到 12 只需 2 点；升到 14 需要 6 点；升到 15 需要 9 点。\n\n属性越高，继续提升就越困难。"
+  ],
+  [
+   "lv18#8239/dialogue",
+   "It looks like there was a collapse, and someone was trapped under the rubble.",
+   "看来这里发生过塌方，有人被埋在碎石下面了。"
+  ],
+  [
+   "lv18#8240/dialogue",
+   "I bet we can use that pickaxe to break through the rubble.",
+   "我敢说能用那把镐子凿开碎石。"
+  ],
+  [
+   "lv20#11947/dialogue",
+   "This stone looks like the one we found in the cave. Let's ask someone here about it.",
+   "这块石头和我们之前在洞里找到的那块很像。找人问问吧。"
+  ],
+  [
+   "lv20#11948/dialogue",
+   "I feel the Codex responding to me when I think of the Glyphs we have seen.",
+   "每当我想起见过的那些符文刻记，就感觉到典籍在回应我。"
+  ],
+  [
+   "lv20#11949/dialogue",
+   "Let us go to the exit she mentioned. We finally have a way out of this cave.",
+   "去她提到的出口吧。我们终于有办法离开这个洞穴了。"
+  ],
+  [
+   "lv20#11950/dialogue",
+   "All of this... just across the chasm from where I spent so long.",
+   "这一切……就在我困守许久之地的对面，隔着那道深渊。"
+  ],
+  [
+   "lv20#11951/dialogue",
+   "I agree, but we should finish exploring here first. There is much to see.",
+   "我同意，但我们得先把这里探完。这里还有很多值得一看的东西。"
+  ],
+  [
+   "lv21#11216/controllerDialogue",
+   "We can make camp if we need to heal up.",
+   "需要疗伤的话，我们可以就地扎营。"
+  ],
+  [
+   "lv21#11216/dialogue",
+   "We can make camp if we need to heal up.",
+   "需要疗伤的话，我们可以就地扎营。"
+  ],
+  [
+   "lv21#11217/controllerDialogue",
+   "It looks like it was locked from this side. I should make @ the leader. Maybe he can help.\n",
+   "看来门是从这一侧锁上的。我该让 @ 当领队，也许他帮得上忙。\n"
+  ],
+  [
+   "lv21#11217/dialogue",
+   "It looks like it was locked from this side. I should make @ the leader. Maybe he can help.",
+   "看来门是从这一侧锁上的。我该让 @ 当领队，也许他帮得上忙。"
+  ],
+  [
+   "lv21#11218/controllerDialogue",
+   "@, you should do some digging near the door. The key could not have gone far.",
+   "@，你该在门附近挖一挖。钥匙不会飞得太远。"
+  ],
+  [
+   "lv21#11218/dialogue",
+   "@, you should do some digging near the door. The key could not have gone far.",
+   "@，你该在门附近挖一挖。钥匙不会飞得太远。"
+  ],
+  [
+   "lv21#11219/controllerDialogue",
+   "I hate to destroy something so old... but it might be fun. I mean, necessary.",
+   "我真不忍心毁掉这么古老的东西……不过，也许会很好玩。我是说，很有必要。"
+  ],
+  [
+   "lv21#11219/dialogue",
+   "I hate to destroy something so old... but it might be fun. I mean, necessary.",
+   "我真不忍心毁掉这么古老的东西……不过，也许会很好玩。我是说，很有必要。"
+  ],
+  [
+   "lv21#11220/controllerDialogue",
+   "Hold Select (A) on the Spellbook and drag with a Joystickor Dpad. Or, Select (A) and then Press (Y).",
+   "在法术书上按住 Select (A)，用摇杆或十字键拖动。或者按 Select (A) 后再按 (Y)。"
+  ],
+  [
+   "lv21#11221/controllerDialogue",
+   "Keep your eyes open @. These caves are full of interesting sights.",
+   "打起精神，@。这些洞穴里有趣的东西可不少。"
+  ],
+  [
+   "lv21#11221/dialogue",
+   "Keep your eyes open @. These caves are full of interesting sights.",
+   "打起精神，@。这些洞穴里有趣的东西可不少。"
+  ],
+  [
+   "lv21#11222/controllerDialogue",
+   "I feel a strange power... I think I should try to use it.",
+   "我感觉到一股奇异的力量……我想我该试着运用它。"
+  ],
+  [
+   "lv21#11222/dialogue",
+   "I feel a strange power... I think I should try to use it.",
+   "我感觉到一股奇异的力量……我想我该试着运用它。"
+  ],
+  [
+   "lv21#11223/controllerDialogue",
+   "You found something, @. Let's take a look.",
+   "你发现了点东西，@。来看看吧。"
+  ],
+  [
+   "lv21#11223/dialogue",
+   "You found something, @. Let's take a look.",
+   "你发现了点东西，@。来看看吧。"
+  ],
+  [
+   "lv21#11224/controllerDialogue",
+   "Why did this person have books and nothing else? I should learn more about them.",
+   "这个人怎么只有书，别的什么都没有？我得再查查他们的事。"
+  ],
+  [
+   "lv21#11224/dialogue",
+   "Why did this person have books and nothing else? I should learn more about them.",
+   "这个人怎么只有书，别的什么都没有？我得再查查他们的事。"
+  ],
+  [
+   "lv21#11225/dialogue",
+   "A line is coming from that symbol and going into the wall here...",
+   "有一条线从那个符号延伸出来，通进这里的墙里……"
+  ],
+  [
+   "lv21#11226/controllerDialogue",
+   "Is that a door?",
+   "那是扇门吗？"
+  ],
+  [
+   "lv21#11226/dialogue",
+   "Is that a door?",
+   "那是扇门吗？"
+  ],
+  [
+   "lv21#11227/controllerDialogue",
+   "I bet we can use this key to open the door.",
+   "我敢说这把钥匙能打开那扇门。"
+  ],
+  [
+   "lv21#11227/dialogue",
+   "I bet we can use this key to open the door.",
+   "我敢说这把钥匙能打开那扇门。"
+  ],
+  [
+   "lv21#11228/controllerDialogue",
+   "These dark passages make it easier to sneak around. It would help to put out the torch too.",
+   "这些昏暗的通道很适合潜行。把火炬熄掉会更有帮助。"
+  ],
+  [
+   "lv21#11228/dialogue",
+   "These dark passages make it easier to sneak around. It would help to put out the torch too.",
+   "这些昏暗的通道很适合潜行。把火炬熄掉会更有帮助。"
+  ],
+  [
+   "lv21#11229/controllerDialogue",
+   "We need to find a way out of here, @. Let's check that skeleton for useful items.",
+   "我们得找到出去的路，@。去搜搜那具骷髅，看看有没有能用的东西。"
+  ],
+  [
+   "lv21#11229/dialogue",
+   "We need to find a way out of here, @. Let's check that skeleton for useful items.",
+   "我们得找到出去的路，@。去搜搜那具骷髅，看看有没有能用的东西。"
+  ],
+  [
+   "lv21#11230/controllerDialogue",
+   "We could get lost easily. It's a good thing I've been recording on this map.",
+   "我们很容易迷路。还好我一直在往地图上做记录。"
+  ],
+  [
+   "lv21#11230/dialogue",
+   "We could get lost easily. It's a good thing I've been recording on this map.",
+   "我们很容易迷路。还好我一直在往地图上做记录。"
+  ],
+  [
+   "lv21#11231/dialogue",
+   "I should really take both of those books.",
+   "我真该把两本书都带上。"
+  ],
+  [
+   "lv21#11232/dialogue",
+   "The wall vanished. We did it, @!",
+   "墙消失了。我们成功了，@！"
+  ],
+  [
+   "lv21#11233/controllerDialogue",
+   " ",
+   " "
+  ],
+  [
+   "lv22#1261/dialogue",
+   "This is the door. I suppose talking to it couldn't hurt.",
+   "就是这扇门。我想，跟它说说话总没坏处。"
+  ],
+  [
+   "lv22#1262/dialogue",
+   "Some kind of arcane energy surrounds this place. It spans this gap too.",
+   "某种奥术能量笼罩着这里，也横跨着这道裂隙。"
+  ],
+  [
+   "lv22#1263/dialogue",
+   "I have searched for a way across. There must be one, but it is hidden from me.",
+   "我已寻找过通行的办法。一定有一条路，只是我看不见它。"
+  ],
+  [
+   "lv6#25052/dialogue",
+   "A shovel! I cannot believe how long it took us to find one of these.",
+   "一把铲子！真不敢相信我们花了这么久才找到一把。"
+  ]
+ ]
+}

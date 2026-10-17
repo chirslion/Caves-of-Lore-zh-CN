@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "kind": "对话/GallitzinFirstMeet",
+  "count": 20,
+  "with_cn": 20
+ },
+ "entries": [
+  [
+   "sa19#122/whatIHaveToSay[0]",
+   "Rycard",
+   "And how did you manage to survive?",
+   "那你是怎么活下来的？"
+  ],
+  [
+   "sa19#123/whatIHaveToSay[0]",
+   "Stranger",
+   "It is a simple story really... because I do not remember any of those details.",
+   "故事其实很简单……因为那些细节我一件都不记得了。"
+  ],
+  [
+   "sa19#124/whatIHaveToSay[0]",
+   "Merewen",
+   "I cannot help but find this highly suspicious.",
+   "我实在忍不住觉得，这非常可疑。"
+  ],
+  [
+   "sa19#125/whatIHaveToSay[0]",
+   "Merewen",
+   "How convenient.",
+   "真方便啊。"
+  ],
+  [
+   "sa19#126/whatIHaveToSay[0]",
+   "Stranger",
+   "At last! It is good to see someone with flesh on their bones.",
+   "总算！见到一个骨头上还长着肉的人，真好。"
+  ],
+  [
+   "sa19#128/whatIHaveToSay[0]",
+   "Lannon",
+   "How is it that you are inside of a locked crypt?",
+   "你是怎么进到一座锁着的墓室里的？"
+  ],
+  [
+   "sa19#129/whatIHaveToSay[0]",
+   "Stranger",
+   "Please, allow me to introduce myself. My name is...",
+   "请容我自我介绍。我叫……"
+  ],
+  [
+   "sa19#134/whatIHaveToSay[0]",
+   "Stranger",
+   "The last thing I remember is coming here with a friend.",
+   "我记得的最后一件是，我和一位朋友来到了这里。"
+  ],
+  [
+   "sa19#145/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I am so lost. Please, allow me to accompany you. I will lend my hammer to your cause.",
+   "我迷失太久。请让我随你同行。我会为你的目标挥动我的锤子。"
+  ],
+  [
+   "sa19#147/whatIHaveToSay[0]",
+   "Lannon",
+   "Your story is not unlike that of myself and my companions.",
+   "你的遭遇，和我和同伴们的不无相似。"
+  ],
+  [
+   "sa19#16/whatIHaveToSay[0]",
+   "Stranger",
+   "I do not know what has become of my friend, nor can I remember their face.",
+   "我不知道我的朋友遭遇了什么，连面孔都想不起来了。"
+  ],
+  [
+   "sa19#17/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I do hope you change your mind. I will remain here a while longer.",
+   "希望你能改变主意。我会在这里再待一阵子。"
+  ],
+  [
+   "sa19#20/whatIHaveToSay[0]",
+   "Gallitzin",
+   "It looks like you do not have any room for me. Please let me know if that changes.",
+   "看来你们没有位置带上我。若是情况有变，请告诉我一声。"
+  ],
+  [
+   "sa19#21/options[0].text",
+   "Gallitzin",
+   "No.",
+   "不。"
+  ],
+  [
+   "sa19#21/options[1].text",
+   "Gallitzin",
+   "Yes.",
+   "好。"
+  ],
+  [
+   "sa19#21/whatIHaveToSay[0]",
+   "Gallitzin",
+   "May I join you?",
+   "我可以加入你们吗？"
+  ],
+  [
+   "sa19#26/whatIHaveToSay[0]",
+   "Stranger",
+   "There were so many horrible creatures... we tried to leave but the door had been locked behind us.",
+   "有那么多可怕的怪物……我们想离开，可大门在我们身后被锁上了。"
+  ],
+  [
+   "sa19#35/options[0].text",
+   "Gallitzin",
+   "Failure",
+   "失败"
+  ],
+  [
+   "sa19#35/options[1].text",
+   "Gallitzin",
+   "Success",
+   "成功"
+  ],
+  [
+   "sa19#5/whatIHaveToSay[0]",
+   "Gallitzin",
+   "May I join you?",
+   "我可以加入你们吗？"
+  ]
+ ]
+}

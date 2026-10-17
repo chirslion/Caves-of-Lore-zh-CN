@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "kind": "对话/IrikagFirstDungeon",
+  "count": 8,
+  "with_cn": 8
+ },
+ "entries": [
+  [
+   "sa21#47/whatIHaveToSay[0]",
+   "Creature",
+   "Irikag trinkets! Forfeit gold, get trinkets.",
+   "伊里卡格的小玩意儿！交出金币，拿走玩意儿。"
+  ],
+  [
+   "sa21#51/whatIHaveToSay[0]",
+   "Lannon",
+   "What is an Irikag?",
+   "伊里卡格是什么？"
+  ],
+  [
+   "sa21#63/whatIHaveToSay[0]",
+   "Merewen",
+   "I do not trust this one.",
+   "我不信这一个。"
+  ],
+  [
+   "sa21#69/whatIHaveToSay[0]",
+   "Irikag",
+   "Irikag is Irikag. ",
+   "伊里卡格就是伊里卡格。 "
+  ],
+  [
+   "sa21#74/whatIHaveToSay[0]",
+   "Rycard",
+   "You have a... wagon down here?",
+   "你在这下面还有……一辆货车？"
+  ],
+  [
+   "sa21#77/whatIHaveToSay[0]",
+   "Irikag",
+   "No question ways of Irikag!",
+   "不许质问伊里卡格的行事！"
+  ],
+  [
+   "sa21#9/whatIHaveToSay[0]",
+   "Irikag",
+   "Bestow upon Irikag gold, fortune. Irikag give trinkets for such.",
+   "把金币、财富赏给伊里卡格。伊里卡格给玩意儿作为交换。"
+  ],
+  [
+   "sa21#9/whatIHaveToSay[1]",
+   "Irikag",
+   "If try take, Irikag angry.",
+   "要是想抢，伊里卡格会生气。"
+  ]
+ ]
+}

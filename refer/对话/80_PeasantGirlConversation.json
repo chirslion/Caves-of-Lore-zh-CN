@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "kind": "对话/PeasantGirlConversation",
+  "count": 55,
+  "with_cn": 55
+ },
+ "entries": [
+  [
+   "res#59719/whatIHaveToSay[0]",
+   "Codex",
+   "Is it some kind of stitch? If so, I would like to learn it.",
+   "那是某种针法吗？如果是，我想学。"
+  ],
+  [
+   "res#59779/whatIHaveToSay[0]",
+   "graveyard",
+   "We will all visit it one day. When someone will not be returning from their visit I like to make them some extra nice clothes; ones that will last.",
+   "我们终有一天都会去那里。当有人一去不回时，我喜欢为他们做几件格外体面的衣服——耐穿的那种。"
+  ],
+  [
+   "res#59779/whatIHaveToSay[1]",
+   "graveyard",
+   "I remember a particularly nice robe I once made. A friend of the deceased whispered something strange over it before taking it to the funeral. I am a bit superstitious, and would very much like to know what he said.\n\nOh, that's right. He had me stitch it into the hem. I cannot recall what it said though.",
+   "我记得曾做过一件特别漂亮的袍子。逝者的一位朋友在把它送去葬礼前，对着它低声念了些什么。我有点迷信，非常想知道他念的是什么。\n\n哦，对了。他让我把话缝进了衣摆里。可我记不得那句是什么了。"
+  ],
+  [
+   "res#59827/whatIHaveToSay[0]",
+   "Emerisk",
+   "This is the town I have known my whole life. Except for when I was a child. I was born in another place. Yes, Emerisk is the only town in the world. And a fine one at that.",
+   "这个镇子我认识了一辈子。除了我小的时候——我出生在别的地方。对，埃梅里斯克，是世上唯一的镇子。而且是个好镇子。"
+  ],
+  [
+   "res#59879/whatIHaveToSay[0]",
+   "caves",
+   "I had heard there are many entrances; even under the Baron's house!",
+   "我听说有许多入口；连男爵宅邸底下都有！"
+  ],
+  [
+   "res#59907/whatIHaveToSay[0]",
+   "dark lord",
+   "The only dark lord I know of is that baron. He truly has a heart of stone.",
+   "我知道的唯一的黑暗领主，就是那个男爵。他的心真是石头做的。"
+  ],
+  [
+   "res#59945/whatIHaveToSay[0]",
+   "Rycard",
+   "Ah, hello. Forgive my shyness. We don't see too many of your type around here. Would you like some yarn?",
+   "啊，你好。请原谅我的羞怯。你这类模样的，我们这儿见得不多。要来点毛线吗？"
+  ],
+  [
+   "res#59964/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I sell clothing styles for everyone, and I can make custom pieces as well. You look as though you have not had a new set of clothes in a while.",
+   "我卖适合所有人的款式，也能定做。你看上去有些年头没添新衣了。"
+  ],
+  [
+   "res#59997/whatIHaveToSay[0]",
+   "Dimas",
+   "Is that clothing silk? Oh, sorry. It's just covered in silk. Haha... how... odd...",
+   "你穿的是丝绸吗？哦，抱歉。只是上面沾满了丝。哈哈……真……古怪……"
+  ],
+  [
+   "res#60033/whatIHaveToSay[0]",
+   "Agmarians",
+   "I believe I once read of such creatures. The library used to have a collection of books on strange creatures. Any book you could imagine was there.",
+   "我相信我从前读到过这样的生物。图书馆曾有一批关于奇异生物的书。你能想象到的任何一本书，那里都有。"
+  ],
+  [
+   "res#60033/whatIHaveToSay[1]",
+   "Agmarians",
+   "Ah yes, now I recall. They are said to be a gentle, but powerful race. It reminds me of the woodsman on the east side of the town. I would very much like to meet him.",
+   "啊，对，我想起来了。据说他们是一个温和却强大的种族。这让我想起镇子东边的那位樵夫。我很想见见他。"
+  ],
+  [
+   "res#60043/whatIHaveToSay[0]",
+   "Airendal",
+   "I have no clothes in your size. Perhaps doll clothes?",
+   "没有你这个尺码的衣服。要不……玩偶的衣裳？"
+  ],
+  [
+   "res#60050/whatIHaveToSay[0]",
+   "Scaphin",
+   "I never did find much written about these things. Alas, I wish I knew how to read. Oh, that books were more than pieces of useless wood, sliced thinly and stacked, bound with tree resin and clothed in animal skins.",
+   "关于这些东西，我始终没找到什么记载。唉，真希望我识字。哦，要是书不只是把没用的木头削薄、叠起来，用树胶粘好、再裹上兽皮就好了。"
+  ],
+  [
+   "res#60080/whatIHaveToSay[0]",
+   "Goblins",
+   "They are nothing like the Agmarians. Goblins are cruel, and ugly. Though, can they be blamed for how they look? And, I wonder, are they all really so cruel?\n\nRegardless, I would not venture near them without great caution.",
+   "他们和阿格玛人，完全不同。哥布林残忍又丑陋。不过，长相能怪他们吗？再说，我怀疑，他们真的都那么残忍吗？\n\n无论如何，没有万分的谨慎，我绝不会靠近他们。"
+  ],
+  [
+   "res#60106/whatIHaveToSay[0]",
+   "Bhulown",
+   "I say... has there ever been a more curious looking fellow than yourself? How would I even tailor an outfit for you?",
+   "我说……还有比你更古怪好奇的家伙吗？我甚至不知道该怎么给你裁衣服。"
+  ],
+  [
+   "res#60130/whatIHaveToSay[0]",
+   "Merewen",
+   "Greetings, milady. May I interest you in a bolt of fine cloth?",
+   "致意，女士。来一匹上好的布料如何？"
+  ],
+  [
+   "res#60174/whatIHaveToSay[0]",
+   "book",
+   "Oh how I love reading. .. What a strange thing to say, considering I cannot read. Forgive me...",
+   "哦，我多么爱读书。……想想这话有多怪——我根本不识字。请原谅……"
+  ],
+  [
+   "res#60185/whatIHaveToSay[0]",
+   "Shione",
+   "Are you a bard? I would love to hear your tales from abroad.",
+   "你是吟游诗人吗？我很想听你讲讲异乡的故事。"
+  ],
+  [
+   "res#60310/whatIHaveToSay[0]",
+   "fog",
+   "Sometimes people emerge from it with new clothing fashions that I have never before seen. How unusual.",
+   "有时人们从迷雾里出来，穿着我从未见过的新款式。真稀奇。"
+  ],
+  [
+   "res#60339/options[0].text",
+   "Peasant Girl ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60339/options[1].text",
+   "Peasant Girl ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60339/options[2].text",
+   "Peasant Girl ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60339/options[3].text",
+   "Peasant Girl ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60339/options[4].text",
+   "Peasant Girl ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60339/options[5].text",
+   "Peasant Girl ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60339/options[6].text",
+   "Peasant Girl ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60339/options[7].text",
+   "Peasant Girl ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60339/options[8].text",
+   "Peasant Girl ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60339/options[9].text",
+   "Peasant Girl ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60396/whatIHaveToSay[0]",
+   "job",
+   "I serve as a tailor. There used to be others but they wandered off into the fog somewhere. Now I must make all the clothes. I specialize in fabric from all over the... the town. Where else would it come from?",
+   "我是一名裁缝。从前还有别人，可他们不知走失到迷雾，中的什么地方去了。如今所有衣服都得我做。我专营来自……全镇的织物。还能是哪儿来的呢？"
+  ],
+  [
+   "res#60553/whatIHaveToSay[0]",
+   "Lannon",
+   "Nice to meet you, friend. May I interest you in some clothing? The flax is grown here in Emerisk. Not that there is anywhere else it might grow.",
+   "幸会，朋友。来身衣裳如何？亚麻就种在埃梅里斯克，本地。倒也不是说别处能种似的。"
+  ],
+  [
+   "res#60606/whatIHaveToSay[0]",
+   "Archaven",
+   "I read of it in a book once. That is, I wish I had, for I cannot read. Alas.",
+   "我曾在书里读到过它。我是说，但愿我读到过——因为我不识字。唉。"
+  ],
+  [
+   "res#60650/whatIHaveToSay[0]",
+   "Laszra",
+   "What nice robes you have sir. Have you considered any additional items to spruce up your look? Perhaps a cloak, or a stole?",
+   "您的长袍真不错，先生。考虑过再加点什么，让气度更上一层吗？斗篷？还是披肩？"
+  ],
+  [
+   "res#60760/whatIHaveToSay[0]",
+   "librarian",
+   "She had such a wonderful collection of books... I remember the day of her funeral. Normally there is a big to-do, and I make fancy clothes. But she requested nothing of the sort beforehand, which was only a week in advance... as if she knew she would pass.",
+   "她藏书可丰富了……我还记得她下葬那天。通常葬礼都会大操大办，由我做几身讲究的殓衣。可她在前一周就交代说一概不用——仿佛她早知道自己将去。"
+  ],
+  [
+   "res#60760/whatIHaveToSay[1]",
+   "librarian",
+   "I do recall her asking for a book to be buried with her though. Her daughter performed the burial alone.",
+   "不过我确实记得，她要求随葬一本书。葬礼是她女儿独自操办的。"
+  ],
+  [
+   "res#60782/whatIHaveToSay[0]",
+   "Arbo",
+   "Hello, sweet pup. Would you like me to knit you a sweater?",
+   "你好，小乖乖。要不要我给你织件毛衣？"
+  ],
+  [
+   "res#60847/whatIHaveToSay[0]",
+   "Renault",
+   "I do not care for that gentleman at all. His coin I will accept, for he frequently orders new clothing.\n\nHis home is haunted, you know. I once heard strange noises coming from under the floor while visiting.",
+   "我一点也不喜欢那位先生。但他的钱我照收，因为他常来订新衣。\n\n告诉你，他的宅子闹鬼。有一次我去做客，听见地板底下传来奇怪的声响。"
+  ],
+  [
+   "res#60908/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60908/options[10].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60908/options[11].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60908/options[12].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60908/options[13].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60908/options[14].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60908/options[15].text",
+   "Isobel Warde",
+   "fabric",
+   "织物"
+  ],
+  [
+   "res#60908/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60908/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60908/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60908/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60908/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60908/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60908/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60908/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60908/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60984/whatIHaveToSay[0]",
+   "fabric",
+   "Everything is like fabric, in a way. Things wear down, and holes appear. Even things like reality. I once saw a hole in the rock, but it did not lead into the hills. It led somewhere entirely different, and something watched me from inside.",
+   "从某种角度看，万物都像织物。东西会磨损，破洞会出现。连「现实」这类东西也一样。我曾见过岩石上的一个洞，可它不通向山丘。它通向全然不同的地方，还有东西从里面注视着我。"
+  ],
+  [
+   "res#60984/whatIHaveToSay[1]",
+   "fabric",
+   "Very sorry, I did not mean to disturb you with my strange memories. There is no way that what I remember is real. My mind is a mess these days. Everyone's mind is. Have you noticed?",
+   "非常抱歉，我不是有意用这些奇怪的记忆吓到你。我记得的东西绝不可能是真的。这些日子我的脑子一团乱。每个人的脑子都是。你注意到了吗？"
+  ]
+ ]
+}

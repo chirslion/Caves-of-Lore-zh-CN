@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "kind": "对话/VolitionCrypt",
+  "count": 19,
+  "with_cn": 19
+ },
+ "entries": [
+  [
+   "sa19#127/whatIHaveToSay[0]",
+   "Entity",
+   "Anomaly detected. Harvest has spoiled. No contingency protocol available.",
+   "检测到异常。收割已腐坏。无应急预案可用。"
+  ],
+  [
+   "sa19#13/whatIHaveToSay[0]",
+   "Merewen",
+   "We have it trapped.",
+   "我们把它困住了。"
+  ],
+  [
+   "sa19#131/whatIHaveToSay[0]",
+   "Rycard",
+   "Yeah, that's not going to happen.",
+   "是啊，想都别想。"
+  ],
+  [
+   "sa19#137/whatIHaveToSay[0]",
+   "Rycard",
+   "A caged animal is dangerous.",
+   "笼中之兽最危险。"
+  ],
+  [
+   "sa19#14/whatIHaveToSay[0]",
+   "Rycard",
+   "I resent that label.",
+   "我不喜欢这个标签。"
+  ],
+  [
+   "sa19#144/whatIHaveToSay[0]",
+   "Entity",
+   "You cannot understand. Submit to harvest. Resume descent into oblivion.",
+   "你们无法理解。服从收割。继续沉入湮灭。"
+  ],
+  [
+   "sa19#146/whatIHaveToSay[0]",
+   "Lannon",
+   "You seem to misunderstand our nature. Are you part of this curse?",
+   "你似乎误解了我们的本性。你是这诅咒的一部分吗？"
+  ],
+  [
+   "sa19#148/whatIHaveToSay[0]",
+   "Entity",
+   "But I have seen you. Unripe. Soon.",
+   "但我见过你们。尚未成熟。快了。"
+  ],
+  [
+   "sa19#150/whatIHaveToSay[0]",
+   "Dimas",
+   "Yes, what he said.",
+   "对，他说的就是我想说的。"
+  ],
+  [
+   "sa19#151/whatIHaveToSay[0]",
+   "Entity",
+   "No protocol available...\n\nBackup Protocol: Protect Future Harvest.",
+   "无预案可用……\n\n备用协议：保护未来收割。"
+  ],
+  [
+   "sa19#154/whatIHaveToSay[0]",
+   "Lannon",
+   "What spoilage?",
+   "什么腐坏？"
+  ],
+  [
+   "sa19#155/whatIHaveToSay[0]",
+   "Bhulown",
+   "Not in nature to leave unanswered. Must know!",
+   "不该留悬而未答。必须知道！"
+  ],
+  [
+   "sa19#156/whatIHaveToSay[0]",
+   "Entity",
+   "Cease interference. Probability of connection to spoilage. Inconclusive.",
+   "停止干预。与腐坏的关联概率：尚无定论。"
+  ],
+  [
+   "sa19#164/whatIHaveToSay[0]",
+   "Airendal",
+   "This cannot be good.",
+   "这绝不会是好事。"
+  ],
+  [
+   "sa19#165/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I have not seen this creature in these halls before.",
+   "这些厅堂里，我从前没见过这种生物。"
+  ],
+  [
+   "sa19#18/whatIHaveToSay[0]",
+   "Arbo",
+   "*growl*",
+   "*低吼*"
+  ],
+  [
+   "sa19#24/whatIHaveToSay[0]",
+   "Entity",
+   "Why does it inquire? Proceed as the others do. Persist no more.",
+   "为何发问？像其他人一样前行。不要再纠缠。"
+  ],
+  [
+   "sa19#36/whatIHaveToSay[0]",
+   "Lannon",
+   "What are you doing in here?",
+   "你在这里做什么？"
+  ],
+  [
+   "sa19#41/whatIHaveToSay[0]",
+   "Entity",
+   "Yes. And no. Cease questioning.",
+   "是。也不是。停止发问。"
+  ]
+ ]
+}

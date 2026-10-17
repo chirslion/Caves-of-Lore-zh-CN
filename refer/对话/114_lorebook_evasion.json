@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_evasion",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60471/whatIHaveToSay[0]",
+   "Start",
+   "<i>Jumping the String</i>\r\n\r\r\r\n\tMerrin lay on the ground, quiet, as the ferns gently swayed around him. He was still wearing the brightly colored tunic from the festivities the day before, but it was now caked in mud. He hoped it would be enough to mask the brightness.\r",
+   "<i>《听弦而跃》</i>\r\n\r\r\r\n\t梅林静静趴在地上，蕨叶在他身旁轻轻摇曳。他身上还穿着昨日庆典的鲜亮束衣，如今已糊满泥浆。但愿这足以盖住那扎眼的颜色。\r"
+  ],
+  [
+   "res#60471/whatIHaveToSay[1]",
+   "Start",
+   "\tHe remembered something he had heard while passing the barracks, \"Evasion is a group effort of the senses.\"\r\n\"What did that mean? What senses?\", he thought.\n\r\n\tLow to the ground as he was, there was no way for him to see what hunted him, but he could hear the distant calls as they searched the forest. The goblin raiding party had driven people in every direction. It was so rare for them to venture into a town like that, yet they had. ",
+   "\t他想起路过兵营时听到的一句话：「回避，是感官的协同之功。」\r\n「那是什么意思？哪些感官？」他暗想。\n\r\n\t他贴地伏着，根本看不见是什么在追猎自己，却能听见远处的呼喝——搜山的声音。哥布林劫掠队把人们驱赶得四散奔逃。它们极少闯进镇子，可这一次，它们来了。 "
+  ],
+  [
+   "res#60471/whatIHaveToSay[2]",
+   "Start",
+   "\tHe felt like a deer during the fall hunts. They often managed to escape. Maybe he should try to emulate them. Stay still. Watch. Listen. That's right, they would sometimes dodge an arrow by hearing the snap of the bow string. Jumping the string, they called it. But he was no deer. Could he even do that?\r\n\r\n\tCarefully, he listened, and heard nothing. Something was off. He knew the goblins had been near. His heart began to race. He willed himself to not look up.\r",
+   "\t他觉得自己像秋猎中的鹿。鹿常常能逃生。也许他该学它们：别动。看。听。对了——鹿有时是靠着听见弓弦弹响才躲开箭的。「听弦而跃」，人们这么叫。可他不是鹿，他真的能做到吗？\r\n\r\n\t他仔细听——什么都没有。有哪里不对。他明知哥布林刚刚就在附近。心跳越来越快。他强令自己不要抬头。\r"
+  ],
+  [
+   "res#60471/whatIHaveToSay[3]",
+   "Start",
+   "\tThen he heard it; the snap of a branch, probably no more than ten yards from him.\r\n\r\n\tHe leaped to his feet and ran. There was no time to look back. If he could reach the river he might be able to swim to safety. As he ran he focused on the sounds around him and kept his vision forward. If he tripped it would be over.\r\n\r\n\tSnap! He leaped to the side, and an arrow flew by a moment later. Two more snaps.",
+   "\t然后他听见了——树枝折断的声音，离他至多十步。\r\n\r\n\t他一跃而起，拔腿就跑。没工夫回头。只要能到河边，也许就能游到安全处。奔跑时他凝神听着四周的声响，目光只向前看。要是绊倒，就全完了。\r\n\r\n\t嘣！他侧身一跃，一支箭随即掠过。又是两声弦响。"
+  ],
+  [
+   "res#60471/whatIHaveToSay[4]",
+   "Start",
+   "\tHe zig-zagged in the low brush, diving and rolling over a log. He felt like the deer as he came to his feet and continued running. If he could get a little further he would be out of range. More arrows sailed by, but he was too far from his pursuers, and the wind carried them easily off course.\n\n\tHe crested the hill and spied the river below. Down he ran, careful not to stumble on the rugged, rocky terrain. ",
+   "\t他在低矮的灌木间之字形穿行，一个翻滚越过倒木。站起身继续跑时，他真觉得自己成了那头鹿。只要再远一点，就能脱离射程。又有几支箭飞来，但他已把追兵甩开足够远，风轻易就把箭吹偏了。\n\n\t他登上山冈，望见下方的河流，便飞奔而下，小心不要在嶙峋乱石间失足。 "
+  ],
+  [
+   "res#60471/whatIHaveToSay[5]",
+   "Start",
+   "\tApproaching the edge of the river, he gathered his courage, and leaped. He fell downward over the edge, and into the raging water. He had ridden these currents many times, and knew the safest way to avoid the dangers of the turbulent water.\n\n\tThe sounds of the river drowned out all other sound, but he no longer needed that sense. Now, it was up to his strength, and he swam with all his might to reach the other side.",
+   "\t临近河岸，他鼓起全部勇气，纵身跃出。身体越过崖沿，坠入汹涌的河水。这些水流他驾驭过许多次，懂得如何避开湍流中的险恶。\n\n\t河水的轰鸣淹没了其他一切声响，但他已不再需要那副感官。现在，全凭气力。他拼尽全力游向对岸。"
+  ]
+ ]
+}

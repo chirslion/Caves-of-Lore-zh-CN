@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "kind": "对话/AfterRatakast",
+  "count": 8,
+  "with_cn": 8
+ },
+ "entries": [
+  [
+   "sa21#10/whatIHaveToSay[0]",
+   "Arbo",
+   "*Woof woof!*",
+   "*汪！汪！*"
+  ],
+  [
+   "sa21#11/whatIHaveToSay[0]",
+   "Rycard",
+   "Oh, come on. @?",
+   "哎哟，@，别这样嘛？"
+  ],
+  [
+   "sa21#13/whatIHaveToSay[0]",
+   "Merewen",
+   "When we reach the surface we should see if anyone knows about this.",
+   "等我们回到地面，该找人问问这到底是什么。"
+  ],
+  [
+   "sa21#19/whatIHaveToSay[0]",
+   "Lannon",
+   "I... well... @?",
+   "我……这个……@？"
+  ],
+  [
+   "sa21#20/whatIHaveToSay[0]",
+   "Rycard",
+   "There, you see?",
+   "看吧，我说的没错吧？"
+  ],
+  [
+   "sa21#45/whatIHaveToSay[0]",
+   "Merewen",
+   "You do not strike me as an architect.",
+   "你看起来可不像个建筑师。"
+  ],
+  [
+   "sa21#49/whatIHaveToSay[0]",
+   "Lannon",
+   "What is that?",
+   "那是什么？"
+  ],
+  [
+   "sa21#52/whatIHaveToSay[0]",
+   "Rycard",
+   "It looks like a keystone from an archway. Not that I'm a mason or architect... I think.",
+   "看着像拱门上的拱心石。倒不是说我是石匠或建筑师……大概吧。"
+  ]
+ ]
+}

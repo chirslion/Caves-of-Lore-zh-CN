@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_force_text",
+  "count": 8,
+  "with_cn": 8
+ },
+ "entries": [
+  [
+   "res#60452/whatIHaveToSay[0]",
+   "Start",
+   "<i>Applications of Force\r</i>\n\r\n\tThis journal I now write for future generations, to observe my great works, and improve upon the processes that I first tread. I dedicate this work to my most prized pupil, myself.",
+   "<i>力量的运用\r</i>\n\r\n\t这本日志，我写下是为后世：让他们见证我的伟业，并在由我首先开辟的法门上更进一步。谨将此作献给我最珍视的学生——我自己。"
+  ],
+  [
+   "res#60523/whatIHaveToSay[0]",
+   "MagicMissile",
+   "<i>Day 1\r</i>\n\n\tThe immutable forces of nature are indeed powerful. They go where they whilst. But what if they could be guided, or redirected? Indeed, what if the strength of one force could be borrowed, concentrated and released, much as we breathe in and exhale with great force?",
+   "<i>第 1 天\r</i>\n\n\t自然中那些不可改变的力量的确强大。它们随心所欲，来去自如。可若是能加以引导、改变方向呢？甚至，若能借用、汇聚并释放某种力量，如同我们吸气后奋力呼出——那又将如何？"
+  ],
+  [
+   "res#60523/whatIHaveToSay[1]",
+   "MagicMissile",
+   "<i>Day 5\r</i>\n\n\tYesterday's experiments have been improved upon. My apprentice has broken a significant number of clay vessels in this house and I fear I can take it no more. He moves in a dangerous way, borrowing forces as I predicted, but with no knowledge of where they come from (this is a dangerous mindset).",
+   "<i>第 5 天\r</i>\n\n\t昨天的实验已有改进。我的学徒把这屋子里相当数量的陶罐都打碎了，我恐怕再也忍不下去。他的路数很危险：正如我所预言的，他借用了力量，却对力量的来处一无所知（这种心态极其危险）。"
+  ],
+  [
+   "res#60523/whatIHaveToSay[2]",
+   "MagicMissile",
+   "<i>Day 11\r</i>\n\n\tIt has been suggested by my apprentice that the borrowing of forces might create gaps, or holes from whence they were borrowed. I congratulated him on pondering the consequences of his actions, but he seems all the more excited. He speaks of connecting these gaps, tying them together and using them for heaven knows what.",
+   "<i>第 11 天\r</i>\n\n\t我的学徒提出，借用力量或许会在借出之处留下缺口，或者说孔洞。我夸赞他开始思考自己行为的后果，他却显得更加兴奋。他谈论着把这些缺口相互连接、系在一起，天知道要拿来做什么。"
+  ],
+  [
+   "res#60523/whatIHaveToSay[3]",
+   "MagicMissile",
+   "<i>Day 15\r</i>\n\n\tI firmly believe that all forces will balance themselves out in the end, but how? What are the consequences for this? My apprentice shows no sign of relenting in his experiments.",
+   "<i>第 15 天\r</i>\n\n\t我坚信一切力量终会自行归于平衡，可那如何做到？代价又是什么？我的学徒丝毫没有收敛实验的迹象。"
+  ],
+  [
+   "res#60523/whatIHaveToSay[4]",
+   "MagicMissile",
+   "<i>Day 20\r</i>\n\n\tHe has done it. Without fear of consequence he has bound the void to his will. He is now traveling between points. I am powerless against his hubris. What if he does not end up where he presumes? What other worlds might lie hidden behind the veil?",
+   "<i>第 20 天\r</i>\n\n\t他做成了。他毫不畏惧后果，将虚空缚于自己的意志。如今他在点与点之间穿行。面对他的狂妄，我无能为力。倘若他没有落在自以为会到的地方呢？帷幕之后，还可能藏着哪些世界？"
+  ],
+  [
+   "res#60523/whatIHaveToSay[5]",
+   "MagicMissile",
+   "<i>Day 27</i>\n\n\tOne month. I have been doing these experiments for a mere month, and the progress made... I cannot lie any longer. I have no apprentice. It is I alone who delves foolishly into the dark. This very day, as I attempted to travel to the market through one of my new gateways... I saw something looking back at me, through the portal. I am sure of it.",
+   "<i>第 27 天</i>\n\n\t一个月。我做这些实验仅仅一个月，而进展……我再也无法说谎了。我没有学徒。独自愚蠢地潜进黑暗的，就是我。就在今天，当我试图穿过一道新造的门径去皮市集时……我看见了什么在回望我，就在那传送门的另一头。我确信无疑。"
+  ],
+  [
+   "res#60523/whatIHaveToSay[6]",
+   "MagicMissile",
+   "<i>Day 28</i>\n\n\tI must rest. I have done too dangerous a thing. And yet, I cannot bring myself to destroy my notes... I will hide them instead. I will use the gateway and stash them in the void. Only by those who already possess great skill will they be found and brought back to this world. I shall leave tomorrow. I can sense it... watching...\r\r\n\r\n- Kazimar, Disciple of Wister",
+   "<i>第 28 天</i>\n\n\t我必须休息了。我做了一件太过危险的事。可我还是下不了手毁掉自己的笔记……不如将它们藏起来。我会用门径把它们藏进虚空。只有早已拥有强大造诣的人，才能找到并将它们带回这个世界。明天我就动身。我能感觉到……它在看着……\r\r\n\r\n——卡齐玛尔，威斯特的门徒"
+  ]
+ ]
+}

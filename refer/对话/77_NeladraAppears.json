@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "kind": "对话/NeladraAppears",
+  "count": 14,
+  "with_cn": 14
+ },
+ "entries": [
+  [
+   "sa1#379/whatIHaveToSay[0]",
+   "Neladra",
+   "What is this that enters my lair? Humans?",
+   "闯入我巢穴的是什么？人类？"
+  ],
+  [
+   "sa1#401/whatIHaveToSay[0]",
+   "Merewen",
+   "Enough of this talk. Let us crush this vermin.",
+   "废话少说。碾碎这只虫豸。"
+  ],
+  [
+   "sa1#405/whatIHaveToSay[0]",
+   "Neladra",
+   "Finally, a sliver of wisdom. Regardless, you will all die here.",
+   "总算有一丝明智之言。然而，你们全都会死在这里。"
+  ],
+  [
+   "sa1#416/whatIHaveToSay[0]",
+   "Rycard",
+   "Let's do this.",
+   "来吧，动手。"
+  ],
+  [
+   "sa1#420/whatIHaveToSay[0]",
+   "Shione",
+   "Tale and song make no mention of you, despite your claim to greatness.",
+   "传说与歌谣从未提起过你，尽管你自称伟大。"
+  ],
+  [
+   "sa1#427/whatIHaveToSay[0]",
+   "Rycard",
+   "It looks like it has plenty of eyes to me.",
+   "我看它眼睛多得很。"
+  ],
+  [
+   "sa1#429/whatIHaveToSay[0]",
+   "Neladra",
+   "That is because I am older than both, mortal.",
+   "那是因为我比二者都古老，凡人。"
+  ],
+  [
+   "sa1#437/whatIHaveToSay[0]",
+   "Airendal",
+   "Alliance against your kind grows. Not only humans.",
+   "对抗你们这类东西的联盟正在壮大。不止是人类。"
+  ],
+  [
+   "sa1#440/whatIHaveToSay[0]",
+   "Neladra",
+   "Such simple minds... Nothing stays a child forever, except perhaps the human race. No, I am much more than his child now.",
+   "如此简单的头脑……没有什么能永远当孩子，也许人类除外。不，如今的我远不止是「他的孩子」。"
+  ],
+  [
+   "sa1#443/whatIHaveToSay[0]",
+   "Dimas",
+   "I am looking forward to crushing you, Neladra.",
+   "我很期待碾碎你，内德拉拉。"
+  ],
+  [
+   "sa1#47/whatIHaveToSay[0]",
+   "Arbo",
+   "*woof*",
+   "*汪*"
+  ],
+  [
+   "sa1#52/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Friends, we boast well, but can we back it up with action?",
+   "朋友们，我们嘴上说得漂亮，可行动能不能跟上？"
+  ],
+  [
+   "sa1#70/whatIHaveToSay[0]",
+   "Lannon",
+   "So this is the child of the dark lord?",
+   "这就是黑暗领主的孩子？"
+  ],
+  [
+   "sa1#73/whatIHaveToSay[0]",
+   "Bhulown",
+   "Does look human? Need new eyes.",
+   "看着像人类？得换双新眼睛了。"
+  ]
+ ]
+}

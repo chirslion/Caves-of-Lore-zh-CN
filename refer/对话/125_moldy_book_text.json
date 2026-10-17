@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "kind": "对话/moldy_book_text",
+  "count": 4,
+  "with_cn": 4
+ },
+ "entries": [
+  [
+   "res#60445/whatIHaveToSay[0]",
+   "Start",
+   "     Wisdom is more valuable than gold; knowledge, of more value than power.\r\n\n    Seek to understand and your knowledge will be power; your wisdom will be of great worth.\r\n",
+   "     智慧比黄金更珍贵；知识比力量更宝贵。\r\n\n    求索理解之道，你的知识便会成为力量；你的智慧便会价值连城。\r\n"
+  ],
+  [
+   "res#60445/whatIHaveToSay[1]",
+   "Start",
+   "     Within me lies protection from ignorance. My words are a lens through which to see.\r\n\n     Common sense is a greater ward against evil than powerful magic.",
+   "     我之中蕴藏着对抗愚昧的庇护。我的言语，是一面供你眺望的透镜。\r\n\n     抵御邪恶，常识比强大的魔法更为可靠。"
+  ],
+  [
+   "res#60445/whatIHaveToSay[2]",
+   "Start",
+   "\nSeek knowledge. Gain understanding. But true Wisdom is knowing that you must control yourself, foremost.\n\nThis path is not safe, bur noeryt enescoh roeri mþnofyoc oio fivinroo aaþþnenun i þesngag.",
+   "\n求索知识。获得理解。然而真正的智慧，在于懂得：你首先必须驾驭自己。\n\n此路并不安全，bur noeryt enescoh roeri mþnofyoc oio fivinroo aaþþnenun i þesngag."
+  ],
+  [
+   "res#60445/whatIHaveToSay[3]",
+   "Start",
+   "\n\n(The words continue, but the rest of the book is unreadable for some reason. The language appears the same and yet you are unable to grasp its meaning)",
+   "\n\n（文字仍在继续，可这本书的其余部分不知为何无法辨读。语言看起来并无二致，你却怎么也读不懂它的含义）"
+  ]
+ ]
+}

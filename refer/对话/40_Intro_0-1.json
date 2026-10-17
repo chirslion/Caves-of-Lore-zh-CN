@@ -1,0 +1,21 @@
+{
+ "meta": {
+  "kind": "对话/Intro 0-1",
+  "count": 2,
+  "with_cn": 2
+ },
+ "entries": [
+  [
+   "sa0#11448/whatIHaveToSay[0]",
+   "Wanderer",
+   "Maybe I should have listened to the elders and avoided the fog.",
+   "也许我该听长辈们的话，避开迷雾。"
+  ],
+  [
+   "sa0#11448/whatIHaveToSay[1]",
+   "Wanderer",
+   "... no, this is the right choice.",
+   "……不，这才是正确的选择。"
+  ]
+ ]
+}

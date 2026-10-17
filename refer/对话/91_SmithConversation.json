@@ -1,0 +1,423 @@
+{
+ "meta": {
+  "kind": "对话/SmithConversation",
+  "count": 69,
+  "with_cn": 69
+ },
+ "entries": [
+  [
+   "res#59747/whatIHaveToSay[0]",
+   "Gallitzin",
+   "You remind me of someone very dear to me. And yet, I cannot remember his face. What cruelty...",
+   "你让我想起一个对我很重要的人。可我记不起他的脸。何等残忍……"
+  ],
+  [
+   "res#59785/whatIHaveToSay[0]",
+   "graveyard",
+   "There is fine craftsmanship in that old hallow. I know not who wrought that iron but it was done well, and has been around for as long as I can remember. Granted, that isn't too long these days.",
+   "那处古老的墓龛里有上等的手艺。不知是谁锻造的铁件，做得极好，打从我记事起就在那儿了。当然，这些日子，「记事」也没多长。"
+  ],
+  [
+   "res#59833/whatIHaveToSay[0]",
+   "Emerisk",
+   "My family taught me words from the old tongue when I was young. I still remember a few, and one in particular. Emerisk, it means \"to wash the darkness with light\". What does this signify, I wonder? This is an old town with many secrets.",
+   "小时候，家人教我古语，的词。我还记得几个，尤其是一个。埃梅里斯克，它的意思是「以光洗去黑暗」。这象征着什么，我一直在想。这是一座藏着许多秘密的古老城镇。"
+  ],
+  [
+   "res#59885/whatIHaveToSay[0]",
+   "caves",
+   "Most of the ore I smelt comes from the caves below Emerisk. When I was young it was not so dangerous. But now, it is filled with life, and odd life at that. You've never seen rodents so huge! Not to mention the Scaphin.",
+   "我冶炼的矿石大多来自埃梅里斯克，下方的洞穴。年轻时那里没这么危险。可如今，里面满是活物，而且净是些古怪的活物。你从没见过那么大的啮齿动物！更别提斯卡芬，了。"
+  ],
+  [
+   "res#59891/whatIHaveToSay[0]",
+   "onQuest",
+   "Best of luck to you. There is ore everywhere, but you will need a pickaxe in order to gather any. The last fellow who bought one wandered into that crack in the rocks just west of here, near the town exit. I'll have more for sale later.",
+   "祝你好运。矿石到处都是，但你得有把镐子才能挖。上一个买镐子的人，晃进了那处岩石裂隙——就在往西、靠近镇子出口的地方。以后我还会进更多货。"
+  ],
+  [
+   "res#59913/whatIHaveToSay[0]",
+   "Moonblade",
+   "Could I forge such a thing? If you bring me the pieces I will give it my best. Such a weapon may be beyond my skill, but surely I cannot break it more than it already is.",
+   "我能锻造出那样的东西吗？你若把碎片带来，我尽力而为。那样的武器也许超出我的技艺，但我总不至于把它弄得更碎。"
+  ],
+  [
+   "res#59920/whatIHaveToSay[0]",
+   "Iron Deficiency",
+   "Lately my stock of iron has been dwindling. I used to purchase from a miner... I cannot remember who... If you would bring me some raw ore I will reward you.",
+   "近来我的铁料库存见底了。我从前向一位矿工收购……记不得是谁了……你若能带些原矿给我，我会酬谢你。"
+  ],
+  [
+   "res#59951/whatIHaveToSay[0]",
+   "Rycard",
+   "Do I know you? Perhaps, a frequent customer?",
+   "我认识你吗？也许，是位常客？"
+  ],
+  [
+   "res#59989/whatIHaveToSay[0]",
+   "corundum",
+   "It is one of the finest metals around. While not very malleable it is extremely hard. I have searched for it for many years without success, yet it was once plentiful. If you ever come across any, I would pay handsomely for it.",
+   "它是这附近最上等的金属之一。延展性不佳，却极其坚硬。我找它找了多年，一无所获——可它曾经相当常见。你若碰巧遇到，我愿出重金收买。"
+  ],
+  [
+   "res#59989/whatIHaveToSay[1]",
+   "corundum",
+   "One more thing. Your average pickaxe will not be enough. I can help you upgrade one if need be.",
+   "还有一件事。普通的镐子可不够用。需要的话，我可以帮你升级一把。"
+  ],
+  [
+   "res#60039/whatIHaveToSay[0]",
+   "Agmarians",
+   "Better than Scaphin, or Goblins. Long ago they all tread these roads, or so I was taught. It's odd. My memory is faint these days, but the things I learned in the old tongue I remember the most... I would prefer not to meet any.",
+   "比斯卡芬，或哥布林，强得多。很久以前，他们都走这些路——至少我被这样教导过。说来也怪：这些日子我的记忆很模糊，可当年用古语学到的东西却记得最牢……我还是不想遇见他们任何一个。"
+  ],
+  [
+   "res#60086/whatIHaveToSay[0]",
+   "Goblins",
+   "Born wicked or taught it, I do not know, but their deeds are rarely in the favor of human kind. Or so I have heard. None of these creatures may even exist. I only know the stories I heard growing up.",
+   "生来邪恶，还是后天教成，我不知道；但他们的作为很少对人类有利。至少我听到的是这样。这些生物也许根本不存在。我知道的，只是我从小到大听来的故事。"
+  ],
+  [
+   "res#60101/whatIHaveToSay[0]",
+   "completedQuest",
+   "It is done. I could feel the magic in it. It aided my forging, as though it wanted to be whole again! It was truly an honor.",
+   "成了。我能感到它其中的魔力。它协助着我的锻造，仿佛自己也想重归完整！这真是莫大的荣幸。"
+  ],
+  [
+   "res#60136/whatIHaveToSay[0]",
+   "Merewen",
+   "Most of my armor is built for men, but it will protect you nonetheless. A weapon, on the other hand, needs only a fine grip to feel right.",
+   "我的铠甲多半是按男人的身材打造的，但照样能护住你。至于武器，只要握把趁手，用起来就对了。"
+  ],
+  [
+   "res#60140/whatIHaveToSay[0]",
+   "old tongue",
+   "It is both spoken and written, and had so much depth, that a single word could have an entire tradition of meaning and story within it.",
+   "它既可说、也可写，意涵极深——一个词里，就可能藏着一整套含义和故事的传承。"
+  ],
+  [
+   "res#60140/whatIHaveToSay[1]",
+   "old tongue",
+   "I know little of the runes, but you could speak with that Trystrem boy. He is always talking about them.",
+   "符文我懂得不多，不过你可以找那个叫特里斯崔姆的小子聊聊。他总在念叨符文。"
+  ],
+  [
+   "res#60141/whatIHaveToSay[0]",
+   "practice",
+   "I've had these sitting around for... a long time for sure. Please, help yourself to them. My fighting days are long gone.",
+   "这些东西在我这儿搁了……肯定很久了。请尽管拿去用。我打打杀杀的日子早就过去了。"
+  ],
+  [
+   "res#60180/whatIHaveToSay[0]",
+   "book",
+   "The tailor says they used to be filled with words that could teach you things you did not already know. It sounds odd, and I have no use for such things. Smithing is a skill that must be taught in person. Do you know anyone who might like to apprentice?",
+   "裁缝说，它们从前装满文字，能教你不曾知道的东西。听起来怪得很，我对这种东西没兴趣。打铁这门手艺，非得当面教不可。你认识想当学徒的人吗？"
+  ],
+  [
+   "res#60316/whatIHaveToSay[0]",
+   "fog",
+   "The fog is annoying, but I rarely leave my workshop. It does not seem to corrode the iron or interfere with my work in any way, so it does not bother me.",
+   "迷雾是挺烦人，可我很少离开工坊。它似乎不腐蚀铁，也丝毫不妨碍我的活计，所以我不在意。"
+  ],
+  [
+   "res#60316/whatIHaveToSay[1]",
+   "fog",
+   "I would not go wandering into it though. Few who do return. The woodcutter did and has not been the same since.",
+   "不过我可不建议晃进去。进去的人很少回来。那个樵夫进去过，打那以后就变了个人。"
+  ],
+  [
+   "res#60345/options[0].text",
+   "Smith ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60345/options[1].text",
+   "Smith ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60345/options[2].text",
+   "Smith ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60345/options[3].text",
+   "Smith ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60345/options[4].text",
+   "Smith ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60345/options[5].text",
+   "Smith ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60345/options[6].text",
+   "Smith ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60345/options[7].text",
+   "Smith ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60345/options[8].text",
+   "Smith ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60345/options[9].text",
+   "Smith ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60402/whatIHaveToSay[0]",
+   "job",
+   "I am a smith. I smelt ore and work various metals into fine craftsmanship. I take nearly any request, and I am looking for an apprentice. Mine went in search of ore and has not returned. Poor whatshisname... I think I had an apprentice...",
+   "我是铁匠。我冶炼矿石，把各种金属做成精细的器物。我几乎什么活都接，也正在找学徒。我那个学徒去找矿石，再没回来。可怜的那谁……我好像是有过学徒来着……"
+  ],
+  [
+   "res#60402/whatIHaveToSay[1]",
+   "job",
+   "I also buy weapons and armor from travellers and from those adventurous enough to risk the caves. There are many ancient treasures waiting to be found.\n",
+   "我也向旅人、向那些敢冒险下洞穴的人收购武器和铠甲。有许多古代珍宝等着被发现。\n"
+  ],
+  [
+   "res#60559/whatIHaveToSay[0]",
+   "Lannon",
+   "Welcome, young one. Are you new to these parts? I have no memory of you.",
+   "欢迎，年轻人。你是新来这一带的吗？我对你毫无印象。"
+  ],
+  [
+   "res#60569/whatIHaveToSay[0]",
+   "Archaven",
+   "It sounds very similar to some ancient sounds I know... maybe even a name for some animal.",
+   "它和我知道的一些古音非常相似……也许甚至是某种动物的名字。"
+  ],
+  [
+   "res#60592/whatIHaveToSay[0]",
+   "librarian",
+   "I do not remember much about her... except that she taught me some of the old tongue. Nobody speaks it anymore.",
+   "关于她我记不清多少了……只记得她教过我一些古语。如今没人再说那种话了。"
+  ],
+  [
+   "res#60600/whatIHaveToSay[0]",
+   "Bhulown",
+   "If I have ever spoken ill of your kind, I regret it.",
+   "若我曾说过你们这族的坏话，我对此感到抱歉。"
+  ],
+  [
+   "res#60649/whatIHaveToSay[0]",
+   "onQuest",
+   "Very well. Bring me the shards of this blade and I will put all my effort and knowledge into this task.",
+   "很好。把这把剑的碎片带来，我会为这件事倾尽全力、用尽所学。"
+  ],
+  [
+   "res#60682/whatIHaveToSay[0]",
+   "silver",
+   "Silver is fine for jewelry, but even better for... well, I feel silly saying this. For the undead; evil spirits and the like. Or so I have been told. I cannot say whether there is any truth to it.",
+   "银做首饰不错，但更擅长对付……唉，说出来有点傻。对付亡灵；邪灵之类的东西。至少有人这么告诉我。是真是假，我说不准。"
+  ],
+  [
+   "res#60693/whatIHaveToSay[0]",
+   "dark lord",
+   "He was some evil force that died out long ago. But does it even matter? Evil still lives on without him, and likely was around before he ever showed up.",
+   "他是某种早已消亡的邪恶势力。可这又有什么关系呢？没有他，邪恶依然存在；而且，恐怕在他出现之前，它就已经在那儿了。"
+  ],
+  [
+   "res#60718/whatIHaveToSay[0]",
+   "Laszra",
+   "I see that you require armor, but I do not think you could support most of it. Some metals are both lighter and stronger than iron. Perhaps there is such a metal that we can use to make you something.",
+   "看得出你需要铠甲，不过我看大部分你根本撑不起来。有些金属比铁更轻、也更坚韧。也许有这样一种金属，能让我们为你打造点什么。"
+  ],
+  [
+   "res#60744/whatIHaveToSay[0]",
+   "Airendal",
+   "I have heard of many creatures, and yet I cannot recall one such as yourself. You are amazing.",
+   "我听说过许多生物，可像你这样的，我想不起来。你真了不得。"
+  ],
+  [
+   "res#60788/whatIHaveToSay[0]",
+   "Arbo",
+   "It is good to see you again, boy. I trust you are keeping the flocks safe as always.",
+   "又见到你真好，孩子。我想你还是照旧看护着羊群吧。"
+  ],
+  [
+   "res#60820/whatIHaveToSay[0]",
+   "Scaphin",
+   "Closer to toads than men they are.. and yet, some say they can speak. It sounds hideous to me. I can sell you something to smash them with if you ever are unfortunate enough to come upon one.",
+   "与其说像人，不如说像蟾蜍……可有人说他们会说话。我听着就觉得瘆人。你要是不走运撞上一个，我可以卖你点东西把他们砸扁。"
+  ],
+  [
+   "res#60853/whatIHaveToSay[0]",
+   "Renault",
+   "An ancient name that is. An ancient family, going back generations. Our current Renault is nothing like the stories I once heard. Noble they were, and good. The baron cares more about clothes and food than anything else. But who can blame him? Do not most aspire to those two things? I can't help but feel there's more to life.",
+   "那可是个古老的姓氏。一个源远流长的古老家族。我们如今的这位雷诺，和我听过的故事完全对不上。故事里的他们高贵而善良。而男爵只在乎衣服和吃食。可这能怪他吗？多数人不就图这两样吗？我总觉得，人生不止于此。"
+  ],
+  [
+   "res#60882/whatIHaveToSay[0]",
+   "completedQuest",
+   "A fine haul! This will help the village immensely. If you ever come across corundum or silver please bring it to my attention. I rarely see such metals.",
+   "好一批收获！这会对村子大有帮助。若你遇到刚玉，或银，请务必告诉我。这类金属我很少见到。"
+  ],
+  [
+   "res#60914/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60914/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60914/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60914/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60914/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60914/options[14].text",
+   "Isobel Warde",
+   "Iron Deficiency",
+   "缺铁"
+  ],
+  [
+   "res#60914/options[15].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60914/options[16].text",
+   "Isobel Warde",
+   "Moonblade",
+   "月刃"
+  ],
+  [
+   "res#60914/options[17].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60914/options[18].text",
+   "Isobel Warde",
+   "practice",
+   "练习"
+  ],
+  [
+   "res#60914/options[19].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60914/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60914/options[20].text",
+   "Isobel Warde",
+   "old tongue",
+   "古语"
+  ],
+  [
+   "res#60914/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60914/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60914/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60914/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60914/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60914/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60914/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60914/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60947/whatIHaveToSay[0]",
+   "Dimas",
+   "You! I... have we ever worked together? You seem so familiar.",
+   "你！我……我们曾经共事过吗？你看上去好眼熟。"
+  ],
+  [
+   "res#60966/whatIHaveToSay[0]",
+   "Codex",
+   "It does not sound familiar. I am sorry.",
+   "听着不耳熟。抱歉。"
+  ],
+  [
+   "res#60999/whatIHaveToSay[0]",
+   "Shione",
+   "I have the materials to craft a new instrument, but not the knowledge. Such a skill is beyond me, though I do wish that I could.",
+   "我有制作新乐器的材料，却没有那门手艺。这技术超出我的能力——虽然我真希望能有。"
+  ]
+ ]
+}

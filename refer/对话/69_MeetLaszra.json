@@ -1,0 +1,213 @@
+{
+ "meta": {
+  "kind": "对话/MeetLaszra",
+  "count": 34,
+  "with_cn": 34
+ },
+ "entries": [
+  [
+   "sa12#14/whatIHaveToSay[0]",
+   "Laszra",
+   "Nobility is often found in circumstances that cannot be avoided. Also, I wanted to blow those monsters up real badly.",
+   "高尚之举，往往出现在避无可避的处境里。再说，我确实很想把那些怪物炸上天。"
+  ],
+  [
+   "sa12#196/whatIHaveToSay[0]",
+   "Lannon",
+   "Well, I don't suppose that we even know.",
+   "嗯，我看我们连这个都说不清。"
+  ],
+  [
+   "sa12#203/whatIHaveToSay[0]",
+   "Stranger",
+   "...hat all you've got! Haha! Ha... ha. ... umm. Ok, what just happened?",
+   "……就这点本事！哈哈！哈……哈。……呃。好吧，刚才发生了什么？"
+  ],
+  [
+   "sa12#208/whatIHaveToSay[0]",
+   "Lannon",
+   "You were turned to stone, and now you are free. It must have been one of the creatures in this place.",
+   "你被变成了石头，如今自由了。一定是这地方的某个生物干的。"
+  ],
+  [
+   "sa12#211/whatIHaveToSay[0]",
+   "Stranger",
+   "Allow me to introduce myself. I am...",
+   "容我自我介绍。我是……"
+  ],
+  [
+   "sa12#216/options[0].text",
+   "Laszra",
+   "Failure",
+   "失败"
+  ],
+  [
+   "sa12#216/options[1].text",
+   "Laszra",
+   "Success",
+   "成功"
+  ],
+  [
+   "sa12#218/whatIHaveToSay[0]",
+   "Shione",
+   "Who are you? Better yet, what year do you think it is?",
+   "你是谁？不如说——你以为现在是哪一年？"
+  ],
+  [
+   "sa12#227/whatIHaveToSay[0]",
+   "Gallitzin",
+   "It was a noble thing to sacrifice yourself for the others.",
+   "为了他人牺牲自己，是高尚之举。"
+  ],
+  [
+   "sa12#233/whatIHaveToSay[0]",
+   "Laszra",
+   "You seem to be out of room. Oh, don't worry about me. I have been out here many years already. Another few will not hurt me.",
+   "你们好像没空位了。哦，别为我担心。我已经在外面待了许多年。再多几年也算不了什么。"
+  ],
+  [
+   "sa12#233/whatIHaveToSay[1]",
+   "Laszra",
+   "Do not forget to use the password in my note.",
+   "别忘了用我纸条上的口令。"
+  ],
+  [
+   "sa12#244/whatIHaveToSay[0]",
+   "Laszra",
+   "Then I shall continue to guard these halls.",
+   "那我继续守卫这些厅堂。"
+  ],
+  [
+   "sa12#244/whatIHaveToSay[1]",
+   "Laszra",
+   "Do not forget to use the password in my note.",
+   "别忘了用我纸条上的口令。"
+  ],
+  [
+   "sa12#249/whatIHaveToSay[0]",
+   "Stranger",
+   "Let's see. It was the year 2750, of the Fourth Age. What year is it now?",
+   "让我想想。那是第四纪元的 2750 年。现在呢，是哪一年？"
+  ],
+  [
+   "sa12#256/whatIHaveToSay[0]",
+   "Dimas",
+   "Too many names. I think Shelter is fine enough.",
+   "名字太多了。我觉得「庇护所」就挺好。"
+  ],
+  [
+   "sa12#261/whatIHaveToSay[0]",
+   "Stranger",
+   "Wise words. I would not have expected such from a Scaphin, which proves me somewhat of a fool.",
+   "明智之言。我没想到会从斯卡芬，嘴里听到——这证明我多少是个傻瓜。"
+  ],
+  [
+   "sa12#269/whatIHaveToSay[0]",
+   "Laszra",
+   "We shall see if Naira lets me back in after all my incessant joking.",
+   "等我这么没完没了地开玩笑之后，奈拉还肯不肯让我回去，走着瞧吧。"
+  ],
+  [
+   "sa12#270/whatIHaveToSay[0]",
+   "Laszra",
+   "But first, we need that note that I left behind; the one mentioned in my... stone tablet.",
+   "但首先，我们得找到我留下的那张纸条——就是我的……石板上提到的那张。"
+  ],
+  [
+   "sa12#270/whatIHaveToSay[1]",
+   "Laszra",
+   "We need to find a way to that southern entrance. The secret entrance in the library stairwell may not be enough.",
+   "我们得找到通往南边入口的路。图书馆楼梯间里的密道，也许还不够。"
+  ],
+  [
+   "sa12#270/whatIHaveToSay[2]",
+   "Laszra",
+   "We may have to delve deeper into these halls if the way is blocked.",
+   "如果路被堵死，我们恐怕得往这些厅堂更深处探。"
+  ],
+  [
+   "sa12#271/whatIHaveToSay[0]",
+   "Airendal",
+   "It is 2755. And I have not seen you in five years.",
+   "现在是 2755 年。而我已经五年没见过你了。"
+  ],
+  [
+   "sa12#31/whatIHaveToSay[0]",
+   "Laszra",
+   "May I accompany you?",
+   "我可以与你们同行吗？"
+  ],
+  [
+   "sa12#34/options[0].text",
+   "Laszra",
+   "No.",
+   "不。"
+  ],
+  [
+   "sa12#34/options[1].text",
+   "Laszra",
+   "Yes.",
+   "好。"
+  ],
+  [
+   "sa12#34/whatIHaveToSay[0]",
+   "Laszra",
+   "May I accompany you?",
+   "我可以与你们同行吗？"
+  ],
+  [
+   "sa12#45/whatIHaveToSay[0]",
+   "Merewen",
+   "I would not go that far.",
+   "我可不会那么说。"
+  ],
+  [
+   "sa12#49/whatIHaveToSay[0]",
+   "Laszra",
+   "... in service of all those who seek the great Shelter. The wing of Leunamar. The bosom of Renault. The...",
+   "……为所有追寻伟大庇护所的人效力。卢纳玛尔之翼。雷诺之怀。以及……"
+  ],
+  [
+   "sa12#63/whatIHaveToSay[0]",
+   "Stranger",
+   "Oh, it is quite good to see you @. Five years you say? So much time lost...",
+   "哦，见到你太好了，@。你说五年？多少光阴白白流逝……"
+  ],
+  [
+   "sa12#64/whatIHaveToSay[0]",
+   "Stranger",
+   "Many thanks to you. Ah, I see that you have the note... er, stone tablet...",
+   "万分感谢。啊，看来你拿到了那张纸条……呃，石板……"
+  ],
+  [
+   "sa12#67/whatIHaveToSay[0]",
+   "Rycard",
+   "A bit hard-headed isn't he?",
+   "他是不是有点固执？"
+  ],
+  [
+   "sa12#72/whatIHaveToSay[0]",
+   "Bhulown",
+   "No dwell on time. Past not matter. Only what do now.",
+   "别纠结时间。过去不重要。只看现在做什么。"
+  ],
+  [
+   "sa12#75/whatIHaveToSay[0]",
+   "Stranger",
+   "Good to see that you have a sense of humor. I see it as an indication of a functional mind.",
+   "很高兴看到你有幽默感。在我看来，这是心智健全的标志。"
+  ],
+  [
+   "sa12#82/whatIHaveToSay[0]",
+   "Laszra",
+   "Well, anyways, I was fighting out here to keep the monsters of this place from breaching Kalindraur.",
+   "总之，我一直在这外面战斗，不让此地的怪物攻破卡林德劳尔。"
+  ],
+  [
+   "sa12#82/whatIHaveToSay[1]",
+   "Laszra",
+   "In the end, I sealed it behind myself because their numbers were too great. But things appear safer now.",
+   "最后，它们的数量实在太多，我便把自己连同封印一起留在了这里。不过现在看起来安全多了。"
+  ]
+ ]
+}

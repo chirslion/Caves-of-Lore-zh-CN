@@ -1,0 +1,69 @@
+{
+ "meta": {
+  "kind": "对话/ExitFirstCave",
+  "count": 10,
+  "with_cn": 10
+ },
+ "entries": [
+  [
+   "sa1#374/whatIHaveToSay[0]",
+   "Merewen",
+   "And what will you do now that you are free?",
+   "如今你自由了，接下来打算做什么？"
+  ],
+  [
+   "sa1#375/whatIHaveToSay[0]",
+   "Lannon",
+   "It seems only right that I return it, but who does it belong to?",
+   "把它还回去才是正理，可它究竟属于谁呢？"
+  ],
+  [
+   "sa1#376/whatIHaveToSay[0]",
+   "Lannon",
+   "We made it!",
+   "我们出来了！"
+  ],
+  [
+   "sa1#382/whatIHaveToSay[0]",
+   "Arbo",
+   "*Woof! Woof!*",
+   "*汪！汪！*"
+  ],
+  [
+   "sa1#384/whatIHaveToSay[0]",
+   "Merewen",
+   "And the book? Will you take it with you, or see it to its master?",
+   "那本书，你打算带在身边，还是送它回到主人那里？"
+  ],
+  [
+   "sa1#417/whatIHaveToSay[0]",
+   "Lannon",
+   "Then it is settled. We return the book. Then I will continue my search.",
+   "那就定了。我们归还那本书。然后我继续我的寻找。"
+  ],
+  [
+   "sa1#439/whatIHaveToSay[0]",
+   "Merewen",
+   "I do wish I could remember... We should ask around town. Perhaps someone will know of the book.",
+   "我真希望自己能想起来……我们该在镇上四处问问。也许有人知道这本书。"
+  ],
+  [
+   "sa1#44/whatIHaveToSay[0]",
+   "Rycard",
+   "And I shall go with you, friend. You are talented at finding trouble it seems.",
+   "我会与你同行，朋友。看来你很擅长招惹麻烦。"
+  ],
+  [
+   "sa1#44/whatIHaveToSay[1]",
+   "Rycard",
+   "And I happen to be looking for trouble.",
+   "而我恰好在找麻烦。"
+  ],
+  [
+   "sa1#62/whatIHaveToSay[0]",
+   "Lannon",
+   "I suppose I will continue looking for my sheep.",
+   "我大概会继续找我的羊。"
+  ]
+ ]
+}

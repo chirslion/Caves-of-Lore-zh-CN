@@ -1,0 +1,6584 @@
+{
+ "meta": {
+  "kind": "数据/物品",
+  "count": 1315,
+  "with_cn": 1315
+ },
+ "entries": [
+  [
+   "lv0#28355/potionRecipes[0].recipeName",
+   "Minor Healing",
+   "次级治疗"
+  ],
+  [
+   "lv0#28355/potionRecipes[10].recipeName",
+   "Fire Resistance",
+   "抗火"
+  ],
+  [
+   "lv0#28355/potionRecipes[11].recipeName",
+   "Enhancement",
+   "强化"
+  ],
+  [
+   "lv0#28355/potionRecipes[12].recipeName",
+   "Health Regeneration",
+   "生命回复"
+  ],
+  [
+   "lv0#28355/potionRecipes[13].recipeName",
+   "Mana Regeneration",
+   "法力回复"
+  ],
+  [
+   "lv0#28355/potionRecipes[14].recipeName",
+   "Freedom",
+   "自由"
+  ],
+  [
+   "lv0#28355/potionRecipes[15].recipeName",
+   "Ancient Cheese Wedge",
+   "古老奶酪块"
+  ],
+  [
+   "lv0#28355/potionRecipes[16].recipeName",
+   "Exaltare",
+   "埃克萨尔塔"
+  ],
+  [
+   "lv0#28355/potionRecipes[1].recipeName",
+   "Minor Mana",
+   "次级法力"
+  ],
+  [
+   "lv0#28355/potionRecipes[2].recipeName",
+   "Minor Rejuvenation",
+   "次级回春"
+  ],
+  [
+   "lv0#28355/potionRecipes[3].recipeName",
+   "Healing",
+   "治疗"
+  ],
+  [
+   "lv0#28355/potionRecipes[4].recipeName",
+   "Mana",
+   "法力"
+  ],
+  [
+   "lv0#28355/potionRecipes[5].recipeName",
+   "Rejuvenation",
+   "回春"
+  ],
+  [
+   "lv0#28355/potionRecipes[6].recipeName",
+   "Stealth",
+   "潜行"
+  ],
+  [
+   "lv0#28355/potionRecipes[7].recipeName",
+   "Strength",
+   "力量"
+  ],
+  [
+   "lv0#28355/potionRecipes[8].recipeName",
+   "Spirit",
+   "精神"
+  ],
+  [
+   "lv0#28355/potionRecipes[9].recipeName",
+   "Speed",
+   "速度"
+  ],
+  [
+   "res#61102/displayName",
+   "Stone Club",
+   "石棒"
+  ],
+  [
+   "res#61103/displayName",
+   "Whip",
+   "鞭"
+  ],
+  [
+   "res#61104/displayName",
+   "Whip",
+   "鞭"
+  ],
+  [
+   "res#61105/displayName",
+   "Chain",
+   "链鞭"
+  ],
+  [
+   "res#61106/displayName",
+   "Shepherd's Crook",
+   "牧羊杖"
+  ],
+  [
+   "res#61107/displayName",
+   "Vesstorin",
+   "维斯托林"
+  ],
+  [
+   "res#61108/displayName",
+   "Mace",
+   "钉头锤"
+  ],
+  [
+   "res#61109/displayName",
+   "Iron Staff",
+   "铁杖"
+  ],
+  [
+   "res#61110/displayName",
+   "Bone Club",
+   "骨棒"
+  ],
+  [
+   "res#61111/displayName",
+   "Morning Star",
+   "晨星锤"
+  ],
+  [
+   "res#61112/displayName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "res#61113/displayName",
+   "Flanged Mace",
+   "棱钉锤"
+  ],
+  [
+   "res#61114/displayName",
+   "Club",
+   "棍棒"
+  ],
+  [
+   "res#61115/displayName",
+   "Bannitar",
+   "班尼塔"
+  ],
+  [
+   "res#61116/displayName",
+   "Flail",
+   "连枷"
+  ],
+  [
+   "res#61117/displayName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "res#61118/displayName",
+   "Smith's Hammer",
+   "锻锤"
+  ],
+  [
+   "res#61119/displayName",
+   "Iron Staff",
+   "铁杖"
+  ],
+  [
+   "res#61120/displayName",
+   "War Hammer",
+   "战锤"
+  ],
+  [
+   "res#61121/displayName",
+   "Maul",
+   "大锤"
+  ],
+  [
+   "res#61346/displayName",
+   "Dagger",
+   "匕首"
+  ],
+  [
+   "res#61347/displayName",
+   "Short Sword",
+   "短剑"
+  ],
+  [
+   "res#61485/displayName",
+   "Teeth",
+   "利齿"
+  ],
+  [
+   "res#61486/displayName",
+   "Long Sword",
+   "长剑"
+  ],
+  [
+   "res#61487/displayName",
+   "Vermis",
+   "维尔米斯"
+  ],
+  [
+   "res#61488/displayName",
+   "Shortbow",
+   "短弓"
+  ],
+  [
+   "res#61489/displayName",
+   "Moonblade",
+   "月刃"
+  ],
+  [
+   "res#61490/displayName",
+   "Rotten Teeth",
+   "腐齿"
+  ],
+  [
+   "res#61491/displayName",
+   "Bramble Shard",
+   "荆棘碎片"
+  ],
+  [
+   "res#61492/displayName",
+   "Long Bow",
+   "长弓"
+  ],
+  [
+   "res#61493/displayName",
+   "Pollen",
+   "花粉"
+  ],
+  [
+   "res#61494/displayName",
+   "Headbutt",
+   "头槌"
+  ],
+  [
+   "res#61495/displayName",
+   "Teeth",
+   "利齿"
+  ],
+  [
+   "res#61496/displayName",
+   "Ashkins Shredders",
+   "阿什金碎爪"
+  ],
+  [
+   "res#61497/displayName",
+   "Dilamdren",
+   "迪拉姆德伦"
+  ],
+  [
+   "res#61498/displayName",
+   "Ethereal Claws",
+   "虚界之爪"
+  ],
+  [
+   "res#61499/displayName",
+   "Warschal",
+   "瓦沙尔"
+  ],
+  [
+   "res#61500/displayName",
+   "Anvilar",
+   "安维拉"
+  ],
+  [
+   "res#61501/displayName",
+   "Cold Touch",
+   "寒冰之触"
+  ],
+  [
+   "res#61502/displayName",
+   "Fire Slam",
+   "烈焰猛击"
+  ],
+  [
+   "res#61503/displayName",
+   "Inhale",
+   "吸入"
+  ],
+  [
+   "res#61504/displayName",
+   "Poison Vine",
+   "毒藤"
+  ],
+  [
+   "res#61505/displayName",
+   "Hornbeam Bow",
+   "鹅耳枥弓"
+  ],
+  [
+   "res#61506/displayName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#61507/displayName",
+   "Galrassil",
+   "加拉希尔"
+  ],
+  [
+   "res#61508/displayName",
+   "Spear",
+   "长矛"
+  ],
+  [
+   "res#61509/displayName",
+   "Venomous Teeth",
+   "毒牙"
+  ],
+  [
+   "res#61510/displayName",
+   "Ordrimarr",
+   "奥德里玛尔"
+  ],
+  [
+   "res#61511/displayName",
+   "Fists",
+   "拳"
+  ],
+  [
+   "res#61512/displayName",
+   "Slime",
+   "黏液"
+  ],
+  [
+   "res#61513/displayName",
+   "Broadsword",
+   "阔剑"
+  ],
+  [
+   "res#61514/displayName",
+   "Longbow",
+   "长弓"
+  ],
+  [
+   "res#61515/displayName",
+   "Revannin",
+   "雷万宁"
+  ],
+  [
+   "res#61516/displayName",
+   "Battle Axe",
+   "战斗斧"
+  ],
+  [
+   "res#61517/displayName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#61518/displayName",
+   "Torch",
+   "火炬"
+  ],
+  [
+   "res#61519/displayName",
+   "Fairy Curse",
+   "妖精诅咒"
+  ],
+  [
+   "res#61520/displayName",
+   "Pickaxe",
+   "镐子"
+  ],
+  [
+   "res#61521/displayName",
+   "Venemous Claws",
+   "毒爪"
+  ],
+  [
+   "res#61522/displayName",
+   "Crystal Claws",
+   "水晶爪"
+  ],
+  [
+   "res#61523/displayName",
+   "Pickaxe",
+   "镐子"
+  ],
+  [
+   "res#61524/displayName",
+   "Acid Spike",
+   "酸刺"
+  ],
+  [
+   "res#61525/displayName",
+   "Banshee Claws",
+   "女妖之爪"
+  ],
+  [
+   "res#61526/displayName",
+   "Elokian Bow",
+   "埃洛克弓"
+  ],
+  [
+   "res#61527/displayName",
+   "War Axe",
+   "战斧"
+  ],
+  [
+   "res#61528/displayName",
+   "Long Sword",
+   "长剑"
+  ],
+  [
+   "res#61529/displayName",
+   "Shard Claws",
+   "碎晶爪"
+  ],
+  [
+   "res#61530/displayName",
+   "Smash",
+   "重砸"
+  ],
+  [
+   "res#61531/displayName",
+   "Talons of Acristor",
+   "阿克里斯特之爪"
+  ],
+  [
+   "res#61532/displayName",
+   "Acidic Jaws",
+   "酸蚀之颚"
+  ],
+  [
+   "res#61533/displayName",
+   "Recurve Bow",
+   "反曲弓"
+  ],
+  [
+   "res#61534/displayName",
+   "Venomous Teeth",
+   "毒牙"
+  ],
+  [
+   "res#61535/displayName",
+   "Zombie Claws",
+   "僵尸之爪"
+  ],
+  [
+   "res#61536/displayName",
+   "Long Sword",
+   "长剑"
+  ],
+  [
+   "res#61537/displayName",
+   "Dark Energy",
+   "暗能量"
+  ],
+  [
+   "res#61538/displayName",
+   "Scaphin Jaws",
+   "斯卡芬之颚"
+  ],
+  [
+   "res#61539/displayName",
+   "Wooden Teeth",
+   "木齿"
+  ],
+  [
+   "res#61540/displayName",
+   "Hand Axe",
+   "手斧"
+  ],
+  [
+   "res#61541/displayName",
+   "Halberd",
+   "戟"
+  ],
+  [
+   "res#61542/displayName",
+   "Crystal Shock",
+   "水晶电击"
+  ],
+  [
+   "res#61543/displayName",
+   "Grimburl",
+   "格林布尔"
+  ],
+  [
+   "res#61544/displayName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#61545/displayName",
+   "Knuckles",
+   "指虎"
+  ],
+  [
+   "res#61546/displayName",
+   "Trident",
+   "三叉戟"
+  ],
+  [
+   "res#61547/displayName",
+   "Scaphin Claws",
+   "斯卡芬之爪"
+  ],
+  [
+   "res#61728/itemBase.identifiedName",
+   "Withered Document",
+   "干枯的文件"
+  ],
+  [
+   "res#61728/itemBase.itemNotes",
+   "This note was inscribed on a piece of old cloth, which has stood the test of time quite well.",
+   "这段文字写在一块旧布上，历经岁月竟保存得相当完好。"
+  ],
+  [
+   "res#61728/itemBase.unidentifiedName",
+   "Withered Document",
+   "干枯的文件"
+  ],
+  [
+   "res#61729/itemBase.attributeList[0]",
+   "Enhancement",
+   "强化"
+  ],
+  [
+   "res#61729/itemBase.identifiedName",
+   "Potion of Enhancement",
+   "强化药水"
+  ],
+  [
+   "res#61729/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61729/itemBase.unidentifiedName",
+   "Potion of Enhancement",
+   "强化药水"
+  ],
+  [
+   "res#61730/itemBase.identifiedName",
+   "Librarian's Note",
+   "图书管理员的便笺"
+  ],
+  [
+   "res#61730/itemBase.itemNotes",
+   "The penmanship is very fine, though the parchment is slightly damp and beginning to fall apart.",
+   "字迹非常工整，只是羊皮纸有些潮湿，已经开始碎裂。"
+  ],
+  [
+   "res#61730/itemBase.unidentifiedName",
+   "Librarian's Note",
+   "图书管理员的便笺"
+  ],
+  [
+   "res#61731/itemBase.attributeList[0]",
+   "Minor Mana",
+   "次级法力"
+  ],
+  [
+   "res#61731/itemBase.identifiedName",
+   "Potion of Minor Mana",
+   "次级法力药水"
+  ],
+  [
+   "res#61731/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61731/itemBase.unidentifiedName",
+   "Potion of Minor Mana",
+   "次级法力药水"
+  ],
+  [
+   "res#61732/itemBase.attributeList[0]",
+   "Fire Resistance",
+   "抗火"
+  ],
+  [
+   "res#61732/itemBase.identifiedName",
+   "Potion of Fire Resistance",
+   "抗火药水"
+  ],
+  [
+   "res#61732/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61732/itemBase.unidentifiedName",
+   "Potion of Fire Resistance",
+   "抗火药水"
+  ],
+  [
+   "res#61733/itemBase.attributeList[0]",
+   "1",
+   "1"
+  ],
+  [
+   "res#61733/itemBase.attributeList[1]",
+   "2",
+   "2"
+  ],
+  [
+   "res#61733/itemBase.attributeList[2]",
+   "3",
+   "3"
+  ],
+  [
+   "res#61733/itemBase.identifiedName",
+   "Final Words",
+   "遗言"
+  ],
+  [
+   "res#61733/itemBase.itemNotes",
+   "The note is barely intact, being worn from age, but it is still legible.",
+   "这页纸因年代久远几近残破，但字迹仍可辨认。"
+  ],
+  [
+   "res#61733/itemBase.unidentifiedName",
+   "Final Words",
+   "遗言"
+  ],
+  [
+   "res#61734/itemBase.identifiedName",
+   "Journal Page",
+   "日志页"
+  ],
+  [
+   "res#61734/itemBase.itemNotes",
+   "The hastily scrawled note appears to have been torn from a journal. It is flecked with what appears to be dried drops of blood.",
+   "这张匆忙写就的便笺像是从日志上撕下来的，上面溅着些看似干涸血滴的斑点。"
+  ],
+  [
+   "res#61734/itemBase.unidentifiedName",
+   "Journal Page",
+   "日志页"
+  ],
+  [
+   "res#61735/itemBase.attributeList[0]",
+   "Freedom",
+   "自由"
+  ],
+  [
+   "res#61735/itemBase.identifiedName",
+   "Potion of Freedom",
+   "自由药水"
+  ],
+  [
+   "res#61735/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61735/itemBase.unidentifiedName",
+   "Potion of Freedom",
+   "自由药水"
+  ],
+  [
+   "res#61736/itemBase.attributeList[0]",
+   "Spirit",
+   "精神"
+  ],
+  [
+   "res#61736/itemBase.identifiedName",
+   "Potion of Spirit",
+   "精神药水"
+  ],
+  [
+   "res#61736/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61736/itemBase.unidentifiedName",
+   "Potion of Spirit",
+   "精神药水"
+  ],
+  [
+   "res#61737/itemBase.identifiedName",
+   "Damp Vellum",
+   "潮湿皮纸"
+  ],
+  [
+   "res#61737/itemBase.itemNotes",
+   "If not for some preservation technique, this vellum would have rotted many ages ago.",
+   "若非用了某种保存方法，这张皮纸早就腐朽在无数个年代之前了。"
+  ],
+  [
+   "res#61737/itemBase.unidentifiedName",
+   "Damp Vellum",
+   "潮湿皮纸"
+  ],
+  [
+   "res#61738/itemBase.attributeList[0]",
+   "Strength",
+   "力量"
+  ],
+  [
+   "res#61738/itemBase.identifiedName",
+   "Potion of Strength",
+   "力量药水"
+  ],
+  [
+   "res#61738/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61738/itemBase.unidentifiedName",
+   "Potion of Strength",
+   "力量药水"
+  ],
+  [
+   "res#61739/itemBase.attributeList[0]",
+   "Minor Rejuvenation",
+   "次级回春"
+  ],
+  [
+   "res#61739/itemBase.identifiedName",
+   "Potion of Minor Rejuvenation",
+   "次级回春药水"
+  ],
+  [
+   "res#61739/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61739/itemBase.unidentifiedName",
+   "Potion of Minor Rejuvenation",
+   "次级回春药水"
+  ],
+  [
+   "res#61740/itemBase.identifiedName",
+   "Dry Parchment",
+   "干燥羊皮纸"
+  ],
+  [
+   "res#61740/itemBase.itemNotes",
+   "Despite the damp air, this note remains mostly intact.",
+   "尽管空气潮湿，这张便笺大体上仍然完好。"
+  ],
+  [
+   "res#61740/itemBase.unidentifiedName",
+   "Dry Parchment",
+   "干燥羊皮纸"
+  ],
+  [
+   "res#61741/itemBase.attributeList[0]",
+   "Stealth",
+   "潜行"
+  ],
+  [
+   "res#61741/itemBase.identifiedName",
+   "Potion of Stealth",
+   "潜行药水"
+  ],
+  [
+   "res#61741/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61741/itemBase.unidentifiedName",
+   "Potion of Stealth",
+   "潜行药水"
+  ],
+  [
+   "res#61742/itemBase.identifiedName",
+   "Torn Page",
+   "撕裂的书页"
+  ],
+  [
+   "res#61742/itemBase.itemNotes",
+   "The note is written on vellum, and has the look of many centuries.",
+   "这张便笺写在皮纸上，带着历经数百年岁月的模样。"
+  ],
+  [
+   "res#61742/itemBase.unidentifiedName",
+   "Torn Page",
+   "撕裂的书页"
+  ],
+  [
+   "res#61743/itemBase.identifiedName",
+   "Cracked Vellum Page",
+   "龟裂皮纸页"
+  ],
+  [
+   "res#61743/itemBase.itemNotes",
+   "The note appears to have been written quickly, and the handwriting is visible shaky.",
+   "这张便笺写得十分匆忙，字迹明显在发抖。"
+  ],
+  [
+   "res#61743/itemBase.unidentifiedName",
+   "Cracked Vellum Page",
+   "龟裂皮纸页"
+  ],
+  [
+   "res#61744/itemBase.identifiedName",
+   "Cracked Parchment",
+   "龟裂羊皮纸"
+  ],
+  [
+   "res#61744/itemBase.itemNotes",
+   "The dry air has caused this parchment to crack nearly in two, but it remains readable.",
+   "干燥的空气使这张羊皮纸几乎裂成两半，但文字依然可读。"
+  ],
+  [
+   "res#61744/itemBase.unidentifiedName",
+   "Cracked Parchment",
+   "龟裂羊皮纸"
+  ],
+  [
+   "res#61745/itemBase.attributeList[0]",
+   "Rejuvenation",
+   "回春"
+  ],
+  [
+   "res#61745/itemBase.identifiedName",
+   "Potion of Rejuvenation",
+   "回春药水"
+  ],
+  [
+   "res#61745/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61745/itemBase.unidentifiedName",
+   "Potion of Rejuvenation",
+   "回春药水"
+  ],
+  [
+   "res#61746/itemBase.attributeList[0]",
+   "Healing",
+   "治疗"
+  ],
+  [
+   "res#61746/itemBase.identifiedName",
+   "Potion of Healing",
+   "治疗药水"
+  ],
+  [
+   "res#61746/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61746/itemBase.unidentifiedName",
+   "Potion of Healing",
+   "治疗药水"
+  ],
+  [
+   "res#61747/itemBase.identifiedName",
+   "Crusty Parchment",
+   "结壳羊皮纸"
+  ],
+  [
+   "res#61747/itemBase.itemNotes",
+   "This old parchment is covered in a layer of dried organic matter.",
+   "这张旧羊皮纸表面覆着一层干掉的有机物。"
+  ],
+  [
+   "res#61747/itemBase.unidentifiedName",
+   "Crusty Parchment",
+   "结壳羊皮纸"
+  ],
+  [
+   "res#61748/itemBase.identifiedName",
+   "Old Parchment",
+   "旧羊皮纸"
+  ],
+  [
+   "res#61748/itemBase.itemNotes",
+   "This parchment is old, but not ancient. Dry air has left it in fair condition.",
+   "这张羊皮纸年代久远却不算太古，干燥的空气让它保存得还不错。"
+  ],
+  [
+   "res#61748/itemBase.unidentifiedName",
+   "Old Parchment",
+   "旧羊皮纸"
+  ],
+  [
+   "res#61749/itemBase.attributeList[0]",
+   "Mana",
+   "法力"
+  ],
+  [
+   "res#61749/itemBase.identifiedName",
+   "Potion of Mana",
+   "法力药水"
+  ],
+  [
+   "res#61749/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61749/itemBase.unidentifiedName",
+   "Potion of Mana",
+   "法力药水"
+  ],
+  [
+   "res#61750/itemBase.identifiedName",
+   "Petrified Parchment",
+   "石化羊皮纸"
+  ],
+  [
+   "res#61750/itemBase.itemNotes",
+   "The note appears to have turned to stone.",
+   "这张便笺似乎已经变成了石头。"
+  ],
+  [
+   "res#61750/itemBase.unidentifiedName",
+   "Petrified Parchment",
+   "石化羊皮纸"
+  ],
+  [
+   "res#61751/itemBase.attributeList[0]",
+   "1",
+   "1"
+  ],
+  [
+   "res#61751/itemBase.attributeList[1]",
+   "2",
+   "2"
+  ],
+  [
+   "res#61751/itemBase.attributeList[2]",
+   "3",
+   "3"
+  ],
+  [
+   "res#61751/itemBase.identifiedName",
+   "Strange Letter",
+   "奇怪的信"
+  ],
+  [
+   "res#61751/itemBase.itemNotes",
+   "The symbols on the scroll are perfectly written, despite the language appearing hasty.",
+   "卷轴上的符号写得一丝不苟，尽管字句的措辞显得匆忙。"
+  ],
+  [
+   "res#61751/itemBase.unidentifiedName",
+   "Strange Letter",
+   "奇怪的信"
+  ],
+  [
+   "res#61752/itemBase.attributeList[0]",
+   "Health Regeneration",
+   "生命回复"
+  ],
+  [
+   "res#61752/itemBase.identifiedName",
+   "Potion of Health Regeneration",
+   "生命回复药水"
+  ],
+  [
+   "res#61752/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61752/itemBase.unidentifiedName",
+   "Potion of Health Regeneration",
+   "生命回复药水"
+  ],
+  [
+   "res#61753/itemBase.identifiedName",
+   "Tanned Parchment",
+   "鞣制羊皮纸"
+  ],
+  [
+   "res#61753/itemBase.itemNotes",
+   "Despite the damp air, this note remains mostly intact.",
+   "尽管空气潮湿，这张便笺大体上仍然完好。"
+  ],
+  [
+   "res#61753/itemBase.unidentifiedName",
+   "Tanned Parchment",
+   "鞣制羊皮纸"
+  ],
+  [
+   "res#61754/itemBase.identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "res#61754/itemBase.unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "res#61755/itemBase.attributeList[0]",
+   "Mana Regeneration",
+   "法力回复"
+  ],
+  [
+   "res#61755/itemBase.identifiedName",
+   "Potion of Mana Regeneration",
+   "法力回复药水"
+  ],
+  [
+   "res#61755/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61755/itemBase.unidentifiedName",
+   "Potion of Mana Regeneration",
+   "法力回复药水"
+  ],
+  [
+   "res#61756/itemBase.identifiedName",
+   "Brittle Parchment",
+   "易碎羊皮纸"
+  ],
+  [
+   "res#61756/itemBase.itemNotes",
+   "The brittle piece of parchment is so old that it may turn to dust at any moment.",
+   "这片易碎的羊皮纸太古老了，随时都可能化为尘土。"
+  ],
+  [
+   "res#61756/itemBase.unidentifiedName",
+   "Brittle Parchment",
+   "易碎羊皮纸"
+  ],
+  [
+   "res#61757/itemBase.identifiedName",
+   "Misshapen Page",
+   "变形书页"
+  ],
+  [
+   "res#61757/itemBase.itemNotes",
+   "The note is written on some kind of fabric, perhaps a piece of old clothing.",
+   "这张便笺写在某种织物上，也许是一块旧衣物。"
+  ],
+  [
+   "res#61757/itemBase.unidentifiedName",
+   "Misshapen Page",
+   "变形书页"
+  ],
+  [
+   "res#61758/itemBase.identifiedName",
+   "Small Scroll",
+   "小卷轴"
+  ],
+  [
+   "res#61758/itemBase.itemNotes",
+   "The small scroll appears to have been tied to something, but the string is broken.",
+   "这只小卷轴似乎曾被系在什么上面，但绳子已经断了。"
+  ],
+  [
+   "res#61758/itemBase.unidentifiedName",
+   "Small Scroll",
+   "小卷轴"
+  ],
+  [
+   "res#61759/itemBase.identifiedName",
+   "Musty Parchment",
+   "发霉羊皮纸"
+  ],
+  [
+   "res#61759/itemBase.itemNotes",
+   "The parchment has a musty smell, but appears made from good enough material to survive the wear.",
+   "这张羊皮纸带着霉味，但材质足够好，经得起磨损。"
+  ],
+  [
+   "res#61759/itemBase.unidentifiedName",
+   "Musty Parchment",
+   "发霉羊皮纸"
+  ],
+  [
+   "res#61760/itemBase.identifiedName",
+   "Dusty Note",
+   "蒙尘便笺"
+  ],
+  [
+   "res#61760/itemBase.itemNotes",
+   "Dust cakes the surface of this old parchment, but it appears to be intact.",
+   "灰尘结满这张旧羊皮纸的表面，但它看起来还是完整的。"
+  ],
+  [
+   "res#61760/itemBase.unidentifiedName",
+   "Dusty Note",
+   "蒙尘便笺"
+  ],
+  [
+   "res#61761/itemBase.identifiedName",
+   "Vital Information",
+   "关键情报"
+  ],
+  [
+   "res#61761/itemBase.itemNotes",
+   "Despite being old, this note has not aged at all, and seems protected somehow.",
+   "尽管年代久远，这张便笺却毫无老化的痕迹，似乎受到某种保护。"
+  ],
+  [
+   "res#61761/itemBase.unidentifiedName",
+   "Vital Information",
+   "关键情报"
+  ],
+  [
+   "res#61762/itemBase.attributeList[0]",
+   "Minor Healing",
+   "次级治疗"
+  ],
+  [
+   "res#61762/itemBase.identifiedName",
+   "Potion of Minor Healing",
+   "次级治疗药水"
+  ],
+  [
+   "res#61762/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61762/itemBase.unidentifiedName",
+   "Potion of Minor Healing",
+   "次级治疗药水"
+  ],
+  [
+   "res#61763/itemBase.attributeList[0]",
+   "Speed",
+   "速度"
+  ],
+  [
+   "res#61763/itemBase.identifiedName",
+   "Potion of Speed",
+   "速度药水"
+  ],
+  [
+   "res#61763/itemBase.itemNotes",
+   "This is a recipe for brewing a potion.",
+   "这是一份酿造药水的配方。"
+  ],
+  [
+   "res#61763/itemBase.unidentifiedName",
+   "Potion of Speed",
+   "速度药水"
+  ],
+  [
+   "res#61764/itemBase.attributeList[0]",
+   "Ancient Cheese Wedge",
+   "古老奶酪块"
+  ],
+  [
+   "res#61764/itemBase.identifiedName",
+   "Ancient Cheese Wedge",
+   "古老奶酪块"
+  ],
+  [
+   "res#61764/itemBase.itemNotes",
+   "This is a recipe for making cheese.",
+   "这是一份制作奶酪的配方。"
+  ],
+  [
+   "res#61764/itemBase.unidentifiedName",
+   "Ancient Cheese Wedge",
+   "古老奶酪块"
+  ],
+  [
+   "res#61765/itemBase.identifiedName",
+   "Well Preserved Page",
+   "保存完好的书页"
+  ],
+  [
+   "res#61765/itemBase.itemNotes",
+   "The note is likely vellum, or some other animal skin, and has weathered time very well.",
+   "这张便笺多半是皮纸或某种兽皮，很好地经受住了时间的考验。"
+  ],
+  [
+   "res#61765/itemBase.unidentifiedName",
+   "Well Preserved Page",
+   "保存完好的书页"
+  ],
+  [
+   "res#62650/itemBase.identifiedName",
+   "The Adventures of Hastar the Bold, Chapter 1",
+   "《勇士哈斯塔历险记》第一章"
+  ],
+  [
+   "res#62650/itemBase.setName",
+   "Hand-To-Hand Weapons",
+   "徒手格斗"
+  ],
+  [
+   "res#62650/itemBase.unidentifiedName",
+   "The Adventures of Hastar the Bold, Chapter 1",
+   "《勇士哈斯塔历险记》第一章"
+  ],
+  [
+   "res#62651/itemBase.identifiedName",
+   "Studded Leather Belt",
+   "镶钉皮带"
+  ],
+  [
+   "res#62651/itemBase.setName",
+   "Studded",
+   "镶钉"
+  ],
+  [
+   "res#62651/itemBase.unidentifiedName",
+   "Studded Leather Belt",
+   "镶钉皮带"
+  ],
+  [
+   "res#62652/itemBase.identifiedName",
+   "Cuthen's Journal",
+   "库森的手记"
+  ],
+  [
+   "res#62652/itemBase.unidentifiedName",
+   "Cuthen's Journal",
+   "库森的手记"
+  ],
+  [
+   "res#62653/itemBase.identifiedName",
+   "Ashkin's Crest",
+   "阿什金之冠"
+  ],
+  [
+   "res#62653/itemBase.setName",
+   "Ashkin",
+   "阿什金"
+  ],
+  [
+   "res#62653/itemBase.unidentifiedName",
+   "Dog Armor",
+   "犬用护甲"
+  ],
+  [
+   "res#62654/itemBase.identifiedName",
+   "Mystic's  Stole",
+   "秘法师披带"
+  ],
+  [
+   "res#62654/itemBase.setName",
+   "Traveller",
+   "旅人"
+  ],
+  [
+   "res#62654/itemBase.unidentifiedName",
+   "Mystic's  Stole",
+   "秘法师披带"
+  ],
+  [
+   "res#62655/itemBase.identifiedName",
+   "Last Tears of Undralis",
+   "翁德拉利斯最后的泪滴"
+  ],
+  [
+   "res#62655/itemBase.itemNotes",
+   "A series of brilliant jewels hang from a silver chain.",
+   "一串璀璨的宝石垂在银链之下。"
+  ],
+  [
+   "res#62655/itemBase.setName",
+   "Undralis",
+   "翁德拉利斯"
+  ],
+  [
+   "res#62655/itemBase.unidentifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62656/itemBase.identifiedName",
+   "Crown of Tethrys",
+   "泰丝瑞斯之冠"
+  ],
+  [
+   "res#62656/itemBase.setName",
+   "Tethrys",
+   "泰丝瑞斯"
+  ],
+  [
+   "res#62656/itemBase.unidentifiedName",
+   "Mysterious Helmet",
+   "神秘头盔"
+  ],
+  [
+   "res#62657/itemBase.identifiedName",
+   "Amethyst",
+   "紫水晶"
+  ],
+  [
+   "res#62657/itemBase.unidentifiedName",
+   "Amethyst",
+   "紫水晶"
+  ],
+  [
+   "res#62658/itemBase.identifiedName",
+   "Healer's Cloak",
+   "医者斗篷"
+  ],
+  [
+   "res#62658/itemBase.setName",
+   "Healer",
+   "医者"
+  ],
+  [
+   "res#62658/itemBase.unidentifiedName",
+   "Healer's Cloak",
+   "医者斗篷"
+  ],
+  [
+   "res#62659/itemBase.identifiedName",
+   "Potion of Stealth",
+   "潜行药水"
+  ],
+  [
+   "res#62659/itemBase.itemNotes",
+   "Increase Stealth",
+   "提高潜行"
+  ],
+  [
+   "res#62659/itemBase.unidentifiedName",
+   "Potion of Stealth",
+   "潜行药水"
+  ],
+  [
+   "res#62660/itemBase.identifiedName",
+   "Poison Orb",
+   "毒法球"
+  ],
+  [
+   "res#62660/itemBase.unidentifiedName",
+   "Poison Orb",
+   "毒法球"
+  ],
+  [
+   "res#62661/itemBase.identifiedName",
+   "Key",
+   "钥匙"
+  ],
+  [
+   "res#62661/itemBase.unidentifiedName",
+   "Key",
+   "钥匙"
+  ],
+  [
+   "res#62662/itemBase.identifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62662/itemBase.unidentifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62663/itemBase.identifiedName",
+   "Bread Loaf",
+   "面包"
+  ],
+  [
+   "res#62663/itemBase.unidentifiedName",
+   "Bread Loaf",
+   "面包"
+  ],
+  [
+   "res#62664/itemBase.identifiedName",
+   "Potion of Healing",
+   "治疗药水"
+  ],
+  [
+   "res#62664/itemBase.itemNotes",
+   "Restore Hit Points",
+   "恢复生命值"
+  ],
+  [
+   "res#62664/itemBase.unidentifiedName",
+   "Potion of Healing",
+   "治疗药水"
+  ],
+  [
+   "res#62665/itemBase.identifiedName",
+   "Traveller's Cloak",
+   "旅人斗篷"
+  ],
+  [
+   "res#62665/itemBase.setName",
+   "Traveller",
+   "旅人"
+  ],
+  [
+   "res#62665/itemBase.unidentifiedName",
+   "Traveller's Cloak",
+   "旅人斗篷"
+  ],
+  [
+   "res#62666/itemBase.identifiedName",
+   "Barsuum's Bevor",
+   "巴苏姆的护颈"
+  ],
+  [
+   "res#62666/itemBase.setName",
+   "Barsuum",
+   "巴苏姆"
+  ],
+  [
+   "res#62666/itemBase.unidentifiedName",
+   "Unknown Bevor",
+   "未知护颈"
+  ],
+  [
+   "res#62667/itemBase.identifiedName",
+   "Butterfly",
+   "蝴蝶"
+  ],
+  [
+   "res#62667/itemBase.unidentifiedName",
+   "Butterfly",
+   "蝴蝶"
+  ],
+  [
+   "res#62668/itemBase.identifiedName",
+   "Marksman's Arrows",
+   "神射手的箭"
+  ],
+  [
+   "res#62668/itemBase.unidentifiedName",
+   "Marksman's Arrows",
+   "神射手的箭"
+  ],
+  [
+   "res#62669/itemBase.identifiedName",
+   "Barsuum's Treaders",
+   "巴苏姆的踏靴"
+  ],
+  [
+   "res#62669/itemBase.setName",
+   "Barsuum",
+   "巴苏姆"
+  ],
+  [
+   "res#62669/itemBase.unidentifiedName",
+   "Mysterious Boots",
+   "神秘之靴"
+  ],
+  [
+   "res#62670/itemBase.identifiedName",
+   "Leather Gloves",
+   "皮手套"
+  ],
+  [
+   "res#62670/itemBase.setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "res#62670/itemBase.unidentifiedName",
+   "Leather Gloves",
+   "皮手套"
+  ],
+  [
+   "res#62671/itemBase.identifiedName",
+   "Bucket",
+   "桶"
+  ],
+  [
+   "res#62671/itemBase.unidentifiedName",
+   "Bucket",
+   "桶"
+  ],
+  [
+   "res#62672/itemBase.identifiedName",
+   "Treads of Tethrys",
+   "泰丝瑞斯之履"
+  ],
+  [
+   "res#62672/itemBase.setName",
+   "Tethrys",
+   "泰丝瑞斯"
+  ],
+  [
+   "res#62672/itemBase.unidentifiedName",
+   "Mysterious Boots",
+   "神秘之靴"
+  ],
+  [
+   "res#62673/itemBase.identifiedName",
+   "Leunamar's Heart",
+   "卢纳玛尔之心"
+  ],
+  [
+   "res#62673/itemBase.setName",
+   "Leunamar",
+   "卢纳玛尔"
+  ],
+  [
+   "res#62673/itemBase.unidentifiedName",
+   "Mysterious Armor",
+   "神秘护甲"
+  ],
+  [
+   "res#62674/itemBase.identifiedName",
+   "Potion of Minor Healing",
+   "次级治疗药水"
+  ],
+  [
+   "res#62674/itemBase.itemNotes",
+   "Restore Hit Points",
+   "恢复生命值"
+  ],
+  [
+   "res#62674/itemBase.unidentifiedName",
+   "Potion of Minor Healing",
+   "次级治疗药水"
+  ],
+  [
+   "res#62675/itemBase.identifiedName",
+   "Potion of Mana Regeneration",
+   "法力回复药水"
+  ],
+  [
+   "res#62675/itemBase.itemNotes",
+   "Increase Mana Gain Process",
+   "提高法力回复速度"
+  ],
+  [
+   "res#62675/itemBase.unidentifiedName",
+   "Potion of Mana Regeneration",
+   "法力回复药水"
+  ],
+  [
+   "res#62676/itemBase.identifiedName",
+   "Serpentus",
+   "塞彭图斯"
+  ],
+  [
+   "res#62676/itemBase.setName",
+   "Poison",
+   "毒"
+  ],
+  [
+   "res#62676/itemBase.specialInfo",
+   "Applies Only to Bows",
+   "仅适用于弓"
+  ],
+  [
+   "res#62676/itemBase.unidentifiedName",
+   "Ornate Quiver",
+   "华丽箭袋"
+  ],
+  [
+   "res#62677/itemBase.identifiedName",
+   "Fire Orb",
+   "火法球"
+  ],
+  [
+   "res#62677/itemBase.unidentifiedName",
+   "Fire Orb",
+   "火法球"
+  ],
+  [
+   "res#62678/itemBase.identifiedName",
+   "Cheese",
+   "奶酪"
+  ],
+  [
+   "res#62678/itemBase.unidentifiedName",
+   "Cheese",
+   "奶酪"
+  ],
+  [
+   "res#62679/itemBase.identifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62679/itemBase.itemNotes",
+   "Place in any slot except weapon and shield.",
+   "可放置于除武器与盾牌外的任意栏位。"
+  ],
+  [
+   "res#62679/itemBase.unidentifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62680/itemBase.identifiedName",
+   "Healer's Field Manual",
+   "医者手册"
+  ],
+  [
+   "res#62680/itemBase.setName",
+   "First Aid",
+   "急救"
+  ],
+  [
+   "res#62680/itemBase.unidentifiedName",
+   "Healer's Field Manual",
+   "医者手册"
+  ],
+  [
+   "res#62681/itemBase.identifiedName",
+   "Flute",
+   "长笛"
+  ],
+  [
+   "res#62681/itemBase.itemNotes",
+   "A finely crafted wooden flute.",
+   "一把做工精良的木制长笛。"
+  ],
+  [
+   "res#62681/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62681/itemBase.unidentifiedName",
+   "Flute",
+   "长笛"
+  ],
+  [
+   "res#62682/itemBase.identifiedName",
+   "Of Pots and Their Contents",
+   "《论罐与其中之物》"
+  ],
+  [
+   "res#62682/itemBase.setName",
+   "Identify",
+   "鉴定"
+  ],
+  [
+   "res#62682/itemBase.unidentifiedName",
+   "Of Pots and Their Contents",
+   "《论罐与其中之物》"
+  ],
+  [
+   "res#62683/itemBase.identifiedName",
+   "Ancient Cheese",
+   "古老奶酪"
+  ],
+  [
+   "res#62683/itemBase.unidentifiedName",
+   "Ancient Cheese",
+   "古老奶酪"
+  ],
+  [
+   "res#62684/itemBase.identifiedName",
+   "The Beginning",
+   "《开端》"
+  ],
+  [
+   "res#62684/itemBase.unidentifiedName",
+   "The Beginning",
+   "《开端》"
+  ],
+  [
+   "res#62685/itemBase.identifiedName",
+   "Dungeon Amber",
+   "地牢琥珀"
+  ],
+  [
+   "res#62685/itemBase.unidentifiedName",
+   "Dungeon Amber",
+   "地牢琥珀"
+  ],
+  [
+   "res#62686/itemBase.identifiedName",
+   "Padded Armor",
+   "软甲"
+  ],
+  [
+   "res#62686/itemBase.unidentifiedName",
+   "Padded Armor",
+   "软甲"
+  ],
+  [
+   "res#62687/itemBase.identifiedName",
+   "Sentient Wood",
+   "有灵之木"
+  ],
+  [
+   "res#62687/itemBase.unidentifiedName",
+   "Sentient Wood",
+   "有灵之木"
+  ],
+  [
+   "res#62688/itemBase.identifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62688/itemBase.unidentifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62689/itemBase.identifiedName",
+   "Claws of Tethrys",
+   "泰丝瑞斯之爪"
+  ],
+  [
+   "res#62689/itemBase.setName",
+   "Tethrys",
+   "泰丝瑞斯"
+  ],
+  [
+   "res#62689/itemBase.unidentifiedName",
+   "Mysterious Gloves",
+   "神秘手套"
+  ],
+  [
+   "res#62690/itemBase.identifiedName",
+   "Rogue's Jerkin",
+   "游侠皮衣"
+  ],
+  [
+   "res#62690/itemBase.setName",
+   "Rogue",
+   "游侠"
+  ],
+  [
+   "res#62690/itemBase.unidentifiedName",
+   "Rogue's Jerkin",
+   "游侠皮衣"
+  ],
+  [
+   "res#62691/itemBase.identifiedName",
+   "Woodcutter's Ring",
+   "木匠的戒指"
+  ],
+  [
+   "res#62691/itemBase.unidentifiedName",
+   "Woodcutter's Ring",
+   "木匠的戒指"
+  ],
+  [
+   "res#62692/itemBase.identifiedName",
+   "Snail Meat",
+   "蜗牛肉"
+  ],
+  [
+   "res#62692/itemBase.unidentifiedName",
+   "Snail Meat",
+   "蜗牛肉"
+  ],
+  [
+   "res#62693/itemBase.identifiedName",
+   "Merchant's Robe",
+   "商人长袍"
+  ],
+  [
+   "res#62693/itemBase.setName",
+   "Merchant",
+   "商人"
+  ],
+  [
+   "res#62693/itemBase.unidentifiedName",
+   "Merchant's Robe",
+   "商人长袍"
+  ],
+  [
+   "res#62694/itemBase.identifiedName",
+   "Huntsman's Arrows",
+   "猎人的箭"
+  ],
+  [
+   "res#62694/itemBase.specialInfo",
+   "Changes Damage Type to Slashing",
+   "将伤害类型变为挥砍"
+  ],
+  [
+   "res#62694/itemBase.unidentifiedName",
+   "Huntsman's Arrows",
+   "猎人的箭"
+  ],
+  [
+   "res#62695/itemBase.identifiedName",
+   "Potion of Exaltare",
+   "埃克萨尔塔药水"
+  ],
+  [
+   "res#62695/itemBase.itemNotes",
+   "Permanently gain +1 to all Stats",
+   "永久获得全属性 +1"
+  ],
+  [
+   "res#62695/itemBase.unidentifiedName",
+   "Potion of Exaltare",
+   "埃克萨尔塔药水"
+  ],
+  [
+   "res#62696/itemBase.identifiedName",
+   "Elendor's Gilding",
+   "埃伦多尔的金饰"
+  ],
+  [
+   "res#62696/itemBase.setName",
+   "Elendor",
+   "埃伦多尔"
+  ],
+  [
+   "res#62696/itemBase.unidentifiedName",
+   "Silver Ring",
+   "银戒指"
+  ],
+  [
+   "res#62697/itemBase.identifiedName",
+   "Milk Bucket",
+   "奶桶"
+  ],
+  [
+   "res#62697/itemBase.unidentifiedName",
+   "Milk Bucket",
+   "奶桶"
+  ],
+  [
+   "res#62698/itemBase.identifiedName",
+   "Fang",
+   "尖牙"
+  ],
+  [
+   "res#62698/itemBase.unidentifiedName",
+   "Fang",
+   "尖牙"
+  ],
+  [
+   "res#62699/itemBase.identifiedName",
+   "Stinger",
+   "毒刺"
+  ],
+  [
+   "res#62699/itemBase.unidentifiedName",
+   "Stinger",
+   "毒刺"
+  ],
+  [
+   "res#62700/itemBase.identifiedName",
+   "Leather Cowl",
+   "皮兜帽"
+  ],
+  [
+   "res#62700/itemBase.setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "res#62700/itemBase.unidentifiedName",
+   "Leather Cowl",
+   "皮兜帽"
+  ],
+  [
+   "res#62701/itemBase.identifiedName",
+   "Tasset",
+   "腿甲"
+  ],
+  [
+   "res#62701/itemBase.setName",
+   "Scale",
+   "鳞甲"
+  ],
+  [
+   "res#62701/itemBase.unidentifiedName",
+   "Tasset",
+   "腿甲"
+  ],
+  [
+   "res#62702/itemBase.identifiedName",
+   "TEGraveyard1",
+   "墓园钥匙"
+  ],
+  [
+   "res#62702/itemBase.unidentifiedName",
+   "Graveyard Key",
+   "墓园钥匙"
+  ],
+  [
+   "res#62703/itemBase.identifiedName",
+   "Carapace Boots",
+   "甲壳之靴"
+  ],
+  [
+   "res#62703/itemBase.setName",
+   "Carapace",
+   "甲壳"
+  ],
+  [
+   "res#62703/itemBase.unidentifiedName",
+   "Carapace Boots",
+   "甲壳之靴"
+  ],
+  [
+   "res#62704/itemBase.identifiedName",
+   "Ashkin's Shell",
+   "阿什金之壳"
+  ],
+  [
+   "res#62704/itemBase.setName",
+   "Ashkin",
+   "阿什金"
+  ],
+  [
+   "res#62704/itemBase.unidentifiedName",
+   "Dog Armor",
+   "犬用护甲"
+  ],
+  [
+   "res#62705/itemBase.identifiedName",
+   "Ossiclarium",
+   "奥西克拉里姆"
+  ],
+  [
+   "res#62705/itemBase.setName",
+   "Bone",
+   "骨"
+  ],
+  [
+   "res#62705/itemBase.unidentifiedName",
+   "Bone Ring",
+   "骨戒"
+  ],
+  [
+   "res#62706/itemBase.identifiedName",
+   "Potion of Speed",
+   "速度药水"
+  ],
+  [
+   "res#62706/itemBase.itemNotes",
+   "Increase Speed",
+   "提高速度"
+  ],
+  [
+   "res#62706/itemBase.unidentifiedName",
+   "Potion of Speed",
+   "速度药水"
+  ],
+  [
+   "res#62707/itemBase.identifiedName",
+   "Rogue's Belt",
+   "游侠腰带"
+  ],
+  [
+   "res#62707/itemBase.setName",
+   "Rogue",
+   "游侠"
+  ],
+  [
+   "res#62707/itemBase.unidentifiedName",
+   "Rogue's Belt",
+   "游侠腰带"
+  ],
+  [
+   "res#62708/itemBase.identifiedName",
+   "Full Rack of Ribs",
+   "整排肋排"
+  ],
+  [
+   "res#62708/itemBase.unidentifiedName",
+   "Full Rack of Ribs",
+   "整排肋排"
+  ],
+  [
+   "res#62709/itemBase.identifiedName",
+   "Scale Mail Boots",
+   "鳞甲靴"
+  ],
+  [
+   "res#62709/itemBase.setName",
+   "Scale",
+   "鳞甲"
+  ],
+  [
+   "res#62709/itemBase.unidentifiedName",
+   "Scale Mail Boots",
+   "鳞甲靴"
+  ],
+  [
+   "res#62710/itemBase.identifiedName",
+   "Rogue's Hood",
+   "游侠兜帽"
+  ],
+  [
+   "res#62710/itemBase.setName",
+   "Rogue",
+   "游侠"
+  ],
+  [
+   "res#62710/itemBase.unidentifiedName",
+   "Rogue's Hood",
+   "游侠兜帽"
+  ],
+  [
+   "res#62711/itemBase.identifiedName",
+   "Legends of Extraordinary Vermin",
+   "《非凡害兽传说》"
+  ],
+  [
+   "res#62711/itemBase.setName",
+   "MonsterLore",
+   "怪物学识"
+  ],
+  [
+   "res#62711/itemBase.unidentifiedName",
+   "Legends of Extraordinary Vermin",
+   "《非凡害兽传说》"
+  ],
+  [
+   "res#62712/itemBase.identifiedName",
+   "Applying Your Craft",
+   "《手艺的运用》"
+  ],
+  [
+   "res#62712/itemBase.setName",
+   "Craft",
+   "制作"
+  ],
+  [
+   "res#62712/itemBase.unidentifiedName",
+   "Applying Your Craft",
+   "《手艺的运用》"
+  ],
+  [
+   "res#62713/itemBase.identifiedName",
+   "Potion of Minor Mana",
+   "次级法力药水"
+  ],
+  [
+   "res#62713/itemBase.itemNotes",
+   "Restore Mana Points",
+   "恢复法力值"
+  ],
+  [
+   "res#62713/itemBase.unidentifiedName",
+   "Potion of Minor Mana",
+   "次级法力药水"
+  ],
+  [
+   "res#62714/itemBase.identifiedName",
+   "Studded Leather Cowl",
+   "镶钉皮兜帽"
+  ],
+  [
+   "res#62714/itemBase.setName",
+   "Studded",
+   "镶钉"
+  ],
+  [
+   "res#62714/itemBase.unidentifiedName",
+   "Studded Leather Cowl",
+   "镶钉皮兜帽"
+  ],
+  [
+   "res#62715/itemBase.identifiedName",
+   "Plate Mail Helmet",
+   "板甲头盔"
+  ],
+  [
+   "res#62715/itemBase.setName",
+   "Plate",
+   "板甲"
+  ],
+  [
+   "res#62715/itemBase.unidentifiedName",
+   "Plate Mail Helmet",
+   "板甲头盔"
+  ],
+  [
+   "res#62716/itemBase.identifiedName",
+   "Rat Tail",
+   "鼠尾"
+  ],
+  [
+   "res#62716/itemBase.unidentifiedName",
+   "Rat Tail",
+   "鼠尾"
+  ],
+  [
+   "res#62717/itemBase.identifiedName",
+   "Runic Impressions",
+   "符文印记"
+  ],
+  [
+   "res#62717/itemBase.unidentifiedName",
+   "Runic Impressions",
+   "符文印记"
+  ],
+  [
+   "res#62718/itemBase.identifiedName",
+   "Glyph Tablet",
+   "刻文石板"
+  ],
+  [
+   "res#62718/itemBase.unidentifiedName",
+   "Glyph Tablet",
+   "刻文石板"
+  ],
+  [
+   "res#62719/itemBase.identifiedName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#62719/itemBase.unidentifiedName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#62720/itemBase.identifiedName",
+   "Meat",
+   "肉"
+  ],
+  [
+   "res#62720/itemBase.unidentifiedName",
+   "Meat",
+   "肉"
+  ],
+  [
+   "res#62721/itemBase.identifiedName",
+   "Musician's Cloak",
+   "乐师斗篷"
+  ],
+  [
+   "res#62721/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62721/itemBase.unidentifiedName",
+   "Musician's Cloak",
+   "乐师斗篷"
+  ],
+  [
+   "res#62722/itemBase.identifiedName",
+   "Adventurer's Boots",
+   "冒险者之靴"
+  ],
+  [
+   "res#62722/itemBase.setName",
+   "Adventurer",
+   "冒险者"
+  ],
+  [
+   "res#62722/itemBase.unidentifiedName",
+   "Adventurer's Boots",
+   "冒险者之靴"
+  ],
+  [
+   "res#62723/itemBase.identifiedName",
+   "Adventurer's Helm",
+   "冒险者头盔"
+  ],
+  [
+   "res#62723/itemBase.setName",
+   "Adventurer",
+   "冒险者"
+  ],
+  [
+   "res#62723/itemBase.unidentifiedName",
+   "Adventurer's Helm",
+   "冒险者头盔"
+  ],
+  [
+   "res#62724/itemBase.identifiedName",
+   "Chitinous Plate",
+   "甲壳板"
+  ],
+  [
+   "res#62724/itemBase.unidentifiedName",
+   "Chitinous Plate",
+   "甲壳板"
+  ],
+  [
+   "res#62725/itemBase.identifiedName",
+   "Andelidius",
+   "安德里迪乌斯"
+  ],
+  [
+   "res#62725/itemBase.itemNotes",
+   "Mana points are given for a limited time, and can rise above maximum Mana Points.",
+   "法力点为限时获得，且可超过最大法力值。"
+  ],
+  [
+   "res#62725/itemBase.unidentifiedName",
+   "Andelidius",
+   "安德里迪乌斯"
+  ],
+  [
+   "res#62726/itemBase.identifiedName",
+   "Scale Mail Armor",
+   "鳞甲"
+  ],
+  [
+   "res#62726/itemBase.setName",
+   "Scale",
+   "鳞甲"
+  ],
+  [
+   "res#62726/itemBase.unidentifiedName",
+   "Scale Mail Armor",
+   "鳞甲"
+  ],
+  [
+   "res#62727/itemBase.identifiedName",
+   "Ring",
+   "戒指"
+  ],
+  [
+   "res#62727/itemBase.unidentifiedName",
+   "Ring",
+   "戒指"
+  ],
+  [
+   "res#62728/itemBase.identifiedName",
+   "Chain Mail Gloves",
+   "链甲手套"
+  ],
+  [
+   "res#62728/itemBase.setName",
+   "Chain",
+   "链鞭"
+  ],
+  [
+   "res#62728/itemBase.unidentifiedName",
+   "Chain Mail Gloves",
+   "链甲手套"
+  ],
+  [
+   "res#62729/itemBase.identifiedName",
+   "Sundrop",
+   "太阳露"
+  ],
+  [
+   "res#62729/itemBase.unidentifiedName",
+   "Sundrop",
+   "太阳露"
+  ],
+  [
+   "res#62730/itemBase.identifiedName",
+   "Marrow Pea",
+   "骨髓豆"
+  ],
+  [
+   "res#62730/itemBase.unidentifiedName",
+   "Marrow Pea",
+   "骨髓豆"
+  ],
+  [
+   "res#62731/itemBase.identifiedName",
+   "Isobel's Inheritance",
+   "伊索贝尔的遗珍"
+  ],
+  [
+   "res#62731/itemBase.itemNotes",
+   "Despite being in the dirt for a long time, the pendant appears unmarked.",
+   "尽管埋在土里许久，这枚吊坠依然毫无磨损。"
+  ],
+  [
+   "res#62731/itemBase.unidentifiedName",
+   "Pendant",
+   "吊坠"
+  ],
+  [
+   "res#62732/itemBase.identifiedName",
+   "Waistband of Tethrys",
+   "泰丝瑞斯之腰带"
+  ],
+  [
+   "res#62732/itemBase.setName",
+   "Tethrys",
+   "泰丝瑞斯"
+  ],
+  [
+   "res#62732/itemBase.unidentifiedName",
+   "Mysterious Belt",
+   "神秘腰带"
+  ],
+  [
+   "res#62733/itemBase.identifiedName",
+   "Hot Ice",
+   "灼冰"
+  ],
+  [
+   "res#62733/itemBase.unidentifiedName",
+   "Hot Ice",
+   "灼冰"
+  ],
+  [
+   "res#62734/itemBase.identifiedName",
+   "Leunamar's Mind",
+   "卢纳玛尔之智"
+  ],
+  [
+   "res#62734/itemBase.setName",
+   "Leunamar",
+   "卢纳玛尔"
+  ],
+  [
+   "res#62734/itemBase.unidentifiedName",
+   "Mysterious Helmet",
+   "神秘头盔"
+  ],
+  [
+   "res#62735/itemBase.identifiedName",
+   "Breastplate Armor",
+   "胸甲"
+  ],
+  [
+   "res#62735/itemBase.setName",
+   "Plate",
+   "板甲"
+  ],
+  [
+   "res#62735/itemBase.unidentifiedName",
+   "Breastplate Armor",
+   "胸甲"
+  ],
+  [
+   "res#62736/itemBase.identifiedName",
+   "Chain Mail Boots",
+   "链甲靴"
+  ],
+  [
+   "res#62736/itemBase.setName",
+   "Chain",
+   "链鞭"
+  ],
+  [
+   "res#62736/itemBase.unidentifiedName",
+   "Chain Mail Boots",
+   "链甲靴"
+  ],
+  [
+   "res#62737/itemBase.identifiedName",
+   "Ring",
+   "戒指"
+  ],
+  [
+   "res#62737/itemBase.unidentifiedName",
+   "Ring",
+   "戒指"
+  ],
+  [
+   "res#62738/itemBase.identifiedName",
+   "Fairlight Hoverskin",
+   "仙光浮甲"
+  ],
+  [
+   "res#62738/itemBase.setName",
+   "Fairy",
+   "妖精"
+  ],
+  [
+   "res#62738/itemBase.unidentifiedName",
+   "Fae Armor",
+   "妖精护甲"
+  ],
+  [
+   "res#62739/itemBase.identifiedName",
+   "Psaltery",
+   "萨泰里琴"
+  ],
+  [
+   "res#62739/itemBase.itemNotes",
+   "A finely crafted wooden vielle.",
+   "一把做工精良的木制维耶尔琴。"
+  ],
+  [
+   "res#62739/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62739/itemBase.unidentifiedName",
+   "Psaltery",
+   "萨泰里琴"
+  ],
+  [
+   "res#62740/itemBase.identifiedName",
+   "Angelic Incursions,Volume 1",
+   "《天使入侵》卷一"
+  ],
+  [
+   "res#62740/itemBase.unidentifiedName",
+   "Angelic Incursions, Volume 1",
+   "《天使入侵》卷一"
+  ],
+  [
+   "res#62741/itemBase.identifiedName",
+   "Fur Armor",
+   "毛皮护甲"
+  ],
+  [
+   "res#62741/itemBase.setName",
+   "Fur",
+   "毛皮"
+  ],
+  [
+   "res#62741/itemBase.unidentifiedName",
+   "Fur Armor",
+   "毛皮护甲"
+  ],
+  [
+   "res#62742/itemBase.identifiedName",
+   "Water Bucket",
+   "水桶"
+  ],
+  [
+   "res#62742/itemBase.unidentifiedName",
+   "Water Bucket",
+   "水桶"
+  ],
+  [
+   "res#62743/itemBase.identifiedName",
+   "Toad Finger Charm",
+   "蟾蜍指骨护符"
+  ],
+  [
+   "res#62743/itemBase.itemNotes",
+   "This necklace is covered in small finger bones from some creature.",
+   "这条项链上缀满了某种生物的小块指骨。"
+  ],
+  [
+   "res#62743/itemBase.setName",
+   "Toad",
+   "蟾蜍"
+  ],
+  [
+   "res#62743/itemBase.unidentifiedName",
+   "Bone Necklace",
+   "骨制项链"
+  ],
+  [
+   "res#62744/itemBase.identifiedName",
+   "Aether Band",
+   "以太环带"
+  ],
+  [
+   "res#62744/itemBase.itemNotes",
+   "A strange light floats between tendrils of an unknown material.",
+   "一股奇异的光芒漂浮在未知材质的卷须之间。"
+  ],
+  [
+   "res#62744/itemBase.setName",
+   "Aether",
+   "以太"
+  ],
+  [
+   "res#62744/itemBase.unidentifiedName",
+   "Mysterious Ring",
+   "神秘戒指"
+  ],
+  [
+   "res#62745/itemBase.identifiedName",
+   "Soul Gazer",
+   "凝视之魂"
+  ],
+  [
+   "res#62745/itemBase.itemNotes",
+   "This orb has a dark center that seems to extend deep into a void.",
+   "这颗宝珠的中心幽暗，仿佛直通往虚空深处。"
+  ],
+  [
+   "res#62745/itemBase.unidentifiedName",
+   "Strange Orb",
+   "奇异宝珠"
+  ],
+  [
+   "res#62746/itemBase.identifiedName",
+   "Plate Mail Gloves",
+   "板甲手套"
+  ],
+  [
+   "res#62746/itemBase.setName",
+   "Plate",
+   "板甲"
+  ],
+  [
+   "res#62746/itemBase.unidentifiedName",
+   "Plate Mail Gloves",
+   "板甲手套"
+  ],
+  [
+   "res#62747/itemBase.identifiedName",
+   "Potion of Mana",
+   "法力药水"
+  ],
+  [
+   "res#62747/itemBase.itemNotes",
+   "Restore Mana Points",
+   "恢复法力值"
+  ],
+  [
+   "res#62747/itemBase.unidentifiedName",
+   "Potion of Mana",
+   "法力药水"
+  ],
+  [
+   "res#62748/itemBase.identifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62748/itemBase.unidentifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62749/itemBase.identifiedName",
+   "Rezandifer's Mantle",
+   "雷赞迪弗的披风"
+  ],
+  [
+   "res#62749/itemBase.setName",
+   "Rezandifer",
+   "雷赞迪弗"
+  ],
+  [
+   "res#62749/itemBase.unidentifiedName",
+   "Majestic Cloak",
+   "雄伟斗篷"
+  ],
+  [
+   "res#62750/itemBase.identifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62750/itemBase.unidentifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62751/itemBase.identifiedName",
+   "TELibrary1",
+   "图书馆钥匙"
+  ],
+  [
+   "res#62751/itemBase.unidentifiedName",
+   "Library Key",
+   "图书馆钥匙"
+  ],
+  [
+   "res#62752/itemBase.identifiedName",
+   "Decomposing Book",
+   "腐解之书"
+  ],
+  [
+   "res#62752/itemBase.itemNotes",
+   "This book is too degraded to be of any use.",
+   "这本书腐坏得太严重，已经毫无用处。"
+  ],
+  [
+   "res#62752/itemBase.unidentifiedName",
+   "Decomposing Book",
+   "腐解之书"
+  ],
+  [
+   "res#62753/itemBase.identifiedName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#62753/itemBase.unidentifiedName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#62754/itemBase.identifiedName",
+   "Seeking the Cloaked Abrigal",
+   "《寻找披斗篷的阿布里加尔》"
+  ],
+  [
+   "res#62754/itemBase.setName",
+   "Awareness",
+   "警觉"
+  ],
+  [
+   "res#62754/itemBase.unidentifiedName",
+   "Seeking the Cloaked Abrigal",
+   "《寻找披斗篷的阿布里加尔》"
+  ],
+  [
+   "res#62755/itemBase.identifiedName",
+   "UManatiteMine1",
+   "矿井钥匙"
+  ],
+  [
+   "res#62755/itemBase.unidentifiedName",
+   "Mine Key",
+   "矿井钥匙"
+  ],
+  [
+   "res#62756/itemBase.identifiedName",
+   "Ashkin's Esteem",
+   "阿什金之辉"
+  ],
+  [
+   "res#62756/itemBase.setName",
+   "Ashkin",
+   "阿什金"
+  ],
+  [
+   "res#62756/itemBase.unidentifiedName",
+   "Doggy Bandana",
+   "狗狗头巾"
+  ],
+  [
+   "res#62757/itemBase.identifiedName",
+   "Potion of Health Regeneration",
+   "生命回复药水"
+  ],
+  [
+   "res#62757/itemBase.itemNotes",
+   "Increase Healing Process",
+   "提高治疗恢复"
+  ],
+  [
+   "res#62757/itemBase.unidentifiedName",
+   "Potion of Health Regeneration",
+   "生命回复药水"
+  ],
+  [
+   "res#62758/itemBase.identifiedName",
+   "Seed Needle",
+   "种子针"
+  ],
+  [
+   "res#62758/itemBase.unidentifiedName",
+   "Seed Needle",
+   "种子针"
+  ],
+  [
+   "res#62759/itemBase.identifiedName",
+   "Rabbit",
+   "兔"
+  ],
+  [
+   "res#62759/itemBase.unidentifiedName",
+   "Rabbit",
+   "兔"
+  ],
+  [
+   "res#62760/itemBase.identifiedName",
+   "Shard of Gammon",
+   "加蒙碎片"
+  ],
+  [
+   "res#62760/itemBase.itemNotes",
+   "It is a fragment of sharp metal, possibly the tip of a sword. It glows with thin red lines.",
+   "一块锋利的金属碎片，可能是剑尖。上面泛着细细的红光。"
+  ],
+  [
+   "res#62760/itemBase.unidentifiedName",
+   "Shard of Gammon",
+   "加蒙碎片"
+  ],
+  [
+   "res#62761/itemBase.identifiedName",
+   "Cake",
+   "蛋糕"
+  ],
+  [
+   "res#62761/itemBase.unidentifiedName",
+   "Cake",
+   "蛋糕"
+  ],
+  [
+   "res#62762/itemBase.identifiedName",
+   "Barsuum's Refuge",
+   "巴苏姆的庇护"
+  ],
+  [
+   "res#62762/itemBase.setName",
+   "Barsuum",
+   "巴苏姆"
+  ],
+  [
+   "res#62762/itemBase.unidentifiedName",
+   "Mysterious Hood",
+   "神秘兜帽"
+  ],
+  [
+   "res#62763/itemBase.identifiedName",
+   "Discovering Izurak",
+   "《发现伊祖拉克》"
+  ],
+  [
+   "res#62763/itemBase.unidentifiedName",
+   "Discovering Izurak",
+   "《发现伊祖拉克》"
+  ],
+  [
+   "res#62764/itemBase.identifiedName",
+   "Plane Piercer",
+   "穿位草"
+  ],
+  [
+   "res#62764/itemBase.unidentifiedName",
+   "Strange Mushroom",
+   "奇异蘑菇"
+  ],
+  [
+   "res#62765/itemBase.identifiedName",
+   "Tethrys' Concretion",
+   "泰丝瑞斯的凝珠"
+  ],
+  [
+   "res#62765/itemBase.setName",
+   "Tethrys",
+   "泰丝瑞斯"
+  ],
+  [
+   "res#62765/itemBase.unidentifiedName",
+   "Strange Orb",
+   "奇异宝珠"
+  ],
+  [
+   "res#62766/itemBase.identifiedName",
+   "Iron Ore",
+   "铁矿石"
+  ],
+  [
+   "res#62766/itemBase.unidentifiedName",
+   "Iron Ore",
+   "铁矿石"
+  ],
+  [
+   "res#62767/itemBase.identifiedName",
+   "Muffins",
+   "松饼"
+  ],
+  [
+   "res#62767/itemBase.unidentifiedName",
+   "Muffins",
+   "松饼"
+  ],
+  [
+   "res#62768/itemBase.identifiedName",
+   "Timauron's Touch",
+   "蒂莫伦之触"
+  ],
+  [
+   "res#62768/itemBase.itemNotes",
+   "A silver band coils lengthwise to wrap a finger in tiny jewels.",
+   "银色的环带顺着指节盘绕，缀满细小的宝石。"
+  ],
+  [
+   "res#62768/itemBase.setName",
+   "Aether",
+   "以太"
+  ],
+  [
+   "res#62768/itemBase.unidentifiedName",
+   "Mysterious Ring",
+   "神秘戒指"
+  ],
+  [
+   "res#62769/itemBase.identifiedName",
+   "Plackart",
+   "胸腹甲"
+  ],
+  [
+   "res#62769/itemBase.setName",
+   "Plate",
+   "板甲"
+  ],
+  [
+   "res#62769/itemBase.unidentifiedName",
+   "Plackart",
+   "胸腹甲"
+  ],
+  [
+   "res#62770/itemBase.identifiedName",
+   "Moldy Bread",
+   "发霉的面包"
+  ],
+  [
+   "res#62770/itemBase.itemNotes",
+   "It does not look very appetizing.",
+   "看起来一点都不诱人。"
+  ],
+  [
+   "res#62770/itemBase.unidentifiedName",
+   "Moldy Bread",
+   "发霉的面包"
+  ],
+  [
+   "res#62771/itemBase.identifiedName",
+   "Nutritious Gel",
+   "营养凝胶"
+  ],
+  [
+   "res#62771/itemBase.unidentifiedName",
+   "Nutritious Gel",
+   "营养凝胶"
+  ],
+  [
+   "res#62772/itemBase.identifiedName",
+   "Manatite",
+   "法力晶石"
+  ],
+  [
+   "res#62772/itemBase.unidentifiedName",
+   "Manatite",
+   "法力晶石"
+  ],
+  [
+   "res#62773/itemBase.identifiedName",
+   "Silver Ore",
+   "银矿石"
+  ],
+  [
+   "res#62773/itemBase.unidentifiedName",
+   "Silver Ore",
+   "银矿石"
+  ],
+  [
+   "res#62774/itemBase.identifiedName",
+   "Fur Boots",
+   "毛皮靴"
+  ],
+  [
+   "res#62774/itemBase.setName",
+   "Fur",
+   "毛皮"
+  ],
+  [
+   "res#62774/itemBase.unidentifiedName",
+   "Fur Boots",
+   "毛皮靴"
+  ],
+  [
+   "res#62775/itemBase.identifiedName",
+   "Emerald",
+   "绿宝石"
+  ],
+  [
+   "res#62775/itemBase.unidentifiedName",
+   "Emerald",
+   "绿宝石"
+  ],
+  [
+   "res#62776/itemBase.identifiedName",
+   "Fairwing",
+   "仙翼"
+  ],
+  [
+   "res#62776/itemBase.setName",
+   "Fairy",
+   "妖精"
+  ],
+  [
+   "res#62776/itemBase.unidentifiedName",
+   "Butterfly Ring",
+   "蝴蝶戒指"
+  ],
+  [
+   "res#62777/itemBase.identifiedName",
+   "Boar Meat",
+   "野猪肉"
+  ],
+  [
+   "res#62777/itemBase.unidentifiedName",
+   "Boar Meat",
+   "野猪肉"
+  ],
+  [
+   "res#62778/itemBase.identifiedName",
+   "Ghost Apple",
+   "幽灵苹果"
+  ],
+  [
+   "res#62778/itemBase.unidentifiedName",
+   "Ghost Apple",
+   "幽灵苹果"
+  ],
+  [
+   "res#62779/itemBase.identifiedName",
+   "Our Beloved Moons",
+   "《我们钟爱的月亮》"
+  ],
+  [
+   "res#62779/itemBase.unidentifiedName",
+   "Our Beloved Moons",
+   "《我们钟爱的月亮》"
+  ],
+  [
+   "res#62780/itemBase.identifiedName",
+   "Potion of Fire Resistance",
+   "抗火药水"
+  ],
+  [
+   "res#62780/itemBase.itemNotes",
+   "Resist Fire Damage and Effects",
+   "抵抗火焰伤害及效果"
+  ],
+  [
+   "res#62780/itemBase.unidentifiedName",
+   "Potion of Fire Resistance",
+   "抗火药水"
+  ],
+  [
+   "res#62781/itemBase.identifiedName",
+   "Leunamar's Aid",
+   "卢纳玛尔之助"
+  ],
+  [
+   "res#62781/itemBase.setName",
+   "Leunamar",
+   "卢纳玛尔"
+  ],
+  [
+   "res#62781/itemBase.unidentifiedName",
+   "Silver Ring",
+   "银戒指"
+  ],
+  [
+   "res#62782/itemBase.identifiedName",
+   "Living Dirt",
+   "活土"
+  ],
+  [
+   "res#62782/itemBase.unidentifiedName",
+   "Living Dirt",
+   "活土"
+  ],
+  [
+   "res#62783/itemBase.identifiedName",
+   "Fairlight Brow",
+   "仙光额冠"
+  ],
+  [
+   "res#62783/itemBase.setName",
+   "Fairy",
+   "妖精"
+  ],
+  [
+   "res#62783/itemBase.unidentifiedName",
+   "Fae Circlet",
+   "妖精头环"
+  ],
+  [
+   "res#62784/itemBase.identifiedName",
+   "Femur",
+   "股骨"
+  ],
+  [
+   "res#62784/itemBase.unidentifiedName",
+   "Femur",
+   "股骨"
+  ],
+  [
+   "res#62785/itemBase.identifiedName",
+   "Shard of Tethrys",
+   "泰丝瑞斯碎片"
+  ],
+  [
+   "res#62785/itemBase.itemNotes",
+   "It is a fragment of a sword, beginning with a hilt, and length of metal. It glows with thin blue lines.",
+   "一段剑的碎片，连着剑柄与一段剑身。上面泛着细细的蓝光。"
+  ],
+  [
+   "res#62785/itemBase.unidentifiedName",
+   "Shard of Tethrys",
+   "泰丝瑞斯碎片"
+  ],
+  [
+   "res#62786/itemBase.identifiedName",
+   "UCStoneDoor1",
+   "生锈的钥匙"
+  ],
+  [
+   "res#62786/itemBase.unidentifiedName",
+   "Rusted Key",
+   "生锈的钥匙"
+  ],
+  [
+   "res#62787/itemBase.identifiedName",
+   "Ham",
+   "火腿"
+  ],
+  [
+   "res#62787/itemBase.unidentifiedName",
+   "Ham",
+   "火腿"
+  ],
+  [
+   "res#62788/itemBase.identifiedName",
+   "The Adventures of Merrin, Chapter 6",
+   "《梅林历险记》第六章"
+  ],
+  [
+   "res#62788/itemBase.setName",
+   "Evasion",
+   "回避"
+  ],
+  [
+   "res#62788/itemBase.unidentifiedName",
+   "The Adventures of Merrin, Chapter 6",
+   "《梅林历险记》第六章"
+  ],
+  [
+   "res#62789/itemBase.identifiedName",
+   "Shock Orb",
+   "电击法球"
+  ],
+  [
+   "res#62789/itemBase.unidentifiedName",
+   "Shock Orb",
+   "电击法球"
+  ],
+  [
+   "res#62790/itemBase.identifiedName",
+   "Musician's Scarf",
+   "乐师围巾"
+  ],
+  [
+   "res#62790/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62790/itemBase.unidentifiedName",
+   "Musician's Scarf",
+   "乐师围巾"
+  ],
+  [
+   "res#62791/itemBase.identifiedName",
+   "Ice Orb",
+   "冰霜法球"
+  ],
+  [
+   "res#62791/itemBase.unidentifiedName",
+   "Ice Orb",
+   "冰霜法球"
+  ],
+  [
+   "res#62792/itemBase.identifiedName",
+   "Potion of Enhancement",
+   "强化药水"
+  ],
+  [
+   "res#62792/itemBase.itemNotes",
+   "Increase All Stats",
+   "提高所有属性"
+  ],
+  [
+   "res#62792/itemBase.unidentifiedName",
+   "Potion of Enhancement",
+   "强化药水"
+  ],
+  [
+   "res#62793/itemBase.identifiedName",
+   "Ruby",
+   "红宝石"
+  ],
+  [
+   "res#62793/itemBase.unidentifiedName",
+   "Ruby",
+   "红宝石"
+  ],
+  [
+   "res#62794/itemBase.identifiedName",
+   "Toadswoon",
+   "蟾眠"
+  ],
+  [
+   "res#62794/itemBase.setName",
+   "Toad",
+   "蟾蜍"
+  ],
+  [
+   "res#62794/itemBase.unidentifiedName",
+   "Wooden Ring",
+   "木戒指"
+  ],
+  [
+   "res#62795/itemBase.identifiedName",
+   "Potion of Rejuvenation",
+   "回春药水"
+  ],
+  [
+   "res#62795/itemBase.itemNotes",
+   "Restore Hit Points and Mana Points",
+   "恢复生命值与法力值"
+  ],
+  [
+   "res#62795/itemBase.unidentifiedName",
+   "Potion of Rejuvenation",
+   "回春药水"
+  ],
+  [
+   "res#62796/itemBase.identifiedName",
+   "Slippery Goo",
+   "滑溜黏液"
+  ],
+  [
+   "res#62796/itemBase.unidentifiedName",
+   "Slippery Goo",
+   "滑溜黏液"
+  ],
+  [
+   "res#62797/itemBase.identifiedName",
+   "Voice of Errolas",
+   "埃罗拉斯之声"
+  ],
+  [
+   "res#62797/itemBase.itemNotes",
+   "An odd looking lute made of fine wood and exquisite craftsmanship.",
+   "一把外型奇特的鲁特琴：上好的木料，精湛的工艺。"
+  ],
+  [
+   "res#62797/itemBase.setName",
+   "Errolas/Musician",
+   "埃罗拉斯/乐师"
+  ],
+  [
+   "res#62797/itemBase.unidentifiedName",
+   "Ornate Lute",
+   "华丽鲁特琴"
+  ],
+  [
+   "res#62798/itemBase.identifiedName",
+   "Barsuum's Firmity",
+   "巴苏姆的坚壁"
+  ],
+  [
+   "res#62798/itemBase.setName",
+   "Barsuum",
+   "巴苏姆"
+  ],
+  [
+   "res#62798/itemBase.unidentifiedName",
+   "Mysterious Gloves",
+   "神秘手套"
+  ],
+  [
+   "res#62799/itemBase.identifiedName",
+   "Moonstones",
+   "月长石"
+  ],
+  [
+   "res#62799/itemBase.itemNotes",
+   "For each moonstone, increase the effects of the moons by .5% and slightly extend the window in which they will activate runes.",
+   "每块月长石都会使月亮的效应提高 0.5%，并略微延长其激活符文的窗口期。"
+  ],
+  [
+   "res#62799/itemBase.unidentifiedName",
+   "Glowing Stones",
+   "发光的石头"
+  ],
+  [
+   "res#62800/itemBase.identifiedName",
+   "Corpse Shelf",
+   "尸架"
+  ],
+  [
+   "res#62800/itemBase.unidentifiedName",
+   "Corpse Shelf",
+   "尸架"
+  ],
+  [
+   "res#62801/itemBase.identifiedName",
+   "Small Game Quiver",
+   "小猎物箭袋"
+  ],
+  [
+   "res#62801/itemBase.specialInfo",
+   "Applies Only to Bows",
+   "仅适用于弓"
+  ],
+  [
+   "res#62801/itemBase.unidentifiedName",
+   "Small Game Quiver",
+   "小猎物箭袋"
+  ],
+  [
+   "res#62802/itemBase.identifiedName",
+   "Leather Boots",
+   "皮靴"
+  ],
+  [
+   "res#62802/itemBase.setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "res#62802/itemBase.unidentifiedName",
+   "Leather Boots",
+   "皮靴"
+  ],
+  [
+   "res#62803/itemBase.identifiedName",
+   "Studded Leather Armor",
+   "镶钉皮甲"
+  ],
+  [
+   "res#62803/itemBase.setName",
+   "Studded",
+   "镶钉"
+  ],
+  [
+   "res#62803/itemBase.unidentifiedName",
+   "Studded Leather Armor",
+   "镶钉皮甲"
+  ],
+  [
+   "res#62804/itemBase.identifiedName",
+   "TECrypt1",
+   "墓室钥匙"
+  ],
+  [
+   "res#62804/itemBase.unidentifiedName",
+   "Crypt Key",
+   "墓室钥匙"
+  ],
+  [
+   "res#62805/itemBase.identifiedName",
+   "Sounds of Night",
+   "《夜之声》"
+  ],
+  [
+   "res#62805/itemBase.setName",
+   "Music",
+   "音乐"
+  ],
+  [
+   "res#62805/itemBase.unidentifiedName",
+   "Sounds of Night",
+   "《夜之声》"
+  ],
+  [
+   "res#62806/itemBase.identifiedName",
+   "Siege Quiver",
+   "攻城箭袋"
+  ],
+  [
+   "res#62806/itemBase.specialInfo",
+   "Applies Only to Bows",
+   "仅适用于弓"
+  ],
+  [
+   "res#62806/itemBase.unidentifiedName",
+   "Siege Quiver",
+   "攻城箭袋"
+  ],
+  [
+   "res#62807/itemBase.identifiedName",
+   "Leather Armor",
+   "皮甲"
+  ],
+  [
+   "res#62807/itemBase.setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "res#62807/itemBase.unidentifiedName",
+   "Leather Armor",
+   "皮甲"
+  ],
+  [
+   "res#62808/itemBase.identifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62808/itemBase.unidentifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62809/itemBase.identifiedName",
+   "Visage of Mulikin",
+   "穆利金的面容"
+  ],
+  [
+   "res#62809/itemBase.setName",
+   "Mulikin",
+   "穆利金"
+  ],
+  [
+   "res#62809/itemBase.unidentifiedName",
+   "Odd Mask",
+   "怪异面具"
+  ],
+  [
+   "res#62810/itemBase.identifiedName",
+   "Leunamar's Surety",
+   "卢纳玛尔的担保"
+  ],
+  [
+   "res#62810/itemBase.setName",
+   "Leunamar",
+   "卢纳玛尔"
+  ],
+  [
+   "res#62810/itemBase.unidentifiedName",
+   "Mysterious Belt",
+   "神秘腰带"
+  ],
+  [
+   "res#62811/itemBase.identifiedName",
+   "Leunamar's Hands",
+   "卢纳玛尔之手"
+  ],
+  [
+   "res#62811/itemBase.setName",
+   "Leunamar",
+   "卢纳玛尔"
+  ],
+  [
+   "res#62811/itemBase.unidentifiedName",
+   "Mysterious Gloves",
+   "神秘手套"
+  ],
+  [
+   "res#62812/itemBase.identifiedName",
+   "Mana Curtain",
+   "法力帷幕"
+  ],
+  [
+   "res#62812/itemBase.unidentifiedName",
+   "Mysterious Cloak",
+   "神秘斗篷"
+  ],
+  [
+   "res#62813/itemBase.identifiedName",
+   "Dark Fruit",
+   "暗色果实"
+  ],
+  [
+   "res#62813/itemBase.unidentifiedName",
+   "Strange Herb",
+   "奇异草药"
+  ],
+  [
+   "res#62814/itemBase.identifiedName",
+   "Ismanna's Log Book",
+   "伊斯曼娜的日志"
+  ],
+  [
+   "res#62814/itemBase.unidentifiedName",
+   "Ismanna's Log Book",
+   "伊斯曼娜的日志"
+  ],
+  [
+   "res#62815/itemBase.identifiedName",
+   "An Excerpt From Weight of the Blade, Volume 1",
+   "《利刃之重》节选 卷一"
+  ],
+  [
+   "res#62815/itemBase.setName",
+   "Two-Handed Weapons",
+   "双手武器"
+  ],
+  [
+   "res#62815/itemBase.unidentifiedName",
+   "An Excerpt From Weight of the Blade, Volume 1",
+   "《利刃之重》节选 卷一"
+  ],
+  [
+   "res#62816/itemBase.identifiedName",
+   "Common Surnames of Emerisk",
+   "《埃梅里斯克常见姓氏》"
+  ],
+  [
+   "res#62816/itemBase.unidentifiedName",
+   "Common Surnames of Emerisk",
+   "《埃梅里斯克常见姓氏》"
+  ],
+  [
+   "res#62817/itemBase.identifiedName",
+   "Scale Mail Helmet",
+   "鳞甲头盔"
+  ],
+  [
+   "res#62817/itemBase.setName",
+   "Scale",
+   "鳞甲"
+  ],
+  [
+   "res#62817/itemBase.unidentifiedName",
+   "Scale Mail Helmet",
+   "鳞甲头盔"
+  ],
+  [
+   "res#62818/itemBase.identifiedName",
+   "A Whisper In The Dark",
+   "《暗夜低语》"
+  ],
+  [
+   "res#62818/itemBase.unidentifiedName",
+   "A Whisper In The Dark",
+   "《暗夜低语》"
+  ],
+  [
+   "res#62819/itemBase.identifiedName",
+   "Leather Cap",
+   "皮帽"
+  ],
+  [
+   "res#62819/itemBase.setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "res#62819/itemBase.unidentifiedName",
+   "Leather Cap",
+   "皮帽"
+  ],
+  [
+   "res#62820/itemBase.identifiedName",
+   "Gammon's Nodule",
+   "加蒙的结核"
+  ],
+  [
+   "res#62820/itemBase.setName",
+   "Gammon",
+   "加蒙"
+  ],
+  [
+   "res#62820/itemBase.unidentifiedName",
+   "Strange Orb",
+   "奇异宝珠"
+  ],
+  [
+   "res#62821/itemBase.identifiedName",
+   "Scaphin Mask",
+   "斯卡芬面具"
+  ],
+  [
+   "res#62821/itemBase.itemNotes",
+   "It appears to be made from the skull of a large toad-like creature.",
+   "它似乎是用某种大型蟾蜍状生物的头骨制成的。"
+  ],
+  [
+   "res#62821/itemBase.setName",
+   "Bone/Toad",
+   "骨/蟾蜍"
+  ],
+  [
+   "res#62821/itemBase.unidentifiedName",
+   "Scaphin Mask",
+   "斯卡芬面具"
+  ],
+  [
+   "res#62822/itemBase.identifiedName",
+   "Studded Leather Boots",
+   "镶钉皮靴"
+  ],
+  [
+   "res#62822/itemBase.setName",
+   "Studded",
+   "镶钉"
+  ],
+  [
+   "res#62822/itemBase.unidentifiedName",
+   "Studded Leather Boots",
+   "镶钉皮靴"
+  ],
+  [
+   "res#62823/itemBase.identifiedName",
+   "Tunic",
+   "束腰外衣"
+  ],
+  [
+   "res#62823/itemBase.setName",
+   "Peasant",
+   "平民"
+  ],
+  [
+   "res#62823/itemBase.unidentifiedName",
+   "Tunic",
+   "束腰外衣"
+  ],
+  [
+   "res#62824/itemBase.identifiedName",
+   "Purchasing on Offense, Chapter 1",
+   "《进攻性采购》第一章"
+  ],
+  [
+   "res#62824/itemBase.setName",
+   "Barter",
+   "议价"
+  ],
+  [
+   "res#62824/itemBase.unidentifiedName",
+   "Purchasing on Offense, Chapter 1",
+   "《进攻性采购》第一章"
+  ],
+  [
+   "res#62825/itemBase.identifiedName",
+   "Chain Mail Armor",
+   "链甲"
+  ],
+  [
+   "res#62825/itemBase.setName",
+   "Chain",
+   "链鞭"
+  ],
+  [
+   "res#62825/itemBase.unidentifiedName",
+   "Chain Mail Armor",
+   "链甲"
+  ],
+  [
+   "res#62826/itemBase.identifiedName",
+   "Carrots",
+   "胡萝卜"
+  ],
+  [
+   "res#62826/itemBase.unidentifiedName",
+   "Carrots",
+   "胡萝卜"
+  ],
+  [
+   "res#62827/itemBase.identifiedName",
+   "Shoes",
+   "鞋"
+  ],
+  [
+   "res#62827/itemBase.setName",
+   "Peasant",
+   "平民"
+  ],
+  [
+   "res#62827/itemBase.unidentifiedName",
+   "Shoes",
+   "鞋"
+  ],
+  [
+   "res#62828/itemBase.identifiedName",
+   "Butter",
+   "黄油"
+  ],
+  [
+   "res#62828/itemBase.unidentifiedName",
+   "Butter",
+   "黄油"
+  ],
+  [
+   "res#62829/itemBase.identifiedName",
+   "Pastries",
+   "糕点"
+  ],
+  [
+   "res#62829/itemBase.unidentifiedName",
+   "Pastries",
+   "糕点"
+  ],
+  [
+   "res#62830/itemBase.identifiedName",
+   "Small Game Arrows",
+   "小猎物箭"
+  ],
+  [
+   "res#62830/itemBase.specialInfo",
+   "Changes Damage Type to Blunt",
+   "将伤害类型变为钝击"
+  ],
+  [
+   "res#62830/itemBase.unidentifiedName",
+   "Small Game Arrows",
+   "小猎物箭"
+  ],
+  [
+   "res#62831/itemBase.identifiedName",
+   "Sausages",
+   "香肠"
+  ],
+  [
+   "res#62831/itemBase.unidentifiedName",
+   "Sausages",
+   "香肠"
+  ],
+  [
+   "res#62832/itemBase.identifiedName",
+   "UCCellarDoor1",
+   "地窖门钥匙"
+  ],
+  [
+   "res#62832/itemBase.unidentifiedName",
+   "Cellar Door Key",
+   "地窖门钥匙"
+  ],
+  [
+   "res#62833/itemBase.identifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62833/itemBase.itemNotes",
+   "Place in any slot except weapon and shield.",
+   "可放置于除武器与盾牌外的任意栏位。"
+  ],
+  [
+   "res#62833/itemBase.unidentifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62834/itemBase.identifiedName",
+   "TEGraveyard1",
+   "墓园钥匙"
+  ],
+  [
+   "res#62834/itemBase.unidentifiedName",
+   "Graveyard Key",
+   "墓园钥匙"
+  ],
+  [
+   "res#62835/itemBase.identifiedName",
+   "Potion of Minor Rejuvenation",
+   "次级回春药水"
+  ],
+  [
+   "res#62835/itemBase.itemNotes",
+   "Restore Hit Points and Mana Points",
+   "恢复生命值与法力值"
+  ],
+  [
+   "res#62835/itemBase.unidentifiedName",
+   "Potion of Minor Rejuvenation",
+   "次级回春药水"
+  ],
+  [
+   "res#62836/itemBase.identifiedName",
+   "Leunamar's Feet",
+   "卢纳玛尔之足"
+  ],
+  [
+   "res#62836/itemBase.setName",
+   "Leunamar",
+   "卢纳玛尔"
+  ],
+  [
+   "res#62836/itemBase.unidentifiedName",
+   "Mysterious Boots",
+   "神秘之靴"
+  ],
+  [
+   "res#62837/itemBase.identifiedName",
+   "Light and Shadow",
+   "《光与影》"
+  ],
+  [
+   "res#62837/itemBase.setName",
+   "Stealth",
+   "潜行"
+  ],
+  [
+   "res#62837/itemBase.unidentifiedName",
+   "Light and Shadow",
+   "《光与影》"
+  ],
+  [
+   "res#62838/itemBase.identifiedName",
+   "Lute",
+   "鲁特琴"
+  ],
+  [
+   "res#62838/itemBase.itemNotes",
+   "A finely crafted wooden lute.",
+   "一把做工精良的木制鲁特琴。"
+  ],
+  [
+   "res#62838/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62838/itemBase.unidentifiedName",
+   "Lute",
+   "鲁特琴"
+  ],
+  [
+   "res#62839/itemBase.identifiedName",
+   "Ancient Cheese Wedge",
+   "古老奶酪块"
+  ],
+  [
+   "res#62839/itemBase.unidentifiedName",
+   "Ancient Cheese Wedge",
+   "古老奶酪块"
+  ],
+  [
+   "res#62840/itemBase.identifiedName",
+   "Coward's Brave Retreat",
+   "懦夫的勇敢撤退"
+  ],
+  [
+   "res#62840/itemBase.setName",
+   "Coward",
+   "懦夫"
+  ],
+  [
+   "res#62840/itemBase.unidentifiedName",
+   "Strange Boots",
+   "奇怪的靴子"
+  ],
+  [
+   "res#62841/itemBase.identifiedName",
+   "Non-Bovine Milking",
+   "《非牛挤奶术》"
+  ],
+  [
+   "res#62841/itemBase.unidentifiedName",
+   "Non-Bovine Milking",
+   "《非牛挤奶术》"
+  ],
+  [
+   "res#62842/itemBase.identifiedName",
+   "Chain Mail Hood",
+   "链甲头巾"
+  ],
+  [
+   "res#62842/itemBase.setName",
+   "Chain",
+   "链鞭"
+  ],
+  [
+   "res#62842/itemBase.unidentifiedName",
+   "Chain Mail Hood",
+   "链甲头巾"
+  ],
+  [
+   "res#62843/itemBase.identifiedName",
+   "Marksman's Quiver",
+   "神射手的箭袋"
+  ],
+  [
+   "res#62843/itemBase.specialInfo",
+   "Applies Only to Bows",
+   "仅适用于弓"
+  ],
+  [
+   "res#62843/itemBase.unidentifiedName",
+   "Marksman's Quiver",
+   "神射手的箭袋"
+  ],
+  [
+   "res#62844/itemBase.identifiedName",
+   "Potatoes",
+   "土豆"
+  ],
+  [
+   "res#62844/itemBase.unidentifiedName",
+   "Potatoes",
+   "土豆"
+  ],
+  [
+   "res#62845/itemBase.identifiedName",
+   "Carapace Armor",
+   "甲壳护甲"
+  ],
+  [
+   "res#62845/itemBase.setName",
+   "Carapace",
+   "甲壳"
+  ],
+  [
+   "res#62845/itemBase.unidentifiedName",
+   "Carapace Armor",
+   "甲壳护甲"
+  ],
+  [
+   "res#62846/itemBase.identifiedName",
+   "Cool Ember",
+   "冷烬"
+  ],
+  [
+   "res#62846/itemBase.unidentifiedName",
+   "Cool Ember",
+   "冷烬"
+  ],
+  [
+   "res#62847/itemBase.identifiedName",
+   "The Red Gate ",
+   "《红门》 "
+  ],
+  [
+   "res#62847/itemBase.setName",
+   "Survival",
+   "生存"
+  ],
+  [
+   "res#62847/itemBase.unidentifiedName",
+   "The Red Gate ",
+   "《红门》 "
+  ],
+  [
+   "res#62848/itemBase.identifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62848/itemBase.unidentifiedName",
+   "Necklace",
+   "项链"
+  ],
+  [
+   "res#62849/itemBase.identifiedName",
+   "Mynswar Opal",
+   "明斯瓦蛋白石"
+  ],
+  [
+   "res#62849/itemBase.unidentifiedName",
+   "Mynswar Opal",
+   "明斯瓦蛋白石"
+  ],
+  [
+   "res#62850/itemBase.identifiedName",
+   "Seed of Evil",
+   "邪恶之种"
+  ],
+  [
+   "res#62850/itemBase.unidentifiedName",
+   "Seed of Evil",
+   "邪恶之种"
+  ],
+  [
+   "res#62851/itemBase.identifiedName",
+   "Potion of Spirit",
+   "精神药水"
+  ],
+  [
+   "res#62851/itemBase.itemNotes",
+   "Increase Spirit",
+   "提高精神"
+  ],
+  [
+   "res#62851/itemBase.unidentifiedName",
+   "Potion of Spirit",
+   "精神药水"
+  ],
+  [
+   "res#62852/itemBase.identifiedName",
+   "Adventurer's Gloves",
+   "冒险者手套"
+  ],
+  [
+   "res#62852/itemBase.setName",
+   "Adventurer",
+   "冒险者"
+  ],
+  [
+   "res#62852/itemBase.unidentifiedName",
+   "Adventurer's Gloves",
+   "冒险者手套"
+  ],
+  [
+   "res#62853/itemBase.identifiedName",
+   "Ring",
+   "戒指"
+  ],
+  [
+   "res#62853/itemBase.unidentifiedName",
+   "Ring",
+   "戒指"
+  ],
+  [
+   "res#62854/itemBase.identifiedName",
+   "Trousers",
+   "长裤"
+  ],
+  [
+   "res#62854/itemBase.setName",
+   "Peasant",
+   "平民"
+  ],
+  [
+   "res#62854/itemBase.unidentifiedName",
+   "Trousers",
+   "长裤"
+  ],
+  [
+   "res#62855/itemBase.identifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62855/itemBase.itemNotes",
+   "Place in any slot except weapon and shield.",
+   "可放置于除武器与盾牌外的任意栏位。"
+  ],
+  [
+   "res#62855/itemBase.unidentifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62856/itemBase.identifiedName",
+   "Shawm",
+   "肖姆管"
+  ],
+  [
+   "res#62856/itemBase.itemNotes",
+   "A finely crafted wooden vielle.",
+   "一把做工精良的木制维耶尔琴。"
+  ],
+  [
+   "res#62856/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62856/itemBase.unidentifiedName",
+   "Shawm",
+   "肖姆管"
+  ],
+  [
+   "res#62857/itemBase.identifiedName",
+   "Elder Stone",
+   "上古之石"
+  ],
+  [
+   "res#62857/itemBase.unidentifiedName",
+   "Elder Stone",
+   "上古之石"
+  ],
+  [
+   "res#62858/itemBase.identifiedName",
+   "Cap",
+   "便帽"
+  ],
+  [
+   "res#62858/itemBase.setName",
+   "Peasant",
+   "平民"
+  ],
+  [
+   "res#62858/itemBase.unidentifiedName",
+   "Cap",
+   "便帽"
+  ],
+  [
+   "res#62859/itemBase.identifiedName",
+   "Aulnut",
+   "奥恩果"
+  ],
+  [
+   "res#62859/itemBase.unidentifiedName",
+   "Aulnut",
+   "奥恩果"
+  ],
+  [
+   "res#62860/itemBase.identifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62860/itemBase.itemNotes",
+   "Place in any slot except weapon and shield.",
+   "可放置于除武器与盾牌外的任意栏位。"
+  ],
+  [
+   "res#62860/itemBase.unidentifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62861/itemBase.identifiedName",
+   "Historian's Scarf",
+   "历史学家围巾"
+  ],
+  [
+   "res#62861/itemBase.setName",
+   "Historian",
+   "历史学家"
+  ],
+  [
+   "res#62861/itemBase.unidentifiedName",
+   "Historian's Scarf",
+   "历史学家围巾"
+  ],
+  [
+   "res#62862/itemBase.identifiedName",
+   "Luck of Zaphar",
+   "扎法尔之幸"
+  ],
+  [
+   "res#62862/itemBase.itemNotes",
+   "This worn and ancient coin has been turned into a necklace.",
+   "这枚磨损的古老硬币被改制成了一条项链。"
+  ],
+  [
+   "res#62862/itemBase.unidentifiedName",
+   "Ancient Coin",
+   "古老硬币"
+  ],
+  [
+   "res#62863/itemBase.identifiedName",
+   "Trumpet",
+   "小号"
+  ],
+  [
+   "res#62863/itemBase.itemNotes",
+   "A finely crafted wooden vielle.",
+   "一把做工精良的木制维耶尔琴。"
+  ],
+  [
+   "res#62863/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62863/itemBase.unidentifiedName",
+   "Trumpet",
+   "小号"
+  ],
+  [
+   "res#62864/itemBase.identifiedName",
+   "Half Rack of Ribs",
+   "半排肋排"
+  ],
+  [
+   "res#62864/itemBase.unidentifiedName",
+   "Half Rack of Ribs",
+   "半排肋排"
+  ],
+  [
+   "res#62865/itemBase.identifiedName",
+   "Teravin Root",
+   "特拉文根"
+  ],
+  [
+   "res#62865/itemBase.unidentifiedName",
+   "Teravin Root",
+   "特拉文根"
+  ],
+  [
+   "res#62866/itemBase.identifiedName",
+   "Mystic's Robe",
+   "秘法师长袍"
+  ],
+  [
+   "res#62866/itemBase.setName",
+   "Enchanter",
+   "附魔师"
+  ],
+  [
+   "res#62866/itemBase.unidentifiedName",
+   "Mystic's Robe",
+   "秘法师长袍"
+  ],
+  [
+   "res#62867/itemBase.identifiedName",
+   "The Mark",
+   "印记"
+  ],
+  [
+   "res#62867/itemBase.setName",
+   "Ranged Weapons",
+   "远程武器"
+  ],
+  [
+   "res#62867/itemBase.unidentifiedName",
+   "The Mark",
+   "印记"
+  ],
+  [
+   "res#62868/itemBase.identifiedName",
+   "UC2StoneDoor1",
+   "石门钥匙"
+  ],
+  [
+   "res#62868/itemBase.unidentifiedName",
+   "Stone Door Key",
+   "石门钥匙"
+  ],
+  [
+   "res#62869/itemBase.identifiedName",
+   "Tunnel Moss",
+   "隧道苔藓"
+  ],
+  [
+   "res#62869/itemBase.unidentifiedName",
+   "Tunnel Moss",
+   "隧道苔藓"
+  ],
+  [
+   "res#62870/itemBase.identifiedName",
+   "Jondar's Flute",
+   "琼达的长笛"
+  ],
+  [
+   "res#62870/itemBase.setName",
+   "Jondar/Musician",
+   "琼达/乐师"
+  ],
+  [
+   "res#62870/itemBase.unidentifiedName",
+   "Flute",
+   "长笛"
+  ],
+  [
+   "res#62871/itemBase.identifiedName",
+   "Huntsman's Quiver",
+   "猎人的箭袋"
+  ],
+  [
+   "res#62871/itemBase.specialInfo",
+   "Applies Only to Bows",
+   "仅适用于弓"
+  ],
+  [
+   "res#62871/itemBase.unidentifiedName",
+   "Huntsman's Quiver",
+   "猎人的箭袋"
+  ],
+  [
+   "res#62872/itemBase.identifiedName",
+   "Crypt Agaric",
+   "墓室菇"
+  ],
+  [
+   "res#62872/itemBase.unidentifiedName",
+   "Crypt Agaric",
+   "墓室菇"
+  ],
+  [
+   "res#62873/itemBase.identifiedName",
+   "Studded Leather Cap",
+   "镶钉皮帽"
+  ],
+  [
+   "res#62873/itemBase.setName",
+   "Studded",
+   "镶钉"
+  ],
+  [
+   "res#62873/itemBase.unidentifiedName",
+   "Studded Leather Cap",
+   "镶钉皮帽"
+  ],
+  [
+   "res#62874/itemBase.identifiedName",
+   "Leather Belt",
+   "皮带"
+  ],
+  [
+   "res#62874/itemBase.setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "res#62874/itemBase.unidentifiedName",
+   "Leather Belt",
+   "皮带"
+  ],
+  [
+   "res#62875/itemBase.identifiedName",
+   "Gorget",
+   "护喉"
+  ],
+  [
+   "res#62875/itemBase.setName",
+   "Plate",
+   "板甲"
+  ],
+  [
+   "res#62875/itemBase.unidentifiedName",
+   "Gorget",
+   "护喉"
+  ],
+  [
+   "res#62876/itemBase.identifiedName",
+   "Tabor",
+   "塔博鼓"
+  ],
+  [
+   "res#62876/itemBase.itemNotes",
+   "A finely crafted leather tabor.",
+   "一面做工精良的皮革塔博鼓。"
+  ],
+  [
+   "res#62876/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62876/itemBase.unidentifiedName",
+   "Tabor",
+   "塔博鼓"
+  ],
+  [
+   "res#62877/itemBase.identifiedName",
+   "Traveller's Scarf",
+   "旅人围巾"
+  ],
+  [
+   "res#62877/itemBase.setName",
+   "Traveller",
+   "旅人"
+  ],
+  [
+   "res#62877/itemBase.unidentifiedName",
+   "Traveller's Scarf",
+   "旅人围巾"
+  ],
+  [
+   "res#62878/itemBase.identifiedName",
+   "Potion of Freedom",
+   "自由药水"
+  ],
+  [
+   "res#62878/itemBase.itemNotes",
+   "Remove Roots, Silence and other Movement impeding effects.",
+   "解除定身、沉默及其他妨碍移动的效果。"
+  ],
+  [
+   "res#62878/itemBase.unidentifiedName",
+   "Potion of Freedom",
+   "自由药水"
+  ],
+  [
+   "res#62879/itemBase.identifiedName",
+   "Key",
+   "钥匙"
+  ],
+  [
+   "res#62879/itemBase.unidentifiedName",
+   "Key",
+   "钥匙"
+  ],
+  [
+   "res#62880/itemBase.identifiedName",
+   "Diamond",
+   "钻石"
+  ],
+  [
+   "res#62880/itemBase.unidentifiedName",
+   "Diamond",
+   "钻石"
+  ],
+  [
+   "res#62881/itemBase.identifiedName",
+   "History of Solmaria, Volume 1",
+   "《索尔玛利亚史》卷一"
+  ],
+  [
+   "res#62881/itemBase.unidentifiedName",
+   "History of Solmaria, Volume 1",
+   "《索尔玛利亚史》卷一"
+  ],
+  [
+   "res#62882/itemBase.identifiedName",
+   "Silver Arrows",
+   "银箭"
+  ],
+  [
+   "res#62882/itemBase.specialInfo",
+   "Changes Material Type to Silver",
+   "将材质类型变为银"
+  ],
+  [
+   "res#62882/itemBase.unidentifiedName",
+   "Silver Arrows",
+   "银箭"
+  ],
+  [
+   "res#62883/itemBase.identifiedName",
+   "Rogue's Gloves",
+   "游侠手套"
+  ],
+  [
+   "res#62883/itemBase.setName",
+   "Rogue",
+   "游侠"
+  ],
+  [
+   "res#62883/itemBase.unidentifiedName",
+   "Rogue's Gloves",
+   "游侠手套"
+  ],
+  [
+   "res#62884/itemBase.identifiedName",
+   "Planar Slag",
+   "位面矿渣"
+  ],
+  [
+   "res#62884/itemBase.unidentifiedName",
+   "Planar Slag",
+   "位面矿渣"
+  ],
+  [
+   "res#62885/itemBase.identifiedName",
+   "Squirrel",
+   "松鼠"
+  ],
+  [
+   "res#62885/itemBase.unidentifiedName",
+   "Squirrel",
+   "松鼠"
+  ],
+  [
+   "res#62886/itemBase.identifiedName",
+   "Leathery Wing",
+   "皮革之翼"
+  ],
+  [
+   "res#62886/itemBase.unidentifiedName",
+   "Leathery Wing",
+   "皮革之翼"
+  ],
+  [
+   "res#62887/itemBase.identifiedName",
+   "Studded Leather Gloves",
+   "镶钉皮手套"
+  ],
+  [
+   "res#62887/itemBase.setName",
+   "Studded",
+   "镶钉"
+  ],
+  [
+   "res#62887/itemBase.unidentifiedName",
+   "Studded Leather Gloves",
+   "镶钉皮手套"
+  ],
+  [
+   "res#62888/itemBase.identifiedName",
+   "Cuirass of Tethrys",
+   "泰丝瑞斯胸甲"
+  ],
+  [
+   "res#62888/itemBase.setName",
+   "Tethrys",
+   "泰丝瑞斯"
+  ],
+  [
+   "res#62888/itemBase.unidentifiedName",
+   "Mysterious Armor",
+   "神秘护甲"
+  ],
+  [
+   "res#62889/itemBase.identifiedName",
+   "Legends of Extraordinary Vermin",
+   "《非凡害兽传说》"
+  ],
+  [
+   "res#62889/itemBase.setName",
+   "Vermin",
+   "害兽"
+  ],
+  [
+   "res#62889/itemBase.unidentifiedName",
+   "Legends of Extraordinary Vermin",
+   "《非凡害兽传说》"
+  ],
+  [
+   "res#62890/itemBase.identifiedName",
+   "Sapphire",
+   "蓝宝石"
+  ],
+  [
+   "res#62890/itemBase.unidentifiedName",
+   "Sapphire",
+   "蓝宝石"
+  ],
+  [
+   "res#62891/itemBase.identifiedName",
+   "Adventurer's Armor",
+   "冒险者护甲"
+  ],
+  [
+   "res#62891/itemBase.setName",
+   "Adventurer",
+   "冒险者"
+  ],
+  [
+   "res#62891/itemBase.unidentifiedName",
+   "Adventurer's Armor",
+   "冒险者护甲"
+  ],
+  [
+   "res#62892/itemBase.identifiedName",
+   "Earth Orb",
+   "土之法球"
+  ],
+  [
+   "res#62892/itemBase.unidentifiedName",
+   "Earth Orb",
+   "土之法球"
+  ],
+  [
+   "res#62893/itemBase.identifiedName",
+   "TELibrary1",
+   "图书馆钥匙"
+  ],
+  [
+   "res#62893/itemBase.unidentifiedName",
+   "Library Key",
+   "图书馆钥匙"
+  ],
+  [
+   "res#62894/itemBase.identifiedName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#62894/itemBase.unidentifiedName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#62895/itemBase.identifiedName",
+   "Pale Petal Pendant",
+   "苍白花瓣吊坠"
+  ],
+  [
+   "res#62895/itemBase.itemNotes",
+   "It looks to be dyed ivory or bone, hanging from a bent gold wire.",
+   "看上去像染色的象牙或骨料，挂在一根弯折的金丝上。"
+  ],
+  [
+   "res#62895/itemBase.unidentifiedName",
+   "Pendant",
+   "吊坠"
+  ],
+  [
+   "res#62896/itemBase.identifiedName",
+   "Fur Hat",
+   "毛皮帽"
+  ],
+  [
+   "res#62896/itemBase.setName",
+   "Fur",
+   "毛皮"
+  ],
+  [
+   "res#62896/itemBase.unidentifiedName",
+   "Fur Hat",
+   "毛皮帽"
+  ],
+  [
+   "res#62897/itemBase.identifiedName",
+   "Heart of Scaphos",
+   "斯卡福斯之心"
+  ],
+  [
+   "res#62897/itemBase.unidentifiedName",
+   "Heart of Scaphos",
+   "斯卡福斯之心"
+  ],
+  [
+   "res#62898/itemBase.identifiedName",
+   "Barsuum's Drapes",
+   "巴苏姆的披幔"
+  ],
+  [
+   "res#62898/itemBase.setName",
+   "Barsuum",
+   "巴苏姆"
+  ],
+  [
+   "res#62898/itemBase.unidentifiedName",
+   "Mysterious Cloak",
+   "神秘斗篷"
+  ],
+  [
+   "res#62899/itemBase.identifiedName",
+   "Ashkin's Fangs",
+   "阿什金之牙"
+  ],
+  [
+   "res#62899/itemBase.setName",
+   "Ashkin",
+   "阿什金"
+  ],
+  [
+   "res#62899/itemBase.unidentifiedName",
+   "Dog Collar",
+   "狗项圈"
+  ],
+  [
+   "res#62900/itemBase.identifiedName",
+   "Shard of Miala",
+   "米亚拉碎片"
+  ],
+  [
+   "res#62900/itemBase.itemNotes",
+   "It looks like a sword fragment, somewhere from the middle of the blade. It glows with thin bright lines.",
+   "看起来是剑的碎片，来自剑身中段。上面泛着细细的明亮线条。"
+  ],
+  [
+   "res#62900/itemBase.unidentifiedName",
+   "Shard of Miala",
+   "米亚拉碎片"
+  ],
+  [
+   "res#62901/itemBase.identifiedName",
+   "Longbowman's Quiver",
+   "长弓手箭袋"
+  ],
+  [
+   "res#62901/itemBase.specialInfo",
+   "Applies Only to Bows",
+   "仅适用于弓"
+  ],
+  [
+   "res#62901/itemBase.unidentifiedName",
+   "Longbowman's Quiver",
+   "长弓手箭袋"
+  ],
+  [
+   "res#62902/itemBase.identifiedName",
+   "The Book of Famous Caves",
+   "《名洞志》"
+  ],
+  [
+   "res#62902/itemBase.setName",
+   "Disarm",
+   "卸除武器"
+  ],
+  [
+   "res#62902/itemBase.unidentifiedName",
+   "The Book of Famous Caves",
+   "《名洞志》"
+  ],
+  [
+   "res#62903/itemBase.identifiedName",
+   "Carapace Gloves",
+   "甲壳手套"
+  ],
+  [
+   "res#62903/itemBase.setName",
+   "Carapace",
+   "甲壳"
+  ],
+  [
+   "res#62903/itemBase.unidentifiedName",
+   "Carapace Gloves",
+   "甲壳手套"
+  ],
+  [
+   "res#62904/itemBase.identifiedName",
+   "Silk Thread",
+   "丝线"
+  ],
+  [
+   "res#62904/itemBase.unidentifiedName",
+   "Silk Thread",
+   "丝线"
+  ],
+  [
+   "res#62905/itemBase.identifiedName",
+   "Abbermantus",
+   "阿伯曼图斯"
+  ],
+  [
+   "res#62905/itemBase.setName",
+   "Aberrant",
+   "畸变"
+  ],
+  [
+   "res#62905/itemBase.specialInfo",
+   "Applies Only to Bows",
+   "仅适用于弓"
+  ],
+  [
+   "res#62905/itemBase.unidentifiedName",
+   "Bizzare Fleshy Quiver",
+   "怪异的血肉箭袋"
+  ],
+  [
+   "res#62906/itemBase.identifiedName",
+   "Herbal Soup",
+   "草药汤"
+  ],
+  [
+   "res#62906/itemBase.unidentifiedName",
+   "Herbal Soup",
+   "草药汤"
+  ],
+  [
+   "res#62907/itemBase.identifiedName",
+   "Arcane Orb",
+   "奥术法球"
+  ],
+  [
+   "res#62907/itemBase.unidentifiedName",
+   "Arcane Orb",
+   "奥术法球"
+  ],
+  [
+   "res#62908/itemBase.identifiedName",
+   "Fur Gloves",
+   "毛皮手套"
+  ],
+  [
+   "res#62908/itemBase.setName",
+   "Fur",
+   "毛皮"
+  ],
+  [
+   "res#62908/itemBase.unidentifiedName",
+   "Fur Gloves",
+   "毛皮手套"
+  ],
+  [
+   "res#62909/itemBase.identifiedName",
+   "Potion of Strength",
+   "力量药水"
+  ],
+  [
+   "res#62909/itemBase.itemNotes",
+   "Increase Strength",
+   "提高力量"
+  ],
+  [
+   "res#62909/itemBase.unidentifiedName",
+   "Potion of Strength",
+   "力量药水"
+  ],
+  [
+   "res#62910/itemBase.identifiedName",
+   "Dun Orb",
+   "褐暗法球"
+  ],
+  [
+   "res#62910/itemBase.unidentifiedName",
+   "Dun Orb",
+   "褐暗法球"
+  ],
+  [
+   "res#62911/itemBase.identifiedName",
+   "Arendol's Pride",
+   "阿伦多尔的骄傲"
+  ],
+  [
+   "res#62911/itemBase.itemNotes",
+   "A silver band, artistically woven and flecked with small pieces of amber.",
+   "一条银环带，编织精巧，点缀着细小的琥珀。"
+  ],
+  [
+   "res#62911/itemBase.setName",
+   "Arendol",
+   "阿伦多尔"
+  ],
+  [
+   "res#62911/itemBase.unidentifiedName",
+   "Silver Ring",
+   "银戒指"
+  ],
+  [
+   "res#62912/itemBase.identifiedName",
+   "Carapace Helmet",
+   "甲壳头盔"
+  ],
+  [
+   "res#62912/itemBase.setName",
+   "Carapace",
+   "甲壳"
+  ],
+  [
+   "res#62912/itemBase.unidentifiedName",
+   "Carapace Helmet",
+   "甲壳头盔"
+  ],
+  [
+   "res#62913/itemBase.identifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62913/itemBase.itemNotes",
+   "Place in any slot except weapon and shield.",
+   "可放置于除武器与盾牌外的任意栏位。"
+  ],
+  [
+   "res#62913/itemBase.unidentifiedName",
+   "Runic Charm",
+   "符文护符"
+  ],
+  [
+   "res#62914/itemBase.identifiedName",
+   "Miala's Bauble",
+   "米亚拉的小饰珠"
+  ],
+  [
+   "res#62914/itemBase.setName",
+   "Miala",
+   "米亚拉"
+  ],
+  [
+   "res#62914/itemBase.unidentifiedName",
+   "Strange Orb",
+   "奇异宝珠"
+  ],
+  [
+   "res#62915/itemBase.identifiedName",
+   "Merchant's Stole",
+   "商人的披带"
+  ],
+  [
+   "res#62915/itemBase.setName",
+   "Merchant",
+   "商人"
+  ],
+  [
+   "res#62915/itemBase.unidentifiedName",
+   "Merchant's Stole",
+   "商人的披带"
+  ],
+  [
+   "res#62916/itemBase.identifiedName",
+   "Corundum Ore",
+   "刚玉矿石"
+  ],
+  [
+   "res#62916/itemBase.unidentifiedName",
+   "Corundum Ore",
+   "刚玉矿石"
+  ],
+  [
+   "res#62917/itemBase.identifiedName",
+   "Vielle",
+   "维耶尔琴"
+  ],
+  [
+   "res#62917/itemBase.itemNotes",
+   "A finely crafted wooden vielle.",
+   "一把做工精良的木制维耶尔琴。"
+  ],
+  [
+   "res#62917/itemBase.setName",
+   "Musician",
+   "乐师"
+  ],
+  [
+   "res#62917/itemBase.unidentifiedName",
+   "Vielle",
+   "维耶尔琴"
+  ],
+  [
+   "res#62918/itemBase.identifiedName",
+   "Shell Fragment",
+   "甲壳碎片"
+  ],
+  [
+   "res#62918/itemBase.unidentifiedName",
+   "Shell Fragment",
+   "甲壳碎片"
+  ],
+  [
+   "res#62919/itemBase.identifiedName",
+   "The Birth of Skill, Volume 3",
+   "《技能的诞生》卷三"
+  ],
+  [
+   "res#62919/itemBase.setName",
+   "One-Handed Weapons",
+   "单手武器"
+  ],
+  [
+   "res#62919/itemBase.unidentifiedName",
+   "The Birth of Skill, Volume 3",
+   "《技能的诞生》卷三"
+  ],
+  [
+   "res#62920/itemBase.identifiedName",
+   "Zy the Goat",
+   "山羊 Zy"
+  ],
+  [
+   "res#62920/itemBase.unidentifiedName",
+   "Zy the Goat",
+   "山羊 Zy"
+  ],
+  [
+   "res#62921/itemBase.identifiedName",
+   "Scale Mail Gloves",
+   "鳞甲手套"
+  ],
+  [
+   "res#62921/itemBase.setName",
+   "Scale",
+   "鳞甲"
+  ],
+  [
+   "res#62921/itemBase.unidentifiedName",
+   "Scale Mail Gloves",
+   "鳞甲手套"
+  ],
+  [
+   "res#62922/itemBase.identifiedName",
+   "Rogue's Boots",
+   "游侠之靴"
+  ],
+  [
+   "res#62922/itemBase.setName",
+   "Rogue",
+   "游侠"
+  ],
+  [
+   "res#62922/itemBase.unidentifiedName",
+   "Rogue's Boots",
+   "游侠之靴"
+  ],
+  [
+   "res#62978/itemBase.attributeList[0]",
+   "PoisonDart",
+   "PoisonDart"
+  ],
+  [
+   "res#62978/itemBase.attributeList[1]",
+   "VenemousTouch",
+   "VenemousTouch"
+  ],
+  [
+   "res#62978/itemBase.attributeList[2]",
+   "PoisonBomb",
+   "PoisonBomb"
+  ],
+  [
+   "res#62978/itemBase.identifiedName",
+   "Noxious Fumes",
+   "《毒雾》"
+  ],
+  [
+   "res#62978/itemBase.itemNotes",
+   "Power surges through this book's pages",
+   "力量在这本书的书页间涌动"
+  ],
+  [
+   "res#62978/itemBase.unidentifiedName",
+   "Noxious Fumes",
+   "《毒雾》"
+  ],
+  [
+   "res#62979/itemBase.identifiedName",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#62979/itemBase.itemNotes",
+   "The musty old book appears normal, but something about it draws you to it.",
+   "这本发霉的旧书看上去平平无奇，可它身上有什么东西在吸引着你。"
+  ],
+  [
+   "res#62979/itemBase.unidentifiedName",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#62980/itemBase.attributeList[0]",
+   "UmbralEmbrace",
+   "UmbralEmbrace"
+  ],
+  [
+   "res#62980/itemBase.attributeList[1]",
+   "TideOfShadow",
+   "TideOfShadow"
+  ],
+  [
+   "res#62980/itemBase.identifiedName",
+   "Inhabitant of the Umbral Realm",
+   "《暗影之域的居民》"
+  ],
+  [
+   "res#62980/itemBase.itemNotes",
+   "Power surges through this book's pages",
+   "力量在这本书的书页间涌动"
+  ],
+  [
+   "res#62980/itemBase.unidentifiedName",
+   "Inhabitant of the Umbral Realm",
+   "《暗影之域的居民》"
+  ],
+  [
+   "res#62981/itemBase.attributeList[0]",
+   "0/Random/Default",
+   "0/Random/Default"
+  ],
+  [
+   "res#62981/itemBase.identifiedName",
+   "Small Chest",
+   "小箱子"
+  ],
+  [
+   "res#62981/itemBase.itemNotes",
+   "It is a small wooden chest.",
+   "一只小木箱。"
+  ],
+  [
+   "res#62981/itemBase.unidentifiedName",
+   "Small Chest",
+   "小箱子"
+  ],
+  [
+   "res#62982/itemBase.attributeList[0]",
+   "Shock",
+   "Shock"
+  ],
+  [
+   "res#62982/itemBase.attributeList[1]",
+   "Electrify",
+   "Electrify"
+  ],
+  [
+   "res#62982/itemBase.attributeList[2]",
+   "Lightning",
+   "Lightning"
+  ],
+  [
+   "res#62982/itemBase.attributeList[3]",
+   "PlasmaBurst",
+   "PlasmaBurst"
+  ],
+  [
+   "res#62982/itemBase.attributeList[4]",
+   "ResistShock",
+   "ResistShock"
+  ],
+  [
+   "res#62982/itemBase.identifiedName",
+   "The Guardians of Glowfir",
+   "《格罗菲尔守卫者》"
+  ],
+  [
+   "res#62982/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62982/itemBase.unidentifiedName",
+   "The Guardians of Glowfir",
+   "《格罗菲尔守卫者》"
+  ],
+  [
+   "res#62983/itemBase.attributeList[0]",
+   "5/Random/Default",
+   "5/Random/Default"
+  ],
+  [
+   "res#62983/itemBase.attributeList[1]",
+   "1/Random/Default",
+   "1/Random/Default"
+  ],
+  [
+   "res#62983/itemBase.attributeList[2]",
+   "10/Random/Default",
+   "10/Random/Default"
+  ],
+  [
+   "res#62983/itemBase.identifiedName",
+   "Backpack",
+   "背包"
+  ],
+  [
+   "res#62983/itemBase.itemNotes",
+   "It is a sturdy backpack.",
+   "一只结实的背包。"
+  ],
+  [
+   "res#62983/itemBase.unidentifiedName",
+   "Backpack",
+   "背包"
+  ],
+  [
+   "res#62984/itemBase.attributeList[0]",
+   "Ignite",
+   "Ignite"
+  ],
+  [
+   "res#62984/itemBase.attributeList[1]",
+   "EnduringFlame",
+   "EnduringFlame"
+  ],
+  [
+   "res#62984/itemBase.attributeList[2]",
+   "SearingBrand",
+   "SearingBrand"
+  ],
+  [
+   "res#62984/itemBase.attributeList[3]",
+   "FlameLance",
+   "FlameLance"
+  ],
+  [
+   "res#62984/itemBase.attributeList[4]",
+   "FireBall",
+   "FireBall"
+  ],
+  [
+   "res#62984/itemBase.attributeList[5]",
+   "Erupt",
+   "Erupt"
+  ],
+  [
+   "res#62984/itemBase.attributeList[6]",
+   "ResistFire",
+   "ResistFire"
+  ],
+  [
+   "res#62984/itemBase.identifiedName",
+   "Torch of Winderfel",
+   "《温德费尔火炬》"
+  ],
+  [
+   "res#62984/itemBase.itemNotes",
+   "Power surges through this book's pages",
+   "力量在这本书的书页间涌动"
+  ],
+  [
+   "res#62984/itemBase.unidentifiedName",
+   "Torch of Winderfel",
+   "《温德费尔火炬》"
+  ],
+  [
+   "res#62985/itemBase.attributeList[0]",
+   "ElementalShield",
+   "ElementalShield"
+  ],
+  [
+   "res#62985/itemBase.attributeList[1]",
+   "RepelCorrosion",
+   "RepelCorrosion"
+  ],
+  [
+   "res#62985/itemBase.attributeList[2]",
+   "MaintainForm",
+   "MaintainForm"
+  ],
+  [
+   "res#62985/itemBase.attributeList[3]",
+   "ResistFire",
+   "ResistFire"
+  ],
+  [
+   "res#62985/itemBase.attributeList[4]",
+   "ResistEarth",
+   "ResistEarth"
+  ],
+  [
+   "res#62985/itemBase.attributeList[5]",
+   "ResistShock",
+   "ResistShock"
+  ],
+  [
+   "res#62985/itemBase.attributeList[6]",
+   "ResistIce",
+   "ResistIce"
+  ],
+  [
+   "res#62985/itemBase.identifiedName",
+   "Shields of Magravar",
+   "《马格拉瓦之盾》"
+  ],
+  [
+   "res#62985/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62985/itemBase.unidentifiedName",
+   "Shields of Magravar",
+   "《马格拉瓦之盾》"
+  ],
+  [
+   "res#62986/itemBase.attributeList[0]",
+   "Heal",
+   "Heal"
+  ],
+  [
+   "res#62986/itemBase.attributeList[1]",
+   "Cure",
+   "Cure"
+  ],
+  [
+   "res#62986/itemBase.attributeList[2]",
+   "HeavenlyRain",
+   "HeavenlyRain"
+  ],
+  [
+   "res#62986/itemBase.attributeList[3]",
+   "Judgement",
+   "Judgement"
+  ],
+  [
+   "res#62986/itemBase.attributeList[4]",
+   "LeunamarsBreath",
+   "LeunamarsBreath"
+  ],
+  [
+   "res#62986/itemBase.identifiedName",
+   "Leunamar's Blessing",
+   "《卢纳玛尔的祝福》"
+  ],
+  [
+   "res#62986/itemBase.itemNotes",
+   "Power surges through this book's pages",
+   "力量在这本书的书页间涌动"
+  ],
+  [
+   "res#62986/itemBase.setName",
+   "Leunamar",
+   "卢纳玛尔"
+  ],
+  [
+   "res#62986/itemBase.unidentifiedName",
+   "Leunamar's Blessing",
+   "《卢纳玛尔的祝福》"
+  ],
+  [
+   "res#62987/itemBase.attributeList[0]",
+   "HolyWard",
+   "HolyWard"
+  ],
+  [
+   "res#62987/itemBase.attributeList[1]",
+   "BlessWeapon",
+   "BlessWeapon"
+  ],
+  [
+   "res#62987/itemBase.attributeList[2]",
+   "Exorcise",
+   "Exorcise"
+  ],
+  [
+   "res#62987/itemBase.attributeList[3]",
+   "SunNova",
+   "SunNova"
+  ],
+  [
+   "res#62987/itemBase.identifiedName",
+   "On Protection from Evil",
+   "《论对抗邪恶》"
+  ],
+  [
+   "res#62987/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62987/itemBase.unidentifiedName",
+   "On Protection from Evil",
+   "《论对抗邪恶》"
+  ],
+  [
+   "res#62988/itemBase.attributeList[0]",
+   "SummonDistraction",
+   "SummonDistraction"
+  ],
+  [
+   "res#62988/itemBase.attributeList[1]",
+   "Web",
+   "Web"
+  ],
+  [
+   "res#62988/itemBase.attributeList[2]",
+   "SolmariasGrasp",
+   "SolmariasGrasp"
+  ],
+  [
+   "res#62988/itemBase.identifiedName",
+   "Will Of The Forest",
+   "《森林之志》"
+  ],
+  [
+   "res#62988/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62988/itemBase.unidentifiedName",
+   "Will Of The Forest",
+   "《森林之志》"
+  ],
+  [
+   "res#62989/itemBase.attributeList[0]",
+   "SummonVermin",
+   "SummonVermin"
+  ],
+  [
+   "res#62989/itemBase.attributeList[1]",
+   "SummonMonster",
+   "SummonMonster"
+  ],
+  [
+   "res#62989/itemBase.attributeList[2]",
+   "Subjigate",
+   "Subjigate"
+  ],
+  [
+   "res#62989/itemBase.attributeList[3]",
+   "Destabilize",
+   "Destabilize"
+  ],
+  [
+   "res#62989/itemBase.identifiedName",
+   "Rain's Bestiary, Forward note",
+   "《雷恩兽典·序言》"
+  ],
+  [
+   "res#62989/itemBase.itemNotes",
+   "Power surges through this book's pages",
+   "力量在这本书的书页间涌动"
+  ],
+  [
+   "res#62989/itemBase.unidentifiedName",
+   "Rain's Bestiary, Forward note",
+   "《雷恩兽典·序言》"
+  ],
+  [
+   "res#62990/itemBase.attributeList[0]",
+   "5/Random/Default",
+   "5/Random/Default"
+  ],
+  [
+   "res#62990/itemBase.identifiedName",
+   "Satchel",
+   "挎包"
+  ],
+  [
+   "res#62990/itemBase.itemNotes",
+   "It is a small leather satchel.",
+   "一只小皮挎包。"
+  ],
+  [
+   "res#62990/itemBase.unidentifiedName",
+   "Satchel",
+   "挎包"
+  ],
+  [
+   "res#62991/itemBase.attributeList[0]",
+   "7/Random/Default",
+   "7/Random/Default"
+  ],
+  [
+   "res#62991/itemBase.attributeList[1]",
+   "4/Random/Default",
+   "4/Random/Default"
+  ],
+  [
+   "res#62991/itemBase.attributeList[2]",
+   "13/Random/Default",
+   "13/Random/Default"
+  ],
+  [
+   "res#62991/itemBase.identifiedName",
+   "Sack",
+   "麻袋"
+  ],
+  [
+   "res#62991/itemBase.itemNotes",
+   "It is a small burlap sack.",
+   "一只小麻袋。"
+  ],
+  [
+   "res#62991/itemBase.unidentifiedName",
+   "Sack",
+   "麻袋"
+  ],
+  [
+   "res#62992/itemBase.attributeList[0]",
+   "0/Random/Default",
+   "0/Random/Default"
+  ],
+  [
+   "res#62992/itemBase.identifiedName",
+   "Large Chest",
+   "大箱子"
+  ],
+  [
+   "res#62992/itemBase.itemNotes",
+   "It is a large wooden chest.",
+   "一只大木箱。"
+  ],
+  [
+   "res#62992/itemBase.unidentifiedName",
+   "Large Chest",
+   "大箱子"
+  ],
+  [
+   "res#62993/itemBase.attributeList[0]",
+   "MagicMissile",
+   "MagicMissile"
+  ],
+  [
+   "res#62993/itemBase.attributeList[1]",
+   "WallOfForce",
+   "WallOfForce"
+  ],
+  [
+   "res#62993/itemBase.attributeList[2]",
+   "SeekingMissile",
+   "SeekingMissile"
+  ],
+  [
+   "res#62993/itemBase.identifiedName",
+   "Applications of Force",
+   "《力的应用》"
+  ],
+  [
+   "res#62993/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62993/itemBase.unidentifiedName",
+   "Applications of Force",
+   "《力的应用》"
+  ],
+  [
+   "res#62994/itemBase.attributeList[0]",
+   "BindRune",
+   "BindRune"
+  ],
+  [
+   "res#62994/itemBase.identifiedName",
+   "Runic Impressions, Volume II",
+   "《符文印记 卷二》"
+  ],
+  [
+   "res#62994/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62994/itemBase.unidentifiedName",
+   "Runic Impressions, Volume II",
+   "《符文印记 卷二》"
+  ],
+  [
+   "res#62995/itemBase.attributeList[0]",
+   "Longstride",
+   "Longstride"
+  ],
+  [
+   "res#62995/itemBase.attributeList[1]",
+   "Etherwalk",
+   "Etherwalk"
+  ],
+  [
+   "res#62995/itemBase.attributeList[2]",
+   "Planemire",
+   "Planemire"
+  ],
+  [
+   "res#62995/itemBase.attributeList[3]",
+   "TimeRipple",
+   "TimeRipple"
+  ],
+  [
+   "res#62995/itemBase.attributeList[4]",
+   "WanderWall",
+   "WanderWall"
+  ],
+  [
+   "res#62995/itemBase.attributeList[5]",
+   "UnstableRift",
+   "UnstableRift"
+  ],
+  [
+   "res#62995/itemBase.identifiedName",
+   "Wanderings and Ways, Volume III",
+   "《游历与道路 卷三》"
+  ],
+  [
+   "res#62995/itemBase.itemNotes",
+   "Power surges through this book's pages",
+   "力量在这本书的书页间涌动"
+  ],
+  [
+   "res#62995/itemBase.unidentifiedName",
+   "Wanderings and Ways, Volume III",
+   "《游历与道路 卷三》"
+  ],
+  [
+   "res#62996/itemBase.identifiedName",
+   "Practice Weapons",
+   "训练武器"
+  ],
+  [
+   "res#62996/itemBase.itemNotes",
+   "These training weapons, though simplistic, are well made and sturdy.",
+   "这些训练武器虽然简陋，但做工扎实、结实耐用。"
+  ],
+  [
+   "res#62996/itemBase.unidentifiedName",
+   "Practice Weapons",
+   "训练武器"
+  ],
+  [
+   "res#62997/itemBase.attributeList[0]",
+   "BatSwarm",
+   "BatSwarm"
+  ],
+  [
+   "res#62997/itemBase.attributeList[1]",
+   "Crevice",
+   "Crevice"
+  ],
+  [
+   "res#62997/itemBase.attributeList[2]",
+   "Collapse",
+   "Collapse"
+  ],
+  [
+   "res#62997/itemBase.attributeList[3]",
+   "ResistEarth",
+   "ResistEarth"
+  ],
+  [
+   "res#62997/itemBase.identifiedName",
+   "Tome of Deepest Reaches",
+   "至深之境书卷"
+  ],
+  [
+   "res#62997/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62997/itemBase.unidentifiedName",
+   "Tome of Deepest Reaches",
+   "至深之境书卷"
+  ],
+  [
+   "res#62998/itemBase.attributeList[0]",
+   "PrismaticHalo",
+   "PrismaticHalo"
+  ],
+  [
+   "res#62998/itemBase.attributeList[1]",
+   "Telekinesis",
+   "Telekinesis"
+  ],
+  [
+   "res#62998/itemBase.attributeList[2]",
+   "ElementalShield",
+   "ElementalShield"
+  ],
+  [
+   "res#62998/itemBase.identifiedName",
+   "The Unseen Spectrum",
+   "《不可见的光谱》"
+  ],
+  [
+   "res#62998/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62998/itemBase.unidentifiedName",
+   "The Unseen Spectrum",
+   "《不可见的光谱》"
+  ],
+  [
+   "res#62999/itemBase.attributeList[0]",
+   "Decalcify",
+   "Decalcify"
+  ],
+  [
+   "res#62999/itemBase.attributeList[1]",
+   "StoneSkin",
+   "StoneSkin"
+  ],
+  [
+   "res#62999/itemBase.attributeList[2]",
+   "Petrify",
+   "Petrify"
+  ],
+  [
+   "res#62999/itemBase.identifiedName",
+   "The Stone Makers",
+   "《造石者》"
+  ],
+  [
+   "res#62999/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#62999/itemBase.unidentifiedName",
+   "The Stone Makers",
+   "《造石者》"
+  ],
+  [
+   "res#63000/itemBase.attributeList[0]",
+   "ManaFire",
+   "ManaFire"
+  ],
+  [
+   "res#63000/itemBase.attributeList[1]",
+   "BondsOfZakerunda",
+   "BondsOfZakerunda"
+  ],
+  [
+   "res#63000/itemBase.attributeList[2]",
+   "WaveOfFire",
+   "WaveOfFire"
+  ],
+  [
+   "res#63000/itemBase.identifiedName",
+   "Towers of Dimlight",
+   "《幽光之塔》"
+  ],
+  [
+   "res#63000/itemBase.itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术"
+  ],
+  [
+   "res#63000/itemBase.unidentifiedName",
+   "Towers of Dimlight",
+   "《幽光之塔》"
+  ],
+  [
+   "res#63001/itemBase.attributeList[0]",
+   "0/Random/Default",
+   "0/Random/Default"
+  ],
+  [
+   "res#63001/itemBase.identifiedName",
+   "Medium Chest",
+   "中箱子"
+  ],
+  [
+   "res#63001/itemBase.itemNotes",
+   "It is a wooden chest.",
+   "一只木箱。"
+  ],
+  [
+   "res#63001/itemBase.unidentifiedName",
+   "Medium Chest",
+   "中箱子"
+  ],
+  [
+   "res#63002/itemBase.attributeList[0]",
+   "Dehumidify",
+   "Dehumidify"
+  ],
+  [
+   "res#63002/itemBase.attributeList[1]",
+   "Light",
+   "Light"
+  ],
+  [
+   "res#63002/itemBase.attributeList[2]",
+   "SeekingLights",
+   "SeekingLights"
+  ],
+  [
+   "res#63002/itemBase.attributeList[3]",
+   "ArcaneSight",
+   "ArcaneSight"
+  ],
+  [
+   "res#63002/itemBase.attributeList[4]",
+   "Analyze",
+   "Analyze"
+  ],
+  [
+   "res#63002/itemBase.identifiedName",
+   "In Search of Clarity",
+   "《寻找清明》"
+  ],
+  [
+   "res#63002/itemBase.itemNotes",
+   "Power surges through this book's pages.\n\nEquip it to gain access to spells.",
+   "力量在这本书的书页间涌动。\n\n装备它即可掌握其中的法术。"
+  ],
+  [
+   "res#63002/itemBase.unidentifiedName",
+   "In Search of Clarity",
+   "《寻找清明》"
+  ],
+  [
+   "res#63003/itemBase.attributeList[0]",
+   "IcyGrip",
+   "IcyGrip"
+  ],
+  [
+   "res#63003/itemBase.attributeList[1]",
+   "IceBlock",
+   "IceBlock"
+  ],
+  [
+   "res#63003/itemBase.attributeList[2]",
+   "GlacialShards",
+   "GlacialShards"
+  ],
+  [
+   "res#63003/itemBase.attributeList[3]",
+   "ResistIce",
+   "ResistIce"
+  ],
+  [
+   "res#63003/itemBase.identifiedName",
+   "Visions of Ice",
+   "《冰之幻象》"
+  ],
+  [
+   "res#63003/itemBase.itemNotes",
+   "Power surges through this book's pages",
+   "力量在这本书的书页间涌动"
+  ],
+  [
+   "res#63003/itemBase.unidentifiedName",
+   "Visions of Ice",
+   "《冰之幻象》"
+  ],
+  [
+   "res#65935/itemBase.identifiedName",
+   "Stone Club",
+   "石棒"
+  ],
+  [
+   "res#65935/itemBase.setName",
+   "Toad",
+   "蟾蜍"
+  ],
+  [
+   "res#65935/itemBase.unidentifiedName",
+   "Stone Club",
+   "石棒"
+  ],
+  [
+   "res#65936/itemBase.identifiedName",
+   "Whip",
+   "鞭"
+  ],
+  [
+   "res#65936/itemBase.specialInfo",
+   "Half damage at range 1",
+   "距离 1 时伤害减半"
+  ],
+  [
+   "res#65936/itemBase.unidentifiedName",
+   "Whip",
+   "鞭"
+  ],
+  [
+   "res#65937/itemBase.identifiedName",
+   "Stigaaras",
+   "斯蒂加拉斯"
+  ],
+  [
+   "res#65937/itemBase.specialInfo",
+   "Half damage at range 1",
+   "距离 1 时伤害减半"
+  ],
+  [
+   "res#65937/itemBase.unidentifiedName",
+   "Strange Coil",
+   "奇怪的盘鞭"
+  ],
+  [
+   "res#65938/itemBase.identifiedName",
+   "Chain",
+   "链鞭"
+  ],
+  [
+   "res#65938/itemBase.specialInfo",
+   "Half damage at range 1",
+   "距离 1 时伤害减半"
+  ],
+  [
+   "res#65938/itemBase.unidentifiedName",
+   "Chain",
+   "链鞭"
+  ],
+  [
+   "res#65939/itemBase.identifiedName",
+   "Shepherd's Crook",
+   "牧羊杖"
+  ],
+  [
+   "res#65939/itemBase.unidentifiedName",
+   "Shepherd's Crook",
+   "牧羊杖"
+  ],
+  [
+   "res#65940/itemBase.identifiedName",
+   "Vesstorin",
+   "维斯托林"
+  ],
+  [
+   "res#65940/itemBase.unidentifiedName",
+   "Ornate Staff",
+   "华丽法杖"
+  ],
+  [
+   "res#65941/itemBase.identifiedName",
+   "Mace",
+   "钉头锤"
+  ],
+  [
+   "res#65941/itemBase.unidentifiedName",
+   "Mace",
+   "钉头锤"
+  ],
+  [
+   "res#65942/itemBase.identifiedName",
+   "Iron Staff",
+   "铁杖"
+  ],
+  [
+   "res#65942/itemBase.unidentifiedName",
+   "Iron Staff",
+   "铁杖"
+  ],
+  [
+   "res#65943/itemBase.identifiedName",
+   "Bone Club",
+   "骨棒"
+  ],
+  [
+   "res#65943/itemBase.setName",
+   "Toad",
+   "蟾蜍"
+  ],
+  [
+   "res#65943/itemBase.unidentifiedName",
+   "Bone Club",
+   "骨棒"
+  ],
+  [
+   "res#65944/itemBase.identifiedName",
+   "Morning Star",
+   "晨星锤"
+  ],
+  [
+   "res#65944/itemBase.specialInfo",
+   "Half damage at range 1",
+   "距离 1 时伤害减半"
+  ],
+  [
+   "res#65944/itemBase.unidentifiedName",
+   "Morning Star",
+   "晨星锤"
+  ],
+  [
+   "res#65945/itemBase.identifiedName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "res#65945/itemBase.unidentifiedName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "res#65946/itemBase.identifiedName",
+   "Flanged Mace",
+   "棱钉锤"
+  ],
+  [
+   "res#65946/itemBase.unidentifiedName",
+   "Flanged Mace",
+   "棱钉锤"
+  ],
+  [
+   "res#65947/itemBase.identifiedName",
+   "Club",
+   "棍棒"
+  ],
+  [
+   "res#65947/itemBase.unidentifiedName",
+   "Club",
+   "棍棒"
+  ],
+  [
+   "res#65948/itemBase.identifiedName",
+   "Bannitar",
+   "班尼塔"
+  ],
+  [
+   "res#65948/itemBase.unidentifiedName",
+   "Ornate Staff",
+   "华丽法杖"
+  ],
+  [
+   "res#65949/itemBase.identifiedName",
+   "Flail",
+   "连枷"
+  ],
+  [
+   "res#65949/itemBase.specialInfo",
+   "Half damage at range 1",
+   "距离 1 时伤害减半"
+  ],
+  [
+   "res#65949/itemBase.unidentifiedName",
+   "Flail",
+   "连枷"
+  ],
+  [
+   "res#65950/itemBase.identifiedName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "res#65950/itemBase.unidentifiedName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "res#65951/itemBase.identifiedName",
+   "Smith's Hammer",
+   "锻锤"
+  ],
+  [
+   "res#65951/itemBase.unidentifiedName",
+   "Smith's Hammer",
+   "锻锤"
+  ],
+  [
+   "res#65952/itemBase.identifiedName",
+   "Iron Staff",
+   "铁杖"
+  ],
+  [
+   "res#65952/itemBase.unidentifiedName",
+   "Iron Staff",
+   "铁杖"
+  ],
+  [
+   "res#65953/itemBase.identifiedName",
+   "War Hammer",
+   "战锤"
+  ],
+  [
+   "res#65953/itemBase.unidentifiedName",
+   "War Hammer",
+   "战锤"
+  ],
+  [
+   "res#65954/itemBase.identifiedName",
+   "Maul",
+   "大锤"
+  ],
+  [
+   "res#65954/itemBase.unidentifiedName",
+   "Maul",
+   "大锤"
+  ],
+  [
+   "res#65978/itemBase.identifiedName",
+   "Mimic Teeth",
+   "拟态之牙"
+  ],
+  [
+   "res#65978/itemBase.unidentifiedName",
+   "Mimic Teeth",
+   "拟态之牙"
+  ],
+  [
+   "res#65979/itemBase.identifiedName",
+   "Gyffard's Legacy",
+   "吉法德的遗赠"
+  ],
+  [
+   "res#65979/itemBase.setName",
+   "Any",
+   "任意"
+  ],
+  [
+   "res#65979/itemBase.unidentifiedName",
+   "Ancient Sword",
+   "古老的剑"
+  ],
+  [
+   "res#65980/itemBase.identifiedName",
+   "Vermis",
+   "维尔米斯"
+  ],
+  [
+   "res#65980/itemBase.unidentifiedName",
+   "Short Sword",
+   "短剑"
+  ],
+  [
+   "res#65981/itemBase.identifiedName",
+   "Shortbow",
+   "短弓"
+  ],
+  [
+   "res#65981/itemBase.unidentifiedName",
+   "Shortbow",
+   "短弓"
+  ],
+  [
+   "res#65982/itemBase.identifiedName",
+   "Tegamial",
+   "特加米尔"
+  ],
+  [
+   "res#65982/itemBase.unidentifiedName",
+   "Moonblade",
+   "月刃"
+  ],
+  [
+   "res#65983/itemBase.identifiedName",
+   "Teeth",
+   "利齿"
+  ],
+  [
+   "res#65983/itemBase.unidentifiedName",
+   "Teeth",
+   "利齿"
+  ],
+  [
+   "res#65984/itemBase.identifiedName",
+   "Bramble Shard",
+   "荆棘碎片"
+  ],
+  [
+   "res#65984/itemBase.unidentifiedName",
+   "Wooden Sword",
+   "木剑"
+  ],
+  [
+   "res#65985/itemBase.identifiedName",
+   "Lennic",
+   "伦尼克"
+  ],
+  [
+   "res#65985/itemBase.unidentifiedName",
+   "Long Bow",
+   "长弓"
+  ],
+  [
+   "res#65986/itemBase.identifiedName",
+   "Pollen",
+   "花粉"
+  ],
+  [
+   "res#65986/itemBase.unidentifiedName",
+   "Pollen",
+   "花粉"
+  ],
+  [
+   "res#65987/itemBase.identifiedName",
+   "Headbutt",
+   "头槌"
+  ],
+  [
+   "res#65987/itemBase.unidentifiedName",
+   "Headbutt",
+   "头槌"
+  ],
+  [
+   "res#65988/itemBase.identifiedName",
+   "Teeth",
+   "利齿"
+  ],
+  [
+   "res#65988/itemBase.unidentifiedName",
+   "Teeth",
+   "利齿"
+  ],
+  [
+   "res#65989/itemBase.identifiedName",
+   "Ashkin's Shredders",
+   "阿什金的碎爪"
+  ],
+  [
+   "res#65989/itemBase.setName",
+   "Ashkin",
+   "阿什金"
+  ],
+  [
+   "res#65989/itemBase.unidentifiedName",
+   "Ancient Jaws",
+   "远古之颚"
+  ],
+  [
+   "res#65990/itemBase.identifiedName",
+   "Dilamdren",
+   "迪拉姆德伦"
+  ],
+  [
+   "res#65990/itemBase.unidentifiedName",
+   "Shimmering Sword",
+   "微光之剑"
+  ],
+  [
+   "res#65991/itemBase.identifiedName",
+   "Ethereal Claws",
+   "虚界之爪"
+  ],
+  [
+   "res#65991/itemBase.unidentifiedName",
+   "Ethereal Claws",
+   "虚界之爪"
+  ],
+  [
+   "res#65992/itemBase.identifiedName",
+   "Warschal",
+   "瓦沙尔"
+  ],
+  [
+   "res#65992/itemBase.unidentifiedName",
+   "War Axe",
+   "战斧"
+  ],
+  [
+   "res#65993/itemBase.identifiedName",
+   "Anvilar",
+   "安维拉"
+  ],
+  [
+   "res#65993/itemBase.unidentifiedName",
+   "Maul",
+   "大锤"
+  ],
+  [
+   "res#65994/itemBase.identifiedName",
+   "Cold Touch",
+   "寒冰之触"
+  ],
+  [
+   "res#65994/itemBase.unidentifiedName",
+   "Cold Touch",
+   "寒冰之触"
+  ],
+  [
+   "res#65995/itemBase.identifiedName",
+   "Fire Slam",
+   "烈焰猛击"
+  ],
+  [
+   "res#65995/itemBase.unidentifiedName",
+   "Fire Slam",
+   "烈焰猛击"
+  ],
+  [
+   "res#65996/itemBase.identifiedName",
+   "Inhale",
+   "吸入"
+  ],
+  [
+   "res#65996/itemBase.unidentifiedName",
+   "Inhale",
+   "吸入"
+  ],
+  [
+   "res#65997/itemBase.identifiedName",
+   "Poison Vine",
+   "毒藤"
+  ],
+  [
+   "res#65997/itemBase.unidentifiedName",
+   "Poison Vine",
+   "毒藤"
+  ],
+  [
+   "res#65998/itemBase.identifiedName",
+   "Hornbeam Bow",
+   "鹅耳枥弓"
+  ],
+  [
+   "res#65998/itemBase.unidentifiedName",
+   "Hornbeam Bow",
+   "鹅耳枥弓"
+  ],
+  [
+   "res#65999/itemBase.identifiedName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#65999/itemBase.unidentifiedName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#66000/itemBase.identifiedName",
+   "Galrassil",
+   "加拉希尔"
+  ],
+  [
+   "res#66000/itemBase.unidentifiedName",
+   "Long Sword",
+   "长剑"
+  ],
+  [
+   "res#66001/itemBase.identifiedName",
+   "Spear",
+   "长矛"
+  ],
+  [
+   "res#66001/itemBase.specialInfo",
+   "Half damage at range 1",
+   "距离 1 时伤害减半"
+  ],
+  [
+   "res#66001/itemBase.unidentifiedName",
+   "Spear",
+   "长矛"
+  ],
+  [
+   "res#66002/itemBase.identifiedName",
+   "Venomous Teeth",
+   "毒牙"
+  ],
+  [
+   "res#66002/itemBase.unidentifiedName",
+   "Venomous Teeth",
+   "毒牙"
+  ],
+  [
+   "res#66003/itemBase.identifiedName",
+   "Ordrimarr",
+   "奥德里玛尔"
+  ],
+  [
+   "res#66003/itemBase.unidentifiedName",
+   "Mace",
+   "钉头锤"
+  ],
+  [
+   "res#66004/itemBase.identifiedName",
+   "Fists",
+   "拳"
+  ],
+  [
+   "res#66004/itemBase.unidentifiedName",
+   "Fists",
+   "拳"
+  ],
+  [
+   "res#66005/itemBase.identifiedName",
+   "Kite Shield",
+   "鸢盾"
+  ],
+  [
+   "res#66005/itemBase.unidentifiedName",
+   "Kite Shield",
+   "鸢盾"
+  ],
+  [
+   "res#66006/itemBase.identifiedName",
+   "Slime",
+   "黏液"
+  ],
+  [
+   "res#66006/itemBase.unidentifiedName",
+   "Slime",
+   "黏液"
+  ],
+  [
+   "res#66007/itemBase.identifiedName",
+   "Broadsword",
+   "阔剑"
+  ],
+  [
+   "res#66007/itemBase.unidentifiedName",
+   "Broadsword",
+   "阔剑"
+  ],
+  [
+   "res#66008/itemBase.identifiedName",
+   "Longbow",
+   "长弓"
+  ],
+  [
+   "res#66008/itemBase.unidentifiedName",
+   "Longbow",
+   "长弓"
+  ],
+  [
+   "res#66009/itemBase.identifiedName",
+   "Revannin",
+   "雷万宁"
+  ],
+  [
+   "res#66009/itemBase.unidentifiedName",
+   "Dagger",
+   "匕首"
+  ],
+  [
+   "res#66010/itemBase.identifiedName",
+   "Battle Axe",
+   "战斗斧"
+  ],
+  [
+   "res#66010/itemBase.unidentifiedName",
+   "Battle Axe",
+   "战斗斧"
+  ],
+  [
+   "res#66011/itemBase.identifiedName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#66011/itemBase.unidentifiedName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#66012/itemBase.identifiedName",
+   "Torch",
+   "火炬"
+  ],
+  [
+   "res#66012/itemBase.unidentifiedName",
+   "Torch",
+   "火炬"
+  ],
+  [
+   "res#66013/itemBase.identifiedName",
+   "Fairy Curse",
+   "妖精诅咒"
+  ],
+  [
+   "res#66013/itemBase.unidentifiedName",
+   "Fairy Curse",
+   "妖精诅咒"
+  ],
+  [
+   "res#66014/itemBase.identifiedName",
+   "Pickaxe",
+   "镐子"
+  ],
+  [
+   "res#66014/itemBase.unidentifiedName",
+   "Pickaxe",
+   "镐子"
+  ],
+  [
+   "res#66015/itemBase.identifiedName",
+   "Venemous Claws",
+   "毒爪"
+  ],
+  [
+   "res#66015/itemBase.unidentifiedName",
+   "Venemous Claws",
+   "毒爪"
+  ],
+  [
+   "res#66016/itemBase.identifiedName",
+   "Crystal Claws",
+   "水晶爪"
+  ],
+  [
+   "res#66016/itemBase.unidentifiedName",
+   "Crystal Claws",
+   "水晶爪"
+  ],
+  [
+   "res#66017/itemBase.identifiedName",
+   "Shovel",
+   "铲子"
+  ],
+  [
+   "res#66017/itemBase.unidentifiedName",
+   "Shovel",
+   "铲子"
+  ],
+  [
+   "res#66018/itemBase.identifiedName",
+   "Cold Touch",
+   "寒冰之触"
+  ],
+  [
+   "res#66018/itemBase.unidentifiedName",
+   "Cold Touch",
+   "寒冰之触"
+  ],
+  [
+   "res#66019/itemBase.identifiedName",
+   "Banshee Claws",
+   "女妖之爪"
+  ],
+  [
+   "res#66019/itemBase.unidentifiedName",
+   "Banshee Claws",
+   "女妖之爪"
+  ],
+  [
+   "res#66020/itemBase.identifiedName",
+   "Elokian Bow",
+   "埃洛克弓"
+  ],
+  [
+   "res#66020/itemBase.unidentifiedName",
+   "Elokian Bow",
+   "埃洛克弓"
+  ],
+  [
+   "res#66021/itemBase.identifiedName",
+   "War Axe",
+   "战斧"
+  ],
+  [
+   "res#66021/itemBase.unidentifiedName",
+   "War Axe",
+   "战斧"
+  ],
+  [
+   "res#66022/itemBase.identifiedName",
+   "Long Sword",
+   "长剑"
+  ],
+  [
+   "res#66022/itemBase.unidentifiedName",
+   "Long Sword",
+   "长剑"
+  ],
+  [
+   "res#66023/itemBase.identifiedName",
+   "Shard Claws",
+   "碎晶爪"
+  ],
+  [
+   "res#66023/itemBase.unidentifiedName",
+   "Shard Claws",
+   "碎晶爪"
+  ],
+  [
+   "res#66024/itemBase.identifiedName",
+   "Smash",
+   "重砸"
+  ],
+  [
+   "res#66024/itemBase.unidentifiedName",
+   "Smash",
+   "重砸"
+  ],
+  [
+   "res#66025/itemBase.identifiedName",
+   "Talons of Acristor",
+   "阿克里斯特之爪"
+  ],
+  [
+   "res#66025/itemBase.setName",
+   "Acristor",
+   "阿克里斯特"
+  ],
+  [
+   "res#66025/itemBase.unidentifiedName",
+   "Talons",
+   "利爪"
+  ],
+  [
+   "res#66026/itemBase.identifiedName",
+   "Acidic Jaws",
+   "酸蚀之颚"
+  ],
+  [
+   "res#66026/itemBase.unidentifiedName",
+   "Acidic Jaws",
+   "酸蚀之颚"
+  ],
+  [
+   "res#66027/itemBase.identifiedName",
+   "Heater Shield",
+   "熨斗盾"
+  ],
+  [
+   "res#66027/itemBase.unidentifiedName",
+   "Heater Shield",
+   "熨斗盾"
+  ],
+  [
+   "res#66028/itemBase.identifiedName",
+   "Recurve Bow",
+   "反曲弓"
+  ],
+  [
+   "res#66028/itemBase.unidentifiedName",
+   "Recurve Bow",
+   "反曲弓"
+  ],
+  [
+   "res#66029/itemBase.identifiedName",
+   "Venomous Teeth",
+   "毒牙"
+  ],
+  [
+   "res#66029/itemBase.unidentifiedName",
+   "Venomous Teeth",
+   "毒牙"
+  ],
+  [
+   "res#66030/itemBase.identifiedName",
+   "Zombie Claws",
+   "僵尸之爪"
+  ],
+  [
+   "res#66030/itemBase.unidentifiedName",
+   "Zombie Claws",
+   "僵尸之爪"
+  ],
+  [
+   "res#66031/itemBase.identifiedName",
+   "Claymore",
+   "双手剑"
+  ],
+  [
+   "res#66031/itemBase.unidentifiedName",
+   "Claymore",
+   "双手剑"
+  ],
+  [
+   "res#66032/itemBase.identifiedName",
+   "Dark Energy",
+   "暗能量"
+  ],
+  [
+   "res#66032/itemBase.unidentifiedName",
+   "Dark Energy",
+   "暗能量"
+  ],
+  [
+   "res#66033/itemBase.identifiedName",
+   "Scaphin Jaws",
+   "斯卡芬之颚"
+  ],
+  [
+   "res#66033/itemBase.setName",
+   "Toad",
+   "蟾蜍"
+  ],
+  [
+   "res#66033/itemBase.unidentifiedName",
+   "Scaphin Jaws",
+   "斯卡芬之颚"
+  ],
+  [
+   "res#66034/itemBase.identifiedName",
+   "Bone Shield",
+   "骨盾"
+  ],
+  [
+   "res#66034/itemBase.setName",
+   "Bone",
+   "骨"
+  ],
+  [
+   "res#66034/itemBase.unidentifiedName",
+   "Bone Shield",
+   "骨盾"
+  ],
+  [
+   "res#66035/itemBase.identifiedName",
+   "Wooden Teeth",
+   "木齿"
+  ],
+  [
+   "res#66035/itemBase.unidentifiedName",
+   "Wooden Teeth",
+   "木齿"
+  ],
+  [
+   "res#66036/itemBase.identifiedName",
+   "Hand Axe",
+   "手斧"
+  ],
+  [
+   "res#66036/itemBase.unidentifiedName",
+   "Hand Axe",
+   "手斧"
+  ],
+  [
+   "res#66037/itemBase.identifiedName",
+   "Halberd",
+   "戟"
+  ],
+  [
+   "res#66037/itemBase.unidentifiedName",
+   "Halberd",
+   "戟"
+  ],
+  [
+   "res#66038/itemBase.identifiedName",
+   "Crystal Shock",
+   "水晶电击"
+  ],
+  [
+   "res#66038/itemBase.unidentifiedName",
+   "Crystal Shock",
+   "水晶电击"
+  ],
+  [
+   "res#66039/itemBase.identifiedName",
+   "Wooden Buckler",
+   "木圆盾"
+  ],
+  [
+   "res#66039/itemBase.unidentifiedName",
+   "Wooden Buckler",
+   "木圆盾"
+  ],
+  [
+   "res#66040/itemBase.identifiedName",
+   "Grimburl",
+   "格林布尔"
+  ],
+  [
+   "res#66040/itemBase.unidentifiedName",
+   "Knotted Branch",
+   "打结的树枝"
+  ],
+  [
+   "res#66041/itemBase.identifiedName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#66041/itemBase.unidentifiedName",
+   "Claws",
+   "利爪"
+  ],
+  [
+   "res#66042/itemBase.identifiedName",
+   "Knuckles",
+   "指虎"
+  ],
+  [
+   "res#66042/itemBase.unidentifiedName",
+   "Knuckles",
+   "指虎"
+  ],
+  [
+   "res#66043/itemBase.identifiedName",
+   "Trident",
+   "三叉戟"
+  ],
+  [
+   "res#66043/itemBase.specialInfo",
+   "Half damage at range 1",
+   "距离 1 时伤害减半"
+  ],
+  [
+   "res#66043/itemBase.unidentifiedName",
+   "Trident",
+   "三叉戟"
+  ],
+  [
+   "res#66044/itemBase.identifiedName",
+   "Scaphin Claws",
+   "斯卡芬之爪"
+  ],
+  [
+   "res#66044/itemBase.setName",
+   "Toad",
+   "蟾蜍"
+  ],
+  [
+   "res#66044/itemBase.unidentifiedName",
+   "Scaphin Claws",
+   "斯卡芬之爪"
+  ],
+  [
+   "res#66286/itemBase.identifiedName",
+   "Dagger",
+   "匕首"
+  ],
+  [
+   "res#66286/itemBase.unidentifiedName",
+   "Dagger",
+   "匕首"
+  ],
+  [
+   "res#66287/itemBase.identifiedName",
+   "Short Sword",
+   "短剑"
+  ],
+  [
+   "res#66287/itemBase.unidentifiedName",
+   "Short Sword",
+   "短剑"
+  ]
+ ]
+}

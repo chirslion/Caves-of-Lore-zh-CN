@@ -1,0 +1,399 @@
+{
+ "meta": {
+  "kind": "对话/LaszraConversation",
+  "count": 65,
+  "with_cn": 65
+ },
+ "entries": [
+  [
+   "sa0#10665/whatIHaveToSay[0]",
+   "librarian",
+   "Are we not all librarians in a way? Storing knowledge on the dusty shelves of our minds? Extremely dusty as of late, mind you.",
+   "从某种意义上说，我们不都是图书管理员？把知识存放在心灵那积灰的书架上。提醒你，近来那灰可是积得相当厚。"
+  ],
+  [
+   "sa0#10676/whatIHaveToSay[0]",
+   "graveyard",
+   "The entire world is a graveyard, regardless of where we plant ourselves after death. From dust we came and to dust we return, though I would prefer it otherwise...",
+   "整个世界都是一片墓地，无论我们死后把自己埋在哪里。我们来自尘土，也将归于尘土——尽管我更希望不是这样……"
+  ],
+  [
+   "sa0#10676/whatIHaveToSay[1]",
+   "graveyard",
+   "I do not mean to say that I wish to stay in this old body forever. I wish to be something other than dust. I do hate the thought of some poor villager dusting me off of their shelves. There are better things to worry about in life than to waste time cleaning.",
+   "我并不是说想永远留在这副老躯壳里。我想成为尘土之外的东西。一想到某个可怜的村民把我从架子上掸灰，我就受不了。人生中值得操心的事多的是，何必浪费时间打扫。"
+  ],
+  [
+   "sa0#10676/whatIHaveToSay[2]",
+   "graveyard",
+   "Now, what is this nonsense about gate keys? Can you not climb over a mere fence?",
+   "话说回来，那套「大门钥匙」的胡话是怎么回事？区区一道围栏，翻过去不就行了？"
+  ],
+  [
+   "sa0#10682/whatIHaveToSay[0]",
+   "Airendal",
+   "#, it is good to see you again. And what is this? No longer in service to an individual? Such a wonderful change! If I had to undergo such a transformation I would be, well, petrified.",
+   "#，再见到你真高兴。这是怎么回事？不再侍奉某个个体了？多好的变化！要是换我得经历这种转变，我大概会……石化。"
+  ],
+  [
+   "sa0#10693/whatIHaveToSay[0]",
+   "Emerisk",
+   "The town above us? At first I thought it was inconsequential. Just another village amongst many. But there is something more here that I do not yet understand.",
+   "我们上方的那个镇子？起初我以为它无足轻重。不过是万千村庄中的又一个。但这里还有些什么，是我尚未理解的。"
+  ],
+  [
+   "sa0#10737/whatIHaveToSay[0]",
+   "book",
+   "I am certain that I used to read all the time, but now it mostly evades me, except when very near to you. Most likely, when very near to the Codex.",
+   "我确信自己从前时常读书，可如今大多想不起来了——除非离你很近的时候。很可能是离典籍，很近的时候。"
+  ],
+  [
+   "sa0#10745/whatIHaveToSay[0]",
+   "Rycard",
+   "You have the look of a hardened criminal, but none have been hardened more than I.",
+   "你长着一副惯犯的模样，可没有人比我更「惯」了。"
+  ],
+  [
+   "sa0#10751/whatIHaveToSay[0]",
+   "Codex",
+   "It is no mere book, but Naira knows more. Its words are alive. I do not mean to say that the book is alive. Truth is a living thing... it is complicated, and I cannot remember any more.",
+   "它不只是一本书，奈拉懂得更多。它的字句是活的。我不是说这本书是活的。真相是有生命的东西……这事很复杂，剩下的我记不得了。"
+  ],
+  [
+   "sa0#10763/whatIHaveToSay[0]",
+   "corundum",
+   "I have vague memories of knowledge on this subject. Something to do with the spirit that resides in the core of Solmaria, and something else about being in two worlds at once. I do wish I had not forgotten so much...",
+   "关于这个题目，我有一些模糊的记忆。与栖居在索尔玛利亚核心的灵有关，还与外物同时存在于两个世界有关。真希望我没忘掉这么多……"
+  ],
+  [
+   "sa0#10786/whatIHaveToSay[0]",
+   "Agmarians",
+   "We travelled with one, to Kalindraur. He left to secure our path and I have not seen him since. I cannot even remember his name. Are you surprised that such creatures could be friends to man? And what do you think we are to them if not strange creatures?",
+   "我们曾与一位同行，前往卡林德劳尔。他先行去探路，此后我就没见过他。我连他的名字都想不起来了。这样的生物会成为人类的朋友，你感到惊讶吗？那你觉得，在他们眼中，我们若不是奇异的生物，又是什么？"
+  ],
+  [
+   "sa0#10793/whatIHaveToSay[0]",
+   "Bhulown",
+   "I have seen many monsters, but you make me question the very foundations of calling them by such a name.",
+   "我见过许多怪物，可你让我开始怀疑——把它们称作「怪物」这件事本身，是否还站得住脚。"
+  ],
+  [
+   "sa0#10800/whatIHaveToSay[0]",
+   "Goblins",
+   "You have ruined my day with their mere mention. They are always cunning and often cruel. There was one in particular that I recall along our journey. Wherever we went, he was waiting around the bend with his wares. Such an odd fellow; terrible breath, great selection of staves.",
+   "光是你提起他们，就把我这一天毁了。他们总是狡猾，往往残忍。旅途中我尤其记得其中一个。无论我们去哪儿，他总在拐角处守着摊子。真是个古怪的家伙：口气可怕，法杖的货色倒是一流。"
+  ],
+  [
+   "sa0#10818/whatIHaveToSay[0]",
+   "Merewen",
+   "It has been too long, daughter of Naira. Ok, not really. Time has not passed for me as it has for you. I would say you haven't aged a day, but that's me.",
+   "好久不见了，奈拉的女儿。好吧，其实也没有。时间对我的流逝与对你不同。我本可以说你一点都没变老——不过那是我的情况。"
+  ],
+  [
+   "sa0#10825/whatIHaveToSay[0]",
+   "Dimas",
+   "Now, you look like someone who can appreciate a good 'being turned to stone' pun... and yet, no gems of inspiration have come to me... Aha! Well, that will just have to do. Sometimes close enough is good enough.",
+   "你看着像是个懂得欣赏「被变成石头」这类俏皮话的人……可我至今没等来灵感的宝石……啊哈！行吧，勉强凑合一下。有时候差不多就够好了。"
+  ],
+  [
+   "sa0#10829/whatIHaveToSay[0]",
+   "blue light",
+   "Likely the fae, though blue fireflies do exist. They were helping us to lead people to shelter... the fae, not the fireflies. Few had success and few even returned at all. I am unsure what happened, for they are usually trusted emissaries.",
+   "也许是妖精——不过蓝色的萤火虫确实存在。他们曾帮我们把人引向庇护所……是妖精，不是萤火虫。成功的寥寥无几，回来的更少。我不知道发生了什么，因为他们通常是可信的使者。"
+  ],
+  [
+   "sa0#11305/whatIHaveToSay[0]",
+   "fog",
+   "I can not say that I truly understand it, but we were close to doing so when I left Kalindraur to seal the outer doors. I know that it is not truly a fog, but more an obscuring force, like my bushy eyebrows.",
+   "我不能说自己真正理解它，但在我离开卡林德劳尔，去封堵外门时，我们已接近弄懂它了。我知道它并非真正的雾，而更像一种遮蔽之力——就像我这浓密的眉毛。"
+  ],
+  [
+   "sa0#11314/options[0].text",
+   "Laszra",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11314/options[1].text",
+   "Laszra",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11314/options[2].text",
+   "Laszra",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11314/options[3].text",
+   "Laszra",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11314/options[4].text",
+   "Laszra",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11314/options[5].text",
+   "Laszra",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11314/options[6].text",
+   "Laszra",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11314/options[7].text",
+   "Laszra",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11314/options[8].text",
+   "Laszra",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11314/options[9].text",
+   "Laszra",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11381/whatIHaveToSay[0]",
+   "job",
+   "Job is such a formal word. I performed my duties because they were right. I do not know what I once did, but I am a wizard, and also a humorist.",
+   "「差事」这词太正式了。我履行我的职责，因为它们是正确的。我不知道自己曾经做什么，但我是一名巫师，同时也是一名幽默家。"
+  ],
+  [
+   "sa0#11381/whatIHaveToSay[1]",
+   "job",
+   "Those who think wisdom and humor do not belong together lack understanding of humor, for these are both reflections of truth. Also, humor is fun and wisdom not always so.",
+   "认为智慧与幽默不能并存的人，并不真正懂幽默——因为二者都是真理的映照。再说，幽默有趣，而智慧并不总是如此。"
+  ],
+  [
+   "sa0#11529/whatIHaveToSay[0]",
+   "Lannon",
+   "Your kindness has softened my heart of stone.",
+   "你的善意软化了我这石头般的心。"
+  ],
+  [
+   "sa0#11535/whatIHaveToSay[0]",
+   "Laszra",
+   "Hello, self. Shall we make a pun to tie up our thoughts in such dark and evil times? I think knot.",
+   "你好，我自己。在这黑暗邪恶的年月里，我们何不来个双关，把思绪系在一起？我想，不——「结」了吧。"
+  ],
+  [
+   "sa0#11559/whatIHaveToSay[0]",
+   "manatite",
+   "A very odd mineral indeed. Arcane power is not something we think of as part of the natural world. Why then is it contained within a natural material? Perhaps, what we think we know about it is wrong.",
+   "确实是种极古怪的矿物。我们从不把奥术之力视为自然世界的一部分。那么，它为何会蕴藏在一种天然的材质之中？也许，我们自以为知道的东西，其实是错的。"
+  ],
+  [
+   "sa0#11572/whatIHaveToSay[0]",
+   "caves",
+   "I feel personally attacked, that I should loathe them so and yet remain in them for so long; even becoming one with them! The divine has a sense of humor to be sure, which is why I know that I am on the right track to understanding all of nature and time. Just a few more jokes and I shall understand it all.",
+   "我感到受到了针对：我如此憎恶它们，却在其中滞留了这么久，甚至与它们融为一体！神明确实有幽默感——正因如此，我知道自己正走在理解整个自然与时间的正道上。再多几个笑话，我就能全懂了。"
+  ],
+  [
+   "sa0#11578/whatIHaveToSay[0]",
+   "silver",
+   "Metals are not my expertise, but of silver I know a sliver. It is no mere metal, but rather a part of Miala, and thus has properties that defy explanation. I am afraid I cannot remember more.",
+   "金属非我所长，但说到银，我略知一线。它不只是金属，而是米亚拉，的一部分，因此有些难以解释的特性。可惜再多我想不起来了。"
+  ],
+  [
+   "sa0#11585/whatIHaveToSay[0]",
+   "dark lord",
+   "There was a book about him in the library. Terrible chap, very ancient and evil. I suppose it is worth noting that he was not always evil, but became consumed by desire, which turned to greed and envy.",
+   "图书馆里曾有一本关于他的书。可怕的家伙，古老而邪恶。值得一提的是，他并非生来邪恶，而是被欲望吞噬，欲望又化作了贪婪与嫉妒。"
+  ],
+  [
+   "sa0#11585/whatIHaveToSay[1]",
+   "dark lord",
+   "Desire to do good can change you as well, but for the better. Desire is a roadmap which we unknowingly follow to its end.",
+   "行善的愿望同样能改变你，不过是往好的方向。欲望是一张地图，我们在不知不觉中循着它走到尽头。"
+  ],
+  [
+   "sa0#11595/whatIHaveToSay[0]",
+   "wild boar",
+   "How dare you accuse me of such a thing. I am quite exciting, and very humorous. Furthermore... wait, did you say boar? Uh, yes. Most delicious indeed.",
+   "你怎敢这样指责我。我可是相当精彩、非常有幽默感的。再说……等等，你说野猪？呃，是的。极为美味。"
+  ],
+  [
+   "sa0#11600/whatIHaveToSay[0]",
+   "Kalindraur",
+   "A mighty fortress it is. It has kept the power of the dark lord at bay for centuries, but that power does seem to be waning. We must not tarry in our quest.",
+   "它是一座宏伟的堡垒。几个世纪以来，它一直抵挡着黑暗领主的势力，可那势力似乎正在衰退。我们的追寻不可耽搁。"
+  ],
+  [
+   "sa0#11611/whatIHaveToSay[0]",
+   "Shione",
+   "I do love to hear the stories of bards, but so few can keep a tune. I will not take your songs for granite.",
+   "我很爱听吟游诗人的故事，可惜没几个人能唱准调。我不会把你的歌当成「花岗岩」。"
+  ],
+  [
+   "sa0#11636/whatIHaveToSay[0]",
+   "Arbo",
+   "I always wanted a noble steed. Thank you for volunteering.",
+   "我一直想要匹高贵的坐骑。谢谢你毛遂自荐。"
+  ],
+  [
+   "sa0#11647/whatIHaveToSay[0]",
+   "Scaphin",
+   "The last one I saw had barely said a word before he croaked. Literally croaked. But, I dare not cast judgement on them, as I do not truly know them.  Always reserve judgement, for eyes are deceiving and those that judge quickly are often judged in return.",
+   "我见过的最后一个，没说几个字就「呱」了。真的是「呱」了一声。但我不敢评判他们，因为我并不真正了解他们。永远别急着下判断：眼睛会骗人，而妄下判断的人，往往也会被别人评判。"
+  ],
+  [
+   "sa0#11654/whatIHaveToSay[0]",
+   "Renault",
+   "A noble man, with ignoble descendants. The greatness of his family has waned with time. Even if he instilled what was right into his children, each child makes their own choice.",
+   "一位高尚的先人，一群卑微的后裔。他家族的荣光随着时间褪色。就算他把正道植入了子女心中，每个孩子终究会作出自己的选择。"
+  ],
+  [
+   "sa0#11665/whatIHaveToSay[0]",
+   "dimension",
+   "There are many realms. Ours is just one. And within each realm, there are worlds, such as Solmaria. It is a vast ethereal network that we shall never fully understand.\n\nAlso, some of them smell.",
+   "领域有许多。我们的不过是其中之一。每个领域之中又有世界，比如索尔玛利亚。这是一张浩瀚的以太之网，我们永远无法完全理解。\n\n另外，其中有些闻起来很臭。"
+  ],
+  [
+   "sa0#11676/options[0].text",
+   "Laszra",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11676/options[10].text",
+   "Laszra",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11676/options[11].text",
+   "Laszra",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11676/options[12].text",
+   "Laszra",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11676/options[13].text",
+   "Laszra",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11676/options[14].text",
+   "Laszra",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "sa0#11676/options[15].text",
+   "Laszra",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11676/options[16].text",
+   "Laszra",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "sa0#11676/options[17].text",
+   "Laszra",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11676/options[18].text",
+   "Laszra",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#11676/options[19].text",
+   "Laszra",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#11676/options[1].text",
+   "Laszra",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11676/options[20].text",
+   "Laszra",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11676/options[2].text",
+   "Laszra",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11676/options[3].text",
+   "Laszra",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11676/options[4].text",
+   "Laszra",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11676/options[5].text",
+   "Laszra",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11676/options[6].text",
+   "Laszra",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11676/options[7].text",
+   "Laszra",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11676/options[8].text",
+   "Laszra",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11676/options[9].text",
+   "Laszra",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#11687/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I can see that you are a gentle soul, despite outward appearances. Strength tempered with compassion; what a splendidly solid personality.",
+   "看得出，尽管外表如此，你有一颗温柔的心。力量经慈悲淬炼——多么坚实美好的心性。"
+  ]
+ ]
+}

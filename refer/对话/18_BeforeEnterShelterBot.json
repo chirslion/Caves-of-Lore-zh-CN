@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "kind": "对话/BeforeEnterShelterBot",
+  "count": 29,
+  "with_cn": 29
+ },
+ "entries": [
+  [
+   "sa12#15/whatIHaveToSay[0]",
+   "Shione",
+   "Umm... what? Do we believe this? It sounds like madness from a mad creature. An excellent story though.",
+   "呃……什么？我们能信这话吗？听起来像疯子的疯话。不过，倒是个精彩的故事。"
+  ],
+  [
+   "sa12#19/whatIHaveToSay[0]",
+   "Volition",
+   "What remains of the branch is scarred. No new memories. Unable to see truth. The world... a blank page.",
+   "枝条所余之处，尽是伤痕。没有新的记忆。看不见真相。这个世界……是一页空白。"
+  ],
+  [
+   "sa12#195/whatIHaveToSay[0]",
+   "Rycard",
+   "Well, spill it.",
+   "那就快说吧。"
+  ],
+  [
+   "sa12#200/whatIHaveToSay[0]",
+   "Lannon",
+   "We meet again.",
+   "又见面了。"
+  ],
+  [
+   "sa12#205/whatIHaveToSay[0]",
+   "Volition",
+   "There is data. You must comprehend.",
+   "有数据。你们必须理解。"
+  ],
+  [
+   "sa12#210/whatIHaveToSay[0]",
+   "Merewen",
+   "You did not seem eager to talk last time we met, why the change?",
+   "上次见面时，你可不像现在这样急着说话。怎么变了？"
+  ],
+  [
+   "sa12#217/whatIHaveToSay[0]",
+   "Lannon",
+   "So the dark lord turned us into a garden, for his own purposes? And without him it cannot be controlled?",
+   "这么说，黑暗领主为了自己的目的，把我们变成了一座园圃？而他一不在，就没人控制得了？"
+  ],
+  [
+   "sa12#220/whatIHaveToSay[0]",
+   "Volition",
+   "Not you. Only humans. Noble to provide aid, yet unnecessary. Not your battle.",
+   "不是你们。只有人类。伸出援手，高尚，却无必要。这不是你们的战斗。"
+  ],
+  [
+   "sa12#223/whatIHaveToSay[0]",
+   "Lannon",
+   "But why? What is the harvest? What are you doing to us?",
+   "可为什么？什么是「收割」？你们在把我们怎么样？"
+  ],
+  [
+   "sa12#229/whatIHaveToSay[0]",
+   "Lannon",
+   "I am certain we will fail to make sense of this on our own. We need to speak to Naira immediately.",
+   "我确信，单靠我们自己没法弄清这一切。我们得立刻去找奈拉谈谈。"
+  ],
+  [
+   "sa12#230/whatIHaveToSay[0]",
+   "Lannon",
+   "Azros... you mean the dark lord? You were created by the dark lord? You served him?",
+   "阿兹罗斯……你是说黑暗领主？你是黑暗领主创造的？你曾侍奉过他？"
+  ],
+  [
+   "sa12#236/whatIHaveToSay[0]",
+   "Volition",
+   "I have changed. Not desire. Scope of vision. I desire the same as before. The harvest must be completed.",
+   "我变了。不是欲望。是视野的边界。我的欲望如昔。收割必须完成。"
+  ],
+  [
+   "sa12#237/whatIHaveToSay[0]",
+   "Bhulown",
+   "Not make fruit. Not even like fruit.",
+   "不结果子。根本不像果子。"
+  ],
+  [
+   "sa12#24/whatIHaveToSay[0]",
+   "Volition",
+   "No. I came before him, but I alone. The other harvesters; the Azunauri, yes. ",
+   "不。我在他之前就存在，但只有我。其他的收割者——阿祖纳里，是的。 "
+  ],
+  [
+   "sa12#24/whatIHaveToSay[1]",
+   "Volition",
+   "They dwindled, and I am nearly alone. The harvest is too great.",
+   "他们凋零了，我几乎孤身一个。收割的负担太重。"
+  ],
+  [
+   "sa12#241/whatIHaveToSay[0]",
+   "Volition",
+   "Harvesters harvest the fruit. It has always been so. Azros created more harvesters to aid. We gave the bad fruit to him.",
+   "收割者收割果实。向来如此。阿兹罗斯造出更多收割者相助。我们把坏果交给他。"
+  ],
+  [
+   "sa12#248/whatIHaveToSay[0]",
+   "Rycard",
+   "Keep your hands off of my fruit.",
+   "别碰我的果子。"
+  ],
+  [
+   "sa12#26/whatIHaveToSay[0]",
+   "Volition",
+   "Many questions. No time to answer.",
+   "问题太多。没时间回答。"
+  ],
+  [
+   "sa12#26/whatIHaveToSay[1]",
+   "Volition",
+   "There is a vision that awaits you. I can see it. It wants to show you. You must let it. I must go.",
+   "有一场幻象在等你们。我能看见它。它想展示给你们。你们必须任它展示。我必须走了。"
+  ],
+  [
+   "sa12#262/whatIHaveToSay[0]",
+   "Laszra",
+   "I am unsure what to make of this. I have heard of the spiritual plane, but these are dark tidings.",
+   "我不知道该如何看待这一切。我听说过灵界，可这些都是凶讯。"
+  ],
+  [
+   "sa12#264/whatIHaveToSay[0]",
+   "Gallitzin",
+   "This is beyond my understanding. But I do believe him.",
+   "这超出了我的理解。但我相信他。"
+  ],
+  [
+   "sa12#32/whatIHaveToSay[0]",
+   "Dimas",
+   "Fruit? Visions? Evil? Great, now I wonder what it tastes like.",
+   "果实？幻象？邪恶？好极了，现在我只想知道它尝起来是什么味道。"
+  ],
+  [
+   "sa12#42/whatIHaveToSay[0]",
+   "Volition",
+   "However... it cannot be completed. This, I now understand..",
+   "然而……它无法完成了。这一点，我现在明白了……"
+  ],
+  [
+   "sa12#62/whatIHaveToSay[0]",
+   "Lannon",
+   "Is this why many cannot see the words in books? And the fog, is this also connected?",
+   "这就是许多人看不见书里文字的原因吗？还有迷雾，也与这有关吗？"
+  ],
+  [
+   "sa12#69/whatIHaveToSay[0]",
+   "Volition",
+   "If the bad fruit cannot be harvested, it spoils. You have seen the result. This is a new evil.",
+   "坏果若无人收割，便会腐坏。你们已经见过结果。这是一种新的邪恶。"
+  ],
+  [
+   "sa12#73/whatIHaveToSay[0]",
+   "Volition",
+   "Unsure how to explain. You cannot see what I see... You produce fruit, from the seed that was planted in you.",
+   "不知该如何解释。你们看不见我所看见的……你们在结果——从种在你们体内的那颗种子结出。"
+  ],
+  [
+   "sa12#74/whatIHaveToSay[0]",
+   "Rycard",
+   "Planted... in me?",
+   "种在……我体内？"
+  ],
+  [
+   "sa12#79/whatIHaveToSay[0]",
+   "Merewen",
+   "Even then, there is no guarantee of understanding. But what other choice do we have?",
+   "就算那样，也未必能弄明白。可我们还有别的选择吗？"
+  ],
+  [
+   "sa12#81/whatIHaveToSay[0]",
+   "Volition",
+   "That which spoils destroys the branch. It becomes something new. It has no master. It joins others of its kind.",
+   "腐坏之物会毁掉枝条。它化为新的东西。它没有主人。它与同类相聚。"
+  ]
+ ]
+}

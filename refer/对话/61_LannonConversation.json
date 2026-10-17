@@ -1,0 +1,351 @@
+{
+ "meta": {
+  "kind": "对话/LannonConversation",
+  "count": 57,
+  "with_cn": 57
+ },
+ "entries": [
+  [
+   "sa0#10628/whatIHaveToSay[0]",
+   "Scaphin",
+   "This world of full of wondrous creatures. I like to meet them for myself before I draw too many conclusions.",
+   "这个世界满是奇妙的生物。在妄下结论之前，我喜欢亲自与它们相识。"
+  ],
+  [
+   "sa0#10636/whatIHaveToSay[0]",
+   "book",
+   "How is it that I am able to read? I feel as though I do not even know myself.",
+   "我怎么会识字？我甚至觉得自己都不认识我自己。"
+  ],
+  [
+   "sa0#10638/whatIHaveToSay[0]",
+   "Renault",
+   "I have never heard of Renault. Maybe he will be my friend if we ever do meet.",
+   "我从没听说过雷诺。也许哪天真见到了，他会成为我的朋友。"
+  ],
+  [
+   "sa0#10671/whatIHaveToSay[0]",
+   "Shione",
+   "Your presence here is appreciated. Your music inspires me. I hope that I can inspire you as well, in some way or another.",
+   "很高兴你在这里。你的音乐鼓舞着我。希望我也能以这样或那样的方式鼓舞你。"
+  ],
+  [
+   "sa0#10711/whatIHaveToSay[0]",
+   "Goblins",
+   "I do not believe meeting one would be a pleasant experience. For some reason they sound familiar to me, as though we have met, and my caution is from experience. But how can that be?",
+   "我不觉得遇见他们会是愉快的经历。不知为何，他们听起来很耳熟，仿佛我们见过；我的谨慎来自经验。可这怎么可能呢？"
+  ],
+  [
+   "sa0#10720/whatIHaveToSay[0]",
+   "graveyard",
+   "Sometimes my past feels like a graveyard, where all of my memories are buried. If I could remember would I wish to leave some of them dead?",
+   "有时候，我的过去就像一片墓地，我所有的记忆都葬在那里。若我能想起来，我会愿意让其中一些就此长眠吗？"
+  ],
+  [
+   "sa0#10726/whatIHaveToSay[0]",
+   "Agmarians",
+   "I look forward to meeting one, if they indeed exist.",
+   "我很期待见到一个——如果他们真的存在。"
+  ],
+  [
+   "sa0#10732/whatIHaveToSay[0]",
+   "Kalindraur",
+   "It sounds wonderous. There is much danger in this world, but also so much more.",
+   "听起来真奇妙。这世上有许多危险，但也有远多得多的美好。"
+  ],
+  [
+   "sa0#10755/whatIHaveToSay[0]",
+   "Laszra",
+   "You have suffered a setback on top of a tragedy, yet remain steadfast. This is a quality that I seek.",
+   "你在悲剧之上又遭挫折，却依然坚定不移。这正是我所追寻的品质。"
+  ],
+  [
+   "sa0#10758/whatIHaveToSay[0]",
+   "caves",
+   "I feel as though I've seen too much of caves in the short time I can remember.\n\nSomething in me yearns for rolling fields and green pasture.",
+   "在我记得的这短短时光里，洞穴我似乎已经见得太多了。\n\n我心底有什么在渴望起伏的田野与青青的牧场。"
+  ],
+  [
+   "sa0#10774/options[0].text",
+   "Lannon",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#10774/options[10].text",
+   "Lannon",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#10774/options[11].text",
+   "Lannon",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#10774/options[12].text",
+   "Lannon",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#10774/options[13].text",
+   "Lannon",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#10774/options[14].text",
+   "Lannon",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#10774/options[15].text",
+   "Lannon",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#10774/options[16].text",
+   "Lannon",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#10774/options[17].text",
+   "Lannon",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#10774/options[18].text",
+   "Lannon",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#10774/options[1].text",
+   "Lannon",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#10774/options[2].text",
+   "Lannon",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#10774/options[3].text",
+   "Lannon",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#10774/options[4].text",
+   "Lannon",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#10774/options[5].text",
+   "Lannon",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#10774/options[6].text",
+   "Lannon",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#10774/options[7].text",
+   "Lannon",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#10774/options[8].text",
+   "Lannon",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#10774/options[9].text",
+   "Lannon",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#10807/whatIHaveToSay[0]",
+   "dimension",
+   "There is much to this world that I wish to know, but this concept may be beyond my ability to comprehend.",
+   "这世上还有许多我想了解的东西，可这个概念也许超出了我的理解力。"
+  ],
+  [
+   "sa0#10810/whatIHaveToSay[0]",
+   "corundum",
+   "It has a sound to it, like it was meant to be uttered in another language... if there is such a thing.",
+   "它有种音韵，像是注定要用另一种语言念出……如果真有那样的语言的话。"
+  ],
+  [
+   "sa0#10821/whatIHaveToSay[0]",
+   "Airendal",
+   "As I wandered in the fog, looking for my sheep, I'm sure that I saw a light like yours.",
+   "在迷雾中寻找我的羊时，我确信自己见过和你一样的光。"
+  ],
+  [
+   "sa0#10837/whatIHaveToSay[0]",
+   "Gallitzin",
+   "If you're as brave as you are strong I could use someone like you. I find myself facing challenges I could not have forseen. I always have room for another friend.",
+   "若你的胆识配得上你的力气，我正需要你这样的人。我如今面对着未曾预料的挑战。我永远为朋友留着一个位置。"
+  ],
+  [
+   "sa0#11313/options[0].text",
+   "Lannon",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11313/options[1].text",
+   "Lannon",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11313/options[2].text",
+   "Lannon",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11313/options[3].text",
+   "Lannon",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11313/options[4].text",
+   "Lannon",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11313/options[5].text",
+   "Lannon",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11313/options[6].text",
+   "Lannon",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11313/options[7].text",
+   "Lannon",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11313/options[8].text",
+   "Lannon",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11313/options[9].text",
+   "Lannon",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11521/whatIHaveToSay[0]",
+   "job",
+   "Judging from my appearance, I seem to be a shepherd, and not a very good one since I have lost one of my sheep.",
+   "从我的模样看，我似乎是个牧羊人——还是不太称职的那种，因为我丢了一只羊。"
+  ],
+  [
+   "sa0#11528/whatIHaveToSay[0]",
+   "Lannon",
+   "Whatever it is that I lost, I must find it!",
+   "不管我弄丢的是什么，都必须找回来！"
+  ],
+  [
+   "sa0#11543/whatIHaveToSay[0]",
+   "book",
+   "Why has this thing come to me? Was I chosen, or just lucky... maybe unlucky. I shall make the best of it.",
+   "这东西为什么会落到我手上？我是被选中了，还是只是走运……也许是倒霉。我要尽力而为。"
+  ],
+  [
+   "sa0#11549/whatIHaveToSay[0]",
+   "manatite",
+   "This only raises more questions. What is mana? Where does it come from?",
+   "这只会引出更多疑问。什么是法力？它从何而来？"
+  ],
+  [
+   "sa0#11573/whatIHaveToSay[0]",
+   "Rycard",
+   "I'm afraid I don't have many stories to tell. But we can make new stories together.",
+   "恐怕我没什么故事可讲。不过，我们可以一起创造新的故事。"
+  ],
+  [
+   "sa0#11606/whatIHaveToSay[0]",
+   "librarian",
+   "I would very much like to meet one. Imagine, being surrounded by books all day long. Fascinating.",
+   "我非常想见一位。想象一下，整天被书环绕。多迷人。"
+  ],
+  [
+   "sa0#11607/whatIHaveToSay[0]",
+   "Bhulown",
+   "I will put aside fears and judgements based on outward appearance. I can sense that your heart is kind.",
+   "我会放下基于外表的恐惧与评判。我能感到，你的心是善良的。"
+  ],
+  [
+   "sa0#11609/whatIHaveToSay[0]",
+   "Merewen",
+   "Thanks for helping me find my sheep... or whatever it is that I'm looking for.",
+   "谢谢你帮我找羊……或者不管我在找的那东西是什么。"
+  ],
+  [
+   "sa0#11635/whatIHaveToSay[0]",
+   "Arbo",
+   "Who's a good boy? I don't know what I'd have done if you hadn't found me.",
+   "谁是乖狗狗？要不是你找到我，我真不知道会怎样。"
+  ],
+  [
+   "sa0#11643/whatIHaveToSay[0]",
+   "silver",
+   "My mother used to wear a piece of silver jewelry for protection. ...  What a strange memory.",
+   "我母亲从前会戴一件银饰护身。……多么奇怪的记忆。"
+  ],
+  [
+   "sa0#11649/whatIHaveToSay[0]",
+   "Dimas",
+   "Even after being trapped underground you still love the caves don't you? I suppose it wasn't the cave's fault, after all.",
+   "就算被困在地下过，你还是喜欢洞穴，对吧？我想，这毕竟不是洞穴的错。"
+  ],
+  [
+   "sa0#11659/whatIHaveToSay[0]",
+   "fog",
+   "I know the elders warned me not to enter it, but I felt compelled. I had to find what I'd lost.",
+   "我知道长辈们警告过不要进去，可我有种无法抗拒的冲动。我必须找回丢失的东西。"
+  ],
+  [
+   "sa0#11671/whatIHaveToSay[0]",
+   "dark lord",
+   "An impressive and scary title, for sure. I wonder if we can really blame him for our present troubles.",
+   "确实是个又唬人又吓人的头衔。我在想，我们真能把眼下的麻烦都归咎于他吗？"
+  ],
+  [
+   "sa0#11689/whatIHaveToSay[0]",
+   "Emerisk",
+   "Emerisk is my home. I left in search of something.",
+   "埃梅里斯克，是我的家。我离开，是为了寻找某样东西。"
+  ]
+ ]
+}

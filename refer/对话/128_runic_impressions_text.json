@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "kind": "对话/runic_impressions_text",
+  "count": 9,
+  "with_cn": 9
+ },
+ "entries": [
+  [
+   "res#60448/whatIHaveToSay[0]",
+   "Start",
+   "<i>Runic Impressions</i>\n\r\n\tIt is with great joy that I present my findings on ancient runic moon markings. Runes are, of course, quite common. From various languages to children's scribbles, they are representative of words or even ideas.",
+   "<i>《符文印记》</i>\n\r\n\t我怀着极大的喜悦，呈上关于古代月之符文的发现。符文自然十分常见——从各种语言文字到孩童的涂鸦，它们或代表词语，甚至代表意象。"
+  ],
+  [
+   "res#60448/whatIHaveToSay[1]",
+   "Start",
+   "Some runes can be extremely deep in their meaning while looking relatively simple. My studies are focused on moon runes, and I have found something remarkable.\r\n\n\tMoon runes are known to light up when Miala, Gammon and Tethrys have reached certain points in the sky, known as their zenith and nadir.",
+   "有些符文看似朴素，含义却极深。我的研究聚焦于月之符文——而我发现了了不起的东西。\r\n\n\t众所周知，当米亚拉、加蒙与泰丝瑞斯行至天空中的特定位置——即所谓天顶与天底——月之符文便会亮起。"
+  ],
+  [
+   "res#60448/whatIHaveToSay[2]",
+   "Start",
+   "One might presume that they reflect the moons' light stronger than other light sources, yet I have discovered this to happen underground as well, indicating something else is going on. Each of these runes may also have what appears to be brackets, indicating that they light up in the absence of that particular moon, or a small dot above or below the rune to indicate the position of the sun.",
+   "有人也许会以为，它们只是比别处更强烈地映照月光；可我发现，在地下它们同样会亮起——说明另有玄机。这类符文还可能带有看似括号的刻记，表示需在对应月亮缺席之时才会亮起；或者上下各缀一个小点，标示太阳的位置。"
+  ],
+  [
+   "res#60448/whatIHaveToSay[3]",
+   "Start",
+   "And one final complication; some runes do not light up unless another rune has been lit first. The only logical conclusion is that these runes are a locking mechanism. Just as a key raises pins within a lock, so do the moons and sun move pins that we cannot see.\n\n\tWhy then, can one not see such a mechanism unlock by merely passing the days near one of these locks?",
+   "还有最后一道难题：有些符文必须先点亮另一枚符文，才会亮起。唯一合乎逻辑的结论是——这些符文是一套锁具。正如钥匙顶起锁内的弹子，日月也在拨动我们看不见的弹子。\n\n\t那么问题来了：既然如此，为何守在这种「锁」旁消磨时日，却始终不见它开启？"
+  ],
+  [
+   "res#60448/whatIHaveToSay[4]",
+   "Start",
+   "I believe that there is one more required element; an individual of certain lineage. For it was as I did just as described above, that a distant relative of mine came to visit, and upon her proximity to these runes a hidden door did open.\n\n\tSuch a thing has never been observed or described in any book that I have read.",
+   "我相信还缺一样要素：某个特定血脉的人。因为就在我如上述那般守候之时，我的一位远亲前来造访——她一走近这些符文，一道暗门便应声而开。\n\n\t我读过的所有书中，从未记载或描述过这样的事。"
+  ],
+  [
+   "res#60448/whatIHaveToSay[5]",
+   "Start",
+   " I fear that if this knowledge becomes commonplace that men and women may be sought out and forced to act as keys to discover ancient secrets. I must hide this knowledge, and I now know how. In fact, I knew before I wrote this book. If you are reading this book then you are one of such lineage, for this book will not open for any other.",
+   " 我担心，若这知识流传开来，那些人便会遭到搜寻，被强逼着充当开启古代秘密的「钥匙」。我必须藏起这份知识——我已知道方法。事实上，动笔之前我便知道了。你若能读到这本书，你便也是那血脉中的一员：因为对其他人，这本书根本不会打开。"
+  ],
+  [
+   "res#60448/whatIHaveToSay[6]",
+   "Start",
+   "Yes, I have also discovered how to make these runes, but such knowledge I shall take to my grave. I will, however, leave you with some additional information. There are stones that can amplify the light of the moons, thus increasing the range of time that the runes activate. They are rare, but I have begun collecting them. They make interacting with such arcane works much easier. The more stones one has, the greater the window of time.",
+   "没错，我还发现了制作这类符文的方法，但这门学问，我会带进坟墓。不过，我仍愿意多留些信息给你：有些石头能放大月光，从而延长符文可被激活的时段。它们十分稀有，我已着手收集。有了它们，与这类奥术造物打交道会容易得多——石头越多，窗口越宽。"
+  ],
+  [
+   "res#60448/whatIHaveToSay[7]",
+   "Start",
+   "Without them the window for activating a rune is rather small.\n\n\tOh, and one more thing. There is a rune that is extremely rare, and only lights in the presence of Fae. Oh, you don't believe in them? I suppose you don't believe in magical runes either.\n",
+   "没有它们，符文可被激活的窗口相当狭小。\n\n\t哦，还有最后一件事。有一枚极其罕见的符文，只在妖精在场时才会亮起。怎么，你不相信妖精存在？我猜，你也不信魔法符文吧。\n"
+  ],
+  [
+   "res#60448/whatIHaveToSay[8]",
+   "Start",
+   "\n\tSeek these runes. Watch the cycles of the moons, and unlock their secrets. Farewell, and good fortune. Perhaps... you will find something else of mine one day.\n\nVesig Komalkys, Scholar of Runes and Ancient Languages",
+   "\n\t去找寻这些符文吧。守望月亮的轮回，解开它们的秘密。再会，祝你好运。也许……有朝一日，你还会找到我留下的别的东西。\n\n维西格·科马尔基斯，符文与古代语言学者"
+  ]
+ ]
+}

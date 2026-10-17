@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_clarity_text",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60450/whatIHaveToSay[0]",
+   "Start",
+   "<i>In Search of Clarity: The Musings of King Inastrus of Ollidan</i>\n\n\r\tIt is not often that a king is given time to gaze upon the beauty of this world, unhindered by the weight of his duties. This mountain top is unlike any in my kingdom.",
+   "<i>《寻找清明：奥利丹王伊纳斯特鲁斯的沉思》</i>\n\n\r\t身为国王，能抛开职责之重、静观世间之美的时候并不多。这座山顶，与我王国内任何一处都不同。"
+  ],
+  [
+   "res#60450/whatIHaveToSay[1]",
+   "Start",
+   "As the sun melts away the morning haze, it reveals splendor and majesty that even a king cannot attain. How I long to be like the sun clearing away the gloom, or an oiled cloth polishing old wood. The wealth of my realm is centuries old, yet something so simple can bring it back to life. That is what I wish for this realm as well.",
+   "晨雾在阳光下消融，显露出连国王也无法企及的壮丽与威严。我多么渴望像那驱散阴霾的太阳，或如一块浸油的布擦亮陈年木器。我的国度的财富已有数百年，可如此简单之物便能令其重焕生机。这便是我对这个国度的期望。"
+  ],
+  [
+   "res#60522/whatIHaveToSay[0]",
+   "Page2",
+   "\tThe villages I can now see below are old and sturdy. Their stories stretch back generations. The streets are long and narrow, filled with open markets and storytellers. Behold, even from this height I can see messengers moving through the streets, seeking out men of note, delivering their words to those that need hear them.",
+   "\t此刻我望见下方的村庄，古老而坚固。它们的故事可追溯数代之久。街道狭长，市集与说书人比比皆是。看哪，即便身处此等高处，我也能望见信使在街巷间穿行，寻访有名望的人，把言语送达需要听闻的人。"
+  ],
+  [
+   "res#60522/whatIHaveToSay[1]",
+   "Page2",
+   "Perhaps they speak of my coming. It was no small effort to reach this mountain top.\n\n\tMy path here was fraught with danger. But I overcame. We overcame. Now take heart. Raise your swords. Strike your shields. Let not the messengers be seen as liars, or their cries of warning be ignored.",
+   "也许他们谈论的正是我的到来。登上这座山顶，绝非易事。\n\n\t我此行险象环生。但我挺过来了。我们挺过来了。现在，打起精神。举起你们的剑。击响你们的盾。莫让信使被当作说谎之人，也莫让他们的警讯被置若罔闻。"
+  ],
+  [
+   "res#60938/whatIHaveToSay[0]",
+   "Page3",
+   "\tWe will polish their armies into the dust. We will burn them away like mist in the morning sun! This realm will show new beauty. It will reflect the glory of Ollidan! And we will not stop here.\n\tFor, just as we saw in the Arcane realm and perceived the secret paths to this mountain,",
+   "\t我们要把他们的军队碾作尘土。我们要像晨阳驱雾一般，将他们焚烧殆尽！这个国度将展现新的美。它将映照奥利丹的荣光！而我们不会止步于此。\n\t因为，正如我们在奥术之域中所见、并窥出通往此山的隐秘路径，"
+  ],
+  [
+   "res#60938/whatIHaveToSay[1]",
+   "Page3",
+   "so we shall soon enter it in body as well.\n\n\tThere is nothing that will escape our gaze, no land that shall not be trod under our feet. No realm shall remain hidden; no secret remain lost. We will shine a light even into the deepest Umbra!",
+   "我们很快也将亲身踏入其中。\n\n\t没有任何事物能逃过我们的目光，没有哪片土地不会被我们踏于足下。没有哪个领域能保持隐匿；没有哪个秘密能维持失落。我们甚至要把光，照进最深的暗影！"
+  ]
+ ]
+}

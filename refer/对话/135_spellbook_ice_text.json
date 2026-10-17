@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_ice_text",
+  "count": 8,
+  "with_cn": 8
+ },
+ "entries": [
+  [
+   "res#59889/whatIHaveToSay[0]",
+   "GlacialShards",
+   "\tI have left much out, for fear of being labeled a madman. This is the fate that explorers must bear; that if the lands they find are too much beyond what is imaginable, they are rarely believed.",
+   "\t我隐去了许多内容，唯恐被扣上疯子的名号。这是探索者必须承受的命运：若他们发现的土地太过超乎想象，便鲜有人相信。"
+  ],
+  [
+   "res#59889/whatIHaveToSay[1]",
+   "GlacialShards",
+   "\tI leave you with this, the name I have chosen to give this land: Porscalia. In the old tongue it means 'The cold has consumed me'.",
+   "\t最后，我把为这片土地取的名字留给你：波斯卡利亚。在古语中，它的意思是「寒冷已将我吞噬」。"
+  ],
+  [
+   "res#60454/whatIHaveToSay[0]",
+   "Start",
+   "<i>Visions of Ice\r</i>\n\r\n     as witnessed by the great explorer Larish Haesher\n\n     \tIt was upon the third month of our journey, long after we had passed through the straight of Northaira that my crew and I came upon a chill wind, the likes of which we had never imagined.",
+   "<i>冰雪幻视\r</i>\n\r\n     由伟大的探险家拉里什·海舍尔亲历记述\n\n     \t那是我们旅程的第三个月，早在驶过诺赛拉海峡之后，我和船员们遇上了一阵凛风——那是我们从未想象过的寒冷。"
+  ],
+  [
+   "res#60454/whatIHaveToSay[1]",
+   "Start",
+   "\tThe very hairs on our heads froze, and so did many of my crew. So unprepared we were that we only survived because of the furs we had brought to trade in the distant lands.",
+   "\t我们头上的毛发都结了冰，许多船员也被冻僵。我们准备得如此不足，全靠带去远方交易的毛皮才活了下来。"
+  ],
+  [
+   "res#60525/whatIHaveToSay[0]",
+   "IcyGrasp",
+   "\tHowever, despite our firm belief that we would reach Andwar in two months' time, we instead found only water, and then... land would not be the proper word, for it was still water, yet made entirely of ice. Few minds have even conceived of such a place, and it rose from the water all around us. ",
+   "\t然而，尽管我们坚信两个月内就能抵达安达瓦，眼前却只有水，接着……「陆地」这个词并不恰当，因为那仍是水，却全然由冰构成。少有头脑能构想出这样的地方，而它就在我们四周，自水面升起。 "
+  ],
+  [
+   "res#60525/whatIHaveToSay[1]",
+   "IcyGrasp",
+   "\tDespite this cold, serpents swam about us, and dark shapes crawled on the surface of the ice.",
+   "\t尽管天寒至此，仍有巨蛇在我们周围游弋，冰面上也有漆黑的形体爬行。"
+  ],
+  [
+   "res#60940/whatIHaveToSay[0]",
+   "IceBlock",
+   "\tAs though it were not enough to be in this deadly place, the land also moved, as would cubes of ice in a drink. As they crashed into each other, shards of ice fell, and others rose, pressed between the weight of all that was crashing about. Indeed, we suspected our ship would be next, so we abandoned our quest.\t\t",
+   "\t置身于这等死地本已足够，可大地竟也在移动，如同饮品中的冰块。当它们彼此撞击，冰屑坠落，又有冰块在挤撞的重压之下隆起。我们料想下一个便是我们的船，于是放弃了此番探索。\t\t"
+  ],
+  [
+   "res#60940/whatIHaveToSay[1]",
+   "IceBlock",
+   "\tI have written this account so that it may be remembered in time, for I suspect few will believe our tales.",
+   "\t我写下这份记述，愿它能在岁月中留存，因为我料想很少有人会相信我们的经历。"
+  ]
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "meta": {
+  "kind": "对话/NameDog2",
+  "count": 2,
+  "with_cn": 2
+ },
+ "entries": [
+  [
+   "sa5#238/whatIHaveToSay[0]",
+   "Wanderer",
+   "If only I could remember my own name. I guess I'll call myself...",
+   "要是我能想起自己的名字就好了。我就叫自己……"
+  ],
+  [
+   "sa5#248/whatIHaveToSay[0]",
+   "Wanderer",
+   "I'll call you @.",
+   "我就叫你 @ 吧。"
+  ]
+ ]
+}

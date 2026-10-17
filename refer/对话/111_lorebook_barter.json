@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_barter",
+  "count": 4,
+  "with_cn": 4
+ },
+ "entries": [
+  [
+   "res#60468/whatIHaveToSay[0]",
+   "Start",
+   "<i>by Bartimus Beale,\nGuildmaster of Tyrn</i>\n\r\n\tSome would say that there is an art to making a deal. While this statement may be partially true, it ignores a significant part of bartering: intuition. Without it there will be only one deal; that which the seller decides.\r\n\r",
+   "<i>巴蒂姆斯·比尔 著，\n提恩商会会长</i>\n\r\n\t有人说，做交易是一门艺术。这话或许有几分道理，却忽略了讲价的一大要义：直觉。没有直觉，交易便只剩一种结果——卖方说了算。\r\n\r"
+  ],
+  [
+   "res#60468/whatIHaveToSay[1]",
+   "Start",
+   "\tBut surely, you say, intuition is not something that can be learned. Indeed! If you have none, then throw this book into the gutter to be trampled. I cannot help you, nor can you help yourself. However, intuition can be honed, so if you have even a little, there is room for growth.\n\n\tMost teachers would tell you to focus on things to say, specific behaviors and postures to adopt. But honing intuition is not so simple. There are no ten easy steps. ",
+   "\t可你一定会说：直觉这东西，哪是能学来的？没错！你若半点直觉都没有，就把这本书扔进水沟任人践踏吧——我帮不了你，你也帮不了自己。不过，直觉可以磨砺；哪怕只有一丁点儿，也有成长的空间。\n\n\t多数的老师会教你背话术、摆姿态、模仿特定举止。但磨砺直觉没那么简单，没有什么「十步速成法」。 "
+  ],
+  [
+   "res#60468/whatIHaveToSay[2]",
+   "Start",
+   "\tBegin by imagining yourself in this scenario: the market is crowded, as usual. You approach a vendor with whom you wish to do business. You wish to have their product or service, but you know you will not get what you want. Ask yourself, why is that? What is your inner voice telling you? How does it already know that you will fail? You instinctively know something, but you do not yet know what. This is what you must hone.",
+   "\t先来设想这样一个场景：集市一如既往地拥挤。你走向一位想与之交易的摊贩。你想要他的货物或服务，但你心里清楚：你不会如愿。问问自己：为什么？你心里的那个声音在说什么？它凭什么早就知道你办不成？你凭本能知道了些什么，却还说不清是什么。要磨砺的，正是这个。"
+  ],
+  [
+   "res#60468/whatIHaveToSay[3]",
+   "Start",
+   "\t\rThat inner voice is always speaking, but you have likely silenced it. Now, you must awaken it. Encourage it! Ask it what it sees that you do not. Your life experience has filtered out what you see in order for you to survive. But now you must thrive!\n\n\n\n",
+   "\t\r那个内在的声音一直在说话，只是你多半把它压住了。现在，把它唤醒。鼓励它！问问它：它看见了什么而你没看见？你的阅历为了让你活下来，滤掉了太多所见。可如今，你不只要活下来，还要活得好！\n\n\n\n"
+  ]
+ ]
+}

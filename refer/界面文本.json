@@ -1,0 +1,6799 @@
+{
+ "meta": {
+  "kind": "界面文本",
+  "count": 1358,
+  "with_cn": 1358
+ },
+ "entries": [
+  [
+   "lv0#19880/m_Text",
+   "Hero Idle Animation",
+   "英雄待机动画"
+  ],
+  [
+   "lv0#19890/m_Text",
+   "Toggle the Joysticks.\nYou can use your left thumb to maneuver your character.\nYour right thumb will highlight nearby things to interact with.",
+   "切换虚拟摇杆。\n用左拇指操控你的角色移动。\n用右拇指高亮附近可交互的物体。"
+  ],
+  [
+   "lv0#19891/m_Text",
+   "This is a Magic mark. It indicates the presence of something magical.",
+   "这是魔法标记。它表示此处存在某种魔法之物。"
+  ],
+  [
+   "lv0#19907/m_Text",
+   "Select a Weapon",
+   "选择武器"
+  ],
+  [
+   "lv0#19913/m_Text",
+   "This is a Barrier mark. It indicates that there is a magical barrier.",
+   "这是屏障标记。它表示此处存在一道魔法屏障。"
+  ],
+  [
+   "lv0#19914/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#19920/m_Text",
+   "This secondary marking indicates that the Sun must be down.",
+   "这个次级标记表示：必须在太阳落下之时。"
+  ],
+  [
+   "lv0#19928/m_Text",
+   "Resist Fear:",
+   "抗恐惧："
+  ],
+  [
+   "lv0#19929/m_Text",
+   "RES",
+   "抗性"
+  ],
+  [
+   "lv0#19936/m_Text",
+   "Select each Stat to see which skills and attributes it will affect as you increase (+)  or decrease (-) it. \n\nDistribute will apply your points randomly.\n\nRandomize does not use the point system and therefore can be much higher or lower than distribution.",
+   "点击各项属性，可查看增减（+）或（-）它时会影响哪些技能与属性。 \n\n「分配」会将你的点数随机分配。\n\n「随机」不使用点数系统，因此结果可能比分配高得多或低得多。"
+  ],
+  [
+   "lv0#19939/m_Text",
+   "Recipe Name",
+   "配方名称"
+  ],
+  [
+   "lv0#19948/m_Text",
+   "Master Volume",
+   "主音量"
+  ],
+  [
+   "lv0#19949/m_Text",
+   "Frames are a visual method conveying information about the item.\n\n\n\n\n\n\n\n\n\n",
+   "边框是以视觉方式传达物品信息的一种方法。\n\n\n\n\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#19954/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#19955/m_Text",
+   "iCloud",
+   "iCloud"
+  ],
+  [
+   "lv0#19961/m_Text",
+   "You do not know about this rune yet.",
+   "你还不了解这枚符文。"
+  ],
+  [
+   "lv0#19971/m_Text",
+   "Adjusted Cost:",
+   "调整后花费："
+  ],
+  [
+   "lv0#19975/m_Text",
+   "Resist Evil:",
+   "抗邪恶："
+  ],
+  [
+   "lv0#19988/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#19989/m_Text",
+   "(AGI) Agility:\r\n+ To Hit\r\n+ Reflex\r\n+ Resist Mind\r\n+ Dodge\r\n\r\n\r\nSkills:\r\n      + Evasion\r\n      + Ranged Weapons\r\n      + Disarm\r\n      + Stealth\r\n      + Craft\r",
+   "(AGI) 敏捷：\r\n+ 命中\r\n+ 反应\r\n+ 抗心智\r\n+ 闪避\r\n\r\n\r\n技能：\r\n      + 回避\r\n      + 远程武器\r\n      + 卸除武器\r\n      + 潜行\r\n      + 制作\r"
+  ],
+  [
+   "lv0#19996/m_Text",
+   "Select a Weapon\nor Armor",
+   "选择武器\n或护甲"
+  ],
+  [
+   "lv0#20002/m_Text",
+   "Armor",
+   "护甲"
+  ],
+  [
+   "lv0#20007/m_Text",
+   "Will:",
+   "意志："
+  ],
+  [
+   "lv0#20008/m_Text",
+   "Whisper magic words to unlock secrets.",
+   "低声念出魔法词，以解开秘密。"
+  ],
+  [
+   "lv0#20012/m_Text",
+   "Stashes",
+   "储物处"
+  ],
+  [
+   "lv0#20016/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#20020/m_Text",
+   "Stealth: Avoid being spotted by enemies.\n\nNot all enemies will pursue you, but when they do they must first succeed a Spot check against you. Stealth increases your chance to avoid detection. Carrying a lit Torch also makes you much more visible.\n\nWhile Stealthy, you will move slower than usual, so if you are spotted you may have to unstealth in order to escape.",
+   "潜行：避免被敌人发现。\n\n并非所有敌人都会追击你，但当它们追击时，必须先通过对你的察觉检定。潜行能提高你不被发现的机会。手持点燃的火把也会让你显眼得多。\n\n潜行时你的移动速度会比平时慢，因此一旦被盯上，你可能需要退出潜行才能逃脱。"
+  ],
+  [
+   "lv0#20027/m_Text",
+   "+3\n",
+   "+3\n"
+  ],
+  [
+   "lv0#20030/m_Text",
+   "Material:",
+   "材质："
+  ],
+  [
+   "lv0#20035/m_Text",
+   "Weapon",
+   "武器"
+  ],
+  [
+   "lv0#20042/m_Text",
+   "Gain +10 to spotting Secrets.",
+   "发现秘密 +10。"
+  ],
+  [
+   "lv0#20049/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#20059/m_Text",
+   "Each Trait has a progress bar.\n\nWhen you complete the progress you learn something about that creature, either a weakness or strength. Each Species Trait (as opposed to a Body or Type trait) will move you closer to unlocking the Trait.\n\nOnce you unlocked all of the Species Traits for that monster, the locked Trait will become available for purchase with Trait Points.\n\n",
+   "每种特质都有一条进度条。\n\n完成进度后，你会了解到该生物的一些特点——或是一个弱点，或是一项优势。每个物种特质（相对于身体特质或类型特质而言）都会让你更接近解锁该特质。\n\n一旦你解锁了那只怪物的全部物种特质，被锁定的特质就可以用特质点购买了。\n\n"
+  ],
+  [
+   "lv0#20060/m_Text",
+   "Clothing",
+   "衣物"
+  ],
+  [
+   "lv0#20061/m_Text",
+   "50",
+   "50"
+  ],
+  [
+   "lv0#20065/m_Text",
+   "Dodge 1",
+   "闪避 1"
+  ],
+  [
+   "lv0#20072/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#20077/m_Text",
+   "Magic:",
+   "魔法："
+  ],
+  [
+   "lv0#20092/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#20097/m_Text",
+   "Note",
+   "笔记"
+  ],
+  [
+   "lv0#20104/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#20136/m_Text",
+   "Skills",
+   "技能"
+  ],
+  [
+   "lv0#20141/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#20157/m_Text",
+   "Superior",
+   "卓越"
+  ],
+  [
+   "lv0#20159/m_Text",
+   "NEW!",
+   "新！"
+  ],
+  [
+   "lv0#20186/m_Text",
+   "Formations",
+   "阵型"
+  ],
+  [
+   "lv0#20190/m_Text",
+   "This section describes various combat interactions.\n\n\n\n\n\n\n\n",
+   "本节介绍各种战斗交互机制。\n\n\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#20196/m_Text",
+   "Gallitzin leveled Two Handed Weapons",
+   "Gallitzin 升级了双手武器"
+  ],
+  [
+   "lv0#20217/m_Text",
+   "Recipe Name",
+   "配方名称"
+  ],
+  [
+   "lv0#20229/m_Text",
+   "Gain +10 to spotting Stashes.",
+   "发现储物处 +10。"
+  ],
+  [
+   "lv0#20261/m_Text",
+   "Strength",
+   "力量"
+  ],
+  [
+   "lv0#20275/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#20281/m_Text",
+   "Nadir",
+   "天底"
+  ],
+  [
+   "lv0#20288/m_Text",
+   "Base\nLevel",
+   "基础\n等级"
+  ],
+  [
+   "lv0#20290/m_Text",
+   "The Moons",
+   "月相"
+  ],
+  [
+   "lv0#20294/m_Text",
+   "Known Runes",
+   "已识符文"
+  ],
+  [
+   "lv0#20303/m_Text",
+   "Resist Earth:",
+   "抗土："
+  ],
+  [
+   "lv0#20307/m_Text",
+   "<choose an abillity>",
+   "<选择一项能力>"
+  ],
+  [
+   "lv0#20332/m_Text",
+   "16",
+   "16"
+  ],
+  [
+   "lv0#20345/m_Text",
+   "Resist Acid:",
+   "抗酸："
+  ],
+  [
+   "lv0#20353/m_Text",
+   "Creature",
+   "生物"
+  ],
+  [
+   "lv0#20356/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#20369/m_Text",
+   "Please restart the game.",
+   "请重启游戏。"
+  ],
+  [
+   "lv0#20371/m_Text",
+   "No Monsters Known",
+   "尚无怪物知识"
+  ],
+  [
+   "lv0#20374/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#20376/m_Text",
+   "     Spi:",
+   "     精神："
+  ],
+  [
+   "lv0#20386/m_Text",
+   "MND",
+   "心智"
+  ],
+  [
+   "lv0#20389/m_Text",
+   "Press a new Key",
+   "按下新按键"
+  ],
+  [
+   "lv0#20392/m_Text",
+   "New Text",
+   "新文本"
+  ],
+  [
+   "lv0#20393/m_Text",
+   "4",
+   "4"
+  ],
+  [
+   "lv0#20408/m_Text",
+   "Two-Handed Weapons",
+   "双手武器"
+  ],
+  [
+   "lv0#20410/m_Text",
+   "2",
+   "2"
+  ],
+  [
+   "lv0#20411/m_Text",
+   "Select a Character for Spell Training",
+   "选择一名角色进行法术训练"
+  ],
+  [
+   "lv0#20412/m_Text",
+   "Keep Watch:\n\nAssigning a character to the Keep Watch slot allows you to spot enemies that may  get close to camp, before they are close enough to engage in combat.\n\nBeing prepared for an enemy reduces the chance that you will be ambushed.\n\nThe Watcher will still heal, but not as fast as those who are asleep.",
+   "守夜：\n\n指派一名角色负责守夜，可以让你在敌人接近营地、还未近到能交战时先行发现它们。\n\n对敌人有所防备，可以降低你遭到伏击的几率。\n\n守夜者仍会恢复，但速度不如熟睡的人。"
+  ],
+  [
+   "lv0#20421/m_Text",
+   "Arcane Marks:\n\nArcane marks can only be seen when gazing into the arcane realm, such as with your Arcane Sight spell. Each one has a specific meaning, and once understood, can be used to identify what kind of magical things is linked to the area you are looking at.\n\nArcane Marks are not meant to be interacted with directly, and do not change based on other conditions.\n\n\n(to avoid Spoilers, this section in a work in progress)",
+   "奥术标记：\n\n只有凝视奥术领域时（例如施展「奥术视觉」法术），才能看见奥术标记。每个标记都有特定含义，一旦理解，就能用来辨别你所观察的区域与何种魔法之物相连。\n\n奥术标记不应被直接互动，也不会因其他条件而变化。\n\n\n（为避免剧透，本节仍在撰写中）"
+  ],
+  [
+   "lv0#20428/m_Text",
+   "x",
+   "x"
+  ],
+  [
+   "lv0#20435/m_Text",
+   "Music:\n\nAssigning a character to the Music slot allows you to give your party bonuses and to heal slightly faster. The bonus can be split between many stats and attributes, but is applied randomly to each character.\n\nThe strength of the bonus is increased by your Music skill and the length of your rest.\n\nThe Music Player will still heal, but not as fast as those who are asleep.",
+   "音乐：\n\n指派一名角色进入音乐位，可以为全队提供加成，并让恢复速度稍快。加成可以分配在许多属性与能力上，但会随机作用于每个角色。\n\n加成的强度取决于你的音乐技能与休息时长。\n\n乐手仍会恢复，但速度不如熟睡的人。"
+  ],
+  [
+   "lv0#20466/m_Text",
+   "To Next Level",
+   "距下一级"
+  ],
+  [
+   "lv0#20474/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#20475/m_Text",
+   "Sell All Vendor Items",
+   "出售商人的全部物品"
+  ],
+  [
+   "lv0#20484/m_Text",
+   "Weapon Name Here",
+   "武器名称"
+  ],
+  [
+   "lv0#20485/m_Text",
+   "100/100",
+   "100/100"
+  ],
+  [
+   "lv0#20496/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#20505/m_Text",
+   "16:9",
+   "16:9"
+  ],
+  [
+   "lv0#20509/m_Text",
+   "RF",
+   "RF"
+  ],
+  [
+   "lv0#20516/m_Text",
+   "100%",
+   "100%"
+  ],
+  [
+   "lv0#20518/m_Text",
+   "Initiative:\r\nAt the beginning of combat, each character and monster makes an initiative roll. The highest initiative takes the first turn, and so on.\r\n\nFirst, a random roll from -5 to +5 is added to your base Initiative. \n\nThe formation of the party can alter your initiative between -3 and +3.\r\nInitiative is not re-rolled until the next combat.\r",
+   "先攻：\r\n战斗开始时，每个角色与怪物都要进行一次先攻检定。先攻值最高者最先行动，依此类推。\r\n\n你的基础先攻值会先加上一个 -5 到 +5 的随机值。 \n\n队伍阵型可使你的先攻在 -3 到 +3 之间变化。\r\n先攻在下一场战斗前不会重新掷骰。\r"
+  ],
+  [
+   "lv0#20525/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#20529/m_Text",
+   "iCloud",
+   "iCloud"
+  ],
+  [
+   "lv0#20540/m_Text",
+   "     Dodge:",
+   "     闪避："
+  ],
+  [
+   "lv0#20562/m_Text",
+   "Potion",
+   "药水"
+  ],
+  [
+   "lv0#20569/m_Text",
+   "greet",
+   "问候"
+  ],
+  [
+   "lv0#20579/m_Text",
+   "RightShoulder",
+   "右肩键"
+  ],
+  [
+   "lv0#20581/m_Text",
+   "5",
+   "5"
+  ],
+  [
+   "lv0#20590/m_Text",
+   "tohit",
+   "tohit"
+  ],
+  [
+   "lv0#20592/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#20602/m_Text",
+   "Apply",
+   "应用"
+  ],
+  [
+   "lv0#20605/m_Text",
+   "Defense",
+   "防御"
+  ],
+  [
+   "lv0#20607/m_Text",
+   "     Armor:",
+   "     护甲："
+  ],
+  [
+   "lv0#20627/m_Text",
+   "Scratwled notes",
+   "潦草的笔记"
+  ],
+  [
+   "lv0#20638/m_Text",
+   "Interact",
+   "互动"
+  ],
+  [
+   "lv0#20645/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#20661/m_Text",
+   "Piercing:",
+   "穿刺："
+  ],
+  [
+   "lv0#20677/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#20679/m_Text",
+   "SPI",
+   "精神"
+  ],
+  [
+   "lv0#20681/m_Text",
+   "Unlocking Traits",
+   "解锁特质"
+  ],
+  [
+   "lv0#20682/m_Text",
+   "Button 2\n",
+   "Button 2\n"
+  ],
+  [
+   "lv0#20710/m_Text",
+   "Entry",
+   "条目"
+  ],
+  [
+   "lv0#20734/m_Text",
+   "Movement:",
+   "移动："
+  ],
+  [
+   "lv0#20737/m_Text",
+   "<choose an abillity>",
+   "<选择一项能力>"
+  ],
+  [
+   "lv0#20742/m_Text",
+   "3",
+   "3"
+  ],
+  [
+   "lv0#20744/m_Text",
+   "Ice:",
+   "冰霜："
+  ],
+  [
+   "lv0#20746/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#20751/m_Text",
+   "Price: ",
+   "价格："
+  ],
+  [
+   "lv0#20752/m_Text",
+   "Controls",
+   "操作"
+  ],
+  [
+   "lv0#20756/m_Text",
+   "Save 7",
+   "存档 7"
+  ],
+  [
+   "lv0#20760/m_Text",
+   "First Aid:\n\nAssigning a character to the First Aid slot allows them to use their First Aid skill to heal the other characters faster.\n\nThis slot is best used with a character that is not injured or has less to gain than the others.\n\nThe First Aider will still heal, but not as fast as those who are asleep.",
+   "急救：\n\n指派一名角色进入急救位，可让其运用急救技能，更快地为其他角色疗伤。\n\n这个位置最适合安排在未受伤、或受惠最小的角色身上。\n\n急救者仍会恢复，但速度不如熟睡的人。"
+  ],
+  [
+   "lv0#20763/m_Text",
+   "Magic:",
+   "魔法："
+  ],
+  [
+   "lv0#20769/m_Text",
+   "Don't forget to leave a review!",
+   "别忘了留下评测！"
+  ],
+  [
+   "lv0#20773/m_Text",
+   "Traits",
+   "特质"
+  ],
+  [
+   "lv0#20779/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#20783/m_Text",
+   "Combat\nMechanics",
+   "战斗机制"
+  ],
+  [
+   "lv0#20803/m_Text",
+   "This is an Item mark. It often indicates a buried item.",
+   "这是物品标记。它通常表示此处埋有物品。"
+  ],
+  [
+   "lv0#20806/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#20810/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#20817/m_Text",
+   "Inventory",
+   "物品栏"
+  ],
+  [
+   "lv0#20824/m_Text",
+   "EXP",
+   "经验"
+  ],
+  [
+   "lv0#20826/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#20827/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#20830/m_Text",
+   "m",
+   "m"
+  ],
+  [
+   "lv0#20831/m_Text",
+   "Formation Menu",
+   "阵型菜单"
+  ],
+  [
+   "lv0#20862/m_Text",
+   "This rune is connected to Gammon",
+   "这枚符文与加蒙相连"
+  ],
+  [
+   "lv0#20864/m_Text",
+   "RT",
+   "RT"
+  ],
+  [
+   "lv0#20872/m_Text",
+   "Combat Entry Speed",
+   "进入战斗速度"
+  ],
+  [
+   "lv0#20879/m_Text",
+   "Music Volume",
+   "音乐音量"
+  ],
+  [
+   "lv0#20903/m_Text",
+   "Words Known:",
+   "已知词语："
+  ],
+  [
+   "lv0#20904/m_Text",
+   "Button 3\n",
+   "Button 3\n"
+  ],
+  [
+   "lv0#20921/m_Text",
+   "Price: ",
+   "价格："
+  ],
+  [
+   "lv0#20923/m_Text",
+   "Dodge",
+   "闪避"
+  ],
+  [
+   "lv0#20931/m_Text",
+   "Camping",
+   "露营"
+  ],
+  [
+   "lv0#20932/m_Text",
+   "Dig on your tile to discover hidden items.",
+   "在你所在的格子上挖掘，以发现隐藏物品。"
+  ],
+  [
+   "lv0#20939/m_Text",
+   "Map: View a map of your current location.\n\nThe map will show you everywhere that you have seen and will also log certain items on the map. You may zoom in/out and pan around to see more.",
+   "地图：查看当前所在区域的地图。\n\n地图会显示你到过的所有地方，还会标注某些物品。你可以放大、缩小并平移查看。"
+  ],
+  [
+   "lv0#20940/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#20952/m_Text",
+   "Setting",
+   "月落"
+  ],
+  [
+   "lv0#20955/m_Text",
+   "Your change will not take effect until you do.",
+   "在重启之前，你的更改不会生效。"
+  ],
+  [
+   "lv0#20956/m_Text",
+   "DPI (Resolution)",
+   "DPI（分辨率）"
+  ],
+  [
+   "lv0#20961/m_Text",
+   "Resist Magic:",
+   "抗魔法："
+  ],
+  [
+   "lv0#20969/m_Text",
+   "Sort Items",
+   "整理物品"
+  ],
+  [
+   "lv0#20972/m_Text",
+   "(STR) Strength:\r\n+ Weapon Damage\r\n+ Resisting Physical\r\n+ Resisting Fear\r\n+ Hit Points (secondary)\r\n\r\n\r\nSkills:\r\n     + Hand-To-Hand Weapons\r\n     + One-Handed Weapons\r\n     + Two-Handed Weapons\r\n     + Ranged Weapons\r",
+   "(STR) 力量：\r\n+ 武器伤害\r\n+ 抵抗物理\r\n+ 抵抗恐惧\r\n+ 生命值（次要）\r\n\r\n\r\n技能：\r\n     + 徒手格斗\r\n     + 单手武器\r\n     + 双手武器\r\n     + 远程武器\r"
+  ],
+  [
+   "lv0#20973/m_Text",
+   "An image of the item will appear, and clicking it will allow you to Drop the item.",
+   "会出现该物品的图像，点击图像即可丢下这件物品。"
+  ],
+  [
+   "lv0#20977/m_Text",
+   "Weapon Name Here",
+   "武器名称"
+  ],
+  [
+   "lv0#21004/m_Text",
+   "Knowledge Bonus:",
+   "知识加成："
+  ],
+  [
+   "lv0#21008/m_Text",
+   "Include\nMagical",
+   "包含\n魔法"
+  ],
+  [
+   "lv0#21019/m_Text",
+   "Armor:\nArmor is direct Damage Reduction. Every point of Armor reduces damage taken by 1, but some attacks can avoid Armor.\n\n\n\n\n\n",
+   "护甲：\n护甲会直接减免伤害。每点护甲使受到的伤害减少 1，但某些攻击可以绕过护甲。\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#21035/m_Text",
+   "Mouse Over HP",
+   "悬停查看生命值"
+  ],
+  [
+   "lv0#21038/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#21050/m_Text",
+   "Sell items that this vendor accepts by type, or all at once",
+   "按类型出售该商人收购的物品，或一次性全部出售"
+  ],
+  [
+   "lv0#21051/m_Text",
+   "Under Construction: More to come",
+   "施工中：敬请期待"
+  ],
+  [
+   "lv0#21053/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#21055/m_Text",
+   "Runes:\n\nRunes are a collection of symbols, etched in stone. These symbols consist of a central element, the most noticable part of the rune, that represents what kind of thing the rune is tied to. This can be a moon, or an individual, or perhaps even something else. \n\nThere are also secondary markings that indicate additional requirements for the rune to activate.\n\n(to avoid Spoilers, this section is a work in progress)",
+   "符文：\n\n符文是一组刻在石头上的符号。这些符号由一个核心元素（符文最显著的部分）构成，代表符文所系之物——可能是一轮月亮、一个人，甚至别的东西。 \n\n此外还有次级标记，用来表示符文激活所需的额外条件。\n\n（为避免剧透，本节仍在撰写中）"
+  ],
+  [
+   "lv0#21088/m_Text",
+   "He claimed to be searching for his lost magic, which he had been tricked into sealing away in a tomb. No one is quite sure where he came from, but he continued his ravings up until his death. According to him, the magic could only be found by saying his name at the right location, under an archway. The graveyard is not very large, and one would think that he surely would have found the location were such a thing true. Interestingly, the name Atticus is itself a surname in the land of Ameyria, though it is pronounced Addicus.",
+   "他自称在寻找自己遗失的魔法，那魔法是被人设计封印在一座墓穴中的。没人说得清他来自何方，但他一直到死都在胡言乱语。据他说，只有在正确的地点、拱门之下，念出他的名字，才能找到那魔法。墓地并不大，若真有此事，照理说他早该找到那个地点了。有趣的是，Atticus 这个名字本身是阿梅利亚之地的一个姓氏，只是读作 Addicus。"
+  ],
+  [
+   "lv0#21105/m_Text",
+   "Dismiss?",
+   "解散？"
+  ],
+  [
+   "lv0#21125/m_Text",
+   "Talent",
+   "天赋"
+  ],
+  [
+   "lv0#21127/m_Text",
+   "Sell All Wearable",
+   "出售全部可穿戴物品"
+  ],
+  [
+   "lv0#21133/m_Text",
+   "Remaining",
+   "剩余"
+  ],
+  [
+   "lv0#21134/m_Text",
+   "00\n",
+   "00\n"
+  ],
+  [
+   "lv0#21140/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#21145/m_Text",
+   "SOUND AND MUSIC ATTRIBUTION\r\n\r\nAll sounds have potentially been altered to adjust volume, trim or remix and should be treated as such.\r\n\r\nLicenses Links:\r\nhttps://creativecommons.org/licenses/by/3.0/\r\nhttps://creativecommons.org/publicdomain/mark/1.0/\r\nhttps://creativecommons.org/licenses/by/1.0/\r\nhttps://creativecommons.org/licenses/by/4.0/\r\nhttps://creativecommons.org/licenses/sampling+/1.0/\r\n\r\nThe following sounds and music were used in Caves of Lore\r:\n\r\n\"Hazy-Darkness_Looping\"\r\nby Eric Matyas\r\nwww.soundimage.org\r\n\r\n\"Ultimate Game Music\" by John Leonard French\r\njohnleonardfrench.com\r\nsupport@johnleonardfrench.com\r\n\r\n\"Monster Sounds Pack\" by Cafofo\r\n\"RPG & Dungeon Sounds\" by Cafofo\r\n\"Fantasy Interface Sounds\" by Cafofo\r\nwww.cafofomusic.com\r\nhello@cafofomusic.com\r\n\r\n\"Interface Sound\" by J.BoB Sound\r\nwww.jbobsound.com\r\nsoundgrid17@gmail.com\r\n\r\n\"Scary Sound FX\" by Anthon\r\nwww.artstation.com/anthonr4g\r\nanthon.r4g@gmail.com\r\n\r\n\"Universal Sound FX\" by Imphenzia\r\nwww.imphenzia.com\r\nsupport@imphenzia.com\r\n\r\nStock Media provided by EdRecords / Pond5\r\n\r\nSoundBible.org\r\n{\r\n\"Vampire Bite\" by Mike Koenig\r\n( https://soundbible.com/1055-Vampire-Bite.html )\r\nlicensed under CCBY 3.0\r\n\"Dog Bite\" by Mike Koenig\r\n( https://soundbible.com/1529-Dog-Bite.html )\r\nlicensed under CCBY 3.0\r\n\"Slime Splash\" by Mike Koenig\r\n( https://soundbible.com/1097-Slime-Splash.html )\r\nlicensed under CCBY 3.0\r\n\"Dragon Bite\" by Greogery Weir\r\n( https://soundbible.com/1394-Dragon-Bite.html )\r\nlicensed under Public Domain Mark 1.0\r\n\"Rockslide Small\" by Sound Explorer\r\n( https://soundbible.com/1987-Rockslide-Small.html )\r\nlicensed under CCBY 3.0\r\n\"Bats In Cave\" by Mike Koenig\r\n( https://soundbible.com/1939-Bats-In-Cave.html )\r\nlicensed under CCBY 3.0\r\n\"Dog Growl Then Bark\" by Mike Koenig\r\n( https://soundbible.com/1476-Dog-Growl-Then-Bark.html )\r\nlicensed under CCBY 3.0\r\n\"Black Crows Cawing\" by PsychoBird\r\n( https://soundbible.com/1486-Black-Crows-Cawing.html )\r\nlicensed under CCBY 3.0\r\n\"Neck Snap\" by Vladimir\r\n( https://soundbible.com/1953-Neck-Snap.html )\r\nlicensed under Public Domain Mark 1.0\r\n\"Wolf Howling Yipping\" by Daniel Simon\r\n( https://soundbible.com/2132-Wolf-Howling-Yipping.html )\r\nlicensed under CCBY 3.0\r\n\"T Rex Roar\" by levitb\r\n( https://soundbible.com/1552-T-Rex-Roar.html )\r\nlicensed under CCBY 3.0\r\n\"Wind \" by Mark DiAngelo\r\n( https://soundbible.com/1810-Wind.html )\r\nlicensed under CCBY 3.0\r\n\"Spit Splat\" by Mike Koenig\r\n( https://soundbible.com/1733-Spit-Splat.html )\r\nlicensed under CCBY 3.0\r\n\"Monster Roar\" by thecheeseman\r\n( https://soundbible.com/1458-Monster-Roar.html )\r\nlicensed under Sampling Plus 1.0\r\n\"Splat\" by Mike Koenig\r\n( https://soundbible.com/642-Splat.html )\r\nlicensed under CCBY 3.0\r\n\"Single Water Droplet\" by Mike Koenig\r\n( https://soundbible.com/384-Single-Water-Droplet.html )\r\nlicensed under CCBY 3.0\r\n\"Water Drop\" by Mike Koenig\r\n( https://soundbible.com/1126-Water-Drop.html )\r\nlicensed under CCBY 3.0\r\n\"Slug Crawling\" by Mike Koenig\r\n( https://soundbible.com/1083-Slug-Crawling.html )\r\nlicensed under CCBY 3.0\r\n\"Splat And Squirt\" by Mike Koenig\r\n( https://soundbible.com/1081-Splat-And-Squirt.html )\r\nlicensed under CCBY 3.0\r\n\"Earthquake \" by Mike Koenig\r\n( https://soundbible.com/1131-Earthquake.html )\r\nlicensed under CCBY 3.0\r\n\"Bat\" by Mike Koenig\r\n( https://soundbible.com/1132-Bat.html )\r\nlicensed under CCBY 3.0\r\n\"Whine\" by Mike Koenig\r\n( https://soundbible.com/764-Whine.html )\r\nlicensed under CCBY 3.0\r\n\"Water Drops\" by Daniel Simon\r\n( https://soundbible.com/2186-Water-Drops.html )\r\nlicensed under CCBY 3.0\r\n\"Zombie Moan\" by Mike Koenig\r\n( https://soundbible.com/1035-Zombie-Moan.html )\r\nlicensed under CCBY 3.0\r\n\"Zombie Rising\" by Mike Koenig\r\n( https://soundbible.com/1032-Zombie-Rising.html )\r\nlicensed under CCBY 3.0\r\n\"Zombie Attack Walk\" by Mike Koenig\r\n( https://soundbible.com/1030-Zombie-Attack-Walk.html )\r\nlicensed under CCBY 3.0\r\n\"Demon Zombie Ambiance\" by Mike Koenig\r\n( https://soundbible.com/1025-Demon-Zombie-Ambiance.html )\r\nlicensed under CCBY 3.0\r\n\"Dog Toy Squeaks\" by Mike Koenig\r\n( https://soundbible.com/186-Dog-Toy-Squeaks.html )\r\nlicensed under CCBY 3.0\r\n}\r\n\r\n\r\nfreesound.org:\r\n{\r\n\"wolf-growl\" by newagesoup\r\n( https://freesound.org/people/newagesoup/sounds/338674/ )\r\nlicensed under CCBY 3.0\r\n\"Whip Crack 01.wav\" by CGEffex\r\n( https://freesound.org/people/CGEffex/sounds/93100/ )\r\nlicensed under CCBY 3.0\r\n\"chicken-clucking.wav\" by Brevicep\r\n( https://freesound.org/people/Breviceps/sounds/456803/ )\r\nlicensed under CCBY 1.0\r\n\"duck-04.wav\" by dobroide\r\n( https://freesound.org/people/dobroide/sounds/185134/ )\r\nlicensed under CCBY 3.0\r\n\"bird-honk-3.wav\" by SpaceJoe\r\n( https://freesound.org/people/SpaceJoe/sounds/510938/ )\r\nlicensed under CCBY 1.0\r\n\"mouse-squeaks.wav\" by shyguy014\r\n( https://freesound.org/people/shyguy014/sounds/463789/ )\r\nlicensed under CCBY 1.0\r\n\"cat-meow.wav\" by Mafon2\r\n( https://freesound.org/people/Mafon2/sounds/436541/ )\r\nlicensed under CCBY 1.0\r\n\"cat-meow-02.wav\" by Kyster\r\n( https://freesound.org/people/Kyster/sounds/79114/ )\r\nlicensed under CCBY 3.0\r\n\"cat-purring-and-meow.wav\" by skymary\r\n( https://freesound.org/people/skymary/sounds/412016/ )\r\nlicensed under CCBY 1.0\r\n\"cathisses.wav\" by Zabuhailo\r\n( https://freesound.org/people/Zabuhailo/sounds/146963/ )\r\nlicensed under CCBY 1.0\r\n\"goat-sound-2.wav\" by Erokia\r\n( https://freesound.org/people/Erokia/sounds/188182/ )\r\nlicensed under CCBY 1.0\r\n\"goat.aif\" by beskhu\r\n( https://freesound.org/people/beskhu/sounds/273911/ )\r\nlicensed under CCBY 1.0\r\n\"sheep-bleat.wav\" by n_audioman\r\n( https://freesound.org/people/n_audioman/sounds/321967/ )\r\nlicensed under CCBY 3.0\r\n\"hungarian-sheep.wav\" by reinsamba\r\n( https://freesound.org/people/reinsamba/sounds/57796/ )\r\nlicensed under CCBY 3.0\r\n\"sheep.flac\" by Erdie\r\n( https://freesound.org/people/Erdie/sounds/34538/ )\r\nlicensed under CCBY 3.0\r\n\"footstep-on-stone.wav\" by Samulis\r\n( https://freesound.org/people/Samulis/sounds/197778/ )\r\nlicensed under CCBY 1.0\r\n\"four-voices-whispering-3-wecho.wav\" by geoneo0\r\n( https://freesound.org/people/geoneo0/sounds/193810/ )\r\nlicensed under CCBY 1.0\r\n\"four-voices-whispering-4-wecho.wav\" by geoneo0\r\n( https://freesound.org/people/geoneo0/sounds/193809/ )\r\nlicensed under CCBY 1.0\r\n\"whistle-nightmare-v2.wav\" by Adam_N\r\n( https://freesound.org/people/deleted_user_2104797/sounds/325259/ )\r\nlicensed under CCBY 1.0\r\n\"choir-domine-miserere-nobis-140928.wav\" by klankbeeld\r\n( https://freesound.org/people/klankbeeld/sounds/255319/ )\r\nlicensed under CCBY 3.0\r\n\"clay-pottery-drop-n-break.wav\" by Kinoton\r\n( https://freesound.org/people/Kinoton/sounds/399080/ )\r\nlicensed under CCBY 1.0\r\n\"howling.wav\" by PhonosUPF\r\n( https://freesound.org/people/PhonosUPF/sounds/499699/ )\r\nlicensed under CCBY 1.0\r\n\"cricket.mp3\" by cs272\r\n( https://freesound.org/people/cs272/sounds/77719/ )\r\nlicensed under CCBY 3.0\r\n\"cricket-chirping.wav\" by CGEffex\r\n( https://freesound.org/people/CGEffex/sounds/97788/ )\r\nlicensed under CCBY 4.0\r\n}",
+   "SOUND AND MUSIC ATTRIBUTION\r\n\r\nAll sounds have potentially been altered to adjust volume, trim or remix and should be treated as such.\r\n\r\nLicenses Links:\r\nhttps://creativecommons.org/licenses/by/3.0/\r\nhttps://creativecommons.org/publicdomain/mark/1.0/\r\nhttps://creativecommons.org/licenses/by/1.0/\r\nhttps://creativecommons.org/licenses/by/4.0/\r\nhttps://creativecommons.org/licenses/sampling+/1.0/\r\n\r\nThe following sounds and music were used in Caves of Lore\r:\n\r\n\"Hazy-Darkness_Looping\"\r\nby Eric Matyas\r\nwww.soundimage.org\r\n\r\n\"Ultimate Game Music\" by John Leonard French\r\njohnleonardfrench.com\r\nsupport@johnleonardfrench.com\r\n\r\n\"Monster Sounds Pack\" by Cafofo\r\n\"RPG & Dungeon Sounds\" by Cafofo\r\n\"Fantasy Interface Sounds\" by Cafofo\r\nwww.cafofomusic.com\r\nhello@cafofomusic.com\r\n\r\n\"Interface Sound\" by J.BoB Sound\r\nwww.jbobsound.com\r\nsoundgrid17@gmail.com\r\n\r\n\"Scary Sound FX\" by Anthon\r\nwww.artstation.com/anthonr4g\r\nanthon.r4g@gmail.com\r\n\r\n\"Universal Sound FX\" by Imphenzia\r\nwww.imphenzia.com\r\nsupport@imphenzia.com\r\n\r\nStock Media provided by EdRecords / Pond5\r\n\r\nSoundBible.org\r\n{\r\n\"Vampire Bite\" by Mike Koenig\r\n( https://soundbible.com/1055-Vampire-Bite.html )\r\nlicensed under CCBY 3.0\r\n\"Dog Bite\" by Mike Koenig\r\n( https://soundbible.com/1529-Dog-Bite.html )\r\nlicensed under CCBY 3.0\r\n\"Slime Splash\" by Mike Koenig\r\n( https://soundbible.com/1097-Slime-Splash.html )\r\nlicensed under CCBY 3.0\r\n\"Dragon Bite\" by Greogery Weir\r\n( https://soundbible.com/1394-Dragon-Bite.html )\r\nlicensed under Public Domain Mark 1.0\r\n\"Rockslide Small\" by Sound Explorer\r\n( https://soundbible.com/1987-Rockslide-Small.html )\r\nlicensed under CCBY 3.0\r\n\"Bats In Cave\" by Mike Koenig\r\n( https://soundbible.com/1939-Bats-In-Cave.html )\r\nlicensed under CCBY 3.0\r\n\"Dog Growl Then Bark\" by Mike Koenig\r\n( https://soundbible.com/1476-Dog-Growl-Then-Bark.html )\r\nlicensed under CCBY 3.0\r\n\"Black Crows Cawing\" by PsychoBird\r\n( https://soundbible.com/1486-Black-Crows-Cawing.html )\r\nlicensed under CCBY 3.0\r\n\"Neck Snap\" by Vladimir\r\n( https://soundbible.com/1953-Neck-Snap.html )\r\nlicensed under Public Domain Mark 1.0\r\n\"Wolf Howling Yipping\" by Daniel Simon\r\n( https://soundbible.com/2132-Wolf-Howling-Yipping.html )\r\nlicensed under CCBY 3.0\r\n\"T Rex Roar\" by levitb\r\n( https://soundbible.com/1552-T-Rex-Roar.html )\r\nlicensed under CCBY 3.0\r\n\"Wind \" by Mark DiAngelo\r\n( https://soundbible.com/1810-Wind.html )\r\nlicensed under CCBY 3.0\r\n\"Spit Splat\" by Mike Koenig\r\n( https://soundbible.com/1733-Spit-Splat.html )\r\nlicensed under CCBY 3.0\r\n\"Monster Roar\" by thecheeseman\r\n( https://soundbible.com/1458-Monster-Roar.html )\r\nlicensed under Sampling Plus 1.0\r\n\"Splat\" by Mike Koenig\r\n( https://soundbible.com/642-Splat.html )\r\nlicensed under CCBY 3.0\r\n\"Single Water Droplet\" by Mike Koenig\r\n( https://soundbible.com/384-Single-Water-Droplet.html )\r\nlicensed under CCBY 3.0\r\n\"Water Drop\" by Mike Koenig\r\n( https://soundbible.com/1126-Water-Drop.html )\r\nlicensed under CCBY 3.0\r\n\"Slug Crawling\" by Mike Koenig\r\n( https://soundbible.com/1083-Slug-Crawling.html )\r\nlicensed under CCBY 3.0\r\n\"Splat And Squirt\" by Mike Koenig\r\n( https://soundbible.com/1081-Splat-And-Squirt.html )\r\nlicensed under CCBY 3.0\r\n\"Earthquake \" by Mike Koenig\r\n( https://soundbible.com/1131-Earthquake.html )\r\nlicensed under CCBY 3.0\r\n\"Bat\" by Mike Koenig\r\n( https://soundbible.com/1132-Bat.html )\r\nlicensed under CCBY 3.0\r\n\"Whine\" by Mike Koenig\r\n( https://soundbible.com/764-Whine.html )\r\nlicensed under CCBY 3.0\r\n\"Water Drops\" by Daniel Simon\r\n( https://soundbible.com/2186-Water-Drops.html )\r\nlicensed under CCBY 3.0\r\n\"Zombie Moan\" by Mike Koenig\r\n( https://soundbible.com/1035-Zombie-Moan.html )\r\nlicensed under CCBY 3.0\r\n\"Zombie Rising\" by Mike Koenig\r\n( https://soundbible.com/1032-Zombie-Rising.html )\r\nlicensed under CCBY 3.0\r\n\"Zombie Attack Walk\" by Mike Koenig\r\n( https://soundbible.com/1030-Zombie-Attack-Walk.html )\r\nlicensed under CCBY 3.0\r\n\"Demon Zombie Ambiance\" by Mike Koenig\r\n( https://soundbible.com/1025-Demon-Zombie-Ambiance.html )\r\nlicensed under CCBY 3.0\r\n\"Dog Toy Squeaks\" by Mike Koenig\r\n( https://soundbible.com/186-Dog-Toy-Squeaks.html )\r\nlicensed under CCBY 3.0\r\n}\r\n\r\n\r\nfreesound.org:\r\n{\r\n\"wolf-growl\" by newagesoup\r\n( https://freesound.org/people/newagesoup/sounds/338674/ )\r\nlicensed under CCBY 3.0\r\n\"Whip Crack 01.wav\" by CGEffex\r\n( https://freesound.org/people/CGEffex/sounds/93100/ )\r\nlicensed under CCBY 3.0\r\n\"chicken-clucking.wav\" by Brevicep\r\n( https://freesound.org/people/Breviceps/sounds/456803/ )\r\nlicensed under CCBY 1.0\r\n\"duck-04.wav\" by dobroide\r\n( https://freesound.org/people/dobroide/sounds/185134/ )\r\nlicensed under CCBY 3.0\r\n\"bird-honk-3.wav\" by SpaceJoe\r\n( https://freesound.org/people/SpaceJoe/sounds/510938/ )\r\nlicensed under CCBY 1.0\r\n\"mouse-squeaks.wav\" by shyguy014\r\n( https://freesound.org/people/shyguy014/sounds/463789/ )\r\nlicensed under CCBY 1.0\r\n\"cat-meow.wav\" by Mafon2\r\n( https://freesound.org/people/Mafon2/sounds/436541/ )\r\nlicensed under CCBY 1.0\r\n\"cat-meow-02.wav\" by Kyster\r\n( https://freesound.org/people/Kyster/sounds/79114/ )\r\nlicensed under CCBY 3.0\r\n\"cat-purring-and-meow.wav\" by skymary\r\n( https://freesound.org/people/skymary/sounds/412016/ )\r\nlicensed under CCBY 1.0\r\n\"cathisses.wav\" by Zabuhailo\r\n( https://freesound.org/people/Zabuhailo/sounds/146963/ )\r\nlicensed under CCBY 1.0\r\n\"goat-sound-2.wav\" by Erokia\r\n( https://freesound.org/people/Erokia/sounds/188182/ )\r\nlicensed under CCBY 1.0\r\n\"goat.aif\" by beskhu\r\n( https://freesound.org/people/beskhu/sounds/273911/ )\r\nlicensed under CCBY 1.0\r\n\"sheep-bleat.wav\" by n_audioman\r\n( https://freesound.org/people/n_audioman/sounds/321967/ )\r\nlicensed under CCBY 3.0\r\n\"hungarian-sheep.wav\" by reinsamba\r\n( https://freesound.org/people/reinsamba/sounds/57796/ )\r\nlicensed under CCBY 3.0\r\n\"sheep.flac\" by Erdie\r\n( https://freesound.org/people/Erdie/sounds/34538/ )\r\nlicensed under CCBY 3.0\r\n\"footstep-on-stone.wav\" by Samulis\r\n( https://freesound.org/people/Samulis/sounds/197778/ )\r\nlicensed under CCBY 1.0\r\n\"four-voices-whispering-3-wecho.wav\" by geoneo0\r\n( https://freesound.org/people/geoneo0/sounds/193810/ )\r\nlicensed under CCBY 1.0\r\n\"four-voices-whispering-4-wecho.wav\" by geoneo0\r\n( https://freesound.org/people/geoneo0/sounds/193809/ )\r\nlicensed under CCBY 1.0\r\n\"whistle-nightmare-v2.wav\" by Adam_N\r\n( https://freesound.org/people/deleted_user_2104797/sounds/325259/ )\r\nlicensed under CCBY 1.0\r\n\"choir-domine-miserere-nobis-140928.wav\" by klankbeeld\r\n( https://freesound.org/people/klankbeeld/sounds/255319/ )\r\nlicensed under CCBY 3.0\r\n\"clay-pottery-drop-n-break.wav\" by Kinoton\r\n( https://freesound.org/people/Kinoton/sounds/399080/ )\r\nlicensed under CCBY 1.0\r\n\"howling.wav\" by PhonosUPF\r\n( https://freesound.org/people/PhonosUPF/sounds/499699/ )\r\nlicensed under CCBY 1.0\r\n\"cricket.mp3\" by cs272\r\n( https://freesound.org/people/cs272/sounds/77719/ )\r\nlicensed under CCBY 3.0\r\n\"cricket-chirping.wav\" by CGEffex\r\n( https://freesound.org/people/CGEffex/sounds/97788/ )\r\nlicensed under CCBY 4.0\r\n}"
+  ],
+  [
+   "lv0#21146/m_Text",
+   "Tiredness",
+   "疲劳"
+  ],
+  [
+   "lv0#21164/m_Text",
+   "w",
+   "w"
+  ],
+  [
+   "lv0#21169/m_Text",
+   "Team Leader",
+   "队长"
+  ],
+  [
+   "lv0#21188/m_Text",
+   "120",
+   "120"
+  ],
+  [
+   "lv0#21200/m_Text",
+   "41",
+   "41"
+  ],
+  [
+   "lv0#21207/m_Text",
+   "Backstab",
+   "背刺"
+  ],
+  [
+   "lv0#21226/m_Text",
+   "SKILL NAMEezord",
+   "SKILL NAMEezord"
+  ],
+  [
+   "lv0#21227/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#21229/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#21246/m_Text",
+   "Monster Spawn Rate",
+   "怪物生成速率"
+  ],
+  [
+   "lv0#21247/m_Text",
+   "Stashes:\n\nStashes can be chests, bags or anything else used to carry items within your inventory.\n\nSometimes they will be locked or trapped.",
+   "储物处：\n\n储物处可以是箱子、袋子，或任何在你物品栏中用来装东西的物件。\n\n有时它们会被锁上或设有陷阱。"
+  ],
+  [
+   "lv0#21248/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#21253/m_Text",
+   "Progression to Memorization",
+   "记忆进度"
+  ],
+  [
+   "lv0#21254/m_Text",
+   "Unidentified",
+   "未鉴定"
+  ],
+  [
+   "lv0#21261/m_Text",
+   "Lore Menu",
+   "学识菜单"
+  ],
+  [
+   "lv0#21263/m_Text",
+   "Ore Found:",
+   "发现矿石："
+  ],
+  [
+   "lv0#21272/m_Text",
+   "No Active Quests",
+   "没有进行中的任务"
+  ],
+  [
+   "lv0#21288/m_Text",
+   "100%",
+   "100%"
+  ],
+  [
+   "lv0#21293/m_Text",
+   "initiative",
+   "initiative"
+  ],
+  [
+   "lv0#21295/m_Text",
+   "Range:",
+   "射程："
+  ],
+  [
+   "lv0#21301/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#21303/m_Text",
+   "<i>Ley:\r</i>\n\r\nThere has only been one Ley in all of Emerisk: Atticus Ley. I have chosen to include him because the surrounding events are notable. In what some would call an era of reason and stability, Emerisk had a madman. He claimed to be a wizard, but failed to produce any evidence of such claims. He was frequently found raving in the northwest corner of the graveyard, up until his death. ",
+   "<i>莱伊：\r</i>\n\r\n整个埃梅里斯克只出过一个莱伊：Atticus·莱伊。我之所以把他收录进来，是因为围绕着他的事件颇为值得注意。在那个被一些人称为理性与稳定时代的时期，埃梅里斯克出了个疯子。他自称巫师，却拿不出任何证据。直到死去之前，人们常能看到他在墓地的西北角胡言乱语。 "
+  ],
+  [
+   "lv0#21305/m_Text",
+   "x",
+   "x"
+  ],
+  [
+   "lv0#21321/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#21333/m_Text",
+   "Lore Here",
+   "学识"
+  ],
+  [
+   "lv0#21338/m_Text",
+   "Cancel/Back",
+   "取消/返回"
+  ],
+  [
+   "lv0#21340/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#21342/m_Text",
+   "Gain +10 to spotting Monsters.",
+   "发现怪物 +10。"
+  ],
+  [
+   "lv0#21349/m_Text",
+   "W",
+   "W"
+  ],
+  [
+   "lv0#21351/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#21356/m_Text",
+   "d",
+   "d"
+  ],
+  [
+   "lv0#21358/m_Text",
+   " ",
+   " "
+  ],
+  [
+   "lv0#21367/m_Text",
+   "v",
+   "v"
+  ],
+  [
+   "lv0#21370/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21377/m_Text",
+   "n",
+   "n"
+  ],
+  [
+   "lv0#21379/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21381/m_Text",
+   "9",
+   "9"
+  ],
+  [
+   "lv0#21388/m_Text",
+   "7",
+   "7"
+  ],
+  [
+   "lv0#21392/m_Text",
+   ":/",
+   ":/"
+  ],
+  [
+   "lv0#21394/m_Text",
+   "5",
+   "5"
+  ],
+  [
+   "lv0#21403/m_Text",
+   "k",
+   "k"
+  ],
+  [
+   "lv0#21404/m_Text",
+   "5",
+   "5"
+  ],
+  [
+   "lv0#21405/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21411/m_Text",
+   ":",
+   ":"
+  ],
+  [
+   "lv0#21412/m_Text",
+   "!",
+   "!"
+  ],
+  [
+   "lv0#21417/m_Text",
+   "&",
+   "&"
+  ],
+  [
+   "lv0#21419/m_Text",
+   "4",
+   "4"
+  ],
+  [
+   "lv0#21425/m_Text",
+   "z",
+   "z"
+  ],
+  [
+   "lv0#21430/m_Text",
+   ",",
+   ","
+  ],
+  [
+   "lv0#21431/m_Text",
+   ".",
+   "."
+  ],
+  [
+   "lv0#21435/m_Text",
+   "e",
+   "e"
+  ],
+  [
+   "lv0#21441/m_Text",
+   "3",
+   "3"
+  ],
+  [
+   "lv0#21442/m_Text",
+   "l",
+   "l"
+  ],
+  [
+   "lv0#21443/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#21448/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#21450/m_Text",
+   "r",
+   "r"
+  ],
+  [
+   "lv0#21455/m_Text",
+   ":\\",
+   ":\\"
+  ],
+  [
+   "lv0#21457/m_Text",
+   "6",
+   "6"
+  ],
+  [
+   "lv0#21459/m_Text",
+   ":?",
+   ":?"
+  ],
+  [
+   "lv0#21469/m_Text",
+   ":o",
+   ":o"
+  ],
+  [
+   "lv0#21470/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#21475/m_Text",
+   "b",
+   "b"
+  ],
+  [
+   "lv0#21482/m_Text",
+   "(",
+   "("
+  ],
+  [
+   "lv0#21491/m_Text",
+   "q",
+   "q"
+  ],
+  [
+   "lv0#21494/m_Text",
+   "#",
+   "#"
+  ],
+  [
+   "lv0#21495/m_Text",
+   ":)",
+   ":)"
+  ],
+  [
+   "lv0#21502/m_Text",
+   ".",
+   "."
+  ],
+  [
+   "lv0#21503/m_Text",
+   ":3",
+   ":3"
+  ],
+  [
+   "lv0#21505/m_Text",
+   "h",
+   "h"
+  ],
+  [
+   "lv0#21510/m_Text",
+   "7",
+   "7"
+  ],
+  [
+   "lv0#21511/m_Text",
+   "?",
+   "?"
+  ],
+  [
+   "lv0#21517/m_Text",
+   "8",
+   "8"
+  ],
+  [
+   "lv0#21531/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21534/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21535/m_Text",
+   ";",
+   ";"
+  ],
+  [
+   "lv0#21540/m_Text",
+   ":(",
+   ":("
+  ],
+  [
+   "lv0#21546/m_Text",
+   "4",
+   "4"
+  ],
+  [
+   "lv0#21549/m_Text",
+   " ",
+   " "
+  ],
+  [
+   "lv0#21551/m_Text",
+   "=",
+   "="
+  ],
+  [
+   "lv0#21553/m_Text",
+   "a",
+   "a"
+  ],
+  [
+   "lv0#21562/m_Text",
+   "9",
+   "9"
+  ],
+  [
+   "lv0#21565/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21566/m_Text",
+   ":P",
+   ":P"
+  ],
+  [
+   "lv0#21574/m_Text",
+   ":]",
+   ":]"
+  ],
+  [
+   "lv0#21582/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21590/m_Text",
+   ":O",
+   ":O"
+  ],
+  [
+   "lv0#21593/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21596/m_Text",
+   "8",
+   "8"
+  ],
+  [
+   "lv0#21597/m_Text",
+   "-",
+   "-"
+  ],
+  [
+   "lv0#21598/m_Text",
+   ":8",
+   ":8"
+  ],
+  [
+   "lv0#21605/m_Text",
+   ";P",
+   ";P"
+  ],
+  [
+   "lv0#21606/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21610/m_Text",
+   "4",
+   "4"
+  ],
+  [
+   "lv0#21624/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21625/m_Text",
+   "u",
+   "u"
+  ],
+  [
+   "lv0#21626/m_Text",
+   "2",
+   "2"
+  ],
+  [
+   "lv0#21631/m_Text",
+   ".",
+   "."
+  ],
+  [
+   "lv0#21635/m_Text",
+   "3",
+   "3"
+  ],
+  [
+   "lv0#21637/m_Text",
+   "ABC",
+   "ABC"
+  ],
+  [
+   "lv0#21639/m_Text",
+   ":@",
+   ":@"
+  ],
+  [
+   "lv0#21641/m_Text",
+   "7",
+   "7"
+  ],
+  [
+   "lv0#21642/m_Text",
+   ",",
+   ","
+  ],
+  [
+   "lv0#21652/m_Text",
+   "\\",
+   "\\"
+  ],
+  [
+   "lv0#21659/m_Text",
+   "3",
+   "3"
+  ],
+  [
+   "lv0#21661/m_Text",
+   "9",
+   "9"
+  ],
+  [
+   "lv0#21670/m_Text",
+   ":|",
+   ":|"
+  ],
+  [
+   "lv0#21673/m_Text",
+   ":D",
+   ":D"
+  ],
+  [
+   "lv0#21675/m_Text",
+   "&123",
+   "&123"
+  ],
+  [
+   "lv0#21680/m_Text",
+   "f",
+   "f"
+  ],
+  [
+   "lv0#21691/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21695/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21697/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21701/m_Text",
+   ":*",
+   ":*"
+  ],
+  [
+   "lv0#21703/m_Text",
+   " ",
+   " "
+  ],
+  [
+   "lv0#21705/m_Text",
+   "i",
+   "i"
+  ],
+  [
+   "lv0#21716/m_Text",
+   ";)",
+   ";)"
+  ],
+  [
+   "lv0#21717/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21720/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21725/m_Text",
+   "g",
+   "g"
+  ],
+  [
+   "lv0#21736/m_Text",
+   ">:)",
+   ">:)"
+  ],
+  [
+   "lv0#21739/m_Text",
+   "x",
+   "x"
+  ],
+  [
+   "lv0#21744/m_Text",
+   ":#",
+   ":#"
+  ],
+  [
+   "lv0#21747/m_Text",
+   "p",
+   "p"
+  ],
+  [
+   "lv0#21751/m_Text",
+   ")",
+   ")"
+  ],
+  [
+   "lv0#21756/m_Text",
+   "ABC",
+   "ABC"
+  ],
+  [
+   "lv0#21759/m_Text",
+   "2",
+   "2"
+  ],
+  [
+   "lv0#21761/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21771/m_Text",
+   "6",
+   "6"
+  ],
+  [
+   "lv0#21776/m_Text",
+   "j",
+   "j"
+  ],
+  [
+   "lv0#21777/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21784/m_Text",
+   "o",
+   "o"
+  ],
+  [
+   "lv0#21785/m_Text",
+   "t",
+   "t"
+  ],
+  [
+   "lv0#21787/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21790/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21792/m_Text",
+   ":V",
+   ":V"
+  ],
+  [
+   "lv0#21798/m_Text",
+   "2",
+   "2"
+  ],
+  [
+   "lv0#21808/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21813/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21815/m_Text",
+   "5",
+   "5"
+  ],
+  [
+   "lv0#21817/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#21818/m_Text",
+   "?",
+   "?"
+  ],
+  [
+   "lv0#21822/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#21828/m_Text",
+   "w",
+   "w"
+  ],
+  [
+   "lv0#21833/m_Text",
+   "/",
+   "/"
+  ],
+  [
+   "lv0#21834/m_Text",
+   "'",
+   "'"
+  ],
+  [
+   "lv0#21837/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21839/m_Text",
+   "c",
+   "c"
+  ],
+  [
+   "lv0#21842/m_Text",
+   "6",
+   "6"
+  ],
+  [
+   "lv0#21846/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21852/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#21863/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#21885/m_Text",
+   "%",
+   "%"
+  ],
+  [
+   "lv0#21886/m_Text",
+   "m",
+   "m"
+  ],
+  [
+   "lv0#21888/m_Text",
+   "s",
+   "s"
+  ],
+  [
+   "lv0#21891/m_Text",
+   "*",
+   "*"
+  ],
+  [
+   "lv0#21892/m_Text",
+   "$",
+   "$"
+  ],
+  [
+   "lv0#21895/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21904/m_Text",
+   "_",
+   "_"
+  ],
+  [
+   "lv0#21913/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21918/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21920/m_Text",
+   "",
+   ""
+  ],
+  [
+   "lv0#21922/m_Text",
+   "y",
+   "y"
+  ],
+  [
+   "lv0#21931/m_Text",
+   "@",
+   "@"
+  ],
+  [
+   "lv0#21934/m_Text",
+   "8",
+   "8"
+  ],
+  [
+   "lv0#21937/m_Text",
+   "Name Here",
+   "名称"
+  ],
+  [
+   "lv0#21954/m_Text",
+   "cavesoflore@gmail.com",
+   "cavesoflore@gmail.com"
+  ],
+  [
+   "lv0#21956/m_Text",
+   "Difficulty Level",
+   "难度等级"
+  ],
+  [
+   "lv0#21980/m_Text",
+   "Evil:",
+   "邪恶："
+  ],
+  [
+   "lv0#21982/m_Text",
+   "2",
+   "2"
+  ],
+  [
+   "lv0#21986/m_Text",
+   "Magic Word",
+   "魔法词"
+  ],
+  [
+   "lv0#21988/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#21989/m_Text",
+   "Each character has 6 stats that determine how they interact with the world. They are:\r\n\r\n     (STR) Strength\r\n     (AGI) Agility\r\n     (SPI) Spirit\r\n     (MND) Mind\r\n     (RES) Resistance\r\n     (SPD) Speed\r\n",
+   "每个角色都有 6 项属性，决定他们与世界互动的方式。它们是：\r\n\r\n     (STR) 力量\r\n     (AGI) 敏捷\r\n     (SPI) 精神\r\n     (MND) 心智\r\n     (RES) 抗性\r\n     (SPD) 速度\r\n"
+  ],
+  [
+   "lv0#21993/m_Text",
+   "Setting:\n\nWhen a moon passes below the horizon, the corresponding gem on the left of the screen will go dark. This status can grant special bonuses, different from the Zenith and Nadir.\n",
+   "月落：\n\n当一轮月亮落到地平线以下时，屏幕左侧对应的宝石会熄灭。这一状态可以提供与「天顶」「天底」不同的特殊加成。\n"
+  ],
+  [
+   "lv0#22004/m_Text",
+   "RES",
+   "抗性"
+  ],
+  [
+   "lv0#22014/m_Text",
+   "Knowledge Bonus:",
+   "知识加成："
+  ],
+  [
+   "lv0#22018/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22019/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#22023/m_Text",
+   "Quests/Journal",
+   "任务/日志"
+  ],
+  [
+   "lv0#22048/m_Text",
+   "Sound FX Volume",
+   "音效音量"
+  ],
+  [
+   "lv0#22054/m_Text",
+   "Empty",
+   "空"
+  ],
+  [
+   "lv0#22066/m_Text",
+   "And that, is why you should always be suspicious when a group of people hides something from you. True, my own folly and sense of adventure led me there to begin with, and it nearly cost me everything.\n\n\n\n\n\n",
+   "所以说，当一群人千方百计对你隐瞒某些事时，你永远都该起疑心。诚然，是我自己的愚蠢和冒险心把我引到了那里，它几乎让我失去了一切。\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#22067/m_Text",
+   "Lore Bonuses:\n\nEach Trait that you unlock will give you an additional bonus damage when targeting that creature. This can make it easier to clear out enemies that you are very familiar with.\n\nType and Body Traits are especially useful since they can carry over between various Species. For instance, learning about Vermin will help with both rats and spiders.\n",
+   "学识加成：\n\n每解锁一项特质，都会在你以该生物为目标时提供额外的伤害加成。这能让你更轻松地清剿非常熟悉的敌人。\n\n类型特质与身体特质尤其有用，因为它们可以在不同物种之间通用。例如，了解「害兽」对老鼠和蜘蛛都有帮助。\n"
+  ],
+  [
+   "lv0#22068/m_Text",
+   "Defense:\nDefense is rolled after Armor absorption. For each point of defense, you have a 50% chance of absorbing a point of Damage, even if it avoided Armor.\n\n\n\n\n\n",
+   "防御：\n防御在护甲吸收之后进行判定。每点防御都有 50% 的几率吸收 1 点伤害，即使该伤害绕过了护甲。\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#22070/m_Text",
+   "Damage Dealt:",
+   "造成伤害："
+  ],
+  [
+   "lv0#22081/m_Text",
+   "Lore Bonuses",
+   "学识加成"
+  ],
+  [
+   "lv0#22094/m_Text",
+   "f",
+   "f"
+  ],
+  [
+   "lv0#22097/m_Text",
+   ":",
+   ":"
+  ],
+  [
+   "lv0#22098/m_Text",
+   "Mined",
+   "已开采"
+  ],
+  [
+   "lv0#22103/m_Text",
+   "Skills",
+   "技能"
+  ],
+  [
+   "lv0#22117/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#22128/m_Text",
+   "Talent",
+   "天赋"
+  ],
+  [
+   "lv0#22132/m_Text",
+   "999",
+   "999"
+  ],
+  [
+   "lv0#22135/m_Text",
+   "There are 15 skills in total. They gain in strength every time they are used. Skill gain is affected by the Mind Stat, which acts as a multiplier to increases as well as to Skill Points received when a character levels up.\n\nSkill Points are received every level, and are governed by this formula:\n \nEXP needed to reach your current level * ((unmodded Mind / 10) / 4)",
+   "一共有 15 项技能。每被使用一次，它们都会变强。技能成长受「心智」属性影响，心智会作为倍率作用于成长速度，以及角色升级时获得的技能点。\n\n每升一级都会获得技能点，计算遵循以下公式：\n \n达到当前等级所需经验 * ((未修正心智 / 10) / 4)"
+  ],
+  [
+   "lv0#22148/m_Text",
+   "AGI",
+   "敏捷"
+  ],
+  [
+   "lv0#22155/m_Text",
+   "Flanking",
+   "夹击"
+  ],
+  [
+   "lv0#22166/m_Text",
+   "\n\n\n\n\n\n\nWhen a character's Skill has the highest total value of anyone in the party the total will turn Gold.",
+   "\n\n\n\n\n\n\n当某角色的技能总值为全队最高时，该数值会变成金色。"
+  ],
+  [
+   "lv0#22194/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22195/m_Text",
+   "Mind",
+   "心智"
+  ],
+  [
+   "lv0#22206/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "lv0#22207/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#22212/m_Text",
+   "Price: ",
+   "价格："
+  ],
+  [
+   "lv0#22226/m_Text",
+   "i",
+   "i"
+  ],
+  [
+   "lv0#22230/m_Text",
+   "You do not know about this rune yet.",
+   "你还不了解这枚符文。"
+  ],
+  [
+   "lv0#22234/m_Text",
+   "Click to find out more about each item",
+   "点击可了解每件物品的详情"
+  ],
+  [
+   "lv0#22239/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22253/m_Text",
+   "999",
+   "999"
+  ],
+  [
+   "lv0#22255/m_Text",
+   "Awareness and Stealth both show a Team Leader value, which tells you how strong that skill is when that character is the Team Leader of the party. The average skill of the other characters is added to the Team Leader.\n\nMonster Lore uses this system, but the character with the highest skill becomes the Team Leader for its calculation at the end of combat.",
+   "「警觉」与「潜行」都会显示一个队长值，它表示当该角色担任队伍队长时，这项技能的强度。其他角色的平均技能值会加到队长身上。\n\n怪物学识也使用这一系统，但在战斗结束时，技能最高的角色会成为计算所用的队长。"
+  ],
+  [
+   "lv0#22259/m_Text",
+   "Display",
+   "显示"
+  ],
+  [
+   "lv0#22283/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#22286/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22287/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#22297/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#22298/m_Text",
+   "SPD",
+   "速度"
+  ],
+  [
+   "lv0#22302/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#22314/m_Text",
+   "You do not know about this rune yet.",
+   "你还不了解这枚符文。"
+  ],
+  [
+   "lv0#22323/m_Text",
+   "Stash / Chest",
+   "储物处 / 箱子"
+  ],
+  [
+   "lv0#22328/m_Text",
+   "There are three moons rotating around Solmaria (your world). They appear in the upper right of the screen along with the sun. Each of them grants special properties and can activate secrets. This is revealed slowly as you play, but you may continue for more information.\r\n\r\nThe white moon is Miala, the blue moon is Tethrys and the red moon is Gammon. There is a colored gem on the left side of the screen that will light up for each of these when they have risen or set.\t\r",
+   "有三轮月亮环绕着索尔玛利亚（你的世界）运行。它们会与太阳一同出现在屏幕右上角。每一轮都带有特殊属性，并能激活秘密。这些会随着游戏进程逐步揭示，你也可以继续阅读以了解更多。\r\n\r\n白色的月亮是米亚拉，蓝色的月亮是泰丝瑞斯，红色的月亮是加蒙。屏幕左侧有三颗对应的彩色宝石，当这些月亮升起或落下时便会亮起。\t\r"
+  ],
+  [
+   "lv0#22340/m_Text",
+   "z",
+   "z"
+  ],
+  [
+   "lv0#22341/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#22343/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22358/m_Text",
+   "Party Gold",
+   "队伍金币"
+  ],
+  [
+   "lv0#22367/m_Text",
+   "e",
+   "e"
+  ],
+  [
+   "lv0#22369/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "lv0#22393/m_Text",
+   "Archery",
+   "弓术"
+  ],
+  [
+   "lv0#22398/m_Text",
+   "Stealth: Avoid being spotted by enemies, and slow your movement.",
+   "潜行：避免被敌人发现，同时降低移动速度。"
+  ],
+  [
+   "lv0#22414/m_Text",
+   "Map Name",
+   "地图名称"
+  ],
+  [
+   "lv0#22432/m_Text",
+   "Zenith",
+   "天顶"
+  ],
+  [
+   "lv0#22433/m_Text",
+   "STR",
+   "力量"
+  ],
+  [
+   "lv0#22438/m_Text",
+   "Speed",
+   "速度"
+  ],
+  [
+   "lv0#22447/m_Text",
+   "Teleport To Town",
+   "传送至城镇"
+  ],
+  [
+   "lv0#22448/m_Text",
+   "This is a Trigger mark. Stepping on it will activate something.",
+   "这是触发标记。踩上去会激活某些东西。"
+  ],
+  [
+   "lv0#22454/m_Text",
+   "Delay Turn",
+   "推迟回合"
+  ],
+  [
+   "lv0#22460/m_Text",
+   "1 / 6",
+   "1 / 6"
+  ],
+  [
+   "lv0#22477/m_Text",
+   "Price: ",
+   "价格："
+  ],
+  [
+   "lv0#22490/m_Text",
+   "Instrument",
+   "乐器"
+  ],
+  [
+   "lv0#22506/m_Text",
+   "Frightened, I backed away, and nearly tumbled over a ledge into a fiery darkness. Flames licked upwards, and strange appendages lashed out as if searching for food.\n\n\nOvercome with terror, I fled down a rocky path, deeper into whatever realm I had come to.\n\n\nDays passed, and I recalled words my father had taught me. Survival is not always about finding food where is none, but sometimes about",
+   "我吓得连连后退，险些翻下崖沿，坠入一片火光冲天的黑暗。火焰向上翻卷，奇怪的附肢挥来挥去，仿佛在寻觅食物。\n\n\n惊恐之下，我沿一条碎石小径奔逃，一路深入这个我误入的领域。\n\n\n数日过去，我想起了父亲教过我的话：生存之道并不总是在没有食物之处寻得食物，有时也在于"
+  ],
+  [
+   "lv0#22508/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#22510/m_Text",
+   "dodge",
+   "dodge"
+  ],
+  [
+   "lv0#22512/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22521/m_Text",
+   "Resist Poison:",
+   "抗毒："
+  ],
+  [
+   "lv0#22528/m_Text",
+   "Creature",
+   "生物"
+  ],
+  [
+   "lv0#22532/m_Text",
+   "You do not know about this rune yet.",
+   "你还不了解这枚符文。"
+  ],
+  [
+   "lv0#22536/m_Text",
+   "greet",
+   "问候"
+  ],
+  [
+   "lv0#22542/m_Text",
+   "Attribution",
+   "致谢"
+  ],
+  [
+   "lv0#22545/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#22549/m_Text",
+   "Sort All",
+   "全部整理"
+  ],
+  [
+   "lv0#22558/m_Text",
+   "Save 0",
+   "存档 0"
+  ],
+  [
+   "lv0#22561/m_Text",
+   ":",
+   ":"
+  ],
+  [
+   "lv0#22564/m_Text",
+   "Backstab:\nWhen making an attack against an enemy that is facing away from you, there is a chance to backstab. Success is based on a successful D20 roll added to your Backstab bonus vs your target's Resist Physical.\n\nDamage is increased by this calculation:\n\nDamage: + (Character Level / 3) + Item, Ability and Trait Bonuses\n",
+   "背刺：\n攻击背对你的敌人时，有一定几率发动背刺。其成败取决于一次 D20 掷骰加上你的背刺加值，对抗目标的抗物理。\n\n伤害按以下方式提高：\n\n伤害：+（角色等级 / 3）+ 物品、能力与特质加成\n"
+  ],
+  [
+   "lv0#22566/m_Text",
+   "Kill All Enemies",
+   "消灭所有敌人"
+  ],
+  [
+   "lv0#22568/m_Text",
+   "Points:",
+   "点数："
+  ],
+  [
+   "lv0#22580/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#22590/m_Text",
+   "New Text",
+   "新文本"
+  ],
+  [
+   "lv0#22596/m_Text",
+   "Save 5",
+   "存档 5"
+  ],
+  [
+   "lv0#22623/m_Text",
+   "     Defense:",
+   "     防御："
+  ],
+  [
+   "lv0#22638/m_Text",
+   "Formations are an important part of combat.\nPositioning your characters in the right way can help lead to victory.\n\nSome enemies may attack the nearest opponent, a random opponent, or even move straight to the back line.\n\nProtecting your spellcaster and ranged attackers is important, as well as ensuring that all of your characters act at the right time.",
+   "阵型是战斗的重要一环。\n把角色摆到正确的位置，有助于走向胜利。\n\n有些敌人会攻击最近的对手、随机的对手，甚至径直冲向你的后排。\n\n保护好你的施法者与远程攻击手很重要，同时也要确保所有角色都能在恰当的时机行动。"
+  ],
+  [
+   "lv0#22644/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#22649/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#22651/m_Text",
+   "Resist Slashing:",
+   "抗挥砍："
+  ],
+  [
+   "lv0#22660/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#22662/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#22663/m_Text",
+   "\n\n\n \n\n\n\n\n\n\n\nMy wife, Sara, for her support and encouragement.\nTo Pat, for being the most amazing and dedicated tester.\nI thank God that I had these two with me. I couldn't have done it without them!",
+   "\n\n\n \n\n\n\n\n\n\n\nMy wife, Sara, for her support and encouragement.\nTo Pat, for being the most amazing and dedicated tester.\nI thank God that I had these two with me. I couldn't have done it without them!"
+  ],
+  [
+   "lv0#22667/m_Text",
+   "5 / 8",
+   "5 / 8"
+  ],
+  [
+   "lv0#22669/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22673/m_Text",
+   "Master Volume",
+   "主音量"
+  ],
+  [
+   "lv0#22699/m_Text",
+   "Remove UI Outline",
+   "移除界面描边"
+  ],
+  [
+   "lv0#22704/m_Text",
+   "25",
+   "25"
+  ],
+  [
+   "lv0#22705/m_Text",
+   "Press      to Return",
+   "按      返回"
+  ],
+  [
+   "lv0#22707/m_Text",
+   "Time Played:",
+   "游玩时间："
+  ],
+  [
+   "lv0#22714/m_Text",
+   "cavesoflore@gmail.com",
+   "cavesoflore@gmail.com"
+  ],
+  [
+   "lv0#22723/m_Text",
+   "35 / 60",
+   "35 / 60"
+  ],
+  [
+   "lv0#22751/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22759/m_Text",
+   "First Aid",
+   "急救"
+  ],
+  [
+   "lv0#22760/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#22776/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#22795/m_Text",
+   "Traits",
+   "特质"
+  ],
+  [
+   "lv0#22801/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#22808/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#22810/m_Text",
+   "Iron",
+   "铁"
+  ],
+  [
+   "lv0#22829/m_Text",
+   "     Movement:",
+   "     移动："
+  ],
+  [
+   "lv0#22831/m_Text",
+   "Strip Enchant",
+   "剥除附魔"
+  ],
+  [
+   "lv0#22838/m_Text",
+   "(SPI) Spirit:\r\n+ Spell Damage\r/Intensity\n+ Mana Points (secondary)\r\n+ Resist Magic\r\n+ Determines max Spell Tier (if higher than MND)\r\n\r\nSkills:\r\n     + Music\r\n     + Identify\r\n     + Craft\r\n     + Hand-to-Hand Weapons\r",
+   "(SPI) 精神：\r\n+ 法术伤害\r/强度\n+ 法力值（次要）\r\n+ 抵抗魔法\r\n+ 决定最高法术层级（若高于 MND）\r\n\r\n技能：\r\n     + 音乐\r\n     + 鉴定\r\n     + 制作\r\n     + 徒手格斗\r"
+  ],
+  [
+   "lv0#22843/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22846/m_Text",
+   "B",
+   "B"
+  ],
+  [
+   "lv0#22856/m_Text",
+   "Speed",
+   "速度"
+  ],
+  [
+   "lv0#22863/m_Text",
+   "Skill\nPoints",
+   "技能\n点数"
+  ],
+  [
+   "lv0#22883/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#22888/m_Text",
+   "Reward",
+   "奖励"
+  ],
+  [
+   "lv0#22907/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#22913/m_Text",
+   "Interact",
+   "互动"
+  ],
+  [
+   "lv0#22918/m_Text",
+   "+1\n",
+   "+1\n"
+  ],
+  [
+   "lv0#22921/m_Text",
+   "Dodge:\nA successful Dodge roll is required to avoid an attack. This roll is made against the attackers ToHit roll.\n\nThe calculation for Dodge is:\n(Dodge + Evasion + Character Level)\n\n\n\n",
+   "闪避：\n要避开一次攻击，必须成功通过闪避检定。该检定对抗攻击者的命中检定。\n\n闪避的计算方式为：\n(闪避 + 回避 + 角色等级)\n\n\n\n"
+  ],
+  [
+   "lv0#22922/m_Text",
+   "You do not know about this rune yet.",
+   "你还不了解这枚符文。"
+  ],
+  [
+   "lv0#22928/m_Text",
+   "Points:",
+   "点数："
+  ],
+  [
+   "lv0#22931/m_Text",
+   "Expand\nSlots",
+   "扩充\n槽位"
+  ],
+  [
+   "lv0#22940/m_Text",
+   "Would you like to a Tutorial?",
+   "要开始教程吗？"
+  ],
+  [
+   "lv0#22951/m_Text",
+   "Sound FX Volume",
+   "音效音量"
+  ],
+  [
+   "lv0#22953/m_Text",
+   "Camping has 3 main benefits:\nThe passage of time, and regaining lost health and mana.\n\nCamping provides you with many options for advancing time in order to reach the time of day and moon positions that you want.\n\nYou may also find yourself nearing death and out of items or spells. Camping can help you regain what you lost.\n\nLastly, you can talk to your allies while in camp.",
+   "露营有 3 个主要好处：\n让时间流逝，并恢复失去的生命与法力。\n\n露营为你提供了许多推进时间的选择，以便达到你想要的时间与月相。\n\n你也可能濒临死亡，又用光了物品或法术。露营能帮你找回失去的东西。\n\n最后，你可以在营地与同伴交谈。"
+  ],
+  [
+   "lv0#22955/m_Text",
+   "manaPts",
+   "manaPts"
+  ],
+  [
+   "lv0#22958/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#22967/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#22969/m_Text",
+   "Fire:",
+   "火焰："
+  ],
+  [
+   "lv0#22987/m_Text",
+   "5",
+   "5"
+  ],
+  [
+   "lv0#22991/m_Text",
+   "If you have found a bug, please contact me with one of the links below. I will personally attend to the issue as quickly as possible. As a solo dev, I care deeply for this project and desire a quick turnaround for any issues encountered.",
+   "如果你发现了 bug，请通过下方任一链接联系我。我会尽快亲自处理。作为一名独立开发者，我非常珍视这个项目，希望遇到的问题都能迅速解决。"
+  ],
+  [
+   "lv0#23003/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#23008/m_Text",
+   "SKILL NAMEezord",
+   "SKILL NAMEezord"
+  ],
+  [
+   "lv0#23010/m_Text",
+   "Discord Bug Report",
+   "在 Discord 反馈 bug"
+  ],
+  [
+   "lv0#23031/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#23037/m_Text",
+   "SKILL NAME",
+   "SKILL NAME"
+  ],
+  [
+   "lv0#23040/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#23043/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#23055/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#23065/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#23067/m_Text",
+   "Cancel",
+   "取消"
+  ],
+  [
+   "lv0#23073/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#23077/m_Text",
+   "LeftTrigger",
+   "左扳机"
+  ],
+  [
+   "lv0#23082/m_Text",
+   "Countdowns",
+   "倒计时"
+  ],
+  [
+   "lv0#23096/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#23100/m_Text",
+   "You do not know about this rune yet.",
+   "你还不了解这枚符文。"
+  ],
+  [
+   "lv0#23119/m_Text",
+   "Initiative:",
+   "先攻："
+  ],
+  [
+   "lv0#23122/m_Text",
+   "Spirit",
+   "精神"
+  ],
+  [
+   "lv0#23124/m_Text",
+   "+3\n",
+   "+3\n"
+  ],
+  [
+   "lv0#23127/m_Text",
+   "Spirit",
+   "精神"
+  ],
+  [
+   "lv0#23130/m_Text",
+   "     Str:",
+   "     力量："
+  ],
+  [
+   "lv0#23132/m_Text",
+   "Range:",
+   "射程："
+  ],
+  [
+   "lv0#23134/m_Text",
+   "Tutorials",
+   "教程"
+  ],
+  [
+   "lv0#23137/m_Text",
+   "Resist Mind:",
+   "抗心智："
+  ],
+  [
+   "lv0#23139/m_Text",
+   "Combat\nMechanics",
+   "战斗机制"
+  ],
+  [
+   "lv0#23142/m_Text",
+   "Ore Mined:",
+   "已开采矿石："
+  ],
+  [
+   "lv0#23145/m_Text",
+   "Inventory",
+   "物品栏"
+  ],
+  [
+   "lv0#23157/m_Text",
+   "-3",
+   "-3"
+  ],
+  [
+   "lv0#23165/m_Text",
+   "New Text",
+   "新文本"
+  ],
+  [
+   "lv0#23172/m_Text",
+   "     Agility:",
+   "     敏捷："
+  ],
+  [
+   "lv0#23175/m_Text",
+   "Down",
+   "下移"
+  ],
+  [
+   "lv0#23188/m_Text",
+   "Known Marks",
+   "已识标记"
+  ],
+  [
+   "lv0#23190/m_Text",
+   "NEW!",
+   "新！"
+  ],
+  [
+   "lv0#23195/m_Text",
+   "Shock:",
+   "电击："
+  ],
+  [
+   "lv0#23209/m_Text",
+   "Discord",
+   "Discord"
+  ],
+  [
+   "lv0#23212/m_Text",
+   "(RES) Resistance:\r\n+ Hit Points (primary)\r\n+ Willpower\r\n+ Resist Physical\r\n+ Resist Magic\r\n+ Defense\r\n\r\nSkills:\r\n     + Survival\r\n     + First Aid\r",
+   "(RES) 抗性：\r\n+ 生命值（主要）\r\n+ 意志力\r\n+ 抵抗物理\r\n+ 抵抗魔法\r\n+ 防御\r\n\r\n技能：\r\n     + 生存\r\n     + 急救\r"
+  ],
+  [
+   "lv0#23222/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#23233/m_Text",
+   "Material:",
+   "材质："
+  ],
+  [
+   "lv0#23247/m_Text",
+   "Alteration:",
+   "变化系："
+  ],
+  [
+   "lv0#23254/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#23270/m_Text",
+   "Stirred by a low humming sound, I awoke from my slumber. My eyes opened and I beheld a red glow, not from the soft light of my campfire, but of a large gate, twice the height of a man. Twisting lines of blazing red wound around it, and it bore something like wounds, as though pierced by arrows, but not of flesh.",
+   "一阵低沉的嗡鸣将我惊醒。我睁开双眼，看到一片红光——不是营火柔和的光，而是一扇大门，足有两人高。炽红的线条缠绕盘绕其上，门上还有像是伤口的东西，仿佛被箭矢穿透，却不是血肉之躯。"
+  ],
+  [
+   "lv0#23271/m_Text",
+   "DPI (Resolution)",
+   "DPI（分辨率）"
+  ],
+  [
+   "lv0#23284/m_Text",
+   "The Moons",
+   "月相"
+  ],
+  [
+   "lv0#23288/m_Text",
+   "New Text",
+   "新文本"
+  ],
+  [
+   "lv0#23296/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#23300/m_Text",
+   "This is an Doorway mark. It indicates a doorway, and often an invisible one.",
+   "这是门径标记。它表示此处有一道门——而且往往是隐形的门。"
+  ],
+  [
+   "lv0#23301/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#23302/m_Text",
+   "DPI (Resolution)",
+   "DPI（分辨率）"
+  ],
+  [
+   "lv0#23304/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#23308/m_Text",
+   "This rune is connected to the Fae",
+   "这枚符文与妖精相连"
+  ],
+  [
+   "lv0#23313/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#23336/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#23338/m_Text",
+   "hitPts",
+   "hitPts"
+  ],
+  [
+   "lv0#23367/m_Text",
+   "Stats",
+   "属性"
+  ],
+  [
+   "lv0#23389/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#23393/m_Text",
+   "Cancel",
+   "取消"
+  ],
+  [
+   "lv0#23422/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#23425/m_Text",
+   "Enhancements",
+   "强化"
+  ],
+  [
+   "lv0#23428/m_Text",
+   "Team Leader Total:",
+   "队长总值："
+  ],
+  [
+   "lv0#23432/m_Text",
+   "Screen Orientation",
+   "屏幕方向"
+  ],
+  [
+   "lv0#23435/m_Text",
+   "Gallitzin leveled Two Handed Weapons",
+   "Gallitzin 升级了双手武器"
+  ],
+  [
+   "lv0#23441/m_Text",
+   "Save 2",
+   "存档 2"
+  ],
+  [
+   "lv0#23450/m_Text",
+   "Item Display",
+   "物品显示"
+  ],
+  [
+   "lv0#23453/m_Text",
+   "+1\n",
+   "+1\n"
+  ],
+  [
+   "lv0#23454/m_Text",
+   "New Game\nPlus",
+   "新游戏\n+"
+  ],
+  [
+   "lv0#23458/m_Text",
+   "Native",
+   "原生"
+  ],
+  [
+   "lv0#23477/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#23483/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#23497/m_Text",
+   "120",
+   "120"
+  ],
+  [
+   "lv0#23498/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#23503/m_Text",
+   "     Resistance:",
+   "     抗性："
+  ],
+  [
+   "lv0#23517/m_Text",
+   "ToHit:\nWhen making an attack, you must succeed a ToHit roll. This roll is made against the defenders Dodge roll. Your initial ToHit value is determined by the following:\r\n\n((Agility + Speed) / 2) + (ToHit + Weapon Skill + Character Level)\r\n\nWhen making a physical attack the initial roll is a range between half of your ToHit rating and the maximum ToHit rating. Knowledge about an enemy is added to your roll (and damage). The formula is as follows:\r\n\nRandom Roll Between (ToHit / 2) and ((ToHit * No-Move Bonus) + Knowledge Bonus))\r",
+   "命中：\n进行攻击时，你必须通过一次命中检定。该检定对抗防御者的闪避检定。你的初始命中值由以下公式决定：\r\n\n((敏捷 + 速度) / 2) + (命中 + 武器技能 + 角色等级)\r\n\n进行物理攻击时，初始掷值介于你命中评级的一半与最大命中评级之间。对敌人的了解会加到你的掷值（与伤害）上。公式如下：\r\n\n掷值随机介于 (命中 / 2) 与 ((命中 * 未移动加成) + 知识加成) 之间\r"
+  ],
+  [
+   "lv0#23528/m_Text",
+   "Thank you for playing Caves of Lore!",
+   "感谢游玩《Caves of Lore》！"
+  ],
+  [
+   "lv0#23533/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#23538/m_Text",
+   "     Initiative:",
+   "     先攻："
+  ],
+  [
+   "lv0#23539/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#23540/m_Text",
+   "Learn Monster Lore to Unlock More Traits",
+   "学习怪物学识以解锁更多特质"
+  ],
+  [
+   "lv0#23541/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#23546/m_Text",
+   "Stealth: Avoid being spotted by enemies.\n\nNot all enemies will pursue you, but when they do they must first succeed a Spot check against you. Stealth increases your chance to avoid detection. Carrying a lit Torch also makes you much more visible.\n\nWhile Stealthed, you will move slower than usual, so if you are spotted you may have to unstealth in order to escape.",
+   "潜行：避免被敌人发现。\n\n并非所有敌人都会追击你，但当它们追击时，必须先通过对你的察觉检定。潜行能提高你不被发现的机会。手持点燃的火把也会让你显眼得多。\n\n潜行时你的移动速度会比平时慢，因此一旦被盯上，你可能需要退出潜行才能逃脱。"
+  ],
+  [
+   "lv0#23548/m_Text",
+   "Confirm",
+   "确认"
+  ],
+  [
+   "lv0#23554/m_Text",
+   "MND",
+   "心智"
+  ],
+  [
+   "lv0#23557/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#23558/m_Text",
+   "Quicksave",
+   "快速存档"
+  ],
+  [
+   "lv0#23561/m_Text",
+   "Acid:",
+   "酸蚀："
+  ],
+  [
+   "lv0#23575/m_Text",
+   "Quest Name",
+   "任务名称"
+  ],
+  [
+   "lv0#23580/m_Text",
+   "Cast your last used Spell again.",
+   "再次施放你最近用过的法术。"
+  ],
+  [
+   "lv0#23581/m_Text",
+   "New Text",
+   "新文本"
+  ],
+  [
+   "lv0#23582/m_Text",
+   "Movement",
+   "移动"
+  ],
+  [
+   "lv0#23598/m_Text",
+   "Map: View a map of your current location.",
+   "地图：查看当前所在区域的地图。"
+  ],
+  [
+   "lv0#23601/m_Text",
+   "Repeat Spell",
+   "重复施法"
+  ],
+  [
+   "lv0#23607/m_Text",
+   "Ingredient",
+   "原料"
+  ],
+  [
+   "lv0#23608/m_Text",
+   "Map",
+   "地图"
+  ],
+  [
+   "lv0#23627/m_Text",
+   "Equipment",
+   "装备"
+  ],
+  [
+   "lv0#23628/m_Text",
+   "Special Thanks To:",
+   "特别鸣谢："
+  ],
+  [
+   "lv0#23649/m_Text",
+   "Charm",
+   "护符"
+  ],
+  [
+   "lv0#23656/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#23658/m_Text",
+   "00\n",
+   "00\n"
+  ],
+  [
+   "lv0#23659/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#23669/m_Text",
+   "Press a new Joystick Key",
+   "按下新的摇杆按键"
+  ],
+  [
+   "lv0#23675/m_Text",
+   "Y",
+   "Y"
+  ],
+  [
+   "lv0#23686/m_Text",
+   "Memorized Spell or Mastered Ability",
+   "已记忆的法术或已精通的能力"
+  ],
+  [
+   "lv0#23698/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#23718/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#23773/m_Text",
+   "Remaining",
+   "剩余"
+  ],
+  [
+   "lv0#23774/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#23803/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#23812/m_Text",
+   "(rotate to set)",
+   "（旋转以设置）"
+  ],
+  [
+   "lv0#23813/m_Text",
+   "Click this to gather all identical items to the one you have selected.",
+   "点击可把与所选物品相同的物品全部汇集起来。"
+  ],
+  [
+   "lv0#23823/m_Text",
+   "Rename",
+   "重命名"
+  ],
+  [
+   "lv0#23835/m_Text",
+   "Items",
+   "物品"
+  ],
+  [
+   "lv0#23842/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#23854/m_Text",
+   "Select an item to Enchant",
+   "选择要附魔的物品"
+  ],
+  [
+   "lv0#23865/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#23867/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#23873/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#23879/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#23890/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#23892/m_Text",
+   "Torch: Toggle your torch ON to light an area or OFF improve Stealth.",
+   "火炬：点亮火炬以照亮周围，或熄灭火炬以改善潜行。"
+  ],
+  [
+   "lv0#23894/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#23895/m_Text",
+   "Zenith:\n\nWhen a moon reaches its Zenith (the upper part of the circle in the upper right), it is high in the sky. At this position it has the power to influence the world in special ways.\n",
+   "天顶：\n\n当一轮月亮到达天顶（右上圆环的上部）时，它高悬于天空。处于这个位置时，它能够以特殊方式影响世界。\n"
+  ],
+  [
+   "lv0#23896/m_Text",
+   "Achievement",
+   "成就"
+  ],
+  [
+   "lv0#23908/m_Text",
+   "Armor",
+   "护甲"
+  ],
+  [
+   "lv0#23910/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#23915/m_Text",
+   "Iron",
+   "铁"
+  ],
+  [
+   "lv0#23916/m_Text",
+   "Full",
+   "满"
+  ],
+  [
+   "lv0#23922/m_Text",
+   "Save 1",
+   "存档 1"
+  ],
+  [
+   "lv0#23923/m_Text",
+   "J",
+   "J"
+  ],
+  [
+   "lv0#23937/m_Text",
+   "24",
+   "24"
+  ],
+  [
+   "lv0#23949/m_Text",
+   "Abilities / Spells",
+   "能力 / 法术"
+  ],
+  [
+   "lv0#23970/m_Text",
+   "RB",
+   "RB"
+  ],
+  [
+   "lv0#23982/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#23991/m_Text",
+   "In Game:",
+   "游戏中："
+  ],
+  [
+   "lv0#24011/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#24013/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#24021/m_Text",
+   "Spot: Dropdown a list of objects to focus your Spot skill on.",
+   "察觉：展开一个对象列表，让「察觉」技能专注于其中某一类。"
+  ],
+  [
+   "lv0#24025/m_Text",
+   "Keyboard Controls",
+   "键盘操作"
+  ],
+  [
+   "lv0#24034/m_Text",
+   "Auto Rotate",
+   "自动旋转"
+  ],
+  [
+   "lv0#24040/m_Text",
+   "Strength",
+   "力量"
+  ],
+  [
+   "lv0#24049/m_Text",
+   "Keep Watch",
+   "守夜"
+  ],
+  [
+   "lv0#24052/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#24081/m_Text",
+   "Speed",
+   "速度"
+  ],
+  [
+   "lv0#24083/m_Text",
+   "This icon appears when being compared to an item you have equipped.",
+   "当与已装备的物品作比较时，会出现此图标。"
+  ],
+  [
+   "lv0#24088/m_Text",
+   "     Level:",
+   "     等级："
+  ],
+  [
+   "lv0#24089/m_Text",
+   "Tiles Traversed:",
+   "已行走格数："
+  ],
+  [
+   "lv0#24110/m_Text",
+   "Select an item to Enchant",
+   "选择要附魔的物品"
+  ],
+  [
+   "lv0#24113/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#24128/m_Text",
+   "This rune is connected to Miala",
+   "这枚符文与米亚拉相连"
+  ],
+  [
+   "lv0#24132/m_Text",
+   "Resist Shock:",
+   "抗电击："
+  ],
+  [
+   "lv0#24141/m_Text",
+   "Equip, or Unequip the selected item.\n",
+   "装备或卸下所选物品。\n"
+  ],
+  [
+   "lv0#24151/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#24201/m_Text",
+   "Unique",
+   "唯一"
+  ],
+  [
+   "lv0#24209/m_Text",
+   "Kills:",
+   "击杀："
+  ],
+  [
+   "lv0#24211/m_Text",
+   "1 / 6",
+   "1 / 6"
+  ],
+  [
+   "lv0#24228/m_Text",
+   "Assign a character to First Aid to heal faster and revive characters that have fallen to 0 HP.",
+   "指派一名角色负责急救，可以更快疗伤，并复活生命降至 0 的队员。"
+  ],
+  [
+   "lv0#24234/m_Text",
+   "+ Resisting Fear\n+ Resist Mind\n+ Mana Points (primary)\n+ Skill Points\n+ Learn Skills, Abilities and Spells Faster\n+ Determines max Spell Tier (if higher than SPI)\n\nSkills:\n+ Awareness + Monster Lore + Survival + Disarm\n+ Identify + Barter",
+   "+ 抵抗恐惧\n+ 抗心智\n+ 法力值（主要）\n+ 技能点\n+ 更快学会技能、能力与法术\n+ 决定最高法术层级（若高于 SPI）\n\n技能：\n+ 警觉 + 怪物学识 + 生存 + 卸除武器\n+ 鉴定 + 议价"
+  ],
+  [
+   "lv0#24242/m_Text",
+   "You do not meet the required spell tier.\nYou need Spirit or Mind 16 to use this spell.\n",
+   "你的法术层级不足。\n需要 16 点精神或心智才能使用这个法术。\n"
+  ],
+  [
+   "lv0#24244/m_Text",
+   "There are many items in the game, both mundane and magical. Some can be equipped, while others can be consumed or used as ingredients in crafting.\n\n\n\n\n\n\n",
+   "游戏中有许多物品，平凡与魔法兼有。有些可以装备，有些可以食用，或用作制作的原料。\n\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#24269/m_Text",
+   "Joureny's Beginning",
+   "旅程之始"
+  ],
+  [
+   "lv0#24271/m_Text",
+   "Agility",
+   "敏捷"
+  ],
+  [
+   "lv0#24275/m_Text",
+   "Revert All",
+   "全部还原"
+  ],
+  [
+   "lv0#24282/m_Text",
+   "\n\nMichael Robins\nMichael Robins\nMichael Robins, Joel Haftel\nMichael Robins\nMichael Robins, stock sounds (see Attribution)\nPatrick Klem, Danny Huynh, Michael Robins, Joel Haftel, William Bitler, Apocalypstic\n\n\n\n\n\n",
+   "\n\nMichael Robins\nMichael Robins\nMichael Robins, Joel Haftel\nMichael Robins\nMichael Robins, stock sounds (see Attribution)\nPatrick Klem, Danny Huynh, Michael Robins, Joel Haftel, William Bitler, Apocalypstic\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#24285/m_Text",
+   "Recipe",
+   "配方"
+  ],
+  [
+   "lv0#24287/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#24290/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#24291/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#24292/m_Text",
+   "Sharpen With: \nElder Stone\n",
+   "磨砺材料：\n上古之石\n"
+  ],
+  [
+   "lv0#24294/m_Text",
+   "35 / 60",
+   "35 / 60"
+  ],
+  [
+   "lv0#24296/m_Text",
+   "Upgrade Material:",
+   "升级材质："
+  ],
+  [
+   "lv0#24297/m_Text",
+   "<choose a trait>",
+   "<选择一项特质>"
+  ],
+  [
+   "lv0#24301/m_Text",
+   "Agility",
+   "敏捷"
+  ],
+  [
+   "lv0#24303/m_Text",
+   "Orb",
+   "法球"
+  ],
+  [
+   "lv0#24346/m_Text",
+   "49224",
+   "49224"
+  ],
+  [
+   "lv0#24357/m_Text",
+   "Select each Stat to see which skills and attributes it will affect as you increase (+)  or decrease (-) it. \n\nDistribute will apply your points randomly.\n\nRandomize does not use the point system and therefore can be much higher or lower than distribution.",
+   "点击各项属性，可查看增减（+）或（-）它时会影响哪些技能与属性。 \n\n「分配」会将你的点数随机分配。\n\n「随机」不使用点数系统，因此结果可能比分配高得多或低得多。"
+  ],
+  [
+   "lv0#24360/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#24365/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#24370/m_Text",
+   "Magic:",
+   "魔法："
+  ],
+  [
+   "lv0#24377/m_Text",
+   "Solmaria is full of magical symbols. There are two main types: Runes and Arcane Marks.\n\nRunes are symbols carved into stone that react to things such as a moon position or the presence of a certain entity.\n\nArcane Marks are symbols left behind by powerful wizards or magical events that give a glimpse into what kind of magical effect takes place.\n",
+   "索尔玛利亚到处都是魔法符号。它们主要分为两类：符文与奥术标记。\n\n符文是刻在石头上的符号，会对月亮位置或某些实体的存在等事物产生反应。\n\n奥术标记是强大巫师或魔法事件留下的符号，可以让人一窥此处发生过何种魔法效果。\n"
+  ],
+  [
+   "lv0#24378/m_Text",
+   "Cost: 1",
+   "花费：1"
+  ],
+  [
+   "lv0#24385/m_Text",
+   "cavesoflore@gmail.com",
+   "cavesoflore@gmail.com"
+  ],
+  [
+   "lv0#24393/m_Text",
+   "Resistance",
+   "抗性"
+  ],
+  [
+   "lv0#24396/m_Text",
+   "Cast Level:",
+   "施法等级："
+  ],
+  [
+   "lv0#24405/m_Text",
+   "To Hit",
+   "命中"
+  ],
+  [
+   "lv0#24448/m_Text",
+   "Waiting for Rebinding Input...",
+   "等待重新绑定输入……"
+  ],
+  [
+   "lv0#24449/m_Text",
+   "Action: Dropdown a list of actions to take.",
+   "行动：展开一个可供采取的行动列表。"
+  ],
+  [
+   "lv0#24451/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#24469/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#24478/m_Text",
+   "Save 4",
+   "存档 4"
+  ],
+  [
+   "lv0#24479/m_Text",
+   "Items",
+   "物品"
+  ],
+  [
+   "lv0#24487/m_Text",
+   "Unique Conversations:",
+   "独特对话："
+  ],
+  [
+   "lv0#24501/m_Text",
+   "Runes",
+   "符文"
+  ],
+  [
+   "lv0#24507/m_Text",
+   "Entry",
+   "条目"
+  ],
+  [
+   "lv0#24512/m_Options.m_Options[0].m_Text",
+   "LoreBestiary",
+   "兽典"
+  ],
+  [
+   "lv0#24512/m_Options.m_Options[1].m_Text",
+   "LoreQuests",
+   "任务"
+  ],
+  [
+   "lv0#24512/m_Options.m_Options[2].m_Text",
+   "LoreStones",
+   "符文石"
+  ],
+  [
+   "lv0#24512/m_Options.m_Options[3].m_Text",
+   "LoreHerbalism",
+   "草药"
+  ],
+  [
+   "lv0#24512/m_Options.m_Options[4].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "lv0#24517/m_Text",
+   "20w",
+   "20w"
+  ],
+  [
+   "lv0#24522/m_Text",
+   "Lore Bonus",
+   "学识加成"
+  ],
+  [
+   "lv0#24532/m_Text",
+   "Tunnel Moss",
+   "隧道苔藓"
+  ],
+  [
+   "lv0#24534/m_Text",
+   "Congratulations on completing Caves of Lore!\nI'm glad you took the time to play and I hope you enjoyed it.\nAs a solo dev, it was a long journey to reach this point.\nI have much more planned for the future.\n\nIf you would like to join the \"Completers\" community on Discord, we would be happy to promote you. Contact any of the mods or myself\n'Mike [Dev]'. We would be happy to have you join in our discussions.",
+   "恭喜你通关《Caves of Lore》！\n很高兴你愿意花时间游玩，希望你喜欢这段旅程。\n作为一名独立开发者，走到这一步是一段漫长的旅途。\n未来我还有许多计划。\n\n如果你想加入 Discord 上的「通关者」社区，我们乐意为你授予称号。联系任意一位管理员或我本人\n「Mike [Dev]」即可。非常欢迎你加入我们的讨论。"
+  ],
+  [
+   "lv0#24536/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#24537/m_Text",
+   "00\n",
+   "00\n"
+  ],
+  [
+   "lv0#24546/m_Options.m_Options[0].m_Text",
+   "SpellOption",
+   "法术"
+  ],
+  [
+   "lv0#24546/m_Options.m_Options[1].m_Text",
+   "ItemOption",
+   "物品"
+  ],
+  [
+   "lv0#24546/m_Options.m_Options[2].m_Text",
+   "ShovelOption",
+   "铲子"
+  ],
+  [
+   "lv0#24546/m_Options.m_Options[3].m_Text",
+   "WhisperOption",
+   "低语"
+  ],
+  [
+   "lv0#24546/m_Options.m_Options[4].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "lv0#24546/m_Options.m_Options[5].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "lv0#24562/m_Text",
+   "     Mnd:",
+   "     心智："
+  ],
+  [
+   "lv0#24568/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#24569/m_Text",
+   "Please restart the game.",
+   "请重启游戏。"
+  ],
+  [
+   "lv0#24585/m_Text",
+   "Use an Item.",
+   "使用物品。"
+  ],
+  [
+   "lv0#24598/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#24608/m_Text",
+   "Book",
+   "书"
+  ],
+  [
+   "lv0#24609/m_Text",
+   "Fullscreen",
+   "全屏"
+  ],
+  [
+   "lv0#24610/m_Text",
+   "Tiredness is defaulted to Off in Preferences.\n\nWhen camping in the wild, you can only recover health or mana as long as your Tiredness Meter is above empty (except for magical regeneration).\n\nResting removes tiredness as you gain health and mana, lowering your Recovery Rate.\n\nMoving around a level or engaging in combat will increase your tiredness level. The longer you fight and the harder your enemies, the faster your meter will increase.",
+   "疲劳在「偏好设置」中默认为关闭。\n\n在野外露营时，只要你的疲劳条\n尚未见底，你就能恢复生命或法力\n（魔法回复除外）。\n\n休息会在你获得生命与法力的同时\n消除疲劳，但会降低你的恢复速率。\n\n在地图上走动或投入战斗\n都会加重你的疲劳程度。\n战斗越久、敌人越强，\n疲劳条上升得越快。"
+  ],
+  [
+   "lv0#24617/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#24618/m_Text",
+   "MND",
+   "心智"
+  ],
+  [
+   "lv0#24625/m_Text",
+   "(MND) Mind:\r\n+ Resisting Fear\r\n+ Resist Mind\r\n+ Mana Points (primary)\r\n+ Skill Points\r\n+ Learn Skills, Abilities and Spells Faster\r\n+ Determines max Spell Tier (if higher than SPI)\r\n\r\nSkills:\r\n       + Awareness\r\n       + Monster Lore\r\n       + Survival\r\n       + Disarm\r\n       + Identify\r\n       + Barter\r",
+   "(MND) 心智：\r\n+ 抵抗恐惧\r\n+ 抗心智\r\n+ 法力值（主要）\r\n+ 技能点\r\n+ 更快学会技能、能力与法术\r\n+ 决定最高法术层级（若高于 SPI）\r\n\r\n技能：\r\n       + 警觉\r\n       + 怪物学识\r\n       + 生存\r\n       + 卸除武器\r\n       + 鉴定\r\n       + 议价\r"
+  ],
+  [
+   "lv0#24633/m_Text",
+   "Arcane Marks",
+   "奥术标记"
+  ],
+  [
+   "lv0#24636/m_Text",
+   "Talent: Activate the Talent of your leading party member.",
+   "天赋：激活你队伍领队角色的天赋。"
+  ],
+  [
+   "lv0#24658/m_Text",
+   "Quest Info",
+   "任务信息"
+  ],
+  [
+   "lv0#24671/m_Text",
+   "Default Zoom Level",
+   "默认缩放级别"
+  ],
+  [
+   "lv0#24682/m_Text",
+   "+ To Hit\n+ Reflex\n+ Resist Mind\n+ Dodge\n\nSkills:\n+ Evasion\n+ Ranged Weapons\n+ Disarm\n+ Stealth\n+ Craft",
+   "+ 命中\n+ 反应\n+ 抗心智\n+ 闪避\n\n技能：\n+ 回避\n+ 远程武器\n+ 卸除武器\n+ 潜行\n+ 制作"
+  ],
+  [
+   "lv0#24683/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#24693/m_Text",
+   "Duplicate\nSlots",
+   "复制\n槽位"
+  ],
+  [
+   "lv0#24705/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#24713/m_Text",
+   "Camp: Enter or Exit camping mode, where you can rest up.\n\nCamping allows you to gain back your health and mana faster, but you run the risk of a monster attack if you don't take precautions.",
+   "露营：进入或退出露营模式，在其中休整。\n\n露营能让你更快地恢复生命与法力，但若不采取防备，就有遭遇怪物袭击的风险。"
+  ],
+  [
+   "lv0#24717/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#24724/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#24727/m_Text",
+   "Continue Tutorial",
+   "继续教程"
+  ],
+  [
+   "lv0#24748/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#24758/m_Text",
+   "Shield",
+   "盾牌"
+  ],
+  [
+   "lv0#24761/m_Text",
+   "Gems Mined:",
+   "已开采宝石："
+  ],
+  [
+   "lv0#24766/m_Text",
+   "SKILL NAMEezord",
+   "SKILL NAMEezord"
+  ],
+  [
+   "lv0#24768/m_Text",
+   "dodge",
+   "dodge"
+  ],
+  [
+   "lv0#24769/m_Text",
+   "Amplify Enchantments",
+   "强化附魔"
+  ],
+  [
+   "lv0#24793/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#24795/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#24813/m_Text",
+   "Resist Blunt:",
+   "抗钝击："
+  ],
+  [
+   "lv0#24814/m_Text",
+   "Resistance",
+   "抗性"
+  ],
+  [
+   "lv0#24824/m_Text",
+   "LT",
+   "LT"
+  ],
+  [
+   "lv0#24832/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#24835/m_Text",
+   "Honed",
+   "磨砺"
+  ],
+  [
+   "lv0#24856/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#24857/m_Text",
+   "space",
+   "space"
+  ],
+  [
+   "lv0#24865/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#24867/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#24869/m_Text",
+   "Reflex:",
+   "反应："
+  ],
+  [
+   "lv0#24892/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#24905/m_Text",
+   "+ Initiative\n+ Movement Rate\n+ To Hit\n+ Dodge\n\nSkills:\n+ Awareness\n+ Evasion\n+ First Aid\n+ Music",
+   "+ 先攻\n+ 移动速度\n+ 命中\n+ 闪避\n\n技能：\n+ 警觉\n+ 回避\n+ 急救\n+ 音乐"
+  ],
+  [
+   "lv0#24914/m_Text",
+   "-1",
+   "-1"
+  ],
+  [
+   "lv0#24915/m_Text",
+   "Achievement Info Here",
+   "成就信息"
+  ],
+  [
+   "lv0#24928/m_Text",
+   "Camping Limits",
+   "露营限制"
+  ],
+  [
+   "lv0#24942/m_Text",
+   "Character Name",
+   "角色姓名"
+  ],
+  [
+   "lv0#24943/m_Text",
+   "r",
+   "r"
+  ],
+  [
+   "lv0#24946/m_Text",
+   "My sincerest apologies! An ERROR has been encountered and it is not advised to save your game. The bubble in the lower right hand corner will allow you to look at the error.\n\nOnce open, click on an error until it is highlighted blue.\n\nI would very much appreciate a screenshot of your situation or a message using one of the links below.\n\nYou can also find a player.log, player-prev.log and SAVEGAME at C:\\Users\\*username*\\AppData\\LocalLow\\Red Plume LLC\\Caves of Lore\n\nThat log file will tell me exactly what happened, and is the most important part to receive.\n",
+   "万分抱歉！游戏遇到了一个 ERROR（错误），此时不建议保存进度。右下角的气泡可以让你查看该错误。\n\n打开后，点击某条错误，直到它被高亮为蓝色。\n\n非常欢迎你把当时的截图发给我，或使用下方任一链接留言。\n\n你也可以在 C:\\Users\\*username*\\AppData\\LocalLow\\Red Plume LLC\\Caves of Lore 找到 player.log、player-prev.log 与 SAVEGAME 文件。\n\n那个日志文件能准确告诉我发生了什么，是最重要的信息。\n"
+  ],
+  [
+   "lv0#24948/m_Text",
+   "+ Initiative\n+ Movement Rate\n+ To Hit\n+ Dodge\n\nSkills:\n+ Awareness\n+ Evasion\n+ First Aid\n+ Music",
+   "+ 先攻\n+ 移动速度\n+ 命中\n+ 闪避\n\n技能：\n+ 警觉\n+ 回避\n+ 急救\n+ 音乐"
+  ],
+  [
+   "lv0#24969/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#24981/m_Text",
+   "25",
+   "25"
+  ],
+  [
+   "lv0#24982/m_Text",
+   "Yes",
+   "是"
+  ],
+  [
+   "lv0#24983/m_Text",
+   "999",
+   "999"
+  ],
+  [
+   "lv0#24992/m_Text",
+   "999",
+   "999"
+  ],
+  [
+   "lv0#25005/m_Text",
+   "Blunt:",
+   "钝击："
+  ],
+  [
+   "lv0#25016/m_Text",
+   "Resist Physical:",
+   "抗物理："
+  ],
+  [
+   "lv0#25018/m_Text",
+   "v 1.1.1.1",
+   "v 1.1.1.1"
+  ],
+  [
+   "lv0#25041/m_Text",
+   "AGI",
+   "敏捷"
+  ],
+  [
+   "lv0#25046/m_Text",
+   "Breastplate Armor",
+   "胸甲"
+  ],
+  [
+   "lv0#25062/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#25079/m_Text",
+   "Controls",
+   "操作"
+  ],
+  [
+   "lv0#25085/m_Text",
+   "This secondary marking indicates that the moon must be at its Nadir, not its Zenith",
+   "这个次级标记表示：月亮必须处于天底，而非天顶"
+  ],
+  [
+   "lv0#25094/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#25103/m_Text",
+   "Resist Fire:",
+   "抗火："
+  ],
+  [
+   "lv0#25113/m_Text",
+   "Initiative",
+   "先攻"
+  ],
+  [
+   "lv0#25140/m_Text",
+   "Save 5",
+   "存档 5"
+  ],
+  [
+   "lv0#25161/m_Text",
+   "Agility",
+   "敏捷"
+  ],
+  [
+   "lv0#25163/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#25169/m_Text",
+   "Consume the item you have selected.\n",
+   "使用所选物品。\n"
+  ],
+  [
+   "lv0#25174/m_Text",
+   "Physical:",
+   "物理："
+  ],
+  [
+   "lv0#25175/m_Text",
+   "Growst",
+   "Growst"
+  ],
+  [
+   "lv0#25176/m_Text",
+   "+ Resisting Fear\n+ Mana Points (primary)\n+ Skill Points\n+ Learn Skills, Abilities and Spells Faster\n+ Determines max Spell Tier (if higher than SPI)\n\nSkills:\n+ Awareness + Monster Lore + Survival + Disarm\n+ Identify + Barter",
+   "+ 抵抗恐惧\n+ 法力值（主要）\n+ 技能点\n+ 更快学会技能、能力与法术\n+ 决定最高法术层级（若高于 SPI）\n\n技能：\n+ 警觉 + 怪物学识 + 生存 + 卸除武器\n+ 鉴定 + 议价"
+  ],
+  [
+   "lv0#25179/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#25181/m_Text",
+   "Combat Speed",
+   "战斗速度"
+  ],
+  [
+   "lv0#25182/m_Text",
+   "Items that have not been spotted will not appear on your map.",
+   "未被发现的物品不会出现在你的地图上。"
+  ],
+  [
+   "lv0#25187/m_Text",
+   "SPD",
+   "速度"
+  ],
+  [
+   "lv0#25193/m_Text",
+   "Save 9",
+   "存档 9"
+  ],
+  [
+   "lv0#25196/m_Text",
+   "Resist Alteration:",
+   "抗变化系："
+  ],
+  [
+   "lv0#25212/m_Text",
+   "Not Tired",
+   "不疲劳"
+  ],
+  [
+   "lv0#25220/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#25234/m_Text",
+   "Magical",
+   "魔法"
+  ],
+  [
+   "lv0#25242/m_Text",
+   "15",
+   "15"
+  ],
+  [
+   "lv0#25258/m_Text",
+   "Attempt to Identify the item.\n",
+   "尝试鉴定该物品。\n"
+  ],
+  [
+   "lv0#25259/m_Text",
+   "Assign a character to Watch to increase the chance of spotting an incoming enemy",
+   "指派一名角色守望，以提高发现来袭敌人的几率"
+  ],
+  [
+   "lv0#25278/m_Text",
+   "DPI (Resolution)",
+   "DPI（分辨率）"
+  ],
+  [
+   "lv0#25284/m_Text",
+   "Resuscitations:",
+   "复活次数："
+  ],
+  [
+   "lv0#25291/m_Text",
+   "Wood",
+   "木头"
+  ],
+  [
+   "lv0#25295/m_Text",
+   "Initiative:",
+   "先攻："
+  ],
+  [
+   "lv0#25296/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#25303/m_Text",
+   "   Stuff       ",
+   "   内容       "
+  ],
+  [
+   "lv0#25308/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25312/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#25318/m_Text",
+   "These are the icons that can display when viewing an item.\n\n\n\n\n\n\n\n\n\n\n\n",
+   "这些是查看物品时可能显示的图标。\n\n\n\n\n\n\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#25321/m_Text",
+   "Torch: Toggle your torch ON to light an area or OFF improve Stealth.\n\nThe torch allows you to see in the dark, but exposes your position to enemies that might be looking for you. Turning your torch off can greatly increase stealth.",
+   "火炬：点亮火炬以照亮周围，或熄灭火炬以改善潜行。\n\n火炬让你能在黑暗中视物，但也会向可能正在搜寻你的敌人暴露你的位置。熄灭火炬能大幅提升潜行效果。"
+  ],
+  [
+   "lv0#25326/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25335/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25338/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25350/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25354/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25364/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25374/m_Text",
+   "There are 3 types of Characteristics that a monster can have:\n\n\nExamples of Type would be Vermin, Goblinoid or Elemental. Each of these Types has a set of Characteristics associated with it.\n\nBody would look like Stone, Ethereal or Fire, and each would have its own set of Characteristics as well.\n\nSpecies are specific to one monster, and do not carry over to others.",
+   "怪物可以拥有 3 类特征：\n\n\n「类型」的例子如害兽、哥布林类或元素生物。每一种类型都有一组与之关联的特征。\n\n「身体」则如石质、虚体或火焰，每一种也有自己的一组特征。\n\n「物种」专属于某一种怪物，不会沿用到其他怪物身上。"
+  ],
+  [
+   "lv0#25395/m_Text",
+   "Combat Speed",
+   "战斗速度"
+  ],
+  [
+   "lv0#25400/m_Text",
+   "Music Volume",
+   "音乐音量"
+  ],
+  [
+   "lv0#25417/m_Text",
+   "Torch",
+   "火炬"
+  ],
+  [
+   "lv0#25418/m_Text",
+   "Camp",
+   "露营"
+  ],
+  [
+   "lv0#25425/m_Text",
+   "This is a Direction mark. It will point towards something of interest.",
+   "这是方向标记。它会指向某处值得注意的东西。"
+  ],
+  [
+   "lv0#25438/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#25440/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#25442/m_Text",
+   "NEW!",
+   "新！"
+  ],
+  [
+   "lv0#25455/m_Text",
+   "Ask About Leaving Loot",
+   "询问留下战利品"
+  ],
+  [
+   "lv0#25464/m_Text",
+   "Value",
+   "价值"
+  ],
+  [
+   "lv0#25478/m_Text",
+   "Quest info here.",
+   "任务信息。"
+  ],
+  [
+   "lv0#25485/m_Text",
+   "t",
+   "t"
+  ],
+  [
+   "lv0#25489/m_Text",
+   "Strength",
+   "力量"
+  ],
+  [
+   "lv0#25490/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#25501/m_Text",
+   "-3",
+   "-3"
+  ],
+  [
+   "lv0#25503/m_Text",
+   "Combat Slots",
+   "战斗槽位"
+  ],
+  [
+   "lv0#25540/m_Text",
+   "Battery and Proccessing Optimizations",
+   "电池与处理优化"
+  ],
+  [
+   "lv0#25545/m_Text",
+   "All around it lay solid stone, but in the center I saw something familiar; the place where I had laid among the trees. A strange creature rummaged through my supplies. It's beady eyes jerked towards me, and it hissed. It's skin was green, and it had roughly made armor and a whip at its side.\n\n\nIt drew its arm back, ready to lash at me, when a shimmer passed over the gate, and the creature perceived me no more.",
+   "四周全是坚硬的岩石，但中央却是我熟悉的东西——我曾在林间躺卧的那片地方。一只奇怪的生物正在翻找我的补给。它珠子般的眼睛猛地转向我，发出嘶声。它的皮肤是绿色的，身上披着粗糙的护甲，腰间挂着一条鞭子。\n\n\n它抡起手臂，正要向我抽来——这时门上一道微光闪过，那生物再也看不见我了。"
+  ],
+  [
+   "lv0#25554/m_Text",
+   "Save 3",
+   "存档 3"
+  ],
+  [
+   "lv0#25556/m_Text",
+   "SPI",
+   "精神"
+  ],
+  [
+   "lv0#25557/m_Text",
+   "Confirm",
+   "确认"
+  ],
+  [
+   "lv0#25574/m_Text",
+   "After selecting a Skill in the Skills Menu, you will see a Details button. This option will give you more detail about the specific useage of the skill.\n\n\n\n\n\n",
+   "在技能菜单中选择一项技能后，你会看到一个「详情」按钮。该选项会提供关于这项技能具体用途的更多细节。\n\n\n\n\n\n"
+  ],
+  [
+   "lv0#25578/m_Text",
+   "Sound FX Volume",
+   "音效音量"
+  ],
+  [
+   "lv0#25586/m_Text",
+   "+ Weapon Damage\n+ Resisting Physical\n+ Resisting Fear\n+ Hit Points (secondary)\n\nSkills:\n+ Hand-To-Hand Weapons\n+ One-Handed Weapons\n+ Two-Handed Weapons\n+ Ranged Weapons",
+   "+ 武器伤害\n+ 抵抗物理\n+ 抵抗恐惧\n+ 生命值（次要）\n\n技能：\n+ 徒手格斗\n+ 单手武器\n+ 双手武器\n+ 远程武器"
+  ],
+  [
+   "lv0#25587/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#25602/m_Text",
+   "Discord Bug Report",
+   "在 Discord 反馈 bug"
+  ],
+  [
+   "lv0#25603/m_Text",
+   "Dodge 1",
+   "闪避 1"
+  ],
+  [
+   "lv0#25608/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#25613/m_Text",
+   "Sound FX Volume",
+   "音效音量"
+  ],
+  [
+   "lv0#25614/m_Text",
+   "Or don't. But, it might get weird.",
+   "也可以不这么做。不过，事情可能会变得很奇怪。"
+  ],
+  [
+   "lv0#25623/m_Text",
+   "Quest Description",
+   "任务描述"
+  ],
+  [
+   "lv0#25626/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#25653/m_Text",
+   "Assign a character to Play Music if they have an instrument. Music can give bonuses that last until combat.",
+   "指派持乐器的人物演奏音乐。音乐可以带来持续到战斗前的加成。"
+  ],
+  [
+   "lv0#25655/m_Text",
+   "Stealth",
+   "潜行"
+  ],
+  [
+   "lv0#25686/m_Text",
+   "Mind:",
+   "心智："
+  ],
+  [
+   "lv0#25690/m_Text",
+   "20 / 10",
+   "20 / 10"
+  ],
+  [
+   "lv0#25691/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#25703/m_Text",
+   "Defense:",
+   "防御："
+  ],
+  [
+   "lv0#25706/m_Text",
+   "Allow All",
+   "全部允许"
+  ],
+  [
+   "lv0#25709/m_Text",
+   "Earth:",
+   "土："
+  ],
+  [
+   "lv0#25719/m_Text",
+   "Hold [Start] for Controller Keys",
+   "按住 [Start] 查看手柄按键"
+  ],
+  [
+   "lv0#25722/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#25727/m_Text",
+   "Saves Seperaately for Chapter 2",
+   "第 2 章单独保存"
+  ],
+  [
+   "lv0#25728/m_Text",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "lv0#25746/m_Text",
+   "100",
+   "100"
+  ],
+  [
+   "lv0#25748/m_Text",
+   "Helpers:\n\nEach Skill has at least one Stat that acts as a multiplier to increase its value. When you select a skill in the Skills Menu, you will see icons that display the helper stats, such as those shown below (see Stats).\n\n",
+   "辅助属性：\n\n每项技能都至少有一项属性，作为提高其数值的倍率。在技能菜单中选择技能时，你会看到显示辅助属性的图标，就像下面展示的那样（见「属性」）。\n\n"
+  ],
+  [
+   "lv0#25761/m_Text",
+   "Upgrade to Material:\n",
+   "升级为材质：\n"
+  ],
+  [
+   "lv0#25763/m_Text",
+   "     Willpower:",
+   "     意志力："
+  ],
+  [
+   "lv0#25782/m_Text",
+   "Monster Characteristics",
+   "怪物特征"
+  ],
+  [
+   "lv0#25791/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#25797/m_Text",
+   "LeftShoulder",
+   "左肩键"
+  ],
+  [
+   "lv0#25807/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#25812/m_Text",
+   "Mana:",
+   "法力值："
+  ],
+  [
+   "lv0#25828/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "lv0#25832/m_Text",
+   "Lore Here",
+   "学识"
+  ],
+  [
+   "lv0#25833/m_Text",
+   "Sound FX Volume",
+   "音效音量"
+  ],
+  [
+   "lv0#25836/m_Text",
+   "Autosave",
+   "自动存档"
+  ],
+  [
+   "lv0#25844/m_Text",
+   "Talent: Activate the Talent of your leading party member.\n\nEach character has a unique Leader Ability.\n\nTo use it, they must be set as the party leader. Select a new leader by dragging a character icon to the top character slot in the Inventory screen. The character at the top is considered the leader.\n\nThese abilities will help you navigate various situations outside of combat as you explore.",
+   "天赋：激活你队伍领队角色的天赋。\n\n每个角色都有一项独特的领队能力。\n\n要使用它，该角色必须被设为队伍领队。在物品栏界面把角色图标拖到最上方的角色槽，即可选定新领队。位于最上方的角色即被视为领队。\n\n探索时，这些能力会帮你在战斗之外应对各种情况。"
+  ],
+  [
+   "lv0#25849/m_Text",
+   "Details",
+   "详情"
+  ],
+  [
+   "lv0#25857/m_Text",
+   "Recipe",
+   "配方"
+  ],
+  [
+   "lv0#25877/m_Text",
+   "Character Name",
+   "角色姓名"
+  ],
+  [
+   "lv0#25880/m_Text",
+   "Door",
+   "门"
+  ],
+  [
+   "lv0#25883/m_Text",
+   "Skills / Points",
+   "技能 / 点数"
+  ],
+  [
+   "lv0#25895/m_Text",
+   "Gain +10 to spotting Ore.",
+   "发现矿石 +10。"
+  ],
+  [
+   "lv0#25900/m_Text",
+   "Interact",
+   "互动"
+  ],
+  [
+   "lv0#25910/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#25916/m_Text",
+   "Autosave",
+   "自动存档"
+  ],
+  [
+   "lv0#25918/m_Text",
+   "Secrets Found:",
+   "发现秘密："
+  ],
+  [
+   "lv0#25962/m_Text",
+   "Adjust\nThumbsticks",
+   "调整\n摇杆"
+  ],
+  [
+   "lv0#25970/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#25979/m_Text",
+   "50%",
+   "50%"
+  ],
+  [
+   "lv0#25985/m_Text",
+   "moverate",
+   "moverate"
+  ],
+  [
+   "lv0#25986/m_Text",
+   "Action: Dropdown a list of actions to take.",
+   "行动：展开一个可供采取的行动列表。"
+  ],
+  [
+   "lv0#25990/m_Text",
+   "Combat Speed",
+   "战斗速度"
+  ],
+  [
+   "lv0#25997/m_Text",
+   "Runes and Marks",
+   "符文标记"
+  ],
+  [
+   "lv0#26004/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#26008/m_Text",
+   "Ore",
+   "矿石"
+  ],
+  [
+   "lv0#26009/m_Text",
+   "https://discord.gg/SeRc3adm35",
+   "https://discord.gg/SeRc3adm35"
+  ],
+  [
+   "lv0#26017/m_Text",
+   "Reset Thumbsticks",
+   "重置摇杆"
+  ],
+  [
+   "lv0#26031/m_Text",
+   "Resist Piercing:",
+   "抗穿刺："
+  ],
+  [
+   "lv0#26041/m_Text",
+   "Save 8",
+   "存档 8"
+  ],
+  [
+   "lv0#26044/m_Text",
+   "Current Skill Level:\n\nMin Needed To Train:\n\nMax Able To Train:",
+   "当前技能等级：\n\n训练所需最低值：\n\n可训练上限："
+  ],
+  [
+   "lv0#26046/m_Text",
+   "You do not know about this rune yet.",
+   "你还不了解这枚符文。"
+  ],
+  [
+   "lv0#26048/m_Text",
+   "The joystick will temporarily appear anywhere you touch and hold within this box, allowing for easier joystick movement.",
+   "在此框内任意位置按住，摇杆就会临时出现在那里，让摇杆操作更轻松。"
+  ],
+  [
+   "lv0#26049/m_Text",
+   "Helpers",
+   "辅助属性"
+  ],
+  [
+   "lv0#26054/m_Text",
+   "Return to Top",
+   "返回顶部"
+  ],
+  [
+   "lv0#26063/m_Text",
+   "Battles Fought:",
+   "经历战斗："
+  ],
+  [
+   "lv0#26067/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "lv0#26071/m_Text",
+   "Normal",
+   "普通"
+  ],
+  [
+   "lv0#26085/m_Text",
+   "Name Here",
+   "名称"
+  ],
+  [
+   "lv0#26087/m_Text",
+   "Resist Ice:",
+   "抗冰霜："
+  ],
+  [
+   "lv0#26094/m_Text",
+   "Corundum",
+   "刚玉"
+  ],
+  [
+   "lv0#26103/m_Text",
+   "Flanking:\nWhen two entities on the same team are directly opposite a defender and making a physical attack, they gain a flanking bonus. ToHit rolls and Damage are both increased.\n\nThe calculations are:\n\nToHit: + (Agility/ 2) + Item and Trait Bonuses\nDamage: + (Character Level / 2) + Item and Trait Bonuses\n",
+   "夹击：\n当同一队伍的两个单位隔着防御者遥遥相对、并进行物理攻击时，他们会获得夹击加成。命中检定与伤害都会提高。\n\n计算方式如下：\n\n命中：+（敏捷 / 2）+ 物品与特质加成\n伤害：+（角色等级 / 2）+ 物品与特质加成\n"
+  ],
+  [
+   "lv0#26115/m_Text",
+   "     To Hit:",
+   "     命中："
+  ],
+  [
+   "lv0#26118/m_Text",
+   "+ Spell Damage\n+ Mana Points (secondary)\n+ Resist Magic\n+ Determines max Spell Tier (if higher than MND)\n\nSkills:\n+ Music\n+ Identify\n+ Craft\n+ Hand to Hand Weapons",
+   "+ 法术伤害\n+ 法力值（次要）\n+ 抵抗魔法\n+ 决定最高法术层级（若高于 MND）\n\n技能：\n+ 音乐\n+ 鉴定\n+ 制作\n+ 徒手格斗"
+  ],
+  [
+   "lv0#26119/m_Text",
+   "?",
+   "?"
+  ],
+  [
+   "lv0#26129/m_Text",
+   "Initiative Order",
+   "先攻顺序"
+  ],
+  [
+   "lv0#26132/m_Text",
+   "Health:",
+   "生命值："
+  ],
+  [
+   "lv0#26156/m_Text",
+   "Lore Here",
+   "学识"
+  ],
+  [
+   "lv0#26162/m_Text",
+   "No",
+   "否"
+  ],
+  [
+   "lv0#26181/m_Text",
+   "Fine",
+   "精良"
+  ],
+  [
+   "lv0#26195/m_Text",
+   "Upgrade to Material:\n",
+   "升级为材质：\n"
+  ],
+  [
+   "lv0#26197/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#26199/m_Text",
+   "58",
+   "58"
+  ],
+  [
+   "lv0#26203/m_Text",
+   "https://discord.gg/SeRc3adm35",
+   "https://discord.gg/SeRc3adm35"
+  ],
+  [
+   "lv0#26208/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#26217/m_Text",
+   "Party Gold",
+   "队伍金币"
+  ],
+  [
+   "lv0#26223/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#26229/m_Text",
+   "     Spirit:",
+   "     精神："
+  ],
+  [
+   "lv0#26232/m_Text",
+   "Knowledge Bonus:",
+   "知识加成："
+  ],
+  [
+   "lv0#26271/m_Text",
+   "Achievements",
+   "成就"
+  ],
+  [
+   "lv0#26280/m_Text",
+   "25",
+   "25"
+  ],
+  [
+   "lv0#26282/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#26303/m_Text",
+   "Movement:\r\nDuring combat, you may move a number of spaces equal to your movement, up until the point of making an attack or other turn ending action.\n\nYou may move diagonally, but not through allied or enemy tiles.\r\n\nIf you have not moved this turn, you gain a 10% Non-Movement Bonus to ToHit.\n\nEffects such as cold, can reduce your movement to 1, while stuns and roots prevent movement altogether.\r",
+   "移动：\r\n战斗中，你可以移动等同于移动力的格数，直到你发起攻击或采取其他结束回合的行动为止。\n\n你可以斜向移动，但不能穿过友方或敌方的格子。\r\n\n若你本回合尚未移动，你的命中检定会获得 10% 的「未移动加成」。\n\n寒冷等效果可以把你的移动力降到 1，而晕眩与定身则完全阻止移动。\r"
+  ],
+  [
+   "lv0#26307/m_Text",
+   "I ran, and when I could run no longer I at last saw the gate I had come through. I cared not if the creature from before still held my camp. I ran though it at full speed, and came at last to rest in the world I knew. The camp was ransacked, but the creature was gone. I looked over my shoulder, but there was no gate. Still, I felt as though something watched me.\n\n\nI grabbed my things, and ran home to tell everyone I knew.",
+   "我跑啊跑，直到再也跑不动，终于看见了我穿过的那扇门。我不管先前那只怪物是否还占着我的营地，全速冲了过去，终于回到了我熟悉的世界。营地被洗劫一空，但怪物不见了。我回头望去，哪里还有门的影子。可我还是觉得，有什么东西在注视着我。\n\n\n我抓起自己的东西，跑回家，把这一切告诉了我认识的每一个人。"
+  ],
+  [
+   "lv0#26312/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#26315/m_Text",
+   "Stash",
+   "储物处"
+  ],
+  [
+   "lv0#26317/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#26321/m_Text",
+   "q",
+   "q"
+  ],
+  [
+   "lv0#26326/m_Text",
+   "Joystick Controls",
+   "摇杆操作"
+  ],
+  [
+   "lv0#26328/m_Text",
+   "Progression to next skill level",
+   "距下一技能等级的进度"
+  ],
+  [
+   "lv0#26346/m_Text",
+   "Max Level: ",
+   "最高等级："
+  ],
+  [
+   "lv0#26357/m_Text",
+   "     Speed:",
+   "     速度："
+  ],
+  [
+   "lv0#26363/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#26383/m_Text",
+   "Save 6",
+   "存档 6"
+  ],
+  [
+   "lv0#26393/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#26394/m_Text",
+   "Please enter a name:\n",
+   "请输入名称：\n"
+  ],
+  [
+   "lv0#26399/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#26401/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#26414/m_Text",
+   "Item Frames",
+   "物品边框"
+  ],
+  [
+   "lv0#26417/m_Text",
+   "Can be used without ending turn",
+   "使用后不会结束回合"
+  ],
+  [
+   "lv0#26438/m_Text",
+   "Items the vendor does not accept will only sell for half price",
+   "商人收购范围之外的物品只能以半价出售"
+  ],
+  [
+   "lv0#26441/m_Text",
+   "Mind",
+   "心智"
+  ],
+  [
+   "lv0#26445/m_Text",
+   "Poison:",
+   "毒素："
+  ],
+  [
+   "lv0#26456/m_Text",
+   "Combat Speed",
+   "战斗速度"
+  ],
+  [
+   "lv0#26457/m_Text",
+   "Search Menu",
+   "搜索菜单"
+  ],
+  [
+   "lv0#26461/m_Text",
+   "Remaining",
+   "剩余"
+  ],
+  [
+   "lv0#26467/m_Text",
+   "NEW!",
+   "新！"
+  ],
+  [
+   "lv0#26488/m_Text",
+   "25",
+   "25"
+  ],
+  [
+   "lv0#26490/m_Text",
+   "This is where text goes.",
+   "这里放置文本。"
+  ],
+  [
+   "lv0#26493/m_Text",
+   "Kills:",
+   "击杀："
+  ],
+  [
+   "lv0#26516/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "lv0#26518/m_Text",
+   "Resistance",
+   "抗性"
+  ],
+  [
+   "lv0#26519/m_Text",
+   "Left",
+   "左移"
+  ],
+  [
+   "lv0#26541/m_Text",
+   "Sound FX Volume",
+   "音效音量"
+  ],
+  [
+   "lv0#26550/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#26551/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#26553/m_Text",
+   "<choose a trait>",
+   "<选择一项特质>"
+  ],
+  [
+   "lv0#26554/m_Text",
+   "999",
+   "999"
+  ],
+  [
+   "lv0#26560/m_Text",
+   "Name Here",
+   "名称"
+  ],
+  [
+   "lv0#26570/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#26575/m_Text",
+   "Mouse w/ Joystick",
+   "鼠标 + 摇杆"
+  ],
+  [
+   "lv0#26576/m_Text",
+   "Camp: Enter or Exit camping mode, where you can rest up.",
+   "露营：进入或退出露营模式，在其中休整。"
+  ],
+  [
+   "lv0#26577/m_Text",
+   "Forge Weapon",
+   "锻造武器"
+  ],
+  [
+   "lv0#26588/m_Text",
+   "     Agi:",
+   "     敏捷："
+  ],
+  [
+   "lv0#26599/m_Text",
+   "EXP:",
+   "经验："
+  ],
+  [
+   "lv0#26615/m_Text",
+   "ARMOR",
+   "护甲"
+  ],
+  [
+   "lv0#26620/m_Text",
+   "Nadir:\r\n\nWhen a moon reaches its Nadir (the lower part of the circle in the upper right), it is behind the world. At this position it loses influence on the world, which can have similar effects to the Zenith.\r",
+   "天底：\r\n\n当一轮月亮到达天底（右上圆环的下部）时，它处于世界背后。此时它失去对世界的影响，效果可能与天顶相似。\r"
+  ],
+  [
+   "lv0#26632/m_Text",
+   "A Character of your choice will begin training in a Spell they have Memorized.",
+   "你选择的一名角色将开始训练一项已记忆的法术。"
+  ],
+  [
+   "lv0#26640/m_Text",
+   "AGI",
+   "敏捷"
+  ],
+  [
+   "lv0#26643/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#26644/m_Text",
+   "STR",
+   "力量"
+  ],
+  [
+   "lv0#26649/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#26662/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#26666/m_Text",
+   "Silver",
+   "银"
+  ],
+  [
+   "lv0#26667/m_Text",
+   "+ To Hit\n+ Reflex\n+ Resist Mind\n+ Dodge\n\nSkills:\n+ Evasion\n+ Ranged Weapons\n+ Disarm\n+ Stealth\n+ Craft",
+   "+ 命中\n+ 反应\n+ 抗心智\n+ 闪避\n\n技能：\n+ 回避\n+ 远程武器\n+ 卸除武器\n+ 潜行\n+ 制作"
+  ],
+  [
+   "lv0#26671/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#26679/m_Text",
+   "     Spd:",
+   "     速度："
+  ],
+  [
+   "lv0#26685/m_Text",
+   "7 / 10",
+   "7 / 10"
+  ],
+  [
+   "lv0#26688/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#26689/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#26695/m_Text",
+   "99",
+   "99"
+  ],
+  [
+   "lv0#26698/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#26724/m_Text",
+   "+ Hit Points (primary)\n+ Willpower\n+ Resist Physical\n+ Resist Magic\n+ Defense\n\nSkills:\n+ Survival\n+ First Aid",
+   "+ 生命值（主要）\n+ 意志力\n+ 抵抗物理\n+ 抵抗魔法\n+ 防御\n\n技能：\n+ 生存\n+ 急救"
+  ],
+  [
+   "lv0#26729/m_Text",
+   "Runes and Marks",
+   "符文标记"
+  ],
+  [
+   "lv0#26751/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#26759/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#26762/m_Text",
+   "Toggle the Joysticks.\nYou can use your left thumb to maneuver your character.\nYour right thumb will highlight nearby things to interact with.",
+   "切换虚拟摇杆。\n用左拇指操控你的角色移动。\n用右拇指高亮附近可交互的物体。"
+  ],
+  [
+   "lv0#26768/m_Text",
+   "Retry Penalty",
+   "重试惩罚"
+  ],
+  [
+   "lv0#26769/m_Text",
+   "Destroy this item?",
+   "销毁这件物品？"
+  ],
+  [
+   "lv0#26770/m_Text",
+   "SCREEN TEST",
+   "SCREEN TEST"
+  ],
+  [
+   "lv0#26774/m_Text",
+   "Lore Here",
+   "学识"
+  ],
+  [
+   "lv0#26777/m_Text",
+   "Tunnel Moss",
+   "隧道苔藓"
+  ],
+  [
+   "lv0#26778/m_Text",
+   "Traits are available for purchase every 3 levels, and give passive bonuses to all kinds of attributes.\n\nEach monster in the game has a trait associated with it. In order to unlock that Trait, you need to uncover information about that specific species.\n\n\n",
+   "每 3 级可以购买一次特质，它们会为各类属性提供被动加成。\n\n游戏中的每种怪物都对应一项特质。要解锁那项特质，你需要发掘关于该物种的信息。\n\n\n"
+  ],
+  [
+   "lv0#26791/m_Text",
+   "Tiredness",
+   "疲劳"
+  ],
+  [
+   "lv0#26793/m_Text",
+   "     Strength:",
+   "     力量："
+  ],
+  [
+   "lv0#26794/m_Text",
+   "Select an item to change its name",
+   "选择要改名的物品"
+  ],
+  [
+   "lv0#26795/m_Text",
+   "Sort all items in your inventory by selecting an item type. Blank slots will be compressed, and previous sorts will come directly afterwards.",
+   "选择一种物品类型，即可整理物品栏中的所有物品。空槽位会被压缩，之前的整理结果会紧随其后。"
+  ],
+  [
+   "lv0#26798/m_Text",
+   "Learn Monster Lore to Unlock More Traits",
+   "学习怪物学识以解锁更多特质"
+  ],
+  [
+   "lv0#26810/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#26820/m_Text",
+   "Always Show HP",
+   "始终显示生命值"
+  ],
+  [
+   "lv0#26825/m_Text",
+   "Camping",
+   "露营"
+  ],
+  [
+   "lv0#26839/m_Text",
+   "This icon indicates that the chest is locked. You will have to pick the lock before you can open it.",
+   "此图标表示箱子已上锁。你必须先撬开锁，才能打开它。"
+  ],
+  [
+   "lv0#26844/m_Text",
+   "Team Leader Total:",
+   "队长总值："
+  ],
+  [
+   "lv0#26846/m_Text",
+   "Strength",
+   "力量"
+  ],
+  [
+   "lv0#26858/m_Text",
+   "No Known Recipes",
+   "没有已知配方"
+  ],
+  [
+   "lv0#26860/m_Text",
+   "Rising:\n\nWhen a moon passes above the horizon, the corresponding gem on the left of the screen will light up. This status can grant special bonuses, different from the Zenith and Nadir.\n",
+   "月升：\n\n当一轮月亮升上地平线时，屏幕左侧对应的宝石会亮起。这一状态可以提供与「天顶」「天底」不同的特殊加成。\n"
+  ],
+  [
+   "lv0#26866/m_Text",
+   "Revert to Defaults",
+   "还原为默认"
+  ],
+  [
+   "lv0#26869/m_Text",
+   "What a mistake that was. I was derided as a fool, or a man gone mad. None believe my tale to this day, so I leave this last letter. On my deathbed, I recount, so that perhaps someday, long after my death, I will be known not as a fool, but as a survivor, and a herald of things unseen.\n\n\n- Maurin Tangelf, the madman of Pirmory.\n",
+   "那真是个天大的错误。人们嘲笑我是个蠢货，或是个发了疯的人。直到今天也没人相信我的故事，所以我留下这最后一封信。临终之际，我把一切重新讲述出来：但愿在很久以后，我不再被当作疯子，而是被记作一名幸存者，一个未曾目睹之物的传信人。\n\n\n——毛林·坦格尔夫，皮尔莫里的疯子。\n"
+  ],
+  [
+   "lv0#26872/m_Text",
+   "greet",
+   "问候"
+  ],
+  [
+   "lv0#26877/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#26882/m_Text",
+   "Music Volume",
+   "音乐音量"
+  ],
+  [
+   "lv0#26887/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#26896/m_Text",
+   "+",
+   "+"
+  ],
+  [
+   "lv0#26932/m_Text",
+   "Creatures Summoned:",
+   "召唤生物："
+  ],
+  [
+   "lv0#26939/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#26942/m_Text",
+   "NEW!",
+   "新！"
+  ],
+  [
+   "lv0#26943/m_Text",
+   "RightTrigger",
+   "右扳机"
+  ],
+  [
+   "lv0#26945/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#26955/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#26982/m_Text",
+   "+ Hit Points (primary)\n+ Willpower\n+ Resist Physical\n+ Resist Magic\n+ Defense\n\nSkills:\n+ Survival\n+ First Aid",
+   "+ 生命值（主要）\n+ 意志力\n+ 抵抗物理\n+ 抵抗魔法\n+ 防御\n\n技能：\n+ 生存\n+ 急救"
+  ],
+  [
+   "lv0#26983/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#26984/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#26988/m_Text",
+   "Plant",
+   "植物"
+  ],
+  [
+   "lv0#26991/m_Text",
+   "     Mind:",
+   "     心智："
+  ],
+  [
+   "lv0#27026/m_Text",
+   "SKILL NAMEezord",
+   "SKILL NAMEezord"
+  ],
+  [
+   "lv0#27028/m_Text",
+   "Health:",
+   "生命值："
+  ],
+  [
+   "lv0#27032/m_Text",
+   "Iron",
+   "铁"
+  ],
+  [
+   "lv0#27035/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "lv0#27041/m_Text",
+   "+ Spell Damage/Intensity\n+ Mana Points (secondary)\n+ Resist Magic\n+ Determines max Spell Tier (if higher than MND)\n\nSkills:\n+ Music\n+ Identify\n+ Craft\n+ Hand to Hand Weapons",
+   "+ 法术伤害/强度\n+ 法力值（次要）\n+ 抵抗魔法\n+ 决定最高法术层级（若高于 MND）\n\n技能：\n+ 音乐\n+ 鉴定\n+ 制作\n+ 徒手格斗"
+  ],
+  [
+   "lv0#27044/m_Text",
+   "This secondary marking indicates that the Sun must be up.",
+   "这个次级标记表示：必须在太阳升起之时。"
+  ],
+  [
+   "lv0#27053/m_Text",
+   "Sell All\nMarked Items",
+   "出售全部\n标记物品"
+  ],
+  [
+   "lv0#27059/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#27067/m_Text",
+   "Movement:",
+   "移动："
+  ],
+  [
+   "lv0#27068/m_Text",
+   "Locked by another Spell or Abilities Progress",
+   "被其他法术或能力进度锁定"
+  ],
+  [
+   "lv0#27081/m_Text",
+   "Fear:",
+   "恐惧："
+  ],
+  [
+   "lv0#27098/m_Text",
+   "Strength",
+   "力量"
+  ],
+  [
+   "lv0#27133/m_Text",
+   "Note Information",
+   "笔记信息"
+  ],
+  [
+   "lv0#27135/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#27148/m_Text",
+   "     Res:",
+   "     抗性："
+  ],
+  [
+   "lv0#27150/m_Text",
+   "greet",
+   "问候"
+  ],
+  [
+   "lv0#27159/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "lv0#27161/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "lv0#27168/m_Text",
+   "Days",
+   "天数"
+  ],
+  [
+   "lv0#27182/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#27184/m_Text",
+   "Sell All Items?",
+   "出售全部物品？"
+  ],
+  [
+   "lv0#27186/m_Text",
+   "Bone",
+   "骨"
+  ],
+  [
+   "lv0#27187/m_Text",
+   "This rune is connected to Tethrys",
+   "这枚符文与泰丝瑞斯相连"
+  ],
+  [
+   "lv0#27198/m_Text",
+   "Knowledge Bonus:",
+   "知识加成："
+  ],
+  [
+   "lv0#27200/m_Text",
+   "Stuff stuff stuff",
+   "内容内容内容"
+  ],
+  [
+   "lv0#27204/m_Text",
+   "Combat Entry Speed",
+   "进入战斗速度"
+  ],
+  [
+   "lv0#27207/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#27208/m_Text",
+   "LB",
+   "LB"
+  ],
+  [
+   "lv0#27214/m_Text",
+   "Spirit",
+   "精神"
+  ],
+  [
+   "lv0#27216/m_Text",
+   "Achievement Name",
+   "成就名称"
+  ],
+  [
+   "lv0#27220/m_Text",
+   "This is a Whisper mark. It will unlock if you whisper a magic word.",
+   "这是低语标记。念出正确的魔法词即可解开。"
+  ],
+  [
+   "lv0#27221/m_Text",
+   "Art:\nCoding:\n∘ Pathing: \nStory:\nSound:\nTesting:",
+   "美术：\n程序：\n∘ 寻路： \n剧情：\n音效：\n测试："
+  ],
+  [
+   "lv0#27223/m_Text",
+   "Save Game",
+   "保存游戏"
+  ],
+  [
+   "lv0#27252/m_Text",
+   "v 1.1.1.1\nWindows",
+   "v 1.1.1.1\nWindows"
+  ],
+  [
+   "lv0#27272/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#27304/m_Text",
+   "Right",
+   "右移"
+  ],
+  [
+   "lv0#27305/m_Text",
+   "v",
+   "v"
+  ],
+  [
+   "lv0#27321/m_Text",
+   "EXP:",
+   "经验："
+  ],
+  [
+   "lv0#27329/m_Text",
+   "Target Framerate",
+   "目标帧率"
+  ],
+  [
+   "lv0#27337/m_Text",
+   "100%",
+   "100%"
+  ],
+  [
+   "lv0#27338/m_Text",
+   "Music",
+   "音乐"
+  ],
+  [
+   "lv0#27378/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "lv0#27379/m_Text",
+   "Ingredients Picked:",
+   "采集原料："
+  ],
+  [
+   "lv0#27394/m_Text",
+   "Combat Text",
+   "战斗文本"
+  ],
+  [
+   "lv0#27395/m_Text",
+   "Details about Skill Here",
+   "技能详情。"
+  ],
+  [
+   "lv0#27423/m_Text",
+   "Up",
+   "上移"
+  ],
+  [
+   "lv0#27428/m_Text",
+   "Monsters Defeated:",
+   "击败怪物："
+  ],
+  [
+   "lv0#27434/m_Text",
+   "75%",
+   "75%"
+  ],
+  [
+   "lv0#27436/m_Text",
+   "Rising\n",
+   "月升\n"
+  ],
+  [
+   "lv0#27441/m_Text",
+   "Continue",
+   "继续"
+  ],
+  [
+   "lv0#27453/m_Text",
+   "Defense:",
+   "防御："
+  ],
+  [
+   "lv0#27473/m_Text",
+   "Cast a Spell.",
+   "施放法术。"
+  ],
+  [
+   "lv0#27479/m_Text",
+   "Change",
+   "更改"
+  ],
+  [
+   "lv0#27480/m_Text",
+   "You do not know about this mark yet.",
+   "你还不了解这个标记。"
+  ],
+  [
+   "lv0#27493/m_Text",
+   "NEW!",
+   "新！"
+  ],
+  [
+   "lv0#27504/m_Text",
+   "Autosaving...\n",
+   "自动保存中……\n"
+  ],
+  [
+   "lv0#27507/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "lv0#27536/m_Text",
+   "Slashing:",
+   "挥砍："
+  ],
+  [
+   "lv0#27546/m_Text",
+   "Initiative Bonus",
+   "先攻加成"
+  ],
+  [
+   "lv0#27553/m_Text",
+   "Button 1\n\n",
+   "Button 1\n\n"
+  ],
+  [
+   "lv0#27565/m_Text",
+   "Skip Turn",
+   "跳过回合"
+  ],
+  [
+   "lv0#27598/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#27599/m_Text",
+   "STR",
+   "力量"
+  ],
+  [
+   "lv0#27612/m_Text",
+   "1 / 1",
+   "1 / 1"
+  ],
+  [
+   "lv0#27623/m_Text",
+   "Two-Handed Weapons",
+   "双手武器"
+  ],
+  [
+   "lv0#27627/m_Text",
+   "Blank Skills",
+   "空技能"
+  ],
+  [
+   "lv0#27628/m_Text",
+   "(SPD) Speed:\r\n+ Initiative\r\n+ Movement Rate\r\n+ To Hit\r\n+ Dodge\r\n\r\nSkills:\r\n     + Awareness\r\n     + Evasion\r\n     + First Aid\r\n     + Music\r",
+   "(SPD) 速度：\r\n+ 先攻\r\n+ 移动速度\r\n+ 命中\r\n+ 闪避\r\n\r\n技能：\r\n     + 警觉\r\n     + 回避\r\n     + 急救\r\n     + 音乐\r"
+  ],
+  [
+   "lv0#27630/m_Text",
+   "Music Volume",
+   "音乐音量"
+  ],
+  [
+   "lv0#27641/m_Text",
+   "Cost:",
+   "花费："
+  ],
+  [
+   "lv0#27647/m_Text",
+   "Name Here",
+   "名称"
+  ],
+  [
+   "lv0#27659/m_Text",
+   "Mind",
+   "心智"
+  ],
+  [
+   "lv0#27661/m_Text",
+   "7",
+   "7"
+  ],
+  [
+   "lv0#27662/m_Text",
+   "Sellable",
+   "可出售"
+  ],
+  [
+   "lv0#27668/m_Text",
+   "Syncing Upload with iCloud",
+   "正在与 iCloud 同步上传"
+  ],
+  [
+   "lv0#27676/m_Text",
+   "-1",
+   "-1"
+  ],
+  [
+   "lv0#27678/m_Text",
+   "Newest",
+   "最新"
+  ],
+  [
+   "lv0#27679/m_Text",
+   "Show All\nMonsters",
+   "显示全部\n怪物"
+  ],
+  [
+   "lv0#27685/m_Text",
+   "Action Menu",
+   "行动菜单"
+  ],
+  [
+   "lv0#27688/m_Text",
+   "RES",
+   "抗性"
+  ],
+  [
+   "lv0#27702/m_Text",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "lv0#27707/m_Text",
+   "Damage Taken:",
+   "受到伤害："
+  ],
+  [
+   "lv0#27745/m_Text",
+   "This icon indicates you detected a trap. Failing to disarm will set off the trap.",
+   "此图标表示你侦测到了陷阱。卸除失败会触发陷阱。"
+  ],
+  [
+   "lv0#27752/m_Text",
+   "REQ:",
+   "需求："
+  ],
+  [
+   "lv0#27757/m_Text",
+   "0\n",
+   "0\n"
+  ],
+  [
+   "lv0#27768/m_Text",
+   "SPD",
+   "速度"
+  ],
+  [
+   "lv0#27770/m_Text",
+   "SPI",
+   "精神"
+  ],
+  [
+   "lv0#27777/m_Text",
+   "Exquisite",
+   "精致"
+  ],
+  [
+   "lv0#27780/m_Text",
+   "cavesoflore@gmail.com",
+   "cavesoflore@gmail.com"
+  ],
+  [
+   "lv0#27783/m_Text",
+   "Autosave",
+   "自动存档"
+  ],
+  [
+   "lv0#27787/m_Text",
+   "SKILL NAMEezord",
+   "SKILL NAMEezord"
+  ],
+  [
+   "lv0#27789/m_Text",
+   "Answer",
+   "答案"
+  ],
+  [
+   "lv0#27802/m_Text",
+   "Health:",
+   "生命值："
+  ],
+  [
+   "lv0#27805/m_Text",
+   "     Reflex:",
+   "     反应："
+  ],
+  [
+   "lv0#27815/m_Text",
+   "Gain +10 to spotting Ingredients.",
+   "发现原料 +10。"
+  ],
+  [
+   "lv0#27824/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#27831/m_Text",
+   "This is a Pathway mark. It indicates that there is an invisible path.",
+   "这是路径标记。它表示此处有一条隐形的通路。"
+  ],
+  [
+   "lv0#27850/m_Text",
+   "Countdowns:\n\nWhen performing some actions, a failure will result in a countdown, represented by a red bar. For every second left on the timer, additional rolls will be reduced by that many points.\n\nThis is to prevent spamming skills like Disarm and Identify.\n\n",
+   "倒计时：\n\n进行某些行动时，失败会产生一段倒计时，以红色进度条表示。计时器每剩下一秒，后续掷骰就会被扣减相应点数。\n\n这是为了防止反复刷用卸除武器、鉴定之类的技能。\n\n"
+  ],
+  [
+   "lv0#27851/m_Text",
+   "Insufficient MND or SPI",
+   "心智或精神不足"
+  ],
+  [
+   "lv0#27860/m_Text",
+   "Achievements",
+   "成就"
+  ],
+  [
+   "lv0#27866/m_Text",
+   "Food",
+   "食物"
+  ],
+  [
+   "lv0#27871/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#27876/m_Text",
+   "a",
+   "a"
+  ],
+  [
+   "lv0#27882/m_Text",
+   "Materials",
+   "材料"
+  ],
+  [
+   "lv0#27884/m_Text",
+   "Spot: Dropdown a list of objects to focus your Spot skill on.",
+   "察觉：展开一个对象列表，让「察觉」技能专注于其中某一类。"
+  ],
+  [
+   "lv0#27891/m_Text",
+   "s",
+   "s"
+  ],
+  [
+   "lv0#27901/m_Text",
+   "Inventory",
+   "物品栏"
+  ],
+  [
+   "lv0#27932/m_Text",
+   "10",
+   "10"
+  ],
+  [
+   "lv0#27935/m_Text",
+   "Stealth: Avoid being spotted by enemies, and slow your movement.",
+   "潜行：避免被敌人发现，同时降低移动速度。"
+  ],
+  [
+   "lv0#27944/m_Text",
+   "Hold      when playing to see Hotkeys\nHold      while holding      to see Controller Keys",
+   "游戏中按住      查看热键\n按住      的同时按住      查看手柄按键"
+  ],
+  [
+   "lv0#27967/m_Text",
+   "ARMOR",
+   "护甲"
+  ],
+  [
+   "lv0#27970/m_Text",
+   "Placement in the Formation Menu is done by dragging and dropping a character icon into the slot position that you want.\n\nEach position adds a positive or negative bonus to your initiative order.\nThis menu can be found with the           icon in the Inventory Menu.",
+   "在阵型菜单中，把角色图标拖放到你想要的位置即可完成布置。\n\n每个位置都会为先攻顺序带来正面或负面的加成。\n可以在物品栏菜单中找到带有          图标的这个菜单。"
+  ],
+  [
+   "lv0#27977/m_Text",
+   "Clicking this will cycle between using the weapon two-handed and one-handed, if possible.",
+   "点击可在双手与单手使用该武器之间切换（如可行）。"
+  ],
+  [
+   "lv0#27984/m_Text",
+   "+ Weapon Damage\n+ Resisting Physical\n+ Resisting Fear\n+ Hit Points (secondary)\n\nSkills:\n+ Hand-To-Hand Weapons\n+ One-Handed Weapons\n+ Two-Handed Weapons\n+ Ranged Weapons",
+   "+ 武器伤害\n+ 抵抗物理\n+ 抵抗恐惧\n+ 生命值（次要）\n\n技能：\n+ 徒手格斗\n+ 单手武器\n+ 双手武器\n+ 远程武器"
+  ],
+  [
+   "lv0#28015/m_Text",
+   "Formations",
+   "阵型"
+  ],
+  [
+   "lv0#28020/m_Text",
+   "Base\nLevel",
+   "基础\n等级"
+  ],
+  [
+   "lv0#28024/m_Text",
+   "Each skill has a Base Level value, which is the actual level of the skill, marked in Orange.\n\nA white progress bar on the right climbs until it reaches the top, at which point you gain a level in that skill.\n\n\n\n\n",
+   "每项技能都有一个基础等级值，即该技能的实际等级，以橙色标示。\n\n右侧的白色进度条会向上攀升，到达顶端时，你就会提升该项技能一级。\n\n\n\n\n"
+  ],
+  [
+   "lv0#28025/m_Text",
+   "c",
+   "c"
+  ],
+  [
+   "lv0#28026/m_Text",
+   "Characters Met:",
+   "遇见角色："
+  ],
+  [
+   "lv0#28029/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "lv0#28036/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#28050/m_Text",
+   "•\n",
+   "•\n"
+  ],
+  [
+   "lv0#28056/m_Text",
+   "24",
+   "24"
+  ],
+  [
+   "lv0#28068/m_Text",
+   "Dynamic Thumbstick",
+   "动态摇杆"
+  ],
+  [
+   "lv0#28070/m_Text",
+   "tohit",
+   "tohit"
+  ],
+  [
+   "lv0#28080/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#28088/m_Text",
+   "45",
+   "45"
+  ],
+  [
+   "lv0#28091/m_Text",
+   "No Monsters Known",
+   "尚无怪物知识"
+  ],
+  [
+   "lv0#28122/m_Text",
+   "Info",
+   "信息"
+  ],
+  [
+   "lv0#28131/m_Text",
+   "d",
+   "d"
+  ],
+  [
+   "lv0#28132/m_Text",
+   "Let me identify that for you.",
+   "让我为你鉴定一下。"
+  ],
+  [
+   "lv0#28140/m_Text",
+   "Waiting for Rebinding Input...",
+   "等待重新绑定输入……"
+  ],
+  [
+   "lv0#28155/m_Text",
+   "Button 0\n",
+   "Button 0\n"
+  ],
+  [
+   "lv0#28175/m_Text",
+   "x",
+   "x"
+  ],
+  [
+   "lv0#28178/m_Text",
+   "Quest",
+   "任务"
+  ],
+  [
+   "lv0#28183/m_Text",
+   "going without any at all and still being able to stand. When water is scarce, slow your breath, and do not talk. Every wasted drop is precious.\r\n\r\nI sought for a cool place, but there was none. So I dug. With a jagged rock I dug until I found cool earth, and then lay in it. Above me, strange plants, like lichen, grew amongst the rocks. I pulled them off and covered myself.\r",
+   "……哪怕滴水不沾，也依然能站立起来。当水稀少时，放缓呼吸，不要说话。每一滴浪费的水都弥足珍贵。\r\n\r\n我寻找凉爽的地方，却遍寻不见。于是我挖掘。我用一块锯齿状的石头挖到凉爽的泥土，然后躺了进去。在我上方，奇怪的植物像地衣一样长在岩石之间。我把它们扯下来，盖在身上。\r"
+  ],
+  [
+   "lv0#28186/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#28190/m_Text",
+   "Jewelry",
+   "珠宝"
+  ],
+  [
+   "lv0#28192/m_Text",
+   "Lore Bonus",
+   "学识加成"
+  ],
+  [
+   "lv0#28193/m_Text",
+   "Stats",
+   "属性"
+  ],
+  [
+   "lv0#28197/m_Text",
+   "No Known Recipes",
+   "没有已知配方"
+  ],
+  [
+   "lv0#28203/m_Text",
+   "https://discord.gg/SeRc3adm35",
+   "https://discord.gg/SeRc3adm35"
+  ],
+  [
+   "lv0#28211/m_Text",
+   "25%",
+   "25%"
+  ],
+  [
+   "lv0#28218/m_Text",
+   "Slash",
+   "挥砍"
+  ],
+  [
+   "lv0#28219/m_Text",
+   "Restore Steam Deck",
+   "恢复 Steam Deck 默认"
+  ],
+  [
+   "lv0#28220/m_Text",
+   "Train",
+   "训练"
+  ],
+  [
+   "lv0#28226/m_Text",
+   "For three days I did and said nothing. I slept when I could, and fretted when I could not sleep.\r\n\r\nThis kind of survival could only go on for so long. I had to venture back. I moved the brush, stood, and fear filled my heart. Before me stood... no, flew, a creature unlike any I had ever seen. It hung like a snake caught by an eagle. A halo, with one singular eye, circled its face. And it spoke. I could not understand what it said, for my heart beat so loudly that all else was drowned out.\r",
+   "整整三天，我没有行动，也没有说话。能睡的时候就睡，睡不着时就焦躁不安。\r\n\r\n这样的求生撑不了多久。我必须回去一趟。我拨开灌木，站起身，恐惧攫住了我的心。在我面前站着——不，是飞着——一只我从未见过的生物。它悬停着，像被鹰抓住的蛇。一道光环绕着脸庞旋转，光环上只有一只独眼。它开口说话了。我听不懂它说了什么，因为我的心跳声太响，淹没了一切。\r"
+  ],
+  [
+   "lv0#28228/m_Text",
+   "Note Information",
+   "笔记信息"
+  ],
+  [
+   "lv0#28248/m_Text",
+   "0:0:0",
+   "0:0:0"
+  ],
+  [
+   "lv0#28252/m_Text",
+   "Tabbed Audio",
+   "后台音频"
+  ],
+  [
+   "lv0#28262/m_Text",
+   "(type help for list of commands)",
+   "（输入 help 查看命令列表）"
+  ],
+  [
+   "lv0#28280/m_Text",
+   "Secrets Found:",
+   "发现秘密："
+  ],
+  [
+   "lv0#28282/m_Text",
+   "A",
+   "A"
+  ],
+  [
+   "lv0#28289/m_Options.m_Options[0].m_Text",
+   "SearchOre",
+   "矿石"
+  ],
+  [
+   "lv0#28289/m_Options.m_Options[1].m_Text",
+   "SearchIngredients",
+   "原料"
+  ],
+  [
+   "lv0#28289/m_Options.m_Options[2].m_Text",
+   "SearchMonsters",
+   "怪物"
+  ],
+  [
+   "lv0#28289/m_Options.m_Options[3].m_Text",
+   "SearchSecrets",
+   "秘密"
+  ],
+  [
+   "lv0#28289/m_Options.m_Options[4].m_Text",
+   "SearchItems",
+   "物品"
+  ],
+  [
+   "lv0#28289/m_Options.m_Options[5].m_Text",
+   "SearchTraps",
+   "陷阱"
+  ],
+  [
+   "lv0#28289/m_Options.m_Options[6].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "lv0#28303/m_Text",
+   "Show All\nMonsters",
+   "显示全部\n怪物"
+  ],
+  [
+   "lv0#28307/m_Text",
+   "FireBall: Select Target",
+   "火球术：选择目标"
+  ],
+  [
+   "lv0#28332/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "lv0#28334/m_Text",
+   "REQ:",
+   "需求："
+  ],
+  [
+   "lv0#28336/m_Text",
+   "Note Information",
+   "笔记信息"
+  ],
+  [
+   "lv0#28340/m_Text",
+   "Weapon Name Here",
+   "武器名称"
+  ],
+  [
+   "lv0#28346/m_Text",
+   "Material:",
+   "材质："
+  ],
+  [
+   "lv0#28352/m_Text",
+   "Iron",
+   "铁"
+  ],
+  [
+   "lv0#28418/m_Text",
+   "FPS\n",
+   "FPS\n"
+  ],
+  [
+   "lv0#28439/m_Text",
+   "Reset",
+   "重置"
+  ],
+  [
+   "lv0#28449/m_Text",
+   "Confirm",
+   "确认"
+  ],
+  [
+   "lv0#28462/m_Text",
+   "100",
+   "100"
+  ],
+  [
+   "lv0#28463/m_Text",
+   "99",
+   "99"
+  ],
+  [
+   "lv0#28466/m_Text",
+   "1 / 1",
+   "1 / 1"
+  ],
+  [
+   "lv0#28479/m_Text",
+   "Toggle the Joysticks.\nYou can use your left thumb to maneuver your character.\nYour right thumb will highlight nearby things to interact with.",
+   "切换虚拟摇杆。\n用左拇指操控你的角色移动。\n用右拇指高亮附近可交互的物体。"
+  ],
+  [
+   "res#61024/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "res#61031/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "res#61033/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "res#61047/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "res#61054/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "res#61064/m_Text",
+   "0",
+   "0"
+  ],
+  [
+   "res#61078/m_Text",
+   "(type help for list of commands)",
+   "（输入 help 查看命令列表）"
+  ],
+  [
+   "res#61719/m_Text",
+   "FPS\n",
+   "FPS\n"
+  ],
+  [
+   "res#61853/m_Text",
+   "It is over. When we withdrew our citizens one last time, and entered this grand central hall two cycles ago I was sure that we would never leave. But Zakerunda and his company came through! Sadly, none of them have returned, but I can feel the presence of evil withdrawing from the borders of the protective barrier. The emissaries of darkness are slithering back into the deep crevices they came from. We will see the light of day again! Blessed be the lineage of all those who sacrificed to end this reign of terror. I propose we name our new city Emerisk, for light and hope has come into the world again.",
+   "结束了。两轮之前，当我们最后一次撤回市民、走进这座宏伟的中枢大厅时，我还确信我们再也出不去了。但扎克伦达和他的同伴们成功了！遗憾的是，他们无一归来。但我能感觉到，邪恶正在从防护屏障的边界退去。黑暗的使者正爬回它们来时的深渊裂隙。我们将重见天日！愿所有为终结这场恐怖统治而牺牲的血脉都蒙受祝福。我提议把我们的新城市命名为埃梅里斯克，因为光明与希望已重回世间。"
+  ],
+  [
+   "res#61854/m_Text",
+   "If you have found this note, then all is not well. I begin my journey to find the ancient safehouse known as Kalindruar. With me, I take Razeed, Quay, Jesper and my daughter. Few others remember details more than a day old. Whatever is taking hold of us will not stop.\n\nI believe the shelter will protect us from further degradation, if we can find it. I once thought that there was a way through the library or Renault family crypt, but we were prevented by dark creatures. Instead, we must venture into the caves. Razeed will carry the Codex.\n\nIf we did not make it, then perhaps these keys will allow you one last opportunity. May the Unknown be with you.",
+   "如果你找到了这张便笺，说明情况不妙。我启程去寻找那座名为卡林德劳尔的古老避难所。随行的有拉齐德、奎伊、杰斯帕和我的女儿。其他人大多已经不记得一天以前的事。无论是什么在侵蚀我们，它都不会停下。\n\n我相信，只要能找到那座避难所，它就能保护我们不再继续退化。我曾以为可以穿过图书馆或雷诺家族的墓室，但黑暗生物挡住了去路。我们只得改走洞穴。典籍由拉齐德携带。\n\n如果我们没能成功，那么这些钥匙或许能给你最后一次机会。愿「未知」与你同在。"
+  ],
+  [
+   "res#61855/m_Text",
+   "To my son Hawthen, heir to the Renault family fortune, I leave this word of wisdom. Ever since an alliance was forged in the 'north' between Renault and Gyffard, our families have stood as 'pillars' of leadership. Emerisk needs us, if it is to survive. Remember the ancient word of our fathers, \"@4\". May it guide you, and our people, to Shelter.",
+   "致我的儿子霍森——雷诺家族财富的继承人，我留下这句箴言。自从雷诺与吉法德在「北方」结盟以来，我们的家族一直作为领导力的「支柱」屹立不倒。埃梅里斯克若要存续，离不开我们。记住我们先祖的古老箴言：「@4」。愿它指引你，也指引我们的人民，前往庇护所。"
+  ],
+  [
+   "res#61856/m_Text",
+   "Razeed and I decided to try separate passages. I think it was a mistake, but he is wiser than I. All that matters is that the book is kept safe.\n\nAlready, I feel myself slipping away... even if we can find the passage to Kalindraur, there's no telling whether anyone will be left there to help us.",
+   "拉齐德和我决定分头探索不同的通道。我觉得这是个错误，但他比我更有智慧。只要书能安然无恙，其他都不重要。\n\n我已经感觉到自己正在渐渐消散……即便我们找到了通往卡林德劳尔的通道，也说不准那里还有没有人能帮上我们。"
+  ],
+  [
+   "res#61857/m_Text",
+   "This land of massive fungus has been our refuge for ten long cycles, and I am certain that all the others who fled are lost to us forever. We have long worked alongside the Scaphin here to share this place, even before our city fell. In truth, it belongs to them more than us, but we are refugees now. How I long to see the sun again, and would gladly leave this place. They are kind enough, but something stirs among them. I worry that they tire of us. And there is more. The mushrooms are... different, leaning slightly towards us, as if they wish to say something, though I cannot say what. Perhaps it is in my head, but I think it bodes ill. Between this and the Scaphin, I doubt we will need the dark lord to finish what he began.",
+   "这片巨菌之地已经庇护了我们整整十轮，我确信，其他所有逃散的人都已永远与我们失散。早在城市陷落之前，我们就一直与这里的斯卡芬共同生活、共享此地。说实话，这里与其说属于我们，不如说属于它们——但我们现在是难民。我多么渴望再见一次太阳，愿意就此离开这里。它们待我们足够友善，但它们之中有些东西在骚动。我担心它们已经厌倦了我们。还有一事。那些蘑菇……不太一样，它们稍稍朝我们倾斜，仿佛想说些什么，我却说不出是什么。也许只是我的错觉，但我认为这是不祥之兆。有这些异状和斯卡芬，我们恐怕等不到黑暗领主来亲手了结我们了。"
+  ],
+  [
+   "res#61858/m_Text",
+   "It was easy, really. A simple visit to the library, a little bit of deduction, a dash of reason and bold action... To be truthful, this village is too small for me. If one studies well and applies logic there is little that cannot be accomplished. There is nothing that will halt my progress now. I am destined for greater things!",
+   "其实很简单。去一趟图书馆，稍加推断，再加上一点逻辑与果断的行动……说实话，这座村子对我来说太小了。只要勤加钻研、运用逻辑，就没有什么事办不成。如今再没有什么能阻挡我前进。我注定要成就更伟大的事业！"
+  ],
+  [
+   "res#61859/m_Text",
+   "I have only this paper left after leaving my journal. A name carries on the air. Baumonus. I know this name from my studies, but it was a myth... no matter. Baumonus reaches out, corrupting the manatite here, and I with it. I shall try to close the rift if I can. Perhaps, if I could detonate some of the corrupted manatite nearby...",
+   "丢下日志之后，我手头只剩这张纸了。一个名字在空气中回荡：鲍莫努斯。我在研习中见过这个名字，但它本该只是个传说……罢了。鲍莫努斯正伸来它的触手，腐蚀这里的法力晶石——连同我一起。若有可能，我会试着关闭那道裂隙。也许，如果我能引爆附近一些被腐蚀的法力晶石……"
+  ],
+  [
+   "res#61860/m_Text",
+   "For 600 years we have lived in Undralis, the undercity of Elok`ora. I leave this note, that the world to come (for I trust that mankind will endure) will know what was done here. We built a civilization, and have lived in relative peace. Although constrained to these caverns, we have toiled and chiseled a city for ourselves. Our lives have been good and full. Today that comes to an end, for the spawn of the dark lord is pouring forth from both above and below. The ground vomits forth vile creatures the likes of which we have never seen before. Above us, the goblins and trolls, once our allies, join his legions and rake the ground apart to find us. There will be no escape for us, yet we have long been acquainted with this ending. It was clear many years ago that this would be our fate. There is one more hope. Zakerunda has found something ancient...",
+   "六百年来，我们一直生活在翁德拉利斯——埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头——黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉——许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……"
+  ],
+  [
+   "res#61861/m_Text",
+   "These halls have become a solemn place. We wait for the end, and know not when it will come. It would have been better to have stood and fought, even knowing death was coming. I pray that this choice we made will show its benefit one day, but as of now it has become unbearable. Our hope is that a way to victory will be found, and that our descendants will one day live in these lands again. That remains a distant hope, but our hope nonetheless. Zakerunda has left to seek something. If he fails, we will likely all perish.",
+   "这些厅堂已成肃穆之地。我们等待着终局，却不知它何时到来。哪怕明知死亡将至，当初挺身一战或许也更好。我祈祷我们所做的这个选择有朝一日能显露出它的价值，但时至今日，它已变得令人难以忍受。我们盼望能找到取胜之法，盼望我们的后代有朝一日能重回家园。这仍是遥远的希望，却终究是希望。扎克伦达已动身去寻找某样东西。若他失败，我们恐怕都将殒命。"
+  ],
+  [
+   "res#61862/m_Text",
+   "I have tried to find a way across for what seems like days, and now my feet are caught in this accursed webbing. I can feel a draft, so there must be another entrance to this place. The treasures will be mine, but for now I must work at freeing myself. Then, I will leave this chamber, return to the world above and seek this other entrance.",
+   "我寻找通路似乎已有数日之久，如今双脚又被这该死的蛛网缠住。我能感觉到气流，这地方一定有另一个入口。宝藏终将归我所有，但当务之急是先把自己弄出来。之后，我会离开这个房间，回到地上世界，去寻找那个入口。"
+  ],
+  [
+   "res#61863/m_Text",
+   "After all the trouble I went through there was another lock! My pick is too worn after the last one. I shall have to return later and claim the treasure. The others may ask why I returned empty handed. I will not endure their mockery. I should try again after some rest.",
+   "费了那么大力气，里面居然还有一道锁！我那根撬锁针在上把锁之后已经磨损得太厉害了。只好改日再来取宝藏。其他人也许会问我为何空手而归。我可不想遭他们嘲笑。休息一阵之后，我再来试试。"
+  ],
+  [
+   "res#61864/m_Text",
+   "We found Kalindraur, but these monsters continue to assault us. I have ventured into the halls to destroy them or at least keep them at bay until the doors can be sealed. I have shut the bridge behind me and set up a ward. The only other way is now through the library.\n\n\nI left a chest hidden outside Kalindraur's southern door that will only open for whoever possesses this note. There is vital information in it. I can already feel my knowledge slipping away, now that I am outside. Enter from the Library, find this chest, and return the information to Naira.",
+   "我们找到了卡林德劳尔，但那些怪物仍在不断袭击我们。我潜入厅堂，要将它们消灭，或至少拖住它们，直到各扇门被封死。我已断掉身后的桥，并布下了结界。如今唯一的其他通路要穿过图书馆。\n\n\n我在卡林德劳尔南门外藏了一只箱子，只有持有此条的人才能打开。里面装着至关重要的信息。身在野外，我已感觉到自己的知识正在流失。从图书馆进入，找到那只箱子，把信息交给奈拉。"
+  ],
+  [
+   "res#61865/m_Text",
+   "... I have done it! I finally narrowed the password down to three possible options; all words of power used in ancient times. I hope this spell will transcribe the magical words as well. The first, \"@0\" I believe to be the correct one. The others are \"@1\" and \"@2\". It should be uttered into the air as close as possible to the wall carvings in the stairwell. I must hurry, it is hunting for me even now.. oh no... it has found me... no... NOOO!!!!",
+   "……我成功了！我终于把密码缩小到三种可能——都是上古时代使用过的力量之词。我希望这道法术也能把魔法词转写下来。第一个「@0」，我相信是正确的那个。另外两个是「@1」和「@2」。要在楼梯间的墙壁雕刻附近尽可能贴近地念出它。我必须快一点，它现在就在猎捕我……哦不……它找到我了……不……不——！！！！"
+  ],
+  [
+   "res#61866/m_Text",
+   "The southern hall has been breached. We have nowhere to go, except deeper into the caves. The denizens of the deep have not yet emerged from the fungal regions or the eastern chambers, and we do not know why. We will flee in both directions and pray that some survive.",
+   "南厅已被攻破。我们无处可去，只能深入洞穴。深处的居民尚未从菌类区域或东侧厅室中涌出，我们也不知道原因。我们将向两个方向逃散，祈祷有人能活下来。"
+  ],
+  [
+   "res#61867/m_Text",
+   "We have retreated to the undercity district of Undralis. We no longer know what transpires above ground, but it is unlikely that anyone has survived on the entire surface of Springhold. The rest of the world... may Leunamar save them. Here we shall fortify. Praise be that our ancestors had the foresight to make this place as secure as it is. Though the creatures of darkness are many, I believe we can hold them back. One day we shall return to the world above and bring vengeance upon the evil that has devoured our world.",
+   "我们已退守翁德拉利斯的地下城区。地上发生着什么，我们已无从得知，但斯普林霍尔德的地表恐怕已无人幸存。至于世界的其他地方……愿卢纳玛尔拯救他们。我们将在此加固防御。庆幸的是，我们的先祖有先见之明，把这里建得足够坚固。黑暗生物虽多，我相信我们守得住。总有一天，我们会重返地上世界，向吞噬了我们世界的邪恶复仇。"
+  ],
+  [
+   "res#61868/m_Text",
+   "I was promised a night I would never forget as an apology for the disrespect I was shown. One free night in the inn, fully catered. This is treachery! All I did was ransack some peasant's home. I cannot take it down here anymore! And to make matters worse, there is the horrible smelling red ooze slowly seeping in from a crack in the walls. Ghastly. I cannot wait to be let out so I can give that Gyffard a piece of my mind... and sword! And this letter shall be proof of my improper conditions!",
+   "他们答应给我一个终生难忘的夜晚，作为对我所受轻慢的道歉——旅店免费住一晚，吃喝全包。这是背信弃义！我不过是洗劫了一户农民的家而已。我在这下面再也待不下去了！更糟的是，墙缝里正缓缓渗进来一种气味恶心的红色黏液。真吓人。我巴不得赶紧被放出去，好去教训那个吉法德一顿……用我的剑教训！这封信就是我遭受不公待遇的证据！"
+  ],
+  [
+   "res#61869/m_Text",
+   "By order of Festos Ingram, Mayor of Emerisk, this attached key is not to be used. The graveyard is becoming not only a home to dangerous animals, but much worse, in my opinion, a noise nuisance. I simply cannot sleep with all the wailing and howling. No more parties there, and no more entry!",
+   "奉埃梅里斯克市长费斯托斯·英格拉姆之命，随附的这把钥匙禁止使用。墓园如今不但成了危险动物的巢穴，更糟的是——依我之见——还成了噪音之源。又是哀嚎又是长啸，我根本睡不着。那里再也不准聚会，再也不准进入！"
+  ],
+  [
+   "res#61870/m_Text",
+   "I came all this way... all this way. And now I cannot cross. There are too many creatures lurking these halls. It is the end for me, but perhaps I can do some good as I face the end. Etched on the stone next to me is a symbol of the fae. I believe you need the aid of one to cross. How, I cannot say, but I am out of ideas. Maybe I should have investigated the old house before I came... I believe I shall lie down and rest. Yes. I shall rest, and never wake.",
+   "我一路走到这里……走了这么远。如今却过不去了。这些厅堂里潜藏的怪物太多了。对我来说，这就是终点了。但在面对终局之时，也许我还能做点好事。身旁的石头上刻着一个妖精的符号。我相信，要过去必须得到妖精的帮助。具体如何，我说不上来，但我已经再无办法。也许我当初该先调查那栋老房子再来……我想我该躺下歇一歇了。是的。我要休息了，再也不要醒来。"
+  ],
+  [
+   "res#61871/m_Text",
+   "For nearly seventy cycles we have persisted in these chambers. Andimus, in his madness, insisted some friend in the dark had kept us safe. He passed last cycle, and it is true that something has changed. Whatever safety we have enjoyed beneath the bleak halls of our former glory is coming to an end. It was never much of a life, sealed away in this place. It will now become our tombs. Something is coming closer, and we can do nothing to stop it. Its chittering screams rise from the caverns below. I am determined, even in my old age, to go down fighting.",
+   "我们在这片厅室中苦撑了近七十轮。安迪姆斯疯疯癫癫地坚称，黑暗中有位朋友庇佑着我们。他已于上一轮离世，而确实有什么变了。我们曾在昔日荣光的惨淡厅堂之下享有的庇护，正走向尽头。封困于此的生活本就不算生活，如今这里更将成为我们的坟墓。有什么东西正越逼越近，而我们无能为力。它尖细的嘶鸣从下方的洞窟中升起。纵然年迈，我也决意战死到底。"
+  ],
+  [
+   "res#61872/m_Text",
+   "If you are reading this then I did not survive, or am lost to these bleak halls. Know that Naira, chief librarian for Queen Elyscia of Arenquist, has extracted some of her memories and kept them in a safe place in case the shelter cannot protect her. She will need help retrieving them. The word \"@5\" should trigger her to remember where she kept them, and it should open the door to Kalindraur, right beside this chest. The magic will know friend or foe.",
+   "如果你读到了这封信，那么我多半已经殒命，或迷失在了这些凄凉的厅堂中。你要知道，阿伦奎斯特女王埃莉西亚的首席图书管理员奈拉，曾抽取出自己的一部分记忆，存放在安全之处，以防庇护所无法保护她。她需要有人帮忙找回这些记忆。念出「@5」这个词，应当能让她想起存放之处，它也能打开卡林德劳尔的门——就在这只箱子旁边。这魔法会自行分辨敌友。"
+  ],
+  [
+   "res#61873/m_Text",
+   "For 600 years we have lived in Undralis, the undercity of Elok`ora. I leave this note, that the world to come (for I trust that mankind will endure) will know what was done here. We built a civilization, and have lived in relative peace. Although constrained to these caverns, we have toiled and chiseled a city for ourselves. Our lives have been good and full. Today that comes to an end, for the spawn of the dark lord is pouring forth from both above and below. The ground vomits forth vile creatures the likes of which we have never seen before. Above us, the goblins and trolls, once our allies, join his legions and rake the ground apart to find us. There will be no escape for us, yet we have long been acquainted with this ending. It was clear many years ago that this would be our fate. There is one more hope. Zakerunda has found something ancient...",
+   "六百年来，我们一直生活在翁德拉利斯——埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头——黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉——许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……"
+  ],
+  [
+   "res#63576/m_Options.m_Options[0].m_Text",
+   "SearchOre",
+   "矿石"
+  ],
+  [
+   "res#63576/m_Options.m_Options[1].m_Text",
+   "SearchIngredients",
+   "原料"
+  ],
+  [
+   "res#63576/m_Options.m_Options[2].m_Text",
+   "SearchMonsters",
+   "怪物"
+  ],
+  [
+   "res#63576/m_Options.m_Options[3].m_Text",
+   "SearchSecrets",
+   "秘密"
+  ],
+  [
+   "res#63576/m_Options.m_Options[4].m_Text",
+   "SearchItems",
+   "物品"
+  ],
+  [
+   "res#63576/m_Options.m_Options[5].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "res#63620/m_Text",
+   "Knowledge Bonus:",
+   "知识加成："
+  ],
+  [
+   "res#63622/m_Text",
+   "     Spirit:",
+   "     精神："
+  ],
+  [
+   "res#63635/m_Text",
+   "REQ:",
+   "需求："
+  ],
+  [
+   "res#63661/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#63674/m_Text",
+   "Health:",
+   "生命值："
+  ],
+  [
+   "res#63683/m_Text",
+   "     Willpower:",
+   "     意志力："
+  ],
+  [
+   "res#63687/m_Text",
+   "Lore Here",
+   "学识"
+  ],
+  [
+   "res#63714/m_Text",
+   "Resist Piercing:",
+   "抗穿刺："
+  ],
+  [
+   "res#63726/m_Text",
+   "Name Here",
+   "名称"
+  ],
+  [
+   "res#63728/m_Text",
+   "Resist Ice:",
+   "抗冰霜："
+  ],
+  [
+   "res#63730/m_Text",
+   "Character Name",
+   "角色姓名"
+  ],
+  [
+   "res#63750/m_Text",
+   "moverate",
+   "moverate"
+  ],
+  [
+   "res#63756/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#63774/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#63776/m_Text",
+   "Lore Here",
+   "学识"
+  ],
+  [
+   "res#63777/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "res#63785/m_Text",
+   "Magic:",
+   "魔法："
+  ],
+  [
+   "res#63808/m_Text",
+   "Defense:",
+   "防御："
+  ],
+  [
+   "res#63811/m_Text",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#63817/m_Text",
+   "SPI",
+   "精神"
+  ],
+  [
+   "res#63833/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#63835/m_Text",
+   "Quest Description",
+   "任务描述"
+  ],
+  [
+   "res#63846/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#63869/m_Text",
+   "Combat Slots",
+   "战斗槽位"
+  ],
+  [
+   "res#63894/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#63901/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#63915/m_Text",
+   "ARMOR",
+   "护甲"
+  ],
+  [
+   "res#63929/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "res#63948/m_Text",
+   "Resist Physical:",
+   "抗物理："
+  ],
+  [
+   "res#63951/m_Text",
+   "Resist Fire:",
+   "抗火："
+  ],
+  [
+   "res#63953/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#63992/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#63998/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#64003/m_Text",
+   "Resist Blunt:",
+   "抗钝击："
+  ],
+  [
+   "res#64009/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#64021/m_Text",
+   "Quest Info",
+   "任务信息"
+  ],
+  [
+   "res#64045/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#64058/m_Text",
+   "Damage:",
+   "伤害："
+  ],
+  [
+   "res#64059/m_Options.m_Options[0].m_Text",
+   "GiveOption",
+   "给予"
+  ],
+  [
+   "res#64059/m_Options.m_Options[1].m_Text",
+   "PickAxeOption",
+   "镐子"
+  ],
+  [
+   "res#64059/m_Options.m_Options[2].m_Text",
+   "ShovelOption",
+   "铲子"
+  ],
+  [
+   "res#64059/m_Options.m_Options[3].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "res#64059/m_Options.m_Options[4].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "res#64113/m_Options.m_Options[0].m_Text",
+   "LoreBestiary",
+   "兽典"
+  ],
+  [
+   "res#64113/m_Options.m_Options[1].m_Text",
+   "LoreQuests",
+   "任务"
+  ],
+  [
+   "res#64113/m_Options.m_Options[2].m_Text",
+   "NullOption",
+   "（空）"
+  ],
+  [
+   "res#64122/m_Text",
+   "Quest",
+   "任务"
+  ],
+  [
+   "res#64151/m_Text",
+   "No Monsters Known",
+   "尚无怪物知识"
+  ],
+  [
+   "res#64174/m_Text",
+   "ARMOR",
+   "护甲"
+  ],
+  [
+   "res#64181/m_Text",
+   "Answer",
+   "答案"
+  ],
+  [
+   "res#64209/m_Text",
+   "RES",
+   "抗性"
+  ],
+  [
+   "res#64235/m_Text",
+   "SPD",
+   "速度"
+  ],
+  [
+   "res#64260/m_Text",
+   "STR",
+   "力量"
+  ],
+  [
+   "res#64274/m_Text",
+   "Blank Skills",
+   "空技能"
+  ],
+  [
+   "res#64310/m_Text",
+   "     Toughness:",
+   "     坚韧："
+  ],
+  [
+   "res#64312/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#64334/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#64338/m_Text",
+   "Range",
+   "射程"
+  ],
+  [
+   "res#64360/m_Text",
+   "Damage:",
+   "伤害："
+  ],
+  [
+   "res#64384/m_Text",
+   "Note Information",
+   "笔记信息"
+  ],
+  [
+   "res#64407/m_Text",
+   "NEW!",
+   "新！"
+  ],
+  [
+   "res#64414/m_Text",
+   "     Mind:",
+   "     心智："
+  ],
+  [
+   "res#64420/m_Text",
+   "Health:",
+   "生命值："
+  ],
+  [
+   "res#64435/m_Text",
+   "     Strength:",
+   "     力量："
+  ],
+  [
+   "res#64437/m_Text",
+   "Range:",
+   "射程："
+  ],
+  [
+   "res#64445/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#64450/m_Text",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#64452/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#64458/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#64468/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "res#64487/m_Text",
+   "Name Here",
+   "名称"
+  ],
+  [
+   "res#64489/m_Text",
+   "\n",
+   "\n"
+  ],
+  [
+   "res#64509/m_Text",
+   "ARMOR",
+   "护甲"
+  ],
+  [
+   "res#64513/m_Text",
+   "EXP:",
+   "经验："
+  ],
+  [
+   "res#64521/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#64538/m_Text",
+   "This is where characters talk about everything.",
+   "这里是角色们无所不谈的地方。"
+  ],
+  [
+   "res#64549/m_Text",
+   "Kills:",
+   "击杀："
+  ],
+  [
+   "res#64555/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#64558/m_Text",
+   "     Speed:",
+   "     速度："
+  ],
+  [
+   "res#64561/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#64566/m_Text",
+   "Please enter a name:\n",
+   "请输入名称：\n"
+  ],
+  [
+   "res#64581/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "res#64591/m_Text",
+   "Party Gold",
+   "队伍金币"
+  ],
+  [
+   "res#64623/m_Text",
+   "0 / 0",
+   "0 / 0"
+  ],
+  [
+   "res#64664/m_Text",
+   "AGI",
+   "敏捷"
+  ],
+  [
+   "res#64675/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#64688/m_Text",
+   "Knowledge Bonus:",
+   "知识加成："
+  ],
+  [
+   "res#64696/m_Text",
+   "initiative",
+   "initiative"
+  ],
+  [
+   "res#64698/m_Text",
+   "100%",
+   "100%"
+  ],
+  [
+   "res#64701/m_Text",
+   "No Active Quests",
+   "没有进行中的任务"
+  ],
+  [
+   "res#64705/m_Text",
+   "Remaining",
+   "剩余"
+  ],
+  [
+   "res#64788/m_Text",
+   "Bonus:",
+   "加成："
+  ],
+  [
+   "res#64802/m_Text",
+   "Resist Magic:",
+   "抗魔法："
+  ],
+  [
+   "res#64824/m_Text",
+   "Spells",
+   "法术"
+  ],
+  [
+   "res#64828/m_Text",
+   "EXP",
+   "经验"
+  ],
+  [
+   "res#64829/m_Text",
+   "Scratwled notes",
+   "潦草的笔记"
+  ],
+  [
+   "res#64832/m_Text",
+   "     Armor:",
+   "     护甲："
+  ],
+  [
+   "res#64854/m_Text",
+   "3",
+   "3"
+  ],
+  [
+   "res#64867/m_Text",
+   "Weapon Name Here",
+   "武器名称"
+  ],
+  [
+   "res#64880/m_Text",
+   "     Reflex:",
+   "     反应："
+  ],
+  [
+   "res#64882/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#64884/m_Text",
+   "willpower",
+   "willpower"
+  ],
+  [
+   "res#64888/m_Text",
+   "Creature",
+   "生物"
+  ],
+  [
+   "res#64893/m_Text",
+   "New Text",
+   "新文本"
+  ],
+  [
+   "res#64909/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#64926/m_Text",
+   "Resist Earth:",
+   "抗土："
+  ],
+  [
+   "res#65019/m_Text",
+   "Magic:",
+   "魔法："
+  ],
+  [
+   "res#65037/m_Text",
+   "1 / 6",
+   "1 / 6"
+  ],
+  [
+   "res#65077/m_Text",
+   "     Level:",
+   "     等级："
+  ],
+  [
+   "res#65092/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#65102/m_Text",
+   "Resist Shock:",
+   "抗电击："
+  ],
+  [
+   "res#65109/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#65135/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#65143/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#65146/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#65172/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#65259/m_Text",
+   "Team Leader Total:",
+   "队长总值："
+  ],
+  [
+   "res#65261/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#65275/m_Text",
+   "     Resistance:",
+   "     抗性："
+  ],
+  [
+   "res#65280/m_Text",
+   "MND",
+   "心智"
+  ],
+  [
+   "res#65283/m_Text",
+   "     Initiative:",
+   "     先攻："
+  ],
+  [
+   "res#65315/m_Text",
+   "???",
+   "???"
+  ],
+  [
+   "res#65318/m_Text",
+   "New Text",
+   "新文本"
+  ],
+  [
+   "res#65328/m_Text",
+   "hitPts",
+   "hitPts"
+  ],
+  [
+   "res#65339/m_Text",
+   "DMG",
+   "伤害"
+  ],
+  [
+   "res#65345/m_Text",
+   "Resist Mind:",
+   "抗心智："
+  ],
+  [
+   "res#65351/m_Text",
+   "     Agility:",
+   "     敏捷："
+  ],
+  [
+   "res#65373/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#65374/m_Text",
+   "SKILL NAME",
+   "SKILL NAME"
+  ],
+  [
+   "res#65381/m_Text",
+   "Range:",
+   "射程："
+  ],
+  [
+   "res#65388/m_Text",
+   "Initiative:",
+   "先攻："
+  ],
+  [
+   "res#65406/m_Text",
+   "magicPts",
+   "magicPts"
+  ],
+  [
+   "res#65418/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#65431/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#65437/m_Text",
+   "     Movement:",
+   "     移动："
+  ],
+  [
+   "res#65450/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#65452/m_Text",
+   "Resist Slashing:",
+   "抗挥砍："
+  ],
+  [
+   "res#65458/m_Text",
+   "WType + DType",
+   "武器+伤害类型"
+  ],
+  [
+   "res#65463/m_Text",
+   "X",
+   "X"
+  ],
+  [
+   "res#65472/m_Text",
+   "25",
+   "25"
+  ],
+  [
+   "res#65486/m_Text",
+   "Kill All Enemies",
+   "消灭所有敌人"
+  ],
+  [
+   "res#65497/m_Text",
+   "BONUS",
+   "加成"
+  ],
+  [
+   "res#65505/m_Text",
+   "     Defense:",
+   "     防御："
+  ],
+  [
+   "res#65534/m_Text",
+   "Teleport To Town",
+   "传送至城镇"
+  ],
+  [
+   "res#65545/m_Text",
+   "Resist Posion:",
+   "抗毒："
+  ],
+  [
+   "res#65549/m_Text",
+   "LVL",
+   "等级"
+  ],
+  [
+   "res#65551/m_Text",
+   "reflex",
+   "reflex"
+  ],
+  [
+   "res#66194/m_Text",
+   "99",
+   "99"
+  ],
+  [
+   "res#66222/m_Text",
+   "Toggle the Joysticks.\nYou can use your left thumb to maneuver your character.\nYour right thumb will highlight nearby things to interact with.",
+   "切换虚拟摇杆。\n用左拇指操控你的角色移动。\n用右拇指高亮附近可交互的物体。"
+  ],
+  [
+   "res#66248/m_Text",
+   "16",
+   "16"
+  ],
+  [
+   "sa0#11723/m_Text",
+   "1",
+   "1"
+  ],
+  [
+   "sa0#11726/m_Text",
+   "Debug.Log summary",
+   "调试日志摘要"
+  ],
+  [
+   "sa0#11772/m_Text",
+   "16",
+   "16"
+  ]
+ ]
+}

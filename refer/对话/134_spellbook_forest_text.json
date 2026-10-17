@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_forest_text",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60453/whatIHaveToSay[0]",
+   "Start",
+   "<i>Will of the Forest\r</i>\n\n\r\tA life in the forest is one most fulfilling. From it, a man can draw sustenance, both for the body and for the mind. Its peace brings calm in times of turmoil. ",
+   "<i>森林的意志\r</i>\n\n\r\t林中生活，最是充实。人可从中汲取养分，既养身体，也养心神。它的安宁，能在动荡之时带来平静。 "
+  ],
+  [
+   "res#60453/whatIHaveToSay[1]",
+   "Start",
+   "\tIts colors bring light to dreary days. Its sounds remind us that life is all around us, thriving in even the darkest places.",
+   "\t它的色彩为阴郁的日子带来光。它的声响提醒我们：生命无处不在，即便在最幽暗之处也蓬勃生长。"
+  ],
+  [
+   "res#60524/whatIHaveToSay[0]",
+   "Page2",
+   "\tYet, beyond all these things there is something more to the forest. For all its good qualities it can also be dangerous, and mysterious.",
+   "\t然而，除了这一切，森林之中还有更多东西。纵然有种种美好，它也可以是危险的、神秘的。"
+  ],
+  [
+   "res#60524/whatIHaveToSay[1]",
+   "Page2",
+   "\tTo those who know it well it appears to have a will of its own. That will may set it against us, or in our favor. A hunter learns to follow these signs, and the forest speaks to those who will listen.",
+   "\t对深谙它的人而言，它仿佛自有意志。那意志可能与我们为敌，也可能与我们为友。猎人学会追寻这些征兆；森林只向愿意倾听的人开口。"
+  ],
+  [
+   "res#60939/whatIHaveToSay[0]",
+   "Page3",
+   "\tListen then to what I have learned; the forest has spoken to me and bid me warning. Darkness is coming, and the forest is no longer a friend to any creature that enters it.",
+   "\t那么，听听我所领悟的吧：森林曾向我开口，向我示警。黑暗将至，森林不再是任何踏入其中之生灵的朋友。"
+  ],
+  [
+   "res#60939/whatIHaveToSay[1]",
+   "Page3",
+   "\tIts will has been usurped by another. Its meadows have been filled with dark creatures. It no longer harbors kindness. It knows only the hunt, and we have become its prey.",
+   "\t它的意志已被另一者篡夺。它的草甸挤满了黑暗生物。它不再怀抱善意。它只知猎杀，而我们已成了它的猎物。"
+  ]
+ ]
+}

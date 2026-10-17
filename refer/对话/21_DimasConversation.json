@@ -1,0 +1,387 @@
+{
+ "meta": {
+  "kind": "对话/DimasConversation",
+  "count": 63,
+  "with_cn": 63
+ },
+ "entries": [
+  [
+   "sa0#10654/whatIHaveToSay[0]",
+   "manatite",
+   "I have seen it, yes. It does not call to me as other ores and gems do. Perhaps, I seek those things that have beauty despite being mundane; that which has earned its place rather than was given it.",
+   "我见过，是的。它不像别的矿石与宝石那样呼唤我。也许我追寻的，正是那种平凡之中见美的东西；是凭自己挣得一席之地，而非被赋予地位的。"
+  ],
+  [
+   "sa0#10663/whatIHaveToSay[0]",
+   "librarian",
+   "I vaguely remember entering a library once to learn about gems. But that must be a false memory. What could possibly be learned in a place like that? Perhaps a librarian could tell me.",
+   "我隐约记得，曾进过一座图书馆，为了了解宝石。可那一定是段假记忆。那种地方能学到什么呢？也许该找位图书管理员问问。"
+  ],
+  [
+   "sa0#10674/whatIHaveToSay[0]",
+   "graveyard",
+   "In life, many strive for riches. Most of it we leave behind, but our choicest gemstones and jewelry we take with us into the ground. Perhaps those gems wish to return to the ground and have a will of their own.",
+   "生前，多少人追逐财富。大部分都被留在身后，可最上等的宝石与首饰，我们都带进了地下。也许那些宝石渴望回到地下，自有其意志。"
+  ],
+  [
+   "sa0#10680/whatIHaveToSay[0]",
+   "Airendal",
+   "Brilliant you are! Like veins of lapis deep underground.",
+   "你真是耀眼！像深埋地下的青金石矿脉。"
+  ],
+  [
+   "sa0#10691/whatIHaveToSay[0]",
+   "Emerisk",
+   "I know of this place, and yet it does not feel like home. That is odd, isn't it? I wonder if I even have a residence there. Perhaps... the caves themselves are my residence. They were almost my final resting place, that much is certain.",
+   "我知道这个地方，可它并不像家。这很奇怪，不是吗？我甚至不确定自己在镇上有没有住处。也许……洞穴，本身就是我的居所。那里差一点成了我的长眠之地——这一点倒是确定无疑。"
+  ],
+  [
+   "sa0#10708/whatIHaveToSay[0]",
+   "Codex",
+   "A repository of knowledge? Does it say anything about gems?",
+   "知识的藏书之所？里面有提到宝石吗？"
+  ],
+  [
+   "sa0#10733/whatIHaveToSay[0]",
+   "Kalindraur",
+   "That... name does sound familiar. I feel as though I have been to a place that bears that name, but I cannot remember any more.",
+   "那……个名字听着确实耳熟。我仿佛造访过以它为名的地方，可再多就想不起来了。"
+  ],
+  [
+   "sa0#10735/whatIHaveToSay[0]",
+   "book",
+   "When I think on them I have strange memories... like I know them well, and yet that cannot be. How strange.",
+   "想起它们时，我会浮起些奇怪的记忆……仿佛对它们了如指掌，可这不可能。真奇怪。"
+  ],
+  [
+   "sa0#10743/whatIHaveToSay[0]",
+   "Rycard",
+   "You are a dangerous man. I can feel it. I would face the spiders again before being alone with you. Yet, you have gained the trust of those around you. This gives me hope, as I too seek to start anew.",
+   "你是个危险的人。我感觉得到。我宁愿再去面对那些蜘蛛，也不愿与你独处。可你赢得了周围人的信任。这给了我希望——因为我也渴望重新开始。"
+  ],
+  [
+   "sa0#10761/whatIHaveToSay[0]",
+   "corundum",
+   "A rare ore indeed, and quite valuable. I do not have any experience with it unfortunately. How I wish that I did!",
+   "确实是稀有的矿石，而且相当贵重。可惜我对它毫无经验。我多么希望自己有啊！"
+  ],
+  [
+   "sa0#10784/whatIHaveToSay[0]",
+   "Agmarians",
+   "I have seen many things in caves, but nothing that I know of by that name.",
+   "在洞穴里我见过许多东西，可没有一样是我认得这个名字的。"
+  ],
+  [
+   "sa0#10792/whatIHaveToSay[0]",
+   "Bhulown",
+   "You look dangerous, but feel safe. It is no small thing that I say this.",
+   "你看着危险，却让人安心。我这样说，可不是小事。"
+  ],
+  [
+   "sa0#10798/whatIHaveToSay[0]",
+   "Goblins",
+   "Hmmm. No. I do not know of them.",
+   "嗯——不。我不知道他们。"
+  ],
+  [
+   "sa0#10816/whatIHaveToSay[0]",
+   "Merewen",
+   "I have seen gems in the deep caves, brilliant and beautiful, though they lie unseen in the dark. Are we not like gems sometimes?",
+   "我在深洞里见过宝石，璀璨而美丽，尽管它们在黑暗中无人得见。我们有时不也像宝石一样吗？"
+  ],
+  [
+   "sa0#10824/whatIHaveToSay[0]",
+   "Dimas",
+   "I feel like I've been born again. So much time to think in the cocoon... I am... transformed!",
+   "我感觉自己重获新生。在茧里思考的时光太多了……我……蜕变了！"
+  ],
+  [
+   "sa0#10827/whatIHaveToSay[0]",
+   "blue light",
+   "There are things in the deep caves that glow with such a light, even though no light exists in those places.",
+   "深洞之中有些东西会发出这样的光，尽管那些地方本没有光。"
+  ],
+  [
+   "sa0#11303/whatIHaveToSay[0]",
+   "fog",
+   "All around Emerisk it lies in a most unnatural way. I thought that if I went deep enough I might even run into it, but that was not the case. I have avoided it at all costs. It is the unknown, perhaps even  unknowable.",
+   "在埃梅里斯克，它铺展得极不自然。我原以为，只要走得够深，说不定还能撞上它，可并没有。我一直在竭力避开它。它是未知，也许根本不可知。"
+  ],
+  [
+   "sa0#11303/whatIHaveToSay[1]",
+   "fog",
+   "I remember times when fog was just fog; moist, cool, coating the grass in the mor.... wet and cool, like cave... so very cool. It is quite cool here isn't it. I feel I might shiver. What were we talking about?",
+   "我记得从前，雾就是雾；潮湿、清凉，把草地蒙上露……湿湿凉凉的，像洞穴一样……非常凉。这里挺凉的，不是吗。我觉得我可能要发抖了。我们刚才说到哪儿了？"
+  ],
+  [
+   "sa0#11311/options[0].text",
+   "Dimas",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11311/options[1].text",
+   "Dimas",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11311/options[2].text",
+   "Dimas",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11311/options[3].text",
+   "Dimas",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11311/options[4].text",
+   "Dimas",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11311/options[5].text",
+   "Dimas",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11311/options[6].text",
+   "Dimas",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11311/options[7].text",
+   "Dimas",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11311/options[8].text",
+   "Dimas",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11311/options[9].text",
+   "Dimas",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11379/whatIHaveToSay[0]",
+   "job",
+   "I am a jeweler. Well, a proactive jeweler to be precise. Most jewelers wait for gems and ore to be brought to them, but not me. It was a good plan up until my run in with those spiders.",
+   "我是珠宝匠。准确地说，是位主动出击的珠宝匠。多数珠宝匠坐等宝石与矿石送上门，我不一样。这主意本来不错，直到我撞上那些蜘蛛。"
+  ],
+  [
+   "sa0#11379/whatIHaveToSay[1]",
+   "job",
+   "Things are too dangerous now to do just about anything, unless you stay in the town proper.",
+   "如今什么都做不成了，除非你一直待在镇子里。"
+  ],
+  [
+   "sa0#11526/whatIHaveToSay[0]",
+   "Lannon",
+   "You rescued me. And that is no small favor to repay.",
+   "你救了我。这份恩情可不小。"
+  ],
+  [
+   "sa0#11538/whatIHaveToSay[0]",
+   "Laszra",
+   "I can see that you are hewn from tough stone, and I am not referring only to your previous... situation.",
+   "看得出，你是从坚硬的石头里凿出来的——我说的不只是你先前那副……模样。"
+  ],
+  [
+   "sa0#11571/whatIHaveToSay[0]",
+   "caves",
+   "Although my trade is in fashioning gems and ore, I feel much more at home searching for them. There is a thrill to the discovery that I cannot explain.",
+   "虽说我的行当是琢磨宝石与矿石，可比起做工，我在寻找它们时更像在家。发现的一刻有种说不出的激动。"
+  ],
+  [
+   "sa0#11576/whatIHaveToSay[0]",
+   "silver",
+   "A fine metal. It makes excellent jewelry. Some have even made weapons with it, though I cannot imagine why. It is softer than iron.",
+   "上等的金属。做首饰再好不过。甚至有人用它打造武器——我实在想不通为什么。它比铁软。"
+  ],
+  [
+   "sa0#11584/whatIHaveToSay[0]",
+   "dark lord",
+   "I don't believe I have heard of any such thing. I always did have a hard time focusing on anything other than gems and ore.",
+   "我不记得听说过这种东西。我向来难以把注意力放在宝石与矿石以外的事物上。"
+  ],
+  [
+   "sa0#11594/whatIHaveToSay[0]",
+   "wild boar",
+   "Nothing takes the edge off after a hard day of mining like a roasted boar.",
+   "辛苦挖矿一天之后，没有什么比一头烤野猪更解乏了。"
+  ],
+  [
+   "sa0#11610/whatIHaveToSay[0]",
+   "Shione",
+   "The deep places sing. Did you know that? You need only to sit and listen in the dark. I had... much time to do this recently.",
+   "深处里有歌声。你知道吗？只需在黑暗里坐下，静静聆听。最近我……有很多时间这样做。"
+  ],
+  [
+   "sa0#11633/whatIHaveToSay[0]",
+   "Arbo",
+   "Your fur is as soft as spider's silk, and your will as hard as iron!",
+   "你的毛像蛛丝一样柔软，你的意志却像铁一样坚硬！"
+  ],
+  [
+   "sa0#11641/whatIHaveToSay[0]",
+   "dimension",
+   "The world is like a cut gem. There are so many facets, and each presents a different view. I have seen wonders and horrors through those facets.",
+   "世界就像一颗切开的宝石。切面如此之多，每一面都呈现不同的景象。我透过那些切面见过奇迹，也见过恐怖。"
+  ],
+  [
+   "sa0#11645/whatIHaveToSay[0]",
+   "Scaphin",
+   "Yes, I have seen these creatures. They are best avoided, but can be friendly at times. I would not chance it.",
+   "是的，我见过这些生物。最好避开，不过它们有时也很友善。我不会去冒险。"
+  ],
+  [
+   "sa0#11652/whatIHaveToSay[0]",
+   "Renault",
+   "It's someone important, right? I feel like it's someone important.",
+   "那是个重要人物，对吧？我觉得是个重要人物。"
+  ],
+  [
+   "sa0#11674/options[0].text",
+   "Woodcutter ***",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11674/options[10].text",
+   "Woodcutter ***",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11674/options[11].text",
+   "Woodcutter ***",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11674/options[12].text",
+   "Woodcutter ***",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11674/options[13].text",
+   "Woodcutter ***",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11674/options[14].text",
+   "Woodcutter ***",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "sa0#11674/options[15].text",
+   "Woodcutter ***",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11674/options[16].text",
+   "Woodcutter ***",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "sa0#11674/options[17].text",
+   "Woodcutter ***",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11674/options[18].text",
+   "Woodcutter ***",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#11674/options[19].text",
+   "Woodcutter ***",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#11674/options[1].text",
+   "Woodcutter ***",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11674/options[20].text",
+   "Woodcutter ***",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11674/options[2].text",
+   "Woodcutter ***",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11674/options[3].text",
+   "Woodcutter ***",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11674/options[4].text",
+   "Woodcutter ***",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11674/options[5].text",
+   "Woodcutter ***",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11674/options[6].text",
+   "Woodcutter ***",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11674/options[7].text",
+   "Woodcutter ***",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11674/options[8].text",
+   "Woodcutter ***",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11674/options[9].text",
+   "Woodcutter ***",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#11685/whatIHaveToSay[0]",
+   "Gallitzin",
+   "You look strong, but like metals, strength can wane when pressure is applied in the right way. Friends can strengthen that weakness, as metals do to each other when combined.",
+   "你看着强壮，可就像金属一样，若以正确的方式施加压力，再强的力量也会衰退。朋友能补足那份软弱——正如金属相合，彼此增强。"
+  ]
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "kind": "对话/GraveElder",
+  "count": 8,
+  "with_cn": 8
+ },
+ "entries": [
+  [
+   "sa6#29/whatIHaveToSay[0]",
+   "Shione",
+   "I haven't felt otherwise since I met you all.",
+   "自打认识你们，我就没安心过。"
+  ],
+  [
+   "sa6#30/whatIHaveToSay[0]",
+   "Bhulown",
+   "Fur thing knows.",
+   "毛家伙，知道。"
+  ],
+  [
+   "sa6#45/whatIHaveToSay[0]",
+   "Merewen",
+   "Does anyone feel suddenly uneasy?",
+   "有没有人突然觉得心神不宁？"
+  ],
+  [
+   "sa6#48/whatIHaveToSay[0]",
+   "Rycard",
+   "Any good hunt requires persistence. I am not ready to give up.",
+   "任何一场好的狩猎都需要坚持。我还没打算放弃。"
+  ],
+  [
+   "sa6#525/whatIHaveToSay[0]",
+   "Lannon",
+   "This is quite the rabbit trail.",
+   "这条线索绕得可真够远的。"
+  ],
+  [
+   "sa6#540/whatIHaveToSay[0]",
+   "Lannon",
+   "More importantly, where are the keys mentioned in this note?",
+   "更重要的是，这纸条上提到的钥匙在哪里？"
+  ],
+  [
+   "sa6#542/whatIHaveToSay[0]",
+   "Rycard",
+   "Bring it!",
+   "放马过来！"
+  ],
+  [
+   "sa6#545/whatIHaveToSay[0]",
+   "Arbo",
+   "*** deep growl ***",
+   "***低沉的吼声***"
+  ]
+ ]
+}

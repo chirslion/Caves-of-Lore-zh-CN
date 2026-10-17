@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_shadow_text",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60459/whatIHaveToSay[0]",
+   "Start",
+   "<i>Inhabitant of the Umbral Realm:\r</i>\n\n\tBeneath our feet, as we walk most secure in our footing, there lies mystery and darkness. What we presume to be solid ground is only the thin crust of a world which few have seen. The dirt beneath our feet is best seen as three distinct regions: The Exterior, Penumbra and Deep Umbra.",
+   "<i>暗影之域的栖居者：\r</i>\n\n\t就在我们脚下，在最踏实的立足之地以下，藏着神秘与黑暗。我们以为坚实的大地，不过是鲜有人亲见之世界的一层薄壳。脚下的土石，最好视作三个不同的区域：外层、半影与深暗影。"
+  ],
+  [
+   "res#60459/whatIHaveToSay[1]",
+   "Start",
+   "\tIn this writing I will speak of the Deep Umbra; and more specifically of the Inhabitant. The Inhabitant does not belong to a race, nor is it an animal or a man. What category it fills goes back further than any have record of. Likely only the Dark Lord and the Lord of Light know its origin. For in all my studies it has persisted, and appears to neither age, nor grow.",
+   "\t本篇所述，是深暗影；更确切地说，是那位「栖居者」。栖居者不属于任何种族，既非禽兽，亦非人类。它所归属的类别，比一切有记载的历史更为古老。恐怕只有黑暗领主与光之主知晓它的来历。因为在我所有的研究中，它始终存在，既不衰老，也不生长。"
+  ],
+  [
+   "res#60459/whatIHaveToSay[2]",
+   "Start",
+   "\tWhat purpose it serves I cannot say, but it can be called. And it has been called. I began my research the day my eyes beheld it the first time. Oh yes, I have seen it more than once, for my curiosity has drawn me into a dark fascination.",
+   "\t它为何而存在，我无从言说，但它可以被召唤——而且已被召唤过。我研究它的日子，始于我第一次亲眼见到它的那天。哦，是的，我见过它不止一次，因为我的好奇心早已将我拖入一种阴暗的迷恋。"
+  ],
+  [
+   "res#60459/whatIHaveToSay[3]",
+   "Start",
+   "\tIt was one with shadow. It had many arms, and they came not from one source but from every crack in the rock. It seemed more a force than a solid entity, and yet had features akin to that of living beings. It had only one eye, but every blink caused it to appear in a new place. Its jaws were the shadows themselves, and they took life without piercing flesh.",
+   "\t它与阴影浑然一体。它有许多手臂，并非出自一处，而是从岩石的每一道裂缝中伸出。它更像一种力量，而非有形的实体，却有着近似活物的特征。它只有一只眼，可每一次眨眼，它都会出现在新的地方。它的下颌就是阴影本身，不刺破皮肉，便取走性命。"
+  ],
+  [
+   "res#60459/whatIHaveToSay[4]",
+   "Start",
+   "\tIt appeared to have no will of its own, but obeyed those that called it without question. It showed no fear, nor did it have reason to, for no weapon had any effect. Seven times I have seen it now, and the last time I looked directly into its eye, and it into mine. It knew me. It recognized me. I am afraid. Every shadow seems to watch me now. Have I been driven mad, or is my paranoia justified?",
+   "\t它似乎没有自己的意志，只是无条件服从召唤它的人。它毫无惧色，也有理由不惧——因为任何武器都对它无效。如今我已七次见到它；最后一次，我直视了它的眼，它也直视了我。它认识我。它认出了我。我害怕。如今每一道阴影都像是在注视我。是我疯了，还是我的偏执确有道理？"
+  ],
+  [
+   "res#60459/whatIHaveToSay[5]",
+   "Start",
+   "\t\rNow, in my head I hear one voice, echoing endlessly... It says,  “Baumonus!”.\n\n\tI write this as a warning. Do not seek it, or it may seek you in return.",
+   "\t\r现在，我脑中有一个声音，无休止地回荡……它说， “鲍莫努斯！”。\n\n\t我写下这些，是为了警示。不要寻找它，否则它或许会反过来寻找你。"
+  ]
+ ]
+}

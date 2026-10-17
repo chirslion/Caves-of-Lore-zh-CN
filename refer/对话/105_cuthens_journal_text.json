@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "kind": "对话/cuthens_journal_text",
+  "count": 8,
+  "with_cn": 8
+ },
+ "entries": [
+  [
+   "res#60441/whatIHaveToSay[0]",
+   "Start",
+   "<i>This journal belongs to Cuthen Sillabre\r\nIf found, please return to Bryston manor\r</i>\n\r\nDay 1\nI have often asked myself, why the dark lord was so intent on crushing the city of Elok'Ora. Of all the places in Solmaria, why these lands?",
+   "<i>本日志属于库森·西拉布雷\r\n若拾获，请归还布里斯顿庄园\r</i>\n\r\n第 1 天\n我常问自己：黑暗领主为何执意要捣毁埃洛克欧拉城？索尔玛利亚那么大，为何偏偏是这片土地？"
+  ],
+  [
+   "res#60441/whatIHaveToSay[1]",
+   "Start",
+   "Few even remember the name of that once great city, and fewer the name of the dark lord himself.\n\nTomorrow, I shall set to find answers by digging in the western hills, in some of the places Ismanna suggested that I look. She has a knack for uncovering secrets. She has also been missing for some time now...",
+   "如今连那座昔日大城的名字都少有人记得，黑暗领主本人的名号更是无人提起。\n\n明天，我将前往西部丘陵挖掘，寻找伊斯曼娜建议我探查的几处地方。她总有发掘秘密的直觉。而她也已经失踪一段时日了……"
+  ],
+  [
+   "res#60441/whatIHaveToSay[2]",
+   "Start",
+   "Day 5\nI have not been dutiful in filling out this journal. I keep too much in my head... let's see. Where to start... Ah, yes. I found a cave that I had not noticed before, and entered it. I suppose it must have opened after some recent rains.\n\nAnyway, what I find inside is most stunning. Golden veins of light pulse along the walls. I scarcely need a torch at this rate. I wonder if it is some kind of ore.",
+   "第 5 天\n这些天没好好写日志。脑子里装得太多……让我想想，从哪儿说起……啊，对了。我发现了一座此前从未留意的洞穴，便走了进去。想必是近日几场雨后才裂开的。\n\n总之，里面的景象令我目眩：金色的光脉沿壁跳动。照这样，我几乎用不着火把。不知道那是不是某种矿石。"
+  ],
+  [
+   "res#60441/whatIHaveToSay[3]",
+   "Start",
+   "Day 7\nI cannot find a way out. The entrance is just... gone, along with the veins of light. It is not that large of a cave. How could I be so lost? By the light of my torch I swear that I can see my footprints in the dust, from where I entered, but they go to solid rock. I will try another passage.\n\nDay 8\nDown one of the passageways I found something:",
+   "第 7 天\n我找不到出去的路了。入口就那样……消失了，连同那些光脉一起。这洞并不算大，我怎么会迷成这个样子？借着火把的光，我发誓能看见自己进洞时留在尘土里的脚印——可它们通向的却是一整块实心岩石。我再试另一条通道。\n\n第 8 天\n在其中一条通道尽头，我发现了些东西："
+  ],
+  [
+   "res#60441/whatIHaveToSay[4]",
+   "Start",
+   "an embossed area of stone, as if something was once lodged there. The veins that once glowed with light led to it. There are inscriptions on the walls, barely visible... they roughly translate to “May light make good of imprisoned below heart.” The strangest part is that I recognize some of these runes from an old book in the library of lord Bryston.   They are purported to be from before FRT 0,",
+   "一片带有浮雕痕迹的石面，仿佛曾有某物镶嵌其间。那些曾发光的脉络正是通向这里。墙上有铭文，几乎难以辨认……大意可译为：「愿光善处囚于核心之下者。」最奇怪的是，我在布里斯顿勋爵藏书室里的一本旧书中见过其中一些符文。据称它们来自 FRT 0 年之前，"
+  ],
+  [
+   "res#60441/whatIHaveToSay[5]",
+   "Start",
+   "the date of our very first recorded manuscripts, and nearly two thousand cycles before the dark lord first spread his armies across the land. They only loosely line up with the most common ancient runes, so my translation may be off.\n\nDay 9\nI cannot sleep. I am both excited and terrified. Could there be something ancient imprisoned below me that is older than the dark lord?",
+   "也就是我们现存最早手稿的年代，比黑暗领主的军队第一次席卷大地还要早近两千轮。它们与最常见的古符文只能勉强对应，我的译文未必准确。\n\n第 9 天\n我睡不着。既兴奋，又恐惧。难道我脚下真的囚禁着某个比黑暗领主更古老的存在？"
+  ],
+  [
+   "res#60441/whatIHaveToSay[6]",
+   "Start",
+   "Could the missing artifact be a key, to unlock the prison? Or worse... a seal that is now missing. I should not get too focused on it. I may not even make it out, for it has been nearly ten days now.\n\nDay 10\nIt is morning, I think. There is a light that filters through a small crack in the ceiling. If I ever make it out of here, all of this will be a monumental discovery.",
+   "那件失落的物件，会不会是开启牢狱的钥匙？又或者更糟……是一道如今已经缺失的封印？我不该过分纠结于此。我甚至未必出得去——毕竟已经快十天了。\n\n第 10 天\n大约是早晨。有一缕光从天花板的小缝里透进来。若我能活着出去，这一切都将是惊天动地的发现。"
+  ],
+  [
+   "res#60441/whatIHaveToSay[7]",
+   "Start",
+   "I will be famous, perhaps. And... even as I write this, the glow is returning to the walls! I must search for the passage.\n\n\n\n\n\n\n\n\n",
+   "也许我会因此成名。而且……就在我写下这行字的时候，墙上的光正在回来！我必须去找那条通道。\n\n\n\n\n\n\n\n\n"
+  ]
+ ]
+}

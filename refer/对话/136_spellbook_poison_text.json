@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_poison_text",
+  "count": 5,
+  "with_cn": 5
+ },
+ "entries": [
+  [
+   "res#60455/whatIHaveToSay[0]",
+   "Start",
+   "<i>Noxious Fumes\r</i>\n\n\r\tIn all of Solmaria there is no place like the island of Springhold, home to the great city of Elok'ora. As ancient as it is great, home to those from all over the world, and light in the fight against the Dark Lord. There can be no greater city. And yet, Springhold is home to more than great cities.",
+   "<i>毒瘴\r</i>\n\n\r\t遍观整个索尔玛利亚，没有哪里比得上斯普林霍尔德岛——伟大城市埃洛克欧拉的所在。它既古老又宏伟，四海之民汇居于此，是抗击黑暗领主的一线光明。不可能有更伟大的城市了。然而，斯普林霍尔德所孕育的，不止是伟大的城市。"
+  ],
+  [
+   "res#60455/whatIHaveToSay[1]",
+   "Start",
+   "\r\tThe land itself is a treasure, dotted with diverse landscape and a rich history.\n\n\tOne place in particular has grabbed my interest. It is not a place that many would travel, but my interests are of a different nature than most. Though some would struggle to tear their eyes away from the great spires and towers of Elok'ora, mine have drifted to the southwest of the island, to a piece of land ignored by most.",
+   "\r\t这片土地本身就是珍宝，风光殊异，历史丰厚。\n\n\t有一处地方尤其令我着迷。它并非众人乐于前往之地，但我的志趣与多数人不同。别人或许难以把目光从埃洛克欧拉的高塔尖顶之上移开，我的目光却飘向了岛屿西南——一片被大多数人忽略的土地。"
+  ],
+  [
+   "res#60526/whatIHaveToSay[0]",
+   "Page2",
+   "\tI believe it ignorance to value only that which rises high above the earth; hubris to think that lesser sights are therefore of lesser value and no consequence.\n\n\tWhat I have found is a land filled with noxious fumes, poisonous plants, venomous beasts and more.",
+   "\t只珍视高耸于地面之物，我认为那是愚昧；以为低处之景便价值低下、无足轻重，那是狂妄。\n\n\t我所找到的，是一片充斥毒瘴、毒草、毒兽乃至更多的土地。"
+  ],
+  [
+   "res#60526/whatIHaveToSay[1]",
+   "Page2",
+   "\tIt is beautiful. In this place I have satisfied my desire for knowledge, and filled my mind with herbs and toxins. I have teachers here, hidden away from prying eyes. Enter this land without respect and it will consume you. My teachers will not treat you as an honored guest, but as an enemy.",
+   "\t它很美。在这里，我满足了求知的渴望，脑中装满了草药与毒物。我在这里有老师，他们隐于窥探的目光之外。若不怀敬畏踏入这片土地，它便会将你吞没。我的老师们不会把你当作贵客，而是当作敌人。"
+  ],
+  [
+   "res#60941/whatIHaveToSay[0]",
+   "Page3",
+   "\tCome, come to the swamp and learn what this world hides in the shadows. See what mighty kingdoms dwell beneath your gaze when you keep your eyes lifted only to the marvels and creations of man. Come to Agamaar, if you dare.\n\n\tMengid, the Hermit",
+   "\t来吧，到沼泽来，看看这世界在暗影中藏着什么。看看当你的目光只望向人类的奇迹与造物时，怎样的强大国度就栖居在你的视线之下。若你有胆，就到阿加马尔来。\n\n\t门吉德，隐士"
+  ]
+ ]
+}

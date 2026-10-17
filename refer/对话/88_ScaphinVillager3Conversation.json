@@ -1,0 +1,411 @@
+{
+ "meta": {
+  "kind": "对话/ScaphinVillager3Conversation",
+  "count": 67,
+  "with_cn": 67
+ },
+ "entries": [
+  [
+   "res#59712/whatIHaveToSay[0]",
+   "manatite",
+   "Hard rock. No need. Only bone!",
+   "硬石头。不需要。只要骨头！"
+  ],
+  [
+   "res#59745/whatIHaveToSay[0]",
+   "Gallitzin",
+   "So much tool! Need simple. Bone club!",
+   "这么多工具！要简单。骨头棒！"
+  ],
+  [
+   "res#59783/whatIHaveToSay[0]",
+   "graveyard",
+   "Spider make all place grave. Spider make grave for you. Use bone tool for make safe!",
+   "蜘蛛把一切变坟。蜘蛛给你造坟。用骨头，工具才安全！"
+  ],
+  [
+   "res#59831/whatIHaveToSay[0]",
+   "Emerisk",
+   "Many time gone, Scaphin say human use bone tool. Now human not use bone. Maybe human use bone again? Survive be dumb by use bone! It help Scaphin!",
+   "很久以前，斯卡芬，说人类用骨头工具。如今人类不用骨头了。也许人类再用骨头？用骨头，工具才能变得不笨！能帮斯卡芬！"
+  ],
+  [
+   "res#59850/whatIHaveToSay[0]",
+   "completedQuest",
+   "Now can make more bone thing! Gouraah!",
+   "现在能做更多骨头东西了！咕啦！"
+  ],
+  [
+   "res#59864/whatIHaveToSay[0]",
+   "Bhulown",
+   "Head ornament strong. Will grow to power. Am sure.",
+   "头上的装饰，结实。它会成长为力量。我确定。"
+  ],
+  [
+   "res#59883/whatIHaveToSay[0]",
+   "caves",
+   "Many tunnel. Some... need bone tool! Crush spider! Many spider!",
+   "许多隧道。有些……需要骨头，工具！碾碎蜘蛛！蜘蛛很多！"
+  ],
+  [
+   "res#59949/whatIHaveToSay[0]",
+   "Rycard",
+   "Head cloth short. Why?",
+   "头上布短。为什么？"
+  ],
+  [
+   "res#59987/whatIHaveToSay[0]",
+   "corundum",
+   "Always Goblin want. Always Goblin kill to get.",
+   "哥布林，总是想要。哥布林，总是为它杀人。"
+  ],
+  [
+   "res#60037/whatIHaveToSay[0]",
+   "Agmarians",
+   "Also use bone tool. Good at make weapon of many thing. Very strong, fast. Do not unless brave.",
+   "也用骨头，工具。擅长用各种东西做武器。很强，很快。不勇敢，别去惹。"
+  ],
+  [
+   "res#60084/whatIHaveToSay[0]",
+   "Goblins",
+   "Good for make weapon! Strong bone. Get bone from Goblin. Make tool kill Goblin. Circle of life?",
+   "做武器，好材料！骨头，结实。从哥布林身上取骨头。做成工具再杀哥布林。生命的循环？"
+  ],
+  [
+   "res#60090/whatIHaveToSay[0]",
+   "Exo-Hunter",
+   "Is kind of bone, on animal outside. Make strong armor. Rhumophris make for you, if bring chitin. Find animal. Survive animal. Take chitin. Is easy. I do by self, but, too busy.",
+   "是一种骨头，长在动物外面。能做坚固盔甲。鲁莫弗里斯给你做，如果你带来甲壳。找到动物。活下来。取甲壳。很简单。我自己也做，但是，太忙。"
+  ],
+  [
+   "res#60134/whatIHaveToSay[0]",
+   "Merewen",
+   "Head cloth long. Why?",
+   "头上布长。为什么？"
+  ],
+  [
+   "res#60178/whatIHaveToSay[0]",
+   "book",
+   "Summmja... try remember... no. No hear this word.",
+   "苏姆贾……试着想……没有。没听过这词。"
+  ],
+  [
+   "res#60193/whatIHaveToSay[0]",
+   "onQuest",
+   "Coorou! Chitin animals best kind of bone. Tough. Rare. When find , bring. Will make armor. Will make you like them.",
+   "咕罗！甲壳动物的骨头最好。坚韧。稀有。找到 ，带来。会给你做盔甲。让你变得像他们。"
+  ],
+  [
+   "res#60314/whatIHaveToSay[0]",
+   "fog",
+   "Wet tool of human rust. Make bone tool! Last long! Cave wet not eat bone.",
+   "潮湿的人类工具会生锈。用骨头，吧！耐用！洞穴的潮湿不吃骨头。"
+  ],
+  [
+   "res#60343/options[0].text",
+   "Scaphin Villager 2 ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60343/options[1].text",
+   "Scaphin Villager 2 ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60343/options[2].text",
+   "Scaphin Villager 2 ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60343/options[3].text",
+   "Scaphin Villager 2 ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60343/options[4].text",
+   "Scaphin Villager 2 ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60343/options[5].text",
+   "Scaphin Villager 2 ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60343/options[6].text",
+   "Scaphin Villager 2 ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60343/options[7].text",
+   "Scaphin Villager 2 ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60343/options[8].text",
+   "Scaphin Villager 2 ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60343/options[9].text",
+   "Scaphin Villager 2 ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60400/whatIHaveToSay[0]",
+   "job",
+   "The tool. I make. You use.",
+   "工具。我做。你用。"
+  ],
+  [
+   "res#60533/whatIHaveToSay[0]",
+   "onQuest",
+   "Gouraah! Find thing have bone. Take bone. Give to Rhumophris. Easy yes?",
+   "咕啦！找有骨头的东西。取骨头。给鲁莫弗里斯。简单，对吧？"
+  ],
+  [
+   "res#60557/whatIHaveToSay[0]",
+   "Lannon",
+   "Human tools confuse. So many tools. So many cloth.",
+   "人类的工具让人糊涂。这么多工具。这么多布。"
+  ],
+  [
+   "res#60590/whatIHaveToSay[0]",
+   "librarian",
+   "Keh? Not know.",
+   "咳？不知道。"
+  ],
+  [
+   "res#60604/whatIHaveToSay[0]",
+   "Manshroom",
+   "Good for smash. Make mess. Not taste good. Wish mushroom stay still. Wish mushroom not become man.",
+   "适合砸烂。弄得一团糟。不好吃。真希望蘑菇老实待着。真希望蘑菇别变成人。"
+  ],
+  [
+   "res#60622/whatIHaveToSay[0]",
+   "dimension",
+   "Inside bone.... outside bone?",
+   "骨头，里面……骨头，外面？"
+  ],
+  [
+   "res#60680/whatIHaveToSay[0]",
+   "silver",
+   "You like rock? Talk rock much. Consider bone? So much strong! Not heavy!",
+   "你喜欢石头？总说石头。考虑过骨头，吗？强得多！还不重！"
+  ],
+  [
+   "res#60689/whatIHaveToSay[0]",
+   "dark lord",
+   "Dark lord make Scaphin tool. Use Scaphin for evil.",
+   "黑暗领主把斯卡芬，做成工具。用斯卡芬，来行恶。"
+  ],
+  [
+   "res#60703/whatIHaveToSay[0]",
+   "completedQuest",
+   "Gourah! Alive! Much danger. Much success. Is truly brave ones. Now can make armor. Give time. Come back.",
+   "咕啦！你们活着！多么危险。多么成功。真正勇敢的人。现在能做盔甲。给点时间。再来。"
+  ],
+  [
+   "res#60731/whatIHaveToSay[0]",
+   "bone",
+   "Yes. Bone good. You make of bone.  Bone in you, bone in me. Much same. Be friend if bring bone. Bring bone?",
+   "对。骨头好。你用骨头做。 骨头在你里面，骨头在我里面。差不多。带骨头来，就是朋友。带骨头？"
+  ],
+  [
+   "res#60742/whatIHaveToSay[0]",
+   "Airendal",
+   "No tool or cloth. Keh? Can it not use?",
+   "不用工具也不用布。咳？它不能用吗？"
+  ],
+  [
+   "res#60786/whatIHaveToSay[0]",
+   "Arbo",
+   "Gouraah! No tool or cloth!",
+   "咕啦！不用工具也不用布！"
+  ],
+  [
+   "res#60799/whatIHaveToSay[0]",
+   "Archaven",
+   "Good name for bone. Like bone have good name. Cannot all have name bone.",
+   "给骨头的好名字。喜欢骨头有好名字。不能都叫骨头。"
+  ],
+  [
+   "res#60818/whatIHaveToSay[0]",
+   "Scaphin",
+   "Scaphin friend of bone. It with us always. It inside. It in hand. It in enemy, then remove from enemy. Make tool!",
+   "斯卡芬，与骨头，为友。它总与我们同在。它在体内。它在手中。它在敌人身上，那就从敌人身上取下。做成工具！"
+  ],
+  [
+   "res#60851/whatIHaveToSay[0]",
+   "Renault",
+   "Human name. Not know.",
+   "人类的姓氏。不知道。"
+  ],
+  [
+   "res#60857/whatIHaveToSay[0]",
+   "Dimas",
+   "Face make cloth? This where cloth come from?",
+   "脸会做布？布是从这儿来的？"
+  ],
+  [
+   "res#60912/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60912/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60912/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60912/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60912/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60912/options[14].text",
+   "Isobel Warde",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60912/options[15].text",
+   "Isobel Warde",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60912/options[16].text",
+   "Isobel Warde",
+   "Manshroom",
+   "人菇"
+  ],
+  [
+   "res#60912/options[17].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60912/options[18].text",
+   "Isobel Warde",
+   "bone",
+   "骨头"
+  ],
+  [
+   "res#60912/options[19].text",
+   "Isobel Warde",
+   "Exo-Hunter",
+   "甲壳猎人"
+  ],
+  [
+   "res#60912/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60912/options[20].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60912/options[21].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60912/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60912/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60912/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60912/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60912/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60912/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60912/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60912/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60918/whatIHaveToSay[0]",
+   "Laszra",
+   "Can mind be tool?",
+   "脑子能当工具吗？"
+  ],
+  [
+   "res#60921/whatIHaveToSay[0]",
+   "Codex",
+   "Connected to... leg bone?",
+   "连接着……腿骨？"
+  ],
+  [
+   "res#60997/whatIHaveToSay[0]",
+   "Shione",
+   "Head cloth. Body cloth. Always cloth with human.",
+   "头上布。身上布。人类总有布。"
+  ]
+ ]
+}

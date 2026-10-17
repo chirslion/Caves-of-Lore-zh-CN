@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_first_aid",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60472/whatIHaveToSay[0]",
+   "Start",
+   "<i>Binding Wounds and Fear</i>\n\n\n\tTo those that choose the honorable path of healing, may many blessings extend to you. I wish to begin with an experience of mine, which did forge my spirit into what it is today. ",
+   "<i>《包扎伤口与恐惧》</i>\n\n\n\t献给选择「医者」这条光荣之路的诸位，愿诸般祝福与你们同在。我想先讲一段自己的经历——正是它把我的灵魂锻造成了今天的样子。 "
+  ],
+  [
+   "res#60472/whatIHaveToSay[1]",
+   "Start",
+   "\tOn the fields of southern Andwar, facing the might of Ollidan's marauders, I came to face a question that all healers must face. Who shall I save?\n\n\tSurrounding you are wounded. Some are your company, and others are the enemy. In such a slaughter as the Battle of Four-Fields, even healers could be found among the wounded and dead.",
+   "\t在南安达瓦的原野上，面对奥利丹掠军的兵锋，我遇上了一个所有医者都必须面对的问题：我该救谁？\n\n\t你四周都是伤员。有些是自己的袍泽，有些则是敌人。在四野之战那样的屠场里，伤员与死者之中，连医者也不少见。"
+  ],
+  [
+   "res#60472/whatIHaveToSay[2]",
+   "Start",
+   "It is here that you find your true heart.\n\n\tThere are three common answers to this question, of who to save: The one who needs it the most, that he may live. The one who needs the least, so he may continue the fight. And lastly, yourself, that you may continue to heal others.\n\n\tThe lesson I wish to convey is that there is no wrong answer; only a wrong heart.",
+   "正是在这种时刻，你会看清自己真实的心。\n\n\t「先救谁」这个问题，常见的有三种答案：救最需要救治的人，让他活下去；救最不需要救治的人，好让他继续战斗；；最后，救你自己，好让你继续救治别人。\n\n\t我想传达的道理是：答案没有对错之分——只有心的对错。"
+  ],
+  [
+   "res#60472/whatIHaveToSay[3]",
+   "Start",
+   "You will be forced to make quick decisions in such places. What you decide will vary, and may seem almost at a whim, yet a choice made from fear will lead you to darker places still. This is where guilt and shame lie.\n\n\tDo you fear that you may lose the man who is gravely wounded? Perhaps you fear having to look a more able man in the eyes, knowing what faces him. And perhaps you fear for your own life.",
+   "在那里，你不得不在电光石火间做出抉择。你的决定会因人因时而异，看似随意；但出于恐惧的选择，会把你带向更幽暗之处——愧疚与羞愧就栖身在那里。\n\n\t你恐惧的是失去那位重伤之人吗？也许，你恐惧的是望着一个尚有余力的人的眼睛，心里清楚等着他的是什么。又或许，你恐惧的是自己的生死。"
+  ],
+  [
+   "res#60472/whatIHaveToSay[4]",
+   "Start",
+   "\tDo not fall subject to this fear, for our business is that of love and duty, which cannot coexist with fear, for they are at odds.\r\n\r\n\tMedicine is only part of what you must master, for once you leave your mentor you will face more than a challenge of knowledge.\r\n\n\n\r",
+   "\t切莫屈从于这种恐惧。我们行当所系，是爱与责任——而爱与恐惧水火不容，无法并存。\r\n\r\n\t医术只是你须掌握的一部分。因为一旦离开师门，你面对的将远不止一场知识的考验。\r\n\n\n\r"
+  ],
+  [
+   "res#60472/whatIHaveToSay[5]",
+   "Start",
+   "\n\n\tPeace be with you acolyte, and may you bring light to those who are hurting.\n\n\nRegent of Simbory Medical School, Shashessa, Andwar",
+   "\n\n\t愿平安与你同在，学徒。愿你能为受苦之人带去光明。\n\n\n辛伯里医学校摄政，莎舍莎，于安达瓦"
+  ]
+ ]
+}

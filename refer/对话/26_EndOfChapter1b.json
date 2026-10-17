@@ -1,0 +1,591 @@
+{
+ "meta": {
+  "kind": "对话/EndOfChapter1b",
+  "count": 97,
+  "with_cn": 97
+ },
+ "entries": [
+  [
+   "sa20#100/whatIHaveToSay[0]",
+   "Lannon",
+   "This must be what @ was talking about; the seed planted in us.",
+   "这一定就是 @ 所说的；种进我们体内的那颗种子。"
+  ],
+  [
+   "sa20#103/whatIHaveToSay[0]",
+   "Gallitzin",
+   "And fluffy.",
+   "而且毛茸茸的。"
+  ],
+  [
+   "sa20#110/whatIHaveToSay[0]",
+   "Shione",
+   "I think I've seen enough of the unseen for today.",
+   "今天看不见的东西，我看得够多了。"
+  ],
+  [
+   "sa20#115/whatIHaveToSay[0]",
+   "Rycard",
+   "Excuse me??? No... no no no.",
+   "什么？？？不……不不不。"
+  ],
+  [
+   "sa20#117/whatIHaveToSay[0]",
+   "Airendal",
+   "Beauty often is.",
+   "美，往往都是如此。"
+  ],
+  [
+   "sa20#121/whatIHaveToSay[0]",
+   "Laszra",
+   "You can have my share. I plan to see this through.",
+   "我那份归你。我打算把这件事做到底。"
+  ],
+  [
+   "sa20#123/whatIHaveToSay[0]",
+   "Airendal",
+   "@ felt it as well.",
+   "@ 也感觉到了。"
+  ],
+  [
+   "sa20#124/whatIHaveToSay[0]",
+   "Bhulown",
+   "Might need help from Scaphin without curse. I go!",
+   "也许需要没中诅咒的斯卡芬，来帮忙。我去！"
+  ],
+  [
+   "sa20#125/whatIHaveToSay[0]",
+   "Naira",
+   "I believe we are seeing the curse for the first time. This thing... it is beyond my understanding. I must research...",
+   "我相信，这是我们第一次真正见到这诅咒的模样。这东西……超出了我的理解。我必须去研究……"
+  ],
+  [
+   "sa20#128/whatIHaveToSay[0]",
+   "Lannon",
+   "My journey will continue. Stay if you wish, but I will see this through no matter what.",
+   "我的旅程会继续。你想留就留下，但无论如何，我都要把这件事做到底。"
+  ],
+  [
+   "sa20#129/whatIHaveToSay[0]",
+   "Lannon",
+   "We saw these creatures in the Lacunaria. They must be the harvesters.",
+   "我们在拉库纳里亚见过这些生物。他们一定就是收割者。"
+  ],
+  [
+   "sa20#134/whatIHaveToSay[0]",
+   "Lannon",
+   "We will seek nonetheless. And we will prevail.",
+   "即便如此，我们仍要去寻找。而且我们必将胜利。"
+  ],
+  [
+   "sa20#136/whatIHaveToSay[0]",
+   "Lannon",
+   "Where would we find his grave, if he even has one?",
+   "我们去哪里找他的坟墓——如果他真有坟墓的话？"
+  ],
+  [
+   "sa20#141/whatIHaveToSay[0]",
+   "Naira",
+   "I do not know.",
+   "我不知道。"
+  ],
+  [
+   "sa20#141/whatIHaveToSay[1]",
+   "Naira",
+   "Whatever the course of action, I believe that you and your companions are the only ones who can succeed.",
+   "无论采取何种行动，我相信，只有你和你的同伴们能够成功。"
+  ],
+  [
+   "sa20#145/whatIHaveToSay[0]",
+   "librarian_1",
+   "Defeated. It is not the same. I am sorry. I did not know either, before I regained my memories.",
+   "是被打败。那不一样。我很抱歉。在我取回记忆之前，我也不知道。"
+  ],
+  [
+   "sa20#147/whatIHaveToSay[0]",
+   "Merewen",
+   "We are ready for anything.",
+   "我们已经准备好面对一切。"
+  ],
+  [
+   "sa20#15/whatIHaveToSay[0]",
+   "Lannon",
+   "We will do it. We will seek the Dark Lord.",
+   "我们会去做的。我们会去寻找黑暗领主。"
+  ],
+  [
+   "sa20#154/whatIHaveToSay[0]",
+   "Laszra",
+   "Make that @'s share. I doubt he'll need it.",
+   "那份就留给 @ 吧。我猜他也用不着。"
+  ],
+  [
+   "sa20#155/whatIHaveToSay[0]",
+   "Airendal",
+   "Companionship rather than servitude. I will not end this relationship.",
+   "是陪伴，而非奴役。我不会结束这份关系。"
+  ],
+  [
+   "sa20#157/whatIHaveToSay[0]",
+   "Rycard",
+   "The guardian is a cat?",
+   "守护者是只猫？"
+  ],
+  [
+   "sa20#161/whatIHaveToSay[0]",
+   "Merewen",
+   "You must be joking. He was destroyed!",
+   "你一定是在开玩笑。他已经被毁灭了！"
+  ],
+  [
+   "sa20#164/whatIHaveToSay[0]",
+   "Naira",
+   "One of the branches looks different.",
+   "其中一根枝条看起来不一样。"
+  ],
+  [
+   "sa20#19/whatIHaveToSay[0]",
+   "Arbo",
+   "*Woof Woof*",
+   "*汪汪*"
+  ],
+  [
+   "sa20#202/whatIHaveToSay[0]",
+   "Naira",
+   "Thank you all for coming.",
+   "谢谢大家前来。"
+  ],
+  [
+   "sa20#202/whatIHaveToSay[1]",
+   "Naira",
+   "Had you not helped me to remember I would not have recognized that the guardian was among us.",
+   "若不是你们帮我找回记忆，我不会认出守护者就在我们中间。"
+  ],
+  [
+   "sa20#202/whatIHaveToSay[2]",
+   "Naira",
+   "He wishes to share a vision with you.",
+   "他想与你们分享一场幻象。"
+  ],
+  [
+   "sa20#207/whatIHaveToSay[0]",
+   "Laszra",
+   "You must make a choice @. By all rights you have accomplished what you set out to do.",
+   "你必须做出选择，@。按理说，你已经完成了当初要做的事。"
+  ],
+  [
+   "sa20#207/whatIHaveToSay[1]",
+   "Laszra",
+   "You can leave. Find your daughter. Live the life you want.",
+   "你可以离开。去找你的女儿。去过你想要的生活。"
+  ],
+  [
+   "sa20#211/whatIHaveToSay[0]",
+   "Arbo",
+   "*whimper*",
+   "*呜咽*"
+  ],
+  [
+   "sa20#213/whatIHaveToSay[0]",
+   "librarian_1",
+   "Regrettably, I do not know. Maybe he had help.",
+   "很遗憾，我不知道。也许有人帮了他。"
+  ],
+  [
+   "sa20#213/whatIHaveToSay[1]",
+   "librarian_1",
+   "That is why you must seek him out. Find out how to stop this curse.",
+   "正因如此，你必须去寻找他。弄清怎样终结这诅咒。"
+  ],
+  [
+   "sa20#216/whatIHaveToSay[0]",
+   "librarian_1",
+   "It was the Codex that was used to bind him, and it may prevent him from clouding your judgement.",
+   "当初用来束缚他的正是典籍，它也许能阻止他蒙蔽你们的判断。"
+  ],
+  [
+   "sa20#216/whatIHaveToSay[1]",
+   "librarian_1",
+   "Keep it close, and may your travels be protected by the light.",
+   "把它带在身边，愿你的旅途受光明庇佑。"
+  ],
+  [
+   "sa20#221/whatIHaveToSay[0]",
+   "Bhulown",
+   "Eh, only feel draft.",
+   "呃，只感觉有阵风。"
+  ],
+  [
+   "sa20#224/whatIHaveToSay[0]",
+   "Rycard",
+   "I was kind of looking forward to taking a rest.",
+   "我还挺期待能歇一歇的。"
+  ],
+  [
+   "sa20#226/whatIHaveToSay[0]",
+   "Laszra",
+   "Such surprises are to be expected when dealing in the arcane world.",
+   "与奥术世界打交道，这种意外本就在意料之中。"
+  ],
+  [
+   "sa20#228/whatIHaveToSay[0]",
+   "librarian_1",
+   "Not his grave. His prison.",
+   "不是他的坟墓。是他的囚牢。"
+  ],
+  [
+   "sa20#229/whatIHaveToSay[0]",
+   "Rycard",
+   "Did it work? Is the curse lifted?",
+   "成功了吗？诅咒解除了吗？"
+  ],
+  [
+   "sa20#24/whatIHaveToSay[0]",
+   "Lannon",
+   "Then let us be fools. I will not give up. Besides, I never found my lost sheep, remember?",
+   "那就让我们当傻瓜吧。我不会放弃。再说，我那只走丢的羊还没找回来呢，记得吗？"
+  ],
+  [
+   "sa20#254/whatIHaveToSay[0]",
+   "Airendal",
+   "Yes. Will do all to help. Will give all.",
+   "会。会倾尽全力相助。会付出一切。"
+  ],
+  [
+   "sa20#259/whatIHaveToSay[0]",
+   "Shione",
+   "He's so cute.",
+   "他真可爱。"
+  ],
+  [
+   "sa20#26/whatIHaveToSay[0]",
+   "librarian_1",
+   "... I was not expecting this.",
+   "……我没想到会这样。"
+  ],
+  [
+   "sa20#263/whatIHaveToSay[0]",
+   "librarian_1",
+   "I believe so, but this door suggests more to the story.",
+   "我想是的，但这扇门说明事情还有下文。"
+  ],
+  [
+   "sa20#263/whatIHaveToSay[1]",
+   "librarian_1",
+   "The Codex is not just a book, as I have explained. This door would not have opened for just anyone.",
+   "典籍，并非只是一本书，正如我所解释过的。这扇门不会为随便什么人就打开。"
+  ],
+  [
+   "sa20#265/whatIHaveToSay[0]",
+   "Arbo",
+   "*Woof! Woof!*",
+   "*汪！汪！*"
+  ],
+  [
+   "sa20#268/whatIHaveToSay[0]",
+   "Lannon",
+   "I feel that I would be leaving behind a great danger. Could I enjoy a life with her while such danger lurks?",
+   "我觉得自己会抛下一个巨大的危险。这样的危险潜伏着，我怎能安心与她过活？"
+  ],
+  [
+   "sa20#275/whatIHaveToSay[0]",
+   "Bhulown",
+   "Glad to be Scaphin, not human.",
+   "庆幸是斯卡芬，不是人类。"
+  ],
+  [
+   "sa20#276/whatIHaveToSay[0]",
+   "librarian_1",
+   "I see no other way, but know this: he is untrustworthy and dangerous, even while bound.",
+   "我看不到别的办法，但你要知道这一点：即便被束缚着，他也不可信、且危险。"
+  ],
+  [
+   "sa20#276/whatIHaveToSay[1]",
+   "librarian_1",
+   "Do not fully trust his words. There may be truth, but he will always twist it.",
+   "不要完全相信他的话。也许其中有真话，但他总会加以扭曲。"
+  ],
+  [
+   "sa20#278/whatIHaveToSay[0]",
+   "Laszra",
+   "It is beautiful. And likely dangerous.",
+   "它很美。而且多半很危险。"
+  ],
+  [
+   "sa20#279/whatIHaveToSay[0]",
+   "Shione",
+   "I can't resist an adventure. I'm in.",
+   "我抵挡不住冒险。算我一个。"
+  ],
+  [
+   "sa20#281/whatIHaveToSay[0]",
+   "Rycard",
+   "*sigh* Stop making me look bad. I'm in.",
+   "*叹气* 别再让我显得不够义气了。算我一个。"
+  ],
+  [
+   "sa20#285/whatIHaveToSay[0]",
+   "Lannon",
+   "Do we even know that it can be destroyed?",
+   "我们真的知道它能够被毁灭吗？"
+  ],
+  [
+   "sa20#286/whatIHaveToSay[0]",
+   "Laszra",
+   "We have peered into other worlds before. Let us see this vision then.",
+   "我们从前也窥探过别的世界。那就让我们看看这场幻象吧。"
+  ],
+  [
+   "sa20#290/whatIHaveToSay[0]",
+   "Arbo",
+   "*whimper*",
+   "*呜咽*"
+  ],
+  [
+   "sa20#291/whatIHaveToSay[0]",
+   "Rycard",
+   "This sounds like madness.",
+   "这听起来像疯话。"
+  ],
+  [
+   "sa20#292/whatIHaveToSay[0]",
+   "Merewen",
+   "This has been happening all around us? For how long?",
+   "这种事一直发生在我们周围？持续多久了？"
+  ],
+  [
+   "sa20#296/whatIHaveToSay[0]",
+   "Lannon",
+   "Don't be jealous boy. No one can replace you.",
+   "别吃醋，伙计。没人能取代你。"
+  ],
+  [
+   "sa20#296/whatIHaveToSay[1]",
+   "Lannon",
+   "I saw this cat before I fell into the caves. This explains a lot.",
+   "掉进洞穴，那是很久以前——在那之前我就见过这只猫。这一下能解释很多事。"
+  ],
+  [
+   "sa20#298/whatIHaveToSay[0]",
+   "Rycard",
+   "The Dark Lord lives. Wonderful.",
+   "黑暗领主还活着。好极了。"
+  ],
+  [
+   "sa20#302/whatIHaveToSay[0]",
+   "Lannon",
+   "I felt a power from the Codex sweep across me.",
+   "我感到一股来自典籍，的力量扫过我全身。"
+  ],
+  [
+   "sa20#304/whatIHaveToSay[0]",
+   "Merewen",
+   "You are saying that we are meant to go down there?",
+   "你是说，我们注定要下到那里去？"
+  ],
+  [
+   "sa20#305/whatIHaveToSay[0]",
+   "Gallitzin",
+   "1000 years... how many remain?",
+   "一千年……还剩多少？"
+  ],
+  [
+   "sa20#311/whatIHaveToSay[0]",
+   "Naira",
+   "Follow me.",
+   "跟我来。"
+  ],
+  [
+   "sa20#312/whatIHaveToSay[0]",
+   "Bhulown",
+   "Hard to be human.",
+   "当人类，难。"
+  ],
+  [
+   "sa20#314/whatIHaveToSay[0]",
+   "Rycard",
+   "Are you saying that we all have this thing growing out of us? I think I'm going to be sick.",
+   "你是说，我们体内都长着这东西？我想我要吐了。"
+  ],
+  [
+   "sa20#315/whatIHaveToSay[0]",
+   "Laszra",
+   "And how did he level the curse from such a prison? Was he not fully bound?",
+   "可他从这样的囚牢里，是怎么降下诅咒的？他并没有被完全束缚住吗？"
+  ],
+  [
+   "sa20#316/whatIHaveToSay[0]",
+   "Dimas",
+   "And what will happen when we destoy this thing?",
+   "那等我们毁掉这东西，会发生什么？"
+  ],
+  [
+   "sa20#32/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I'd still be in a crypt if it weren't for you. You can count on me.",
+   "要不是你，我还躺在墓室里。你可以信赖我。"
+  ],
+  [
+   "sa20#323/whatIHaveToSay[0]",
+   "Naira",
+   "He only appears as a cat, but is something more than that.",
+   "他只是以猫的形态现身，但远不止是一只猫。"
+  ],
+  [
+   "sa20#323/whatIHaveToSay[1]",
+   "Naira",
+   "He wishes to share a vision with you @, as he did when you first met him.",
+   "他想与你分享一场幻象，@，就像你们初次相见时那样。"
+  ],
+  [
+   "sa20#323/whatIHaveToSay[2]",
+   "Naira",
+   "This room was made for revealing hidden things. It is a place to glimpse into the unseen.",
+   "这间厅堂是为揭示隐秘而造的。在这里可以窥见不可见之物。"
+  ],
+  [
+   "sa20#323/whatIHaveToSay[3]",
+   "Naira",
+   "Prepare yourself. I do not know what you will see, and it may be difficult to accept.",
+   "做好准备。我不知道你会看见什么，也许难以接受。"
+  ],
+  [
+   "sa20#325/whatIHaveToSay[0]",
+   "Cat",
+   "*mew*",
+   "*喵*"
+  ],
+  [
+   "sa20#327/whatIHaveToSay[0]",
+   "librarian_1",
+   "Place the Codex into the slot.",
+   "把典籍，放进凹槽里。"
+  ],
+  [
+   "sa20#332/whatIHaveToSay[0]",
+   "Rycard",
+   "So... the place with all the dark energy still corrupting things above? Great!",
+   "所以……就是那个满是黑暗能量、还在污染上方万物的地方？好极了！"
+  ],
+  [
+   "sa20#334/whatIHaveToSay[0]",
+   "librarian_1",
+   "Then it is decided. One chapter closes, and another begins.",
+   "那就这么定了。一章落幕，另一章开启。"
+  ],
+  [
+   "sa20#336/whatIHaveToSay[0]",
+   "librarian_1",
+   "The pursuit of knowledge is a righteous endeavor, but some things will remain a mystery no matter how hard you seek.",
+   "追求知识是正当的事业，但有些事物，无论你如何求索，终究是谜。"
+  ],
+  [
+   "sa20#34/whatIHaveToSay[0]",
+   "Merewen",
+   "This sounds like a fool's errand.",
+   "这听着像是傻子才干的差事。"
+  ],
+  [
+   "sa20#42/whatIHaveToSay[0]",
+   "librarian_1",
+   "So be it. You will find him in a dungeon far below this place, where he was bound for 1000 years.",
+   "那就这样吧。你会在这地方地底深处的地牢里找到他——他在那里被囚禁了一千年。"
+  ],
+  [
+   "sa20#43/whatIHaveToSay[0]",
+   "Gallitzin",
+   "We will face it together friend. No matter what comes.",
+   "我们一起面对，朋友。无论将要发生什么。"
+  ],
+  [
+   "sa20#44/whatIHaveToSay[0]",
+   "Naira",
+   "I have not yet made sense of this vision. Something went wrong, for certain.",
+   "我还没能弄清这场幻象的含义。可以确定的是，有哪里出了差错。"
+  ],
+  [
+   "sa20#44/whatIHaveToSay[1]",
+   "Naira",
+   "We must hurry and use the Codex.",
+   "我们必须赶快使用典籍。"
+  ],
+  [
+   "sa20#46/whatIHaveToSay[0]",
+   "librarian_1",
+   "I am not sure that he even can be killed.",
+   "我甚至不确定他能否被杀死。"
+  ],
+  [
+   "sa20#69/whatIHaveToSay[0]",
+   "Dimas",
+   "I will come, on one condition... extra treasure. A double portion!",
+   "我会来，但有一个条件……额外宝藏。要双份！"
+  ],
+  [
+   "sa20#71/whatIHaveToSay[0]",
+   "Rycard",
+   "Not just companions. Friends.",
+   "不只是同伴。是朋友。"
+  ],
+  [
+   "sa20#74/whatIHaveToSay[0]",
+   "librarian_1",
+   "I do not know.",
+   "我不知道。"
+  ],
+  [
+   "sa20#76/whatIHaveToSay[0]",
+   "Naira",
+   "He has been waiting to show you this for some time.",
+   "他想给你看这个，已经等了很久。"
+  ],
+  [
+   "sa20#76/whatIHaveToSay[1]",
+   "Naira",
+   "but.. I do not know what we are seeing.",
+   "但是……我不知道我们看到的是什么。"
+  ],
+  [
+   "sa20#80/whatIHaveToSay[0]",
+   "Merewen",
+   "You will not go alone.",
+   "你不会孤身前往。"
+  ],
+  [
+   "sa20#81/whatIHaveToSay[0]",
+   "Lannon",
+   "Then it begins. The next stage in our journey. We still do not know the nature of the fog.",
+   "那就开始吧。我们旅程的下一段。迷雾的本质，我们仍未弄清。"
+  ],
+  [
+   "sa20#81/whatIHaveToSay[1]",
+   "Lannon",
+   "And, our knowledge of the Codex is limited. But we will find answers!",
+   "而且，我们对典籍，的了解有限。但我们终会找到答案！"
+  ],
+  [
+   "sa20#87/whatIHaveToSay[0]",
+   "Laszra",
+   "Or should be?",
+   "或者说，本应如此？"
+  ],
+  [
+   "sa20#94/whatIHaveToSay[0]",
+   "Bhulown",
+   "Coorou! Maybe, having Scaphin without curse will help. Can hope.",
+   "咕罗！也许有个没中诅咒的斯卡芬，能帮上忙。可以抱希望。"
+  ],
+  [
+   "sa20#96/whatIHaveToSay[0]",
+   "Naira",
+   "You willl need each other more than ever, for you must seek... the Dark Lord.",
+   "你们会比以往任何时候都更需要彼此——因为你们必须去寻找……黑暗领主。"
+  ],
+  [
+   "sa20#98/whatIHaveToSay[0]",
+   "librarian_1",
+   "I know you are, daughter. Your steadfastness has brought you this far.",
+   "我知道你会，女儿。正是你的坚韧让你走到了今天。"
+  ]
+ ]
+}

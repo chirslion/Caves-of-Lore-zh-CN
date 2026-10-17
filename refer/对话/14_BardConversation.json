@@ -1,0 +1,489 @@
+{
+ "meta": {
+  "kind": "对话/BardConversation",
+  "count": 80,
+  "with_cn": 80
+ },
+ "entries": [
+  [
+   "res#59754/whatIHaveToSay[0]",
+   "librarian",
+   "Most towns have at least one, depending on the size of the library. It is most odd if you ask me. Why bind up blank sheets together? To what end? I must be missing something.",
+   "多数的镇子至少会有一位，视图书馆的规模而定。要我说，真是古怪。把一叠空白纸页装订成册，图什么？我一定是漏掉了什么。"
+  ],
+  [
+   "res#59754/whatIHaveToSay[1]",
+   "librarian",
+   "That reminds me, I lost one on the way here... a book, not a librarian. I was staying in a small home just west of here. How long ago was that? Cycles, maybe.",
+   "这倒提醒了我，来的路上我丢了一个……一本书，不是一位图书管理员。我当时就住在此地西边的一座小屋里。那是多久以前了？也许是好几轮吧。"
+  ],
+  [
+   "res#59765/whatIHaveToSay[0]",
+   "graveyard",
+   "I travelled through one once. It was late and I took a break beneath a large oak tree. It was an odd place to rest, but I felt something come over me. Anyways, I looked up at the stars, and there was something above me in the tree. It had the faintest glow.",
+   "我曾路过一处。天色已晚，我在一棵大橡树下歇脚。在那里休息是有些古怪，可有某种东西向我袭来。总之，我抬头望星，树上就在我头顶有什么东西，泛着最微弱的光。"
+  ],
+  [
+   "res#59765/whatIHaveToSay[1]",
+   "graveyard",
+   "I reached up and plucked it from the branches, and it was a fruit, but somehow only the spectre of one. It was so peculiar. Anyways, so I ate it. Perhaps, in hindsight, this was foolish. But oh the rush of energy!",
+   "我伸手把它从枝头摘下——那是一枚果子，可不知怎地，只是果子的一道幽灵。太奇特了。总之，我把它吃了。事后想来，这大概很蠢。可那股奔涌的能量啊！"
+  ],
+  [
+   "res#59811/whatIHaveToSay[0]",
+   "Emerisk",
+   "The mayor says there are no other villages, but I can prove it! I know all of the greatest hits from the nearby villages. I shall sing one for you. Let's see... something about a goat... two loaves of bread... no no, that was dinner...",
+   "镇长说再没有别的村庄了，可我能证明！附近村庄的那些名曲我全都会。我来给你唱一首。让我想想……关于一只山羊的……两条面包……不不，那是晚饭……"
+  ],
+  [
+   "res#59811/whatIHaveToSay[1]",
+   "Emerisk",
+   "Perhaps the mayor is right. I was so sure, and yet now I cannot recall any...",
+   "也许镇长是对的。我原本那么笃定，可如今却一首都想不起来了……"
+  ],
+  [
+   "res#59838/whatIHaveToSay[0]",
+   "Dimas",
+   "Do you have any new stories? Sometimes I feel as though I have heard them all.",
+   "你有什么新故事吗？有时候我觉得，所有的故事我都听过了。"
+  ],
+  [
+   "res#59866/whatIHaveToSay[0]",
+   "caves",
+   "I love to sing about them. There is so much unknown, and so much to learn. Ancient writings say that most civilizations began underground because it was so dangerous above.",
+   "我最爱歌唱它们。有那么多未知，有那么多待学。古代文献说，多数文明都发源于地下，因为地上太过危险。"
+  ],
+  [
+   "res#59866/whatIHaveToSay[1]",
+   "caves",
+   "Hah, I almost believe my own tales. How ridiculous... ancient writings... preposterous, I know.",
+   "哈哈，我差点连自己的故事都信了。多么荒唐……古代文献……无稽之谈，我知道。"
+  ],
+  [
+   "res#59931/whatIHaveToSay[0]",
+   "Rycard",
+   "Welcome, weary stranger. Might I interest you in a tale?",
+   "欢迎，疲惫的旅人。可有兴趣听一段故事？"
+  ],
+  [
+   "res#59958/whatIHaveToSay[0]",
+   "Bhulown",
+   "I... know you... do I not?",
+   "我……认识你……是不是？"
+  ],
+  [
+   "res#59970/whatIHaveToSay[0]",
+   "Airendal",
+   "Umm.. hi... whatever you are. Can I.. ughh... I have to go.",
+   "呃……你好……不管你是什么东西。我能……唉……我得走了。"
+  ],
+  [
+   "res#59974/whatIHaveToSay[0]",
+   "corundum",
+   "Yet another metal. Yes, I have heard of it. No, I do not care to speak of it anymore.",
+   "又是一种金属。是的，我听说过。不，我不想再谈它了。"
+  ],
+  [
+   "res#60017/whatIHaveToSay[0]",
+   "Agmarians",
+   "You have heard of them? How unusual. Most in the village have not. I once knew a very friendly one, but I cannot recall his name. We even travelled together, believe it or not.",
+   "你听说过他们？真少见。村里大多数人都不了解。我曾认识一位非常友善的阿格玛人，可我想不起他的名字了。我们甚至结伴同行过，信不信由你。"
+  ],
+  [
+   "res#60017/whatIHaveToSay[1]",
+   "Agmarians",
+   "Those who do know of their existence often see them only as vile enemies. But I find them fascinating.",
+   "知道他们存在的人，往往只把他们当作邪恶的敌人。但我觉得他们很迷人。"
+  ],
+  [
+   "res#60051/whatIHaveToSay[0]",
+   "completedQuest",
+   "I don't know why, but I feel as though that book brought me great joy and great trouble. It is only a feeling though. I have my beloved lute back. It will need much work, but I am happy to do it. Thank you.",
+   "不知为何，我总觉得那本书给我带来了莫大的喜悦与莫大的麻烦。不过只是感觉罢了。我的宝贝鲁特琴回来了。它需要大修，但我乐意修。谢谢你。"
+  ],
+  [
+   "res#60068/whatIHaveToSay[0]",
+   "Goblins",
+   "Joyful little things. I once had one as a companion. Yes, it was locked in a cage, of course... for our safety. But, oh the joy it brought to the children to see such a sight! I cannot remember what became of it. Dangerous little things they are...",
+   "快乐的小东西。我曾养过一只作伴。是的，它当时被关进牢笼……为了我们的安全。可是，孩子们见到那副景象时的那份欢喜啊！它后来怎么样了，我记不清了。危险的小东西……"
+  ],
+  [
+   "res#60091/whatIHaveToSay[0]",
+   "Gammon",
+   "Gammon, the elemental moon. It controls the elements some say. Fires rage stronger when it is present, and cold grows even worse when it vanishes from the sky. At the horizon, both earth and lightning are empowered, for they sometimes work together.",
+   "加蒙，元素之月。有人说它掌控元素。它出现时，火焰烧得更烈；它从天际消失时，严寒愈发难熬。行至地平线时，大地与闪电皆得其力，因为它们有时会彼此协作。"
+  ],
+  [
+   "res#60091/whatIHaveToSay[1]",
+   "Gammon",
+   "But this is most likely just a tale. Perhaps I will set up an experiment one day to test this out. What would I have to lose? How thrilling! I have gone and excited myself.",
+   "不过，这多半只是个传说。也许哪天我该做个实验验证一下。我又有什么可失去的呢？多刺激啊！我自己把自己激动起来了。"
+  ],
+  [
+   "res#60091/whatIHaveToSay[2]",
+   "Gammon",
+   "Some say this, some say that. It is impossible to know the truth, is it not? And I have a hard time remembering even what I know to be true. All I ask for is good material for my next song.",
+   "有人这样说，有人那样说。真相无从知晓，不是吗？就连我确信为真的事，我也记不清了。我求的只是下一首歌的好素材。"
+  ],
+  [
+   "res#60113/whatIHaveToSay[0]",
+   "Merewen",
+   "Ahoy, weary maiden! Would you care to dance?",
+   "航海啦，疲惫的少女！可愿共舞一曲？"
+  ],
+  [
+   "res#60153/whatIHaveToSay[0]",
+   "blue light",
+   "I see them in the fog, along with many other flashes of color and light. I cannot say exactly why, but sometimes they resemble people or places I feel like I once knew.",
+   "它们就在迷雾。我看见它们，还有许多别的色彩与光点闪动。我说不清为什么，有时候它们像是某些人、某些地方，仿佛我曾认识。"
+  ],
+  [
+   "res#60200/whatIHaveToSay[0]",
+   "Codex",
+   "Are there not many codexi? Codexes? Coddix maybe... regardless, the word usually refers to some collection of knowledge. Anyways, I know nothing about them.",
+   "难道不是有很多「典籍」吗？「典籍们」？「典典」？……不管怎样，这个词通常指某种知识的汇集。总之，我对它们一无所知。"
+  ],
+  [
+   "res#60293/whatIHaveToSay[0]",
+   "fog",
+   "I have travelled through enough of it to know I do not wish to re-enter it. It is no normal fog, mind you. I see visions of my memories flash on its edge, a reminder as my thoughts leave me. I used to know so many stories..",
+   "我穿行过它足够多次，知道自己不想再进去了。它可不是寻常的雾。我在它的边缘看见自己记忆的幻象闪现——那是我思绪离去时的提醒。我曾知道那么多故事……"
+  ],
+  [
+   "res#60322/options[0].text",
+   "Loric",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60322/options[1].text",
+   "Loric",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60322/options[2].text",
+   "Loric",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60322/options[3].text",
+   "Loric",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60322/options[4].text",
+   "Loric",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60322/options[5].text",
+   "Loric",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60322/options[6].text",
+   "Loric",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60322/options[7].text",
+   "Loric",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60322/options[8].text",
+   "Loric",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60322/options[9].text",
+   "Loric",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60379/whatIHaveToSay[0]",
+   "job",
+   "I am a bard. I beguile weary visitors with instrument, song and tale. It is a life worth pursuing, and only one pursued by those willing to give up the comforts of having a home and a family.",
+   "我是吟游诗人。以乐器、歌声与故事款待疲惫的来客。这是一条值得走的路，也只有甘愿舍弃家宅与亲人温暖的人才肯走。"
+  ],
+  [
+   "res#60532/whatIHaveToSay[0]",
+   "Laszra",
+   "I can see that you are a man well learned. Let us share our stories and a drink sometime.",
+   "看得出你是位博学之人。改天我们分享彼此的故事，喝上一杯吧。"
+  ],
+  [
+   "res#60536/whatIHaveToSay[0]",
+   "Lannon",
+   "Hello, weary traveller! Let me play you a song!",
+   "你好啊，疲惫的旅人！让我为你弹唱一曲！"
+  ],
+  [
+   "res#60648/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Salutations, weary warrior. Shall we share a pint of ale and tell tales of wonder?",
+   "敬礼，疲惫的战士。要不要共饮一品脱麦酒，讲讲奇闻轶事？"
+  ],
+  [
+   "res#60667/whatIHaveToSay[0]",
+   "silver",
+   "Metals are one of those things I could never get excited about. I know... it is to my shame. All things should be exciting to a bard, should they not? And yet, I could not convince myself of this.",
+   "金属从来是那种让我提不起兴致的东西。我知道……这是我的羞耻。对吟游诗人来说，万物都该有迷人之处，不是吗？可月亮，米亚拉，无论哪一样，我都说服不了自己。"
+  ],
+  [
+   "res#60691/whatIHaveToSay[0]",
+   "book",
+   "I used to carry one with me on my journeys... perhaps I still have it. Ah, yes, here it is. You may have it... but not for free. Would you be willing to find my lost lute?",
+   "我以前旅途中总会随身带一本……也许现在还留着。啊，有了，在这儿。可以给你……但不白给。你愿意帮我找回丢失的鲁特琴吗？"
+  ],
+  [
+   "res#60765/whatIHaveToSay[0]",
+   "Arbo",
+   "Greetings, weary canine! I have no use for this trinket obtained in my travels. Would you like it?\t",
+   "问候，疲惫的犬儿！旅途中得来的这件小玩意儿我留着无用。你想要吗？\t"
+  ],
+  [
+   "res#60805/whatIHaveToSay[0]",
+   "Scaphin",
+   "I once entered a drinking contest with one, to which I sorely lost. They can drink as much liquid as a man has in his entire body! They cannot, however, handle their liquor. I retrieved my lost coin when he passed out. Lightweights.",
+   "我曾和一个斯卡芬比过喝酒，输得很惨。他们能喝下足足一个人全身的液量！不过，他们酒量其实很差。他昏过去时，我捡回了输掉的硬币。都是些好对付的家伙。"
+  ],
+  [
+   "res#60805/whatIHaveToSay[1]",
+   "Scaphin",
+   "For all I know there is still a bounty on my head for that whole ordeal.",
+   "据我所知，因为那场闹剧，我头上至今还挂着一笔悬赏呢。"
+  ],
+  [
+   "res#60831/whatIHaveToSay[0]",
+   "Renault",
+   "I have heard that name before. It was from a story about a sacred place with protective magic. The hero of the story takes shelter in an ancient shrine to hide from evil. The shelter shields him and he has time to heal.\t",
+   "我听过那个名字。它出自一个关于圣地与护佑魔法的故事。故事里的英雄躲进一座古老的神龛，以避开邪恶。那庇护所挡住了邪物，让他得以喘息疗伤。\t"
+  ],
+  [
+   "res#60831/whatIHaveToSay[1]",
+   "Renault",
+   "I do not remember much else, sadly. Many of the stories I once knew are fragmented. Why did I become a bard if I am so bad at remembering?",
+   "可惜其余的我记不清了。我曾知道的许多故事都已破碎。记性这么差，我当初何苦去做吟游诗人呢？"
+  ],
+  [
+   "res#60877/whatIHaveToSay[0]",
+   "venture",
+   "My venturing days are over. A new adventure has begun! I will teach others of the things I have seen.",
+   "我的远行岁月结束了。新的冒险，已经开始！我要把见过的一切教给别人。"
+  ],
+  [
+   "res#60891/options[0].text",
+   "Bard",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60891/options[10].text",
+   "Bard",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60891/options[11].text",
+   "Bard",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60891/options[12].text",
+   "Bard",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60891/options[13].text",
+   "Bard",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60891/options[14].text",
+   "Bard",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60891/options[15].text",
+   "Bard",
+   "moons",
+   "月亮"
+  ],
+  [
+   "res#60891/options[16].text",
+   "Bard",
+   "venture",
+   "闯荡"
+  ],
+  [
+   "res#60891/options[17].text",
+   "Bard",
+   "Gammon",
+   "加蒙"
+  ],
+  [
+   "res#60891/options[18].text",
+   "Bard",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60891/options[19].text",
+   "Bard",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60891/options[1].text",
+   "Bard",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60891/options[20].text",
+   "Bard",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60891/options[21].text",
+   "Bard",
+   "cage",
+   "牢笼"
+  ],
+  [
+   "res#60891/options[22].text",
+   "Bard",
+   "zenith",
+   "天顶"
+  ],
+  [
+   "res#60891/options[2].text",
+   "Bard",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60891/options[3].text",
+   "Bard",
+   "book",
+   "书"
+  ],
+  [
+   "res#60891/options[4].text",
+   "Bard",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60891/options[5].text",
+   "Bard",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60891/options[6].text",
+   "Bard",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60891/options[7].text",
+   "Bard",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60891/options[8].text",
+   "Bard",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60891/options[9].text",
+   "Bard",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60919/whatIHaveToSay[0]",
+   "moons",
+   "They hang above us, high and lofty at their zenith. It is said they are responsible for some of the aberrations that walk this world. That being the case, their positions can also manipulate those creatures. There is not much more that I know of them, except perhaps for Gammon.",
+   "它们高悬于我们之上，行至天顶，高远而崇高。据说，世上某些畸变之物正是因它们而生。既然如此，它们的方位也能操纵那些生物。关于它们我知的并不多，或许除了加蒙。"
+  ],
+  [
+   "res#60943/whatIHaveToSay[0]",
+   "zenith",
+   "It is a beautiful word. There was a time where I felt that I was at my zenith, but now I feel closer to a nadir.\n\nSorry to confuse. These words have to do with strength, or height. When a moon reaches its zenith, it can be felt as much as seen. At least, it can to those who are paying attention.",
+   "这是个美丽的词。曾有一段时间，我觉得自己正处在天顶；而如今，我觉得自己更接近天底。\n\n抱歉让你困惑了。这些词与力量有关，或者说与高度有关。当一轮月亮行至天顶，它不仅能被看见，也能被感知。至少，用心留意的人感觉得到。"
+  ],
+  [
+   "res#60943/whatIHaveToSay[1]",
+   "zenith",
+   "There are legends of those who could absorb the power of the moons, but in all my travels I have not seen such a thing... at least that I can recall.",
+   "有传说说，有些人能吸纳众月的力量；可走遍各地，我从未见过这等事……至少，在我的记忆里没有。"
+  ],
+  [
+   "res#60944/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Yes... that does sound familiar. But I cannot place it.",
+   "是的……听着确实耳熟。可我想不起是在哪里了。"
+  ],
+  [
+   "res#60955/whatIHaveToSay[0]",
+   "cage",
+   "Some things are kept in a cage for our safety. Others are kept in a cage for their own safety. It makes you wonder about the fog doesn't it? Is something trying to keep us in, or something else out?",
+   "有些东西被关进牢笼，是为了我们安全；有些被关进牢笼，则是为了它们自己的安全。这不免让人想到迷雾，不是吗？究竟是有东西想把我们关在里面，还是有东西想挡在外面？"
+  ],
+  [
+   "res#60955/whatIHaveToSay[1]",
+   "cage",
+   "I came through the fog, so you would think I'd know. Sadly, I can remember but a few songs and tales, and those are fading as well.",
+   "我就是穿过迷雾来的，你大概以为我该知道。可惜，我只记得寥寥几首歌与故事，连它们也在褪色。"
+  ],
+  [
+   "res#60958/whatIHaveToSay[0]",
+   "Shione",
+   "Well met, weary traveller. Might I have your hand in marriage? No? I suppose that was rather forward of me...",
+   "幸会，疲惫的旅人。可愿意与我结为夫妻？不愿意？看来我方才唐突了些……"
+  ],
+  [
+   "res#60983/whatIHaveToSay[0]",
+   "onQuest",
+   "It is called the Voice of Errolas, and has been passed down in my family for... well, a long time probably. I dropped it into the stream near the inn, and it disappeared over the edge of the waterfall.",
+   "它叫「埃罗拉斯之声」，在我家传了……嗯，大概很多年了。我把它掉进了旅店旁的小溪，它顺着瀑布的边缘消失了。"
+  ],
+  [
+   "res#60983/whatIHaveToSay[1]",
+   "onQuest",
+   "There may be nothing left... but please return it if you can. Afterwards, you may have this book.",
+   "也许它已经不剩什么了……但若能找回来，请务必归还。事成之后，这本书就送给你。"
+  ],
+  [
+   "res#60987/whatIHaveToSay[0]",
+   "dark lord",
+   "Of course I have heard tales, and, possibly, made some of my own. A reign of such length surely has room for my own take. I was writing a series... but I cannot imagine how, nor do I know where any of the copies are.",
+   "我自然听过许多传说，甚至可能自己也编过一些。那么漫长的统治，总该容得下我自己的版本。我当时正在写一个系列……可我记不起是怎么写的，也不知道任何一本抄本的下落。"
+  ],
+  [
+   "res#60987/whatIHaveToSay[1]",
+   "dark lord",
+   "I am suddenly quite sad, and I do not know why. I feel like I have lost something important to me. I certainly am prone to losing things lately.",
+   "我忽然十分悲伤，却不知为何。我总觉得，自己弄丢了什么重要的东西。近来我确实很容易丢东西。"
+  ]
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "kind": "对话/KazimarGiveTeleport",
+  "count": 4,
+  "with_cn": 4
+ },
+ "entries": [
+  [
+   "sa20#137/whatIHaveToSay[0]",
+   "enchanter_1",
+   "The next time you are in combat, try to call upon any absent companions. I believe the book will answer somehow.",
+   "下次战斗时，试着召唤缺席的同伴。我相信那本书会以某种方式回应。"
+  ],
+  [
+   "sa20#158/whatIHaveToSay[0]",
+   "enchanter_1",
+   "Well... mostly. I still seem connected to that realm. I believe it was more than just the plant that caused the rift to open.",
+   "嗯……大体上是。我似乎仍与那个领域相连。我相信打开裂隙的不只是那株植物。"
+  ],
+  [
+   "sa20#203/whatIHaveToSay[0]",
+   "enchanter_1",
+   "You did it! Whatever you did, this curse has ended.",
+   "你做到了！不管你是怎么做到的，诅咒已经终结了。"
+  ],
+  [
+   "sa20#287/whatIHaveToSay[0]",
+   "enchanter_1",
+   "I believe the Codex was the catalyst, and I believe you could make it happen again.",
+   "我相信典籍，是那场变故的引子，我也相信你能让它再度发生。"
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_dungeon_text",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60451/whatIHaveToSay[0]",
+   "Start",
+   "<i>Towers of Dimlight\r</i>\n\r\n\tWithin countless dungeons hide secrets untold. Beneath endless caverns lie deeper dungeons still. And beneath them all lie the Towers of Dimlight.",
+   "<i>昏光塔群\r</i>\n\r\n\t无数地牢之中藏着未曾言说的秘密。无尽洞穴之下，还有更深的地牢。而在这一切之下，矗立着昏光塔群。"
+  ],
+  [
+   "res#60451/whatIHaveToSay[1]",
+   "Start",
+   "Tendrils of shadow and flame reach skyward, but the Towers are like roots, descending into the depths. Passageways yearning for cracks in the stone, penetrating into the core of Solmaria. They draw up evil like a plant draws up water. They were made for such a purpose. No! They were grown for such a purpose as this, from the hatred of the one who is trapped there.",
+   "阴影与火焰的卷须向天伸张，可这些塔却像根系，向着深处下探。通道渴望着石中的裂隙，一路扎入索尔玛利亚的核心。它们汲取邪恶，如植物汲取水分。它们生来便为此目的。不！它们是被「种」出来做这件事的——从那被囚禁之人的憎恨中生长而出。"
+  ],
+  [
+   "res#60451/whatIHaveToSay[2]",
+   "Start",
+   "He feeds on the darkness, ever envious of his sister. Coveting the power of his cousins. His power grows. Can the earth contain him? He has made his dwelling into a claw. His nails are biting into the heart of the world. Who can stop him? Zakerunda tried! And failed!\n\n",
+   "他以黑暗为食，始终嫉妒着他的姐妹，觊觎着他表亲们的力量。他的力量在滋长。大地还能容纳他吗？他已把自己的居所变成一只利爪。他的指甲正咬进世界的心脏。谁能阻止他？扎克伦达试过！却失败了！\n\n"
+  ],
+  [
+   "res#60451/whatIHaveToSay[3]",
+   "Start",
+   "\tYet, Zakerunda considered not himself when he set a cork upon spoiled wine. It no longer bubbles forth, but pressure builds. Waves of fire search for an escape, and soon will find it. Did Zakerunda die in vain? No! For he gave shelter to those who would hide under Leunamar's wings! Still, the cork loosens.",
+   "\t然而，扎克伦达塞住败酒之瓶时，并未为自己着想。它不再涌溢，压力却在积聚。火浪正在寻找出口，很快便会找到。扎克伦达是白死了吗？不！因为他庇护了那些将要藏身于卢纳玛尔羽翼之下的人！可是，瓶塞依然在松动。"
+  ],
+  [
+   "res#60451/whatIHaveToSay[4]",
+   "Start",
+   "Send forth his heirs! But they have fallen far. They are not worthy to follow in his footsteps. New heirs will be raised at the appointed time; those who will inherit the blessings of Leunamar and the will of Zakerunda.",
+   "派出他的后嗣！可他们早已坠落太远，不配追随他的脚步。新的后嗣将在既定之时被养育起来；他们将继承卢纳玛尔的祝福与扎克伦达的意志。"
+  ],
+  [
+   "res#60451/whatIHaveToSay[5]",
+   "Start",
+   "Descend, into the Towers of Dimlight. Carve a path of new beginnings. Throw out the old wine, and bring in the new. If you fail, all of Solmaria will perish.\n\n\nHeir of Zakerunda, Disciple of Wister, Prophet of Kalandriss",
+   "下降吧，深入昏光塔群。开凿一条新生的道路。倒掉陈酒，取来新酿。若你失败，整个索尔玛利亚都将毁灭。\n\n\n扎克伦达的后嗣，威斯特的门徒，卡兰德里斯先知"
+  ]
+ ]
+}

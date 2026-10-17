@@ -1,0 +1,1329 @@
+{
+ "meta": {
+  "kind": "数据/告示牌",
+  "count": 264,
+  "with_cn": 264
+ },
+ "entries": [
+  [
+   "lv11#2232/plaqueMessage",
+   "The stone is inscribed with these words:\n\nThis is the rune of the Fae. May you find them friends in times of need.",
+   "石上刻着这样的话：\n\n这是妖精的符文。愿你在需要之时，能找到待你如友的它们。"
+  ],
+  [
+   "lv11#2261/plaqueMessage",
+   "The stone is inscribed with these words:\n\nThis is the rune of Darkness. May you shelter from the suns rays.",
+   "石上刻着这样的话：\n\n这是黑暗的符文。愿你能避开烈日的灼烧。"
+  ],
+  [
+   "lv11#2275/plaqueMessage",
+   "The stone is inscribed with these words:\n\nThis is the rune of Light. May the sun illuminate the world.",
+   "石上刻着这样的话：\n\n这是光明符文。愿太阳照亮世界。"
+  ],
+  [
+   "lv11#2279/plaqueMessage",
+   "The stone is inscribed with these words:\n\nThis is the rune of Absence. What you seek must not be present.",
+   "石上刻着这样的话：\n\n这是空缺的符文。你所寻之物必不在此。"
+  ],
+  [
+   "lv12#7734/plaqueMessage",
+   "The stone is inscribed with these words:\n\nDoorway marks reveal gates of much importance, whether seen or unseen.",
+   "石上刻着这样的话：\n\n门径标记会揭示极为重要的门户——无论看得见，还是看不见。"
+  ],
+  [
+   "lv13#11825/plaqueMessage",
+   "Is human? Why come?",
+   "是人？为何来？"
+  ],
+  [
+   "lv13#11829/plaqueMessage",
+   "Scagh... Scaphin watch.",
+   "斯卡……斯卡芬，看着。"
+  ],
+  [
+   "lv13#11860/plaqueMessage",
+   "Make honor for king. Respect. Reverent.",
+   "为国王致礼。敬重。虔诚。"
+  ],
+  [
+   "lv13#11879/plaqueMessage",
+   "Gouraah! Enter peace. No make fight.",
+   "古拉赫！进来，和平。不要斗。"
+  ],
+  [
+   "lv16#5623/plaqueMessage",
+   "Danger: Unstable Ground.\n     Use other entrance.",
+   "危险：地面不稳。\n     请走另一个入口。"
+  ],
+  [
+   "lv18#7603/plaqueMessage",
+   "Is human? Why come?",
+   "是人？为何来？"
+  ],
+  [
+   "lv18#7608/plaqueMessage",
+   "Scagh... Scaphin watch.",
+   "斯卡……斯卡芬，看着。"
+  ],
+  [
+   "lv18#7647/plaqueMessage",
+   "Make honor for king. Respect. Reverent.",
+   "为国王致礼。敬重。虔诚。"
+  ],
+  [
+   "lv18#7662/plaqueMessage",
+   "Gouraah! Enter peace. No make fight.",
+   "古拉赫！进来，和平。不要斗。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[0]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[1]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[2]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[3]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[4]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[5]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[6]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[7]",
+   "Good day to you.",
+   "你好啊。"
+  ],
+  [
+   "lv20#10610/plaqueMessages[8]",
+   "Want to hear a joke?",
+   "想听个笑话吗？"
+  ],
+  [
+   "lv20#10610/plaqueMessages[9]",
+   "Me too. It's been boring ever since the gate was sealed.",
+   "我也想。大门封死之后，日子就无聊透了。"
+  ],
+  [
+   "lv20#10641/plaqueMessage",
+   "This stone is too damaged to make out the inscription.",
+   "这块石头损坏得太严重，已经辨认不出刻文。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[0]",
+   "Day and night, I watch this passage.",
+   "日日夜夜，我都守着这条通道。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[1]",
+   "Callor is the only one who ever goes this way.",
+   "只有卡洛尔会从这边走。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[2]",
+   "It is such an honor to watch Callor work.",
+   "看卡洛尔干活真是一种荣幸。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[3]",
+   "He's dug up enough pottery to open a studio.",
+   "他挖出的陶器都够开一间作坊了。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[4]",
+   "You should see the beautiful collection he has made.",
+   "你真该看看他做出来的收藏，美极了。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[5]",
+   "It is truly stunning in scope.",
+   "规模令人叹为观止。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[6]",
+   "So much history.",
+   "好多历史。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[7]",
+   "So much detail.",
+   "好多细节。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[8]",
+   "These are fragments of people's lives.",
+   "这些是他人生活的碎片。"
+  ],
+  [
+   "lv20#10646/plaqueMessages[9]",
+   "You're going to break them, aren't you?",
+   "你会把它们打碎的，对吧？"
+  ],
+  [
+   "lv20#10694/plaqueMessage",
+   "The stone is inscribed with these words:\n\nPointer marks usually indicate that you should look at, or for something.",
+   "石上刻着这样的话：\n\n指示标记通常表示：你应当看向某物，或寻找某物。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[0]",
+   "Welcome to Kalindraur.",
+   "欢迎来到卡林德劳尔。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[1]",
+   "It's good to see someone that hasn't lost their mind.",
+   "见到一个还没疯的人，真好。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[2]",
+   "You... are sane right?",
+   "你……还是清醒的吧？"
+  ],
+  [
+   "lv20#10728/plaqueMessages[3]",
+   "I suppose it doesn't matter.",
+   "我想，那也不重要。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[4]",
+   "We don't get many visitors anymore.",
+   "我们如今没什么访客了。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[5]",
+   "Any company is good company.",
+   "有伴总比没伴好。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[6]",
+   "That's why I have a pet rat.",
+   "所以我才养了只宠物鼠。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[7]",
+   "His name is Mr. Squeakers.",
+   "它叫吱吱先生。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[8]",
+   "He fell over the ledge, though.",
+   "可它掉下崖边了。"
+  ],
+  [
+   "lv20#10728/plaqueMessages[9]",
+   "I'm sure he's alright.",
+   "我相信它没事。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[0]",
+   "This room is relatively quiet.",
+   "这个房间算比较安静的。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[1]",
+   "Sometimes though, I swear that I can hear a voice coming from that odd door.",
+   "不过有时候，我发誓那扇怪门后面传来说话声。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[2]",
+   "Sound travels strangely in here.",
+   "这里的声音传得很怪。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[3]",
+   "The others like to mess with me.",
+   "其他人喜欢捉弄我。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[4]",
+   "One time, they started whispering to let them out, and wouldn't stop.",
+   "有一次，他们一直在低声念着「放我们出去」，停都停不下来。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[5]",
+   "Later they all denied it.",
+   "后来他们谁都不承认。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[6]",
+   "For once I'd like to get duty on the other side.",
+   "真希望哪次能轮到我去另一头站岗。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[7]",
+   "I won't fall over the edge, I swear.",
+   "我发誓，我不会掉下崖边的。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[8]",
+   "I only slipped that one time.",
+   "我只滑倒过那一次。"
+  ],
+  [
+   "lv20#10759/plaqueMessages[9]",
+   "Ok, twice. But, that was it.",
+   "好吧，两次。但就这些了。"
+  ],
+  [
+   "lv20#10763/plaqueMessage",
+   "Be quiet in the library. Unless monsters are attacking. Then be very loud.",
+   "在图书馆内请保持安静。除非有怪物来袭——那时请尽情喧哗。"
+  ],
+  [
+   "lv20#10787/plaqueMessage",
+   "Do not disturb the artifacts.",
+   "请勿触碰文物。"
+  ],
+  [
+   "lv20#10789/plaqueMessage",
+   "The Monster Summoner is dangerous. Use at your own risk.",
+   "怪物召唤器十分危险。使用后果自负。"
+  ],
+  [
+   "lv20#10860/plaqueMessage",
+   "No drinks beyond this point! You know who you are.",
+   "此线之外禁止饮酒！谁干的自己清楚。"
+  ],
+  [
+   "lv20#10880/plaqueMessage",
+   "The stone is inscribed with these words:\n\nTrigger marks are associated with something that can be activated, like a switch or pressure plate.",
+   "石上刻着这样的话：\n\n触发标记与某个可以激活的东西相关，例如开关或压力板。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[0]",
+   "Corvin is a good man.",
+   "科尔文是个好人。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[1]",
+   "And an excellent warrior.",
+   "也是一名出色的战士。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[2]",
+   "I saw him single-handedly hold the southern gate.",
+   "我亲眼见过他单枪匹马守住南门。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[3]",
+   "I once saw him catch an arrow with his teeth.",
+   "我有次见他用牙齿接住了一支箭。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[4]",
+   "He won a staring contest with an occulant.",
+   "他和一只视者对视，赢了。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[5]",
+   "He once used a mimic as a stool to get flour off the top shelf.",
+   "他曾把一只宝箱怪当凳子，去够架子顶上的面粉。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[6]",
+   "I hear he forced a giant spider to weave him a hammock.",
+   "听说他逼一只巨蛛给他织了张吊床。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[7]",
+   "A book tried to eat him once, but he held it down and read the whole thing!",
+   "一本书曾想吃掉他，结果被他按住，从头读到了尾！"
+  ],
+  [
+   "lv20#10892/plaqueMessages[8]",
+   "The shadows flee from torchlight, but he caught them once.",
+   "影子见了火光就跑，可他曾抓住过一个。"
+  ],
+  [
+   "lv20#10892/plaqueMessages[9]",
+   "He bakes a mean apple pie.",
+   "他烤的苹果派一流。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[0]",
+   "A guard's job never ends.",
+   "守卫的差事永远没个完。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[1]",
+   "Fight in the morning.",
+   "早上打。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[2]",
+   "Fight in the evening.",
+   "傍晚打。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[3]",
+   "Fight at suppertime.",
+   "晚饭时打。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[4]",
+   "Before the gate was sealed we had to fight off monsters constantly.",
+   "大门封死之前，我们得一刻不停地打退怪物。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[5]",
+   "My favorite trick was to trip them over the ledge.",
+   "我最爱的招数是把它们绊下崖边。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[6]",
+   "It doesn't work so well when they can fly.",
+   "可惜对方会飞时就不太好使了。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[7]",
+   "Or have no legs.",
+   "或者根本没有腿。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[8]",
+   "Or a body that my weapon passes straight through.",
+   "再或者，武器会直接穿过它的身体。"
+  ],
+  [
+   "lv20#10930/plaqueMessages[9]",
+   "Basically, my tripping tactic rarely works.",
+   "总而言之，我的绊人战术很少奏效。"
+  ],
+  [
+   "lv20#10936/plaqueMessage",
+   "The stone is inscribed with these words:\n\nPath marks always indicate a path to be followed.",
+   "石上刻着这样的话：\n\n路径标记总是表示一条当行之路。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[0]",
+   "Want to know my name?",
+   "想知道我的名字吗？"
+  ],
+  [
+   "lv20#10959/plaqueMessages[1]",
+   "Too bad.",
+   "可惜。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[2]",
+   "It's against the code.",
+   "这违反守则。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[3]",
+   "We have to function as a whole, not individuals.",
+   "我们应当作为整体运转，而不是作为个人。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[4]",
+   "It is a really good name though.",
+   "不过，这名字真的很好听。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[5]",
+   "I'm named after my great grandnephew's cat.",
+   "我是照着曾侄孙的猫取的名。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[6]",
+   "I bet you really want to know.",
+   "我打赌你特别想知道。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[7]",
+   "There's no other name like it.",
+   "再没有别的名字像它一样。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[8]",
+   "It's kind of a family name.",
+   "它算是家族名。"
+  ],
+  [
+   "lv20#10959/plaqueMessages[9]",
+   "Fine, I'll tell you. It's \"Heyou\". I told you it was great.",
+   "好吧，就告诉你。叫「黑尤」。我就说很棒吧。"
+  ],
+  [
+   "lv20#10985/plaqueMessage",
+   "The stone is inscribed with these words:\n\nWhisper marks indicate that a spoken word is being requested.",
+   "石上刻着这样的话：\n\n低语标记表示此处需要念出一个词。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[0]",
+   "This is the way to the southern gate.",
+   "这条路通往南门。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[1]",
+   "Do I get nervous being so close to the edge?",
+   "离崖边这么近，我会紧张吗？"
+  ],
+  [
+   "lv20#10987/plaqueMessages[2]",
+   "Sure, but it can't be that deep.",
+   "当然会，不过它不可能有多深。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[3]",
+   "I hear noises down there all the time.",
+   "我总听见下面有动静。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[4]",
+   "I guess that is strange.",
+   "想来确实挺怪的。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[5]",
+   "It's probably just critters.",
+   "多半只是些小动物。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[6]",
+   "Like that rat I kicked off once.",
+   "就像那只被我踢下去的老鼠。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[7]",
+   "As it fell, I thought I spotted a collar.",
+   "它掉下去的时候，我好像看见它戴着项圈。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[8]",
+   "We dont need rats in here anyways.",
+   "反正我们这儿也不需要老鼠。"
+  ],
+  [
+   "lv20#10987/plaqueMessages[9]",
+   "We have a limited food supply, you know.",
+   "你也知道，我们的食物是有限的。"
+  ],
+  [
+   "lv20#10989/plaqueMessage",
+   "The stone is inscribed with these words:\n\nItem marks are always associated with hidden objects. Sometimes they are buried, but other times they are merely obscured.",
+   "石上刻着这样的话：\n\n物品标记总与隐藏之物相关。有时它们被埋在地下，有时只是被遮蔽了。"
+  ],
+  [
+   "lv20#11004/plaqueMessage",
+   "Training Hall\nDo not interfere with training.",
+   "训练堂\n不得干扰训练。"
+  ],
+  [
+   "lv20#11014/plaqueMessage",
+   "The stone is inscribed with these words:\n\nPhase marks indicate the presence of something arcane or foreign.",
+   "石上刻着这样的话：\n\n相位标记表示此处存在奥术或异界之物。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[0]",
+   "Move along.",
+   "往前走，别停下。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[1]",
+   "As you were.",
+   "你忙你的。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[2]",
+   "Don't trip.",
+   "别绊着。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[3]",
+   "It's a long way down.",
+   "摔下去可深得很。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[4]",
+   "I dropped a sandwich over the edge once.",
+   "我有次把一块三明治掉下了崖边。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[5]",
+   "I like to think it's still falling to this day.",
+   "我宁愿相信它到今天还在往下掉。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[6]",
+   "Make sure not to touch the device without talking to Corvin.",
+   "未经科尔文许可，千万别碰那台装置。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[7]",
+   "I won't help you either way.",
+   "反正我两不相帮。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[8]",
+   "I have very specific duties.",
+   "我的职责非常明确。"
+  ],
+  [
+   "lv20#11031/plaqueMessages[9]",
+   "It's guard stuff. You wouldn't understand.",
+   "这是守卫的事。你不会懂的。"
+  ],
+  [
+   "lv20#11042/plaqueMessage",
+   "No running in the grand hall!",
+   "大厅内禁止奔跑！"
+  ],
+  [
+   "lv20#11062/plaqueMessage",
+   "The stone is inscribed with these words:\n\nBarrier marks indicate some sort of impassible, arcane wall.",
+   "石上刻着这样的话：\n\n屏障标记表示某种无法逾越的奥术之墙。"
+  ],
+  [
+   "lv21#10401/plaqueMessage",
+   "Drag the dog onto into the top slot on the right bar. When he is the party leader you can use his Leader Ability (blue diamond button) by this door to dig and find a key.",
+   "把狗狗拖到右侧栏最上方的槽位。当它成为队伍领队时，即可在这扇门旁使用它的领队能力（蓝色菱形按钮）挖掘，找到钥匙。"
+  ],
+  [
+   "lv21#10464/plaqueMessage",
+   "You will need a spell to escape.\nSearch for a Spellbook.\nEquip it in your inventory.\nCast the spell using the menu buttons above.",
+   "你需要一个法术才能脱身。\n去寻找一本法术书。\n在物品栏中装备它。\n用上方的菜单按钮施放该法术。"
+  ],
+  [
+   "lv22#1118/plaqueMessage",
+   "Try using your spells.",
+   "试试你的法术。"
+  ],
+  [
+   "lv5#13219/plaqueMessage",
+   "Ambrost Forest",
+   "安布罗斯特森林"
+  ],
+  [
+   "lv5#13240/plaqueMessage",
+   "E: Emerisk\nW: Nalwin\nNW: Ambrost Forest",
+   "东：埃梅里斯克\n西：纳尔温\n西北：安布罗斯特森林"
+  ],
+  [
+   "lv5#13266/plaqueMessage",
+   "BEWARE: Hungry boars!",
+   "当心：饥饿的野猪！"
+  ],
+  [
+   "lv6#22286/plaqueMessages[0]",
+   "I have a very nice view of the cattle.",
+   "我这儿看牛的视野非常好。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[1]",
+   "Believe it or not, they can be quite relaxing.",
+   "信不信由你，牛能让人相当放松。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[2]",
+   "It's the gentle lowing. The sound of moos.",
+   "就是那温柔的哞哞声。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[3]",
+   "You know, a moo moo here.",
+   "你看，这儿一声哞。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[4]",
+   "And a moo moo there.",
+   "那儿一声哞。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[5]",
+   "Here a moo.",
+   "这儿哞一声。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[6]",
+   "There a moo.",
+   "那儿哞一声。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[7]",
+   "Everywhere a moo moo.",
+   "到处都是哞哞声。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[8]",
+   "Heh, moo.",
+   "嘿，哞。"
+  ],
+  [
+   "lv6#22286/plaqueMessages[9]",
+   "Such a satisfying sound.",
+   "多么令人满足的声音。"
+  ],
+  [
+   "lv6#22296/plaqueMessage",
+   "This space for rent",
+   "此处招租"
+  ],
+  [
+   "lv6#22311/plaqueMessage",
+   "Rabbit Hutch",
+   "兔棚"
+  ],
+  [
+   "lv6#22312/plaqueMessage",
+   "E: Emerisk\nW: Nalwin",
+   "东：埃梅里斯克\n西：纳尔温"
+  ],
+  [
+   "lv6#22313/plaqueMessages[0]",
+   "I am very glad you came to visit me here.",
+   "非常高兴你来看我。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[1]",
+   "It can get lonely on the edge.",
+   "守在这边缘，难免孤单。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[2]",
+   "I haven't seen anything suspicious in a long time.",
+   "我已经很久没见到可疑的东西了。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[3]",
+   "Well, except for you.",
+   "嗯，除了你们。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[4]",
+   "You guys are pretty sketchy.",
+   "你们这些人还挺可疑的。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[5]",
+   "Sometimes, I wish I could go adventuring.",
+   "有时候，我真希望能去冒险。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[6]",
+   "Can I join your party?",
+   "我能加入你们的队伍吗？"
+  ],
+  [
+   "lv6#22313/plaqueMessages[7]",
+   "Nevermind... my wife would kill me.",
+   "算了……我老婆会杀了我的。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[8]",
+   "If I had a wife, that is.",
+   "前提是我得有老婆。"
+  ],
+  [
+   "lv6#22313/plaqueMessages[9]",
+   "This has gotten awkward.",
+   "这就有点尴尬了。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[0]",
+   "This job is a lot easier than farming.",
+   "这活儿比种地轻松多了。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[1]",
+   "Old man Gyffard is always trying to recruit me.",
+   "吉法德老头总想拉我入伙。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[2]",
+   "I wouldn't give this job up for anything.",
+   "这份工作我说什么都不换。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[3]",
+   "I get to view the rolling hills and leafy groves.",
+   "我能看着连绵的丘陵与繁茂的树林。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[4]",
+   "Well, I used to, until this fog rolled in.",
+   "好吧，以前能——直到这片迷雾漫了过来。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[5]",
+   "The job is still nice though.",
+   "不过这工作还是不错。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[6]",
+   "I don't even need to sleep.",
+   "我甚至不用睡觉。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[7]",
+   "Actually, nobody does anymore, but they still do it out of routine.",
+   "其实大家都不需要了，只是习惯使然还在睡。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[8]",
+   "I'm making killer overtime pay working 24 hours a day.",
+   "我一天干 24 小时，加班费赚得飞起。"
+  ],
+  [
+   "lv6#22321/plaqueMessages[9]",
+   "I'll retire one day and live my dream of being a guard for free!",
+   "等我哪天退休，就去实现免费当守卫的梦想！"
+  ],
+  [
+   "lv6#22327/plaqueMessage",
+   "Rafficus Renault\nHis temper was short\nHis reign shorter",
+   "Rafficus Renault\n脾气很短\n在位更短"
+  ],
+  [
+   "lv6#22350/plaqueMessage",
+   "Emeria Halle\nMother to all",
+   "Emeria Halle\n众人之母"
+  ],
+  [
+   "lv6#22355/plaqueMessage",
+   "Patrick Klem\nSaw all the possible endings\nExcept for this one",
+   "Patrick Klem\n见过所有可能的结局\n唯独没见过这一个"
+  ],
+  [
+   "lv6#22380/plaqueMessage",
+   "Archeas Swane\nSmall gravestone\nBig life",
+   "Archeas Swane\n小小的墓碑\n大大的人生"
+  ],
+  [
+   "lv6#22382/plaqueMessages[0]",
+   "This road is unsafe.",
+   "这条路不安全。"
+  ],
+  [
+   "lv6#22382/plaqueMessages[1]",
+   "There are scary boars!",
+   "有可怕的野猪！"
+  ],
+  [
+   "lv6#22382/plaqueMessages[2]",
+   "Boars of all sizes.",
+   "大大小小的野猪。"
+  ],
+  [
+   "lv6#22382/plaqueMessages[3]",
+   "Boars you can't even imagine.",
+   "你想象不出的野猪。"
+  ],
+  [
+   "lv6#22382/plaqueMessages[4]",
+   "Don't even try to imagine them.",
+   "想都别去想它们。"
+  ],
+  [
+   "lv6#22382/plaqueMessages[5]",
+   "Stop imagining!",
+   "别想了！"
+  ],
+  [
+   "lv6#22382/plaqueMessages[6]",
+   "It only encourages them.",
+   "想它们只会给它们助威。"
+  ],
+  [
+   "lv6#22382/plaqueMessages[7]",
+   "I've never seen such angry creatures.",
+   "我从未见过这么愤怒的生物。"
+  ],
+  [
+   "lv6#22382/plaqueMessages[8]",
+   "Nobody knows why.",
+   "没人知道为什么。"
+  ],
+  [
+   "lv6#22382/plaqueMessages[9]",
+   "Now please, let me finish this salted pork in peace.",
+   "现在行行好，让我安安静静吃完这块咸猪肉。"
+  ],
+  [
+   "lv6#22385/plaqueMessage",
+   "Cobon Warde\nDid not plan on dying\nNever was good at planning",
+   "Cobon Warde\n没打算过要死\n也从来都不擅长计划"
+  ],
+  [
+   "lv6#22391/plaqueMessage",
+   "Playtesters Rest",
+   "测试员安息园"
+  ],
+  [
+   "lv6#22400/plaqueMessage",
+   "Innes Redmund\nWatcher of the Wyld",
+   "Innes Redmund\n荒野的守望者"
+  ],
+  [
+   "lv6#22404/plaqueMessage",
+   "Your Name Here",
+   "你的名字在此"
+  ],
+  [
+   "lv6#22417/plaqueMessage",
+   "Clumsy Anned\nDropped a lantern in a shed\nNow he is dead",
+   "Clumsy Anned\n在棚屋里掉了盏提灯\n然后他就没有了性命"
+  ],
+  [
+   "lv6#22420/plaqueMessage",
+   "William Bitler\nA glass full of passion\nSpilled at the wrong time",
+   "William Bitler\n一杯盛满热忱\n却在错误的时候倾洒"
+  ],
+  [
+   "lv6#22428/plaqueMessage",
+   "W: Emerisk\nE: Port ...",
+   "西：埃梅里斯克\n东：波特……"
+  ],
+  [
+   "lv6#22437/plaqueMessages[0]",
+   "I used to wander the rocky hills as a lad.",
+   "我年轻时常常在乱石山岗间游荡。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[1]",
+   "There was fog then too. Once, I fell into a hole because of some dumb cat.",
+   "那时也有迷雾。有一次，一只蠢猫害我掉进了洞里。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[2]",
+   "Luckily, I made it back to town and resumed my life.",
+   "幸好我回到了镇上，继续过我的日子。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[3]",
+   "Can you imagine if I had gotten stuck in that cave?",
+   "你能想象我要是困在那个洞里会怎样吗？"
+  ],
+  [
+   "lv6#22437/plaqueMessages[4]",
+   "Anyways, the western road here is safe.",
+   "总之，这里的西边道路是安全的。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[5]",
+   "I mean eastern road.",
+   "我是说东边那条路。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[6]",
+   "I always get those two mixed up.",
+   "这两边我老是搞混。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[7]",
+   "It doesn't matter really, as long as nothing gets past me.",
+   "其实也无所谓，只要没有东西能过我这关。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[8]",
+   "Something did get past me once.",
+   "不过有一次确实有东西过去了。"
+  ],
+  [
+   "lv6#22437/plaqueMessages[9]",
+   "But nothing ever came of it, so all is well that ends well, right?",
+   "但后来什么也没发生。结果好就一切都好，对吧？"
+  ],
+  [
+   "lv6#22444/plaqueMessage",
+   "Yorhan Fennegar\nUnfortunate enough to be the messenger",
+   "Yorhan Fennegar\n倒霉到当了信使"
+  ],
+  [
+   "lv6#22448/plaqueMessage",
+   "Roanold Hayfest\nHe was a butcher",
+   "Roanold Hayfest\n他是个屠夫"
+  ],
+  [
+   "lv6#22449/plaqueMessage",
+   "Six feet tall,\nNow six feet under",
+   "曾身高六尺，\n如今长眠六尺之下"
+  ],
+  [
+   "lv6#22465/plaqueMessage",
+   "Joel Haftel\nA pathfinder\nBut all trails led here",
+   "Joel Haftel\n一名探路者\n可所有小径都通向这里"
+  ],
+  [
+   "lv6#22466/plaqueMessage",
+   "Artzeina Wylde\nTook care of the sick\nUntil they took care of her",
+   "Artzeina Wylde\n悉心照料病人\n直到轮到他们照料她"
+  ],
+  [
+   "lv6#22477/plaqueMessage",
+   "Mad man Atticus Ley\nShouted his name at the arches\nEven in death you can hear him say\nAtticus as he marches",
+   "疯子 Atticus·莱伊\n曾在拱门下呼喊自己的名字\n就连死后也能听见他\n一路行进，一路念着：Atticus"
+  ],
+  [
+   "lv6#22487/plaqueMessage",
+   "Joid Renault\nHis hand was driven by honor\nHis hand was stayed by mercy\nHis hands were open for those in need",
+   "Joid Renault\n他的手由荣耀驱使\n他的手因仁慈而停\n他的双手总为需要之人敞开"
+  ],
+  [
+   "lv6#22488/plaqueMessage",
+   "Hammet and Tulia Gyffard\nCropmasters and confidants",
+   "Hammet and Tulia Gyffard\n农事总管与知己"
+  ],
+  [
+   "lv6#22494/plaqueMessages[0]",
+   "We see many people wander out of the fog.",
+   "我们见过许多人从迷雾里游荡出来。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[1]",
+   "I wonder where they came from.",
+   "真不知道他们从哪儿来。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[2]",
+   "This is the only town in the world, so maybe they came from here.",
+   "这是世上唯一的镇子，所以他们大概就是从这儿出去的。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[3]",
+   "Left from the top, wandered for a bit, and came back here.",
+   "从上面离开，在外游荡一阵，又回到了这里。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[4]",
+   "I'm glad to be here and not in the fog.",
+   "我很庆幸在这儿，而不在迷雾里。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[5]",
+   "A guard wandered into the fog once, and forgot all kinds of things.",
+   "有名守卫曾走进迷雾，忘掉了各种各样的事。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[6]",
+   "Wait, that was me.",
+   "等等，那就是我。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[7]",
+   "The mayor says not to, and he's probably right.",
+   "市长说别进去，他大概是对的。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[8]",
+   "But, sometimes curiosity just gets the best of you.",
+   "可有时候，好奇心就是会战胜理智。"
+  ],
+  [
+   "lv6#22494/plaqueMessages[9]",
+   "Guard duty isn't the most exciting job.",
+   "站岗并不是最刺激的工作。"
+  ],
+  [
+   "lv6#22510/plaqueMessage",
+   "Thought he was tough\nEnded up mostly armless",
+   "自以为刀枪不入\n最后落得「无臂」一生"
+  ],
+  [
+   "lv6#22522/plaqueMessage",
+   "Bertrannus Covey\nSaid his back was killing him\nBut nobody believed",
+   "Bertrannus Covey\n总说自己的背要命\n可没有人相信"
+  ],
+  [
+   "lv6#22523/plaqueMessage",
+   "N: Emerisk\nS: Seagard",
+   "北：埃梅里斯克\n南：海加德"
+  ],
+  [
+   "lv6#22527/plaqueMessage",
+   "Apocalypstic\nFound many spelling errors\nBut coudln't fix this one",
+   "Apocalypstic\n找出过许多拼写错误\n却改不了自己这块"
+  ],
+  [
+   "lv6#22530/plaqueMessage",
+   "Josef Ingram\nPoorer than dirt\nRicher than most",
+   "Josef Ingram\n比尘土更穷\n比多数人更富有"
+  ],
+  [
+   "lv6#22531/plaqueMessage",
+   "Nameless Rider\nOver river and through woods\nThe horse did drag him",
+   "Nameless Rider\n翻过河川，穿过林地\n是马把他拖了一路"
+  ],
+  [
+   "lv6#22535/plaqueMessages[0]",
+   "Do you ever get the feeling something is watching you?",
+   "你有过被什么东西注视着的感觉吗？"
+  ],
+  [
+   "lv6#22535/plaqueMessages[1]",
+   "I do all the time.",
+   "我一直都有。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[2]",
+   "Especially at night.",
+   "尤其是夜里。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[3]",
+   "That's the life of a guard I guess.",
+   "守卫的生活就是这样吧。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[4]",
+   "Who wouldn't want to look at my fancy getup.",
+   "谁会不想看看我这身漂亮行头呢。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[5]",
+   "And howl wildly.",
+   "顺便狂野地嚎叫。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[6]",
+   "And freeze the very air around me.",
+   "再把我周围的空气冻住。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[7]",
+   "And claw its way into my mind.",
+   "再用爪子硬挤进我的脑子。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[8]",
+   "And whisper softly of my doom.",
+   "再轻声低语我的厄运。"
+  ],
+  [
+   "lv6#22535/plaqueMessages[9]",
+   "Ok yeah, when I say it out loud it sounds pretty bad.",
+   "好吧，是啊，说出口之后听着是挺糟的。"
+  ],
+  [
+   "lv6#22543/plaqueMessage",
+   "Yuvo and Greama Clere\nFinest bakers in the world",
+   "Yuvo and Greama Clere\n世上最好的面包师"
+  ],
+  [
+   "lv6#22544/plaqueMessage",
+   "Stop standing on me\n",
+   "别踩在我身上\n"
+  ],
+  [
+   "lv6#22545/plaqueMessage",
+   "Everey Cole\nLoved skipping stones\nBut could not skip this one",
+   "Everey Cole\n最爱打水漂\n这一劫却漂不过去"
+  ],
+  [
+   "lv6#22547/plaqueMessage",
+   "Elendor\nMet his end in the middle",
+   "Elendor\n在半路上迎来了尽头"
+  ],
+  [
+   "lv6#22552/plaqueMessage",
+   "Hissander and Leanna Meyard\nLost to the river",
+   "Hissander and Leanna Meyard\n被河水永远带走"
+  ],
+  [
+   "lv6#22553/plaqueMessage",
+   "Wulfleda Monteau\nBeloved daughter",
+   "Wulfleda Monteau\n挚爱的女儿"
+  ],
+  [
+   "lv6#22580/plaqueMessage",
+   "Danny Huynh\nFought the good fight\nBut his strength did wane",
+   "Danny Huynh\n打了一场好仗\n无奈力气用尽"
+  ],
+  [
+   "lv6#22584/plaqueMessage",
+   "Jourdain Hayfest\nFine Cook\nFiner Friend",
+   "Jourdain Hayfest\n好厨子\n更好的朋友"
+  ],
+  [
+   "lv6#22587/plaqueMessage",
+   "Sabin Teubner\nCrushed by the weight of lyfe",
+   "Sabin Teubner\n被 Lyfe 的重量压垮"
+  ],
+  [
+   "lv6#22594/plaqueMessage",
+   "Graveyard",
+   "墓园"
+  ],
+  [
+   "lv6#22596/plaqueMessages[0]",
+   "The western road is safe.",
+   "西边的道路是安全的。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[1]",
+   "Or is this the east?",
+   "或者说这是东边？"
+  ],
+  [
+   "lv6#22596/plaqueMessages[2]",
+   "All clear in the west.",
+   "西边一切正常。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[3]",
+   "Definitely the west.",
+   "绝对是西边。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[4]",
+   "Go west young man.",
+   "年轻人，往西去吧。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[5]",
+   "The view from up here is nice.",
+   "从这上面看风景不错。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[6]",
+   "I can see any threat coming from way up here.",
+   "在这儿能把任何威胁看得远远的。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[7]",
+   "Well, I could, if my visor wasn't so small.",
+   "本来是可以的——如果我的面甲没这么小。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[8]",
+   "I should probably get back to work.",
+   "我大概该回去干活了。"
+  ],
+  [
+   "lv6#22596/plaqueMessages[9]",
+   "YOU, should probably get back to work.",
+   "而你，大概也该回去干活了。"
+  ],
+  [
+   "lv6#22613/plaqueMessage",
+   "Naira Gyffard\nRead many books\nBut not the final chapter",
+   "Naira Gyffard\n读了无数本书\n却没能读到最后一章"
+  ],
+  [
+   "lv6#22622/plaqueMessage",
+   "Truthless Dann\nEven in death\nHere he lies",
+   "Truthless Dann\n即便是死后\n他也依然长眠于此"
+  ],
+  [
+   "lv6#22624/plaqueMessage",
+   "Essau Thorp\nNothing is written in stone",
+   "Essau Thorp\n没有什么是刻在石头上的"
+  ],
+  [
+   "lv6#22635/plaqueMessage",
+   "Gyrard Beltran\nStood determined and steadfast\nUntil the cart ran him over",
+   "Gyrard Beltran\n坚定不屈地站着\n直到马车从他身上碾过"
+  ],
+  [
+   "lv6#22638/plaqueMessage",
+   "Raine and Forissa Meyard\nFriends forever",
+   "Raine and Forissa Meyard\n永远的朋友"
+  ],
+  [
+   "lv6#22653/plaqueMessage",
+   "Unknown\nFought with courage",
+   "无名者\n曾以勇气而战"
+  ],
+  [
+   "lv6#22656/plaqueMessage",
+   "Bannette Redmund\nArt was her life\nAnd her life was art",
+   "Bannette Redmund\n艺术是她的生命\n她的生命即艺术"
+  ],
+  [
+   "lv6#22681/plaqueMessage",
+   "Tommes Lyfe\nTrying to climb out of a well\nOnto poor Sabin he fell",
+   "Tommes Lyfe\n试图爬出井口\n却砸在了可怜的 Sabin 身上"
+  ],
+  [
+   "lv6#22687/plaqueMessages[0]",
+   "This is the best guard spot in town.",
+   "这是全镇最好的守卫岗。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[1]",
+   "If I get tired I can sit on a bench.",
+   "累了可以坐在长凳上。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[2]",
+   "If I get thirsty I can draw from the well.",
+   "渴了可以从井里打水。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[3]",
+   "If I get bored I can think of the horrible sounds I hear coming from the well.",
+   "无聊了还可以想想从井里传来的可怕声响。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[4]",
+   "Yep, everything is great.",
+   "是啊，一切都好极了。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[5]",
+   "Far from the fog, and far from danger.",
+   "远离迷雾，远离危险。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[6]",
+   "Unless there are evil things that we can't even see.",
+   "除非有我们根本看不见的邪恶之物。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[7]",
+   "They could walk right past me and I would never know.",
+   "它们可以从我身边走过，而我永远都不会知道。"
+  ],
+  [
+   "lv6#22687/plaqueMessages[8]",
+   "I have a wild imagination, right?",
+   "我的想象力很狂野，对吧？"
+  ],
+  [
+   "lv6#22687/plaqueMessages[9]",
+   "That's why I was fired from my last job.",
+   "所以我上一份工作被开除了。"
+  ],
+  [
+   "lv6#22688/plaqueMessage",
+   "Okannus Vawdrey\nHis life was but a thread in the great tapestry",
+   "Okannus Vawdrey\n他的一生只是巨幅织锦中的一根丝线"
+  ],
+  [
+   "lv8#2010/plaqueMessage",
+   "The stone is inscribed with these words:\n\nThis is the rune of Miala. May she light your way on darkest paths.",
+   "石上刻着这样的话：\n\n这是米亚拉的符文。愿她在至暗之路上为你照亮前行。"
+  ],
+  [
+   "lv8#2038/plaqueMessage",
+   "The stone is inscribed with these words:\n\nThis is the rune of Gammon. May he empower you in all ways.",
+   "石上刻着这样的话：\n\n这是加蒙的符文。愿他在各方各面赐你力量。"
+  ],
+  [
+   "lv8#2042/plaqueMessage",
+   "The stone is inscribed with these words:\n\nThis is the rune of Tethrys. May he hide your path from those that seek you harm.",
+   "石上刻着这样的话：\n\n这是泰丝瑞斯的符文。愿他向图谋害你之人隐去你的行踪。"
+  ]
+ ]
+}

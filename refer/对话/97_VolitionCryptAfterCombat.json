@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "kind": "对话/VolitionCryptAfterCombat",
+  "count": 9,
+  "with_cn": 9
+ },
+ "entries": [
+  [
+   "sa8#11/whatIHaveToSay[0]",
+   "Rycard",
+   "Oh no. You are not getting out of this that easily.",
+   "哦不。你可不会这么轻易脱身。"
+  ],
+  [
+   "sa8#119/whatIHaveToSay[0]",
+   "Entity",
+   "Task Completed.",
+   "任务完成。"
+  ],
+  [
+   "sa8#123/whatIHaveToSay[0]",
+   "Merewen",
+   "Unbelievable.",
+   "难以置信。"
+  ],
+  [
+   "sa8#17/whatIHaveToSay[0]",
+   "Lannon",
+   "That is all you have to say?",
+   "你要说的就这些？"
+  ],
+  [
+   "sa8#20/whatIHaveToSay[0]",
+   "Rycard",
+   "Ok... maybe you are getting out of it that easily.",
+   "好吧……也许你还真就这么脱身了。"
+  ],
+  [
+   "sa8#27/whatIHaveToSay[0]",
+   "Shione",
+   "As soon as we figure it out we will let you know.",
+   "等我们弄明白，就告诉你。"
+  ],
+  [
+   "sa8#30/whatIHaveToSay[0]",
+   "Rycard",
+   "He's more stubborn than you.",
+   "他比你还倔。"
+  ],
+  [
+   "sa8#42/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Is anyone going to tell me what is going on?",
+   "有人打算告诉我这是怎么回事吗？"
+  ],
+  [
+   "sa8#51/whatIHaveToSay[0]",
+   "Lannon",
+   "I am sure it will all make sense eventually.",
+   "我相信，这一切终会讲得通。"
+  ]
+ ]
+}

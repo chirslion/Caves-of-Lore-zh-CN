@@ -1,0 +1,369 @@
+{
+ "meta": {
+  "kind": "对话/GallitzinConversation",
+  "count": 60,
+  "with_cn": 60
+ },
+ "entries": [
+  [
+   "sa0#10639/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Yes! I was searching for that place when I was separated from my friend. I mean... I think I was... I do not know.",
+   "是的！我正是在寻找那个地方时，与朋友走散的。我是说……我想是的……我不知道。"
+  ],
+  [
+   "sa0#10650/whatIHaveToSay[0]",
+   "Laszra",
+   "I see wisdom in your eyes. Perhaps some of it came with age and experience. I too hope to attain such wisdom. If I cannot find it now then perhaps time will give it to me.",
+   "我从你眼中看见了智慧。也许有些来自岁月与历练。我也希望能拥有那样的智慧。若此刻求不得，也许时间终会赐予我。"
+  ],
+  [
+   "sa0#10664/whatIHaveToSay[0]",
+   "librarian",
+   "I will protect her. But, what I am talking about? Where did that sentiment come from? I have only vague flashes, but this word conjures images in my mind. Images of light, and feelings of hope. And yet, I sat in the dark waiting to be freed.",
+   "我会保护她。可是，我在说什么？这份心意从何而来？我只有模糊的闪现，可这个词在我脑中唤起了画面——光的画面，和希望的感觉。而我，却坐在黑暗里，等待获救。"
+  ],
+  [
+   "sa0#10675/whatIHaveToSay[0]",
+   "graveyard",
+   "I feel as though I have spent more time in them than in the rest of the world. When it comes to memory I indeed have. I wonder if this will shape me going forward, or if who I am is already locked in place.",
+   "我感觉自己待在墓穴里的时间，比在世上其他地方都长。就记忆而言，确实如此。我不知道这会不会塑造今后的我，还是说，如今的我早已定型。"
+  ],
+  [
+   "sa0#10681/whatIHaveToSay[0]",
+   "Airendal",
+   "With your light, I would never have been in darkness, even in that crypt. Why does darkness so often symbolize evil? Perhaps it is because it hides what is around us, and good has no reason to hide.",
+   "有你的光在，即使在墓室里，我也不会陷于黑暗。黑暗为何常被用来象征邪恶？也许因为它遮住我们周围的事物，而善，没有理由隐藏。"
+  ],
+  [
+   "sa0#10692/whatIHaveToSay[0]",
+   "Emerisk",
+   "Is that where we are? It sounds familiar, like many words, and yet far away. I cannot grasp it.",
+   "我们就在那里？它听着耳熟，像许多词一样，却又遥远。我抓不住它。"
+  ],
+  [
+   "sa0#10714/whatIHaveToSay[0]",
+   "caves",
+   "I prefer them to crypts.",
+   "比起墓室，我更喜欢洞穴。"
+  ],
+  [
+   "sa0#10731/whatIHaveToSay[0]",
+   "manatite",
+   "The walls of the crypt glow with strange things, both living and not. I suspect you will find manatite, and much more.",
+   "墓室的墙壁上闪烁着奇怪的东西，有活的，也有非活的。我猜你会发现法力晶石，还有更多。"
+  ],
+  [
+   "sa0#10736/whatIHaveToSay[0]",
+   "book",
+   "A thing of paper, or vellum, yes? I know nothing more.",
+   "纸片或羊皮做成的东西，对吗？别的我就不知道了。"
+  ],
+  [
+   "sa0#10744/whatIHaveToSay[0]",
+   "Rycard",
+   "Are you a trustworthy companion? I do not mean to question your loyalty, I just prefer to ask rather than assume.",
+   "你是个值得信赖的伙伴吗？我并非质疑你的忠诚，只是宁愿开口问，也不愿妄自揣度。"
+  ],
+  [
+   "sa0#10762/whatIHaveToSay[0]",
+   "corundum",
+   "It sounds familiar... but I cannot recall.",
+   "听着耳熟……可我想不起来。"
+  ],
+  [
+   "sa0#10785/whatIHaveToSay[0]",
+   "Agmarians",
+   "I know this word. Is it a type of food? It makes me happy to think on it. It must be food.",
+   "这个词我知道。它是某种食物吗？想到它，我就会开心。它一定是食物。"
+  ],
+  [
+   "sa0#10799/whatIHaveToSay[0]",
+   "Goblins",
+   "All I know is that I bear scars that they gave to me. What is it about scars that hold fast our memories? This is true of both physical and mental scars, is it not?",
+   "我只知道，我身上带着他们留下的伤疤。伤疤为何能牢牢锁住记忆？无论是身体上的伤，还是心里的伤，都是如此，不是吗？"
+  ],
+  [
+   "sa0#10817/whatIHaveToSay[0]",
+   "Merewen",
+   "You look familiar. Then again, anyone would look familiar compared to the corpses I've been shut in with.",
+   "你看着眼熟。话说回来，和我锁在一起的那些尸体相比，谁看着都眼熟。"
+  ],
+  [
+   "sa0#10828/whatIHaveToSay[0]",
+   "blue light",
+   "In the crypt I have seen pale blue lights... and screams. The screaming always accompanies the lights. Is this not what you expected to hear? It was a terrifying place to be trapped.",
+   "在墓室里，我见过淡蓝的光……还有尖叫。尖叫声总是伴随着那些光。这不是你想听到的吗？被困在那里，实在太可怕了。"
+  ],
+  [
+   "sa0#11304/whatIHaveToSay[0]",
+   "fog",
+   "I don't know anything about it. The only limitation to my sight for as long as I can remember has been the darkness. I suppose fog is like darkness made visible.",
+   "关于它我一无所知。在我的记忆里，限制我视线的从来只有黑暗。我想，迷雾就像是变得可见的黑暗。"
+  ],
+  [
+   "sa0#11312/options[0].text",
+   "Gallitzin",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11312/options[10].text",
+   "Gallitzin",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11312/options[1].text",
+   "Gallitzin",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11312/options[2].text",
+   "Gallitzin",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11312/options[3].text",
+   "Gallitzin",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11312/options[4].text",
+   "Gallitzin",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11312/options[5].text",
+   "Gallitzin",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11312/options[6].text",
+   "Gallitzin",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11312/options[7].text",
+   "Gallitzin",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11312/options[8].text",
+   "Gallitzin",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11312/options[9].text",
+   "Gallitzin",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11380/whatIHaveToSay[0]",
+   "job",
+   "I feel that my job was to protect. I wonder if I failed. I shall make this my endeavor going forward. Without knowing my past I can at least meet my own expectations.",
+   "我觉得，我的职责是守护。我不知道自己是否失职了。今后，我要以此为己任。既然无从知晓过去，至少我可以不负自己的期许。"
+  ],
+  [
+   "sa0#11523/whatIHaveToSay[0]",
+   "Dimas",
+   "How is it that so many of our company were found underground? I think it strange.",
+   "我们一行人中，怎么会有这么多是在地下被找到的？我觉得很蹊跷。"
+  ],
+  [
+   "sa0#11527/whatIHaveToSay[0]",
+   "Lannon",
+   "I thank you for rescuing me. I imagine my banging on the door from the inside did not encourage any rescue attempts.",
+   "谢谢你救了我。我猜，我在里面把门砸得砰砰响，大概不太能鼓励别人来救吧。"
+  ],
+  [
+   "sa0#11577/whatIHaveToSay[0]",
+   "silver",
+   "I know that it can be forged into weapons. It is not the strength of the metal that matters though, but rather something else about it that makes it powerful.",
+   "我知道它可以锻成武器。不过要紧的不是这金属的强度，而是它身上另一些东西，令它强大。"
+  ],
+  [
+   "sa0#11593/whatIHaveToSay[0]",
+   "Shione",
+   "I would like to hear you play something. Music somehow brings back memories... faintly, but they are there.",
+   "我想听你演奏一曲。音乐总能唤回记忆……隐隐约约，但它们确实在那里。"
+  ],
+  [
+   "sa0#11601/whatIHaveToSay[0]",
+   "Codex",
+   "Many words are familiar to me, but carry no meaning. Likewise with this one. I do not even know what one is, but it sounds important.",
+   "许多词我都耳熟，却不带任何含义。这个词也一样。我甚至不知道它是什么东西，但听起来很重要。"
+  ],
+  [
+   "sa0#11602/whatIHaveToSay[0]",
+   "dark lord",
+   "Whether controlled by some lord, or by their own evil desires, these creatures we fight must be vanquished. I stand with you until the end.",
+   "无论它们是受某个领主的操控，还是出于自身的邪恶欲望，与我们交战的这些生物都必须被消灭。我会与你并肩到底。"
+  ],
+  [
+   "sa0#11618/whatIHaveToSay[0]",
+   "dimension",
+   "I am struggling to handle this one alone. If there are more, I hope that there are heroes in those places as well.",
+   "这一个已经让我独自应对得很吃力。若还有更多，我希望那些地方也有英雄。"
+  ],
+  [
+   "sa0#11628/whatIHaveToSay[0]",
+   "Bhulown",
+   "It is an honor to meet a warrior of such strength. I will enjoy fighting by your side.",
+   "能遇见如此强大的战士，是我的荣幸。我定会喜欢与你并肩作战。"
+  ],
+  [
+   "sa0#11634/whatIHaveToSay[0]",
+   "Arbo",
+   "Hello there. Would you like a treat? Me too. We have much in common.",
+   "你好呀。想来点好吃的吗？我也想。我们很谈得来。"
+  ],
+  [
+   "sa0#11646/whatIHaveToSay[0]",
+   "Scaphin",
+   "I have not seen such a thing, even though my experience with monsters is greater these days.",
+   "我没见过这种东西——尽管这些日子，我见识怪物的经历多了不少。"
+  ],
+  [
+   "sa0#11653/whatIHaveToSay[0]",
+   "Renault",
+   "I have no love for that name, though... I cannot recall why.",
+   "我对那个名字毫无好感，只是……想不起为什么了。"
+  ],
+  [
+   "sa0#11675/options[0].text",
+   "Woodcutter ***",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11675/options[10].text",
+   "Woodcutter ***",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11675/options[11].text",
+   "Woodcutter ***",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11675/options[12].text",
+   "Woodcutter ***",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11675/options[13].text",
+   "Woodcutter ***",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11675/options[14].text",
+   "Woodcutter ***",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#11675/options[15].text",
+   "Woodcutter ***",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "sa0#11675/options[16].text",
+   "Woodcutter ***",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11675/options[17].text",
+   "Woodcutter ***",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#11675/options[18].text",
+   "Woodcutter ***",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11675/options[19].text",
+   "Woodcutter ***",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11675/options[1].text",
+   "Woodcutter ***",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11675/options[2].text",
+   "Woodcutter ***",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11675/options[3].text",
+   "Woodcutter ***",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11675/options[4].text",
+   "Woodcutter ***",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11675/options[5].text",
+   "Woodcutter ***",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11675/options[6].text",
+   "Woodcutter ***",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11675/options[7].text",
+   "Woodcutter ***",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11675/options[8].text",
+   "Woodcutter ***",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11675/options[9].text",
+   "Woodcutter ***",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#11686/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I have been locked away for so long that I have become good company to myself... aside from my darker thoughts. I wish I could forget them. I seem to have forgotten everything else.",
+   "我被囚禁得太久，已经学会自己给自己作伴……除了那些阴暗的念头。我真希望把它们忘掉。别的东西，我倒好像都忘光了。"
+  ]
+ ]
+}

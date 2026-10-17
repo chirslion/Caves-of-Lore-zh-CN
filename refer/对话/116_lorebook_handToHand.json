@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_handToHand",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60473/whatIHaveToSay[0]",
+   "Start",
+   "\n\r\r\n\tIt is a well known proverb in Mosandria, that \"A cornered man will make a door faster than a carpenter\". When there is only one way to escape, beware the man who has no other options.\r",
+   "\n\r\r\n\t莫桑德里亚有一句人人皆知的谚语：「人被逼到墙角，开一扇门比木匠还快。」当出路只剩一条时，要当心那个别无选择的人。\r"
+  ],
+  [
+   "res#60473/whatIHaveToSay[1]",
+   "Start",
+   "\tHastar remembered this teaching as his opponents drew closer. He was tense, not with fear, but anticipation. All trainees seek an opportunity to prove their skill, and he had waited a full year for a chance like this. He would not pass it up. The three men drew closer, one drawing a long, curved dagger. The look in their eyes said it all; that they expected an easy victory, and a prize. Whether they intended to kill Hastar was irrelevant, for he would not back down.",
+   "\t对手逼近时，哈斯塔想起了这句教导。他绷紧了身体——不是因为恐惧，而是因为期待。每个习武之人都盼着证明本事的机会，这个机会他整整等了一年，绝不放过。三个男人越走越近，其中一个抽出了一柄长长的弯匕首。他们眼里的神情说明了一切：他们以为胜利唾手可得，还附赠一份战利品。他们是否打算取哈斯塔的性命并不重要——因为他绝不会退。"
+  ],
+  [
+   "res#60473/whatIHaveToSay[2]",
+   "Start",
+   "\tThe alley walls were close, with barely room for two men to stand side-by-side. Hastar would use this to his advantage. The man with the dagger charged forward, clumsily. He put his faith in his blade, and did not expect Hastar's response. As he pulled the blade upwards, Hastar ran.\r\n\r\n\tHe ran not towards them, but away, rounding a corner at the back of the alley. ",
+   "\t巷壁逼仄，仅容两人并立。哈斯塔要利用这一点。持匕首的男人笨拙地冲上前来，把全部信赖押在刀上，全没料到哈斯塔的应对。就在他向上撩刀的一瞬，哈斯塔跑了。\r\n\r\n\t他并非迎着他们，而是朝反方向——拐过巷尾的墙角。 "
+  ],
+  [
+   "res#60473/whatIHaveToSay[3]",
+   "Start",
+   "The men pursued, wild with glee. As they came to the bend, Hastar was ready. He barrelled into the man with the dagger, grabbing his wrist and forcing it sharply upwards. The knife dropped as the man shouted in pain. With all his might, Hastar leaped into the air, putting his two feet onto the man's chest, and kicked. The three men crashed backwards against the alley wall, the air fleeing from their lungs in an audible gasp.",
+   "那伙人狂喜地追了上来。追到拐角处时，哈斯塔已经就位。他猛地撞向持匕首的男人，抓住他的手腕用力向上反拧。一声痛呼，匕首脱手落地。哈斯塔用尽全力腾身跃起，双脚蹬上那人的胸口，狠狠一踹。三个男人向后摔撞在巷壁上，肺里的空气化成了清晰的闷哼。"
+  ],
+  [
+   "res#60473/whatIHaveToSay[4]",
+   "Start",
+   "\tHastar grabbed the hair of the man in the rear, and pulled him forward, swinging his feet under the legs of the man in front. They crashed into a pile, held by the weight of the unconscious man on top.\r\n\r\n\tHe reached for the dagger, sliced their coin purses from their belts, and casually strode over them. He had not even broken a sweat.",
+   "\t哈斯塔揪住最后一个男人的头发往前一带，双脚扫过前面那人的腿弯。几个人摔作一团，被压在顶端昏过去的那人压得动弹不得。\r\n\r\n\t他拾起匕首，割下几人腰带上的钱袋，迈着闲散的步子从他们身上跨过。他连汗都没出一滴。"
+  ],
+  [
+   "res#60473/whatIHaveToSay[5]",
+   "Start",
+   "\r\tAs he strolled out of the alley into the bustling street, no one took notice of him. This is how he preferred it. The men in the alley had only seen him because he allowed it. They had not been the predator, but the prey.",
+   "\r\t他溜达出巷子，汇入熙攘的街头，没有人多看他一眼。这正是他喜欢的。巷子里那几个人之所以看得见他，不过是他的默许——他们从来不是猎手，而是猎物。"
+  ]
+ ]
+}

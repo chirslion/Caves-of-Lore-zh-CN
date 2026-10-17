@@ -1,0 +1,351 @@
+{
+ "meta": {
+  "kind": "对话/RycardConversation",
+  "count": 57,
+  "with_cn": 57
+ },
+ "entries": [
+  [
+   "sa0#10625/whatIHaveToSay[0]",
+   "Laszra",
+   "I do not normally trust older folk, but solitude has taught me the value of friendship without the boundaries of bias.",
+   "我通常不信任上了年纪的人，可独处教会了我：友谊的价值，不该被偏见设限。"
+  ],
+  [
+   "sa0#10632/whatIHaveToSay[0]",
+   "Merewen",
+   "About our time together... let us take this up another time...",
+   "关于我们共度的时光……改天再谈吧……"
+  ],
+  [
+   "sa0#10647/whatIHaveToSay[0]",
+   "book",
+   "I have no time for books. Good conversation is all that I need. A thousand books unwritten are found in the tales of men. And do I have some tales for you! Or... I would... if I could remember them...",
+   "我没时间看书。我需要的只是好谈话。人类的故事里，藏着千卷未写之书。我这里可有的是故事讲给你听！或者……本该是的……要是我还记得的话……"
+  ],
+  [
+   "sa0#10670/whatIHaveToSay[0]",
+   "Scaphin",
+   "I cannot remember much other than being trapped down here. If I ever did know about them, I suppose I would have known exactly how to defeat them in battle.",
+   "除了被困在这下面，别的我记不得多少。要是我从前真了解他们，想必也早就知道该怎么在战斗中击败他们了。"
+  ],
+  [
+   "sa0#10679/whatIHaveToSay[0]",
+   "dimension",
+   "People have dimensions too. You think you have figured them out, but there is always another angle. Uncovering that complexity is fun, and sometimes troubling.",
+   "人也有许多「维度」。你以为已经看透他们，却总还有另一个侧面。揭开这份复杂很有趣，有时也令人不安。"
+  ],
+  [
+   "sa0#10724/whatIHaveToSay[0]",
+   "Goblins",
+   "I have heard of them, but I doubt that such creatures exist. However, if they do, I am more than willing to take them on.",
+   "我听说过他们，但我怀疑这种生物是否存在。不过，若他们真的存在，我很愿意会一会。"
+  ],
+  [
+   "sa0#10725/whatIHaveToSay[0]",
+   "Dimas",
+   "There is an honesty about you that I cannot explain. I feel as though I should trust you. I don't trust some of the others, and perhaps they don't trust me either.",
+   "你身上有种我无法解释的坦荡。我觉得应该信任你。其余有些人，我并不信任——也许他们也不信任我。"
+  ],
+  [
+   "sa0#10738/whatIHaveToSay[0]",
+   "graveyard",
+   "There is a peace to graveyards that is not found elsewhere, even underground. But those most at rest are both in graveyards and underground.",
+   "墓地自有一种别处寻不到的安宁——连地下也没有。可最安眠的人，既在墓地，也在地下。"
+  ],
+  [
+   "sa0#10740/whatIHaveToSay[0]",
+   "Renault",
+   "A nobleman's name for sure. Men such as myself have no need of secondary titles. If I am not enough to be known by my first name, then I am not worthy of being known.",
+   "确实是个贵族姓氏。像我这样的人，用不着什么附加的头衔。若我配不上让人记住本名，那我也不配被人认识。"
+  ],
+  [
+   "sa0#10748/whatIHaveToSay[0]",
+   "manatite",
+   "I don't trust it, but I will use it to gain an advantage if I must.",
+   "我信不过它，但必要时，我会用它占得先机。"
+  ],
+  [
+   "sa0#10752/whatIHaveToSay[0]",
+   "Rycard",
+   "Solitude has been no friend to me. Darkness begets darkness...",
+   "独处从来不是我的朋友。黑暗滋生黑暗……"
+  ],
+  [
+   "sa0#10772/whatIHaveToSay[0]",
+   "caves",
+   "I spent too long in the dark reaches of the underground, and yet I still find myself compelled to dark places. Perhaps I am a broken man.",
+   "我在地下幽暗的深处待得太久，可仍不由自主地被黑暗之处吸引。也许我这人已经坏掉了。"
+  ],
+  [
+   "sa0#10789/whatIHaveToSay[0]",
+   "Airendal",
+   "Your light brings me comfort. I feel as though I have had many dark days, and any light or kindness is appreciated.",
+   "你的光让我安慰。我觉得自己经历过许多黑暗的日子——任何的光与善意，都让我心怀感激。"
+  ],
+  [
+   "sa0#10796/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Know that I am a loyal companion. I will not abandon a fight, nor flee at the sight of danger.",
+   "记住，我是忠实的同伴。我不会临阵脱逃，也不会见险便跑。"
+  ],
+  [
+   "sa0#11294/whatIHaveToSay[0]",
+   "librarian",
+   "If they tell stories as well as a bard, then I welcome their company. If one can read a story, then perhaps they can tell it.",
+   "若他们讲故事的功夫比得上吟游诗人，那我欢迎他们同行。一个人若能读故事，也许就能讲故事。"
+  ],
+  [
+   "sa0#11307/whatIHaveToSay[0]",
+   "fog",
+   "I am unaware of the importance of such a thing. Does not a fog come and go as it pleases? I am the same!",
+   "这种东西有什么要紧，我可不清楚。雾不就随心所欲地来去吗？我也一样！"
+  ],
+  [
+   "sa0#11316/options[0].text",
+   "Rycard",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11316/options[1].text",
+   "Rycard",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11316/options[2].text",
+   "Rycard",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11316/options[3].text",
+   "Rycard",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11316/options[4].text",
+   "Rycard",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11316/options[5].text",
+   "Rycard",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11316/options[6].text",
+   "Rycard",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11316/options[7].text",
+   "Rycard",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11316/options[8].text",
+   "Rycard",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11316/options[9].text",
+   "Rycard",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11383/whatIHaveToSay[0]",
+   "job",
+   "I am a man of purpose. To slay that which haunts my dreams. That is my purpose.",
+   "我是个有目标的人。斩杀萦绕于梦中之物。那就是我的目标。"
+  ],
+  [
+   "sa0#11531/whatIHaveToSay[0]",
+   "Lannon",
+   "It is good that we found each other. Time spent without companionship can drain one's inner fire.\n\nI speak of the bonds of friendship of course. Relationships are another issue altogether.",
+   "我们彼此相遇，是件好事。缺少同伴的时光，会耗尽内心的火焰。\n\n当然，我说的是友谊的纽带。男女之情，则是另一回事。"
+  ],
+  [
+   "sa0#11544/whatIHaveToSay[0]",
+   "Codex",
+   "I am not in this for that object. I follow you as a friend. Also, I get bored, and you find excitement. Actually... it finds you.",
+   "我掺和这事，不是为了那东西。我跟随你，因为我们是朋友。再说，我会无聊，而你总能遇到刺激。其实……是刺激总能找上你。"
+  ],
+  [
+   "sa0#11552/whatIHaveToSay[0]",
+   "silver",
+   "I may have once known something of it. It strikes a chord within my memory, and yet I cannot recall.",
+   "我从前也许知道它的一些事。它在我记忆深处拨动了一根弦，可我就是想不起来。"
+  ],
+  [
+   "sa0#11557/whatIHaveToSay[0]",
+   "Shione",
+   "I find your music quite enchanting. For a long time I heard only the music of the earth. While beautiful, it was also haunting. Sometimes, I swore I even heard manmade music echoing up from the depths. Well, made by something alive anyways. I cannot imagine humans living so deep.",
+   "你的音乐让我着迷。很长一段时间里，我只听得见大地之乐。它固然美丽，却也萦绕心魂。有时，我甚至发誓听见深处有「人造」的音乐回荡——嗯，总之是活物弄出的声响。我无法想象人类会住在那么深的地方。"
+  ],
+  [
+   "sa0#11567/whatIHaveToSay[0]",
+   "Kalindraur",
+   "A fine name indeed. I much prefer when things have interesting names.",
+   "确实是好名字。我特别喜欢事物有有趣的名字。"
+  ],
+  [
+   "sa0#11587/whatIHaveToSay[0]",
+   "Agmarians",
+   "Children's tales. Things that lurk in the dark... or perhaps the beast I am meant to slay is one of these Agmarians.",
+   "哄孩子的故事罢了。潜伏在黑暗里的东西……或者，我注定要斩杀的野兽，正是这些阿格玛人，之一。"
+  ],
+  [
+   "sa0#11603/whatIHaveToSay[0]",
+   "corundum",
+   "There are many metals to be found in the dark. I wonder how many others we do not even know of.",
+   "黑暗中的金属多种多样。不知道还有多少种是我们闻所未闻的。"
+  ],
+  [
+   "sa0#11616/whatIHaveToSay[0]",
+   "dark lord",
+   "I know nothing of him, but I wonder who is more monstrous; him or his creations? Can a man, through some dark art, create something more evil than himself?",
+   "他我一无所知。不过我在想，谁更狰狞——是他，还是他的造物？一个人真能凭某种黑暗的技艺，造出比自己更邪恶的东西吗？"
+  ],
+  [
+   "sa0#11638/whatIHaveToSay[0]",
+   "Arbo",
+   "Few are as loyal a companion as a dog. It is great fortune that you and your master found me.",
+   "像狗这样忠诚的同伴，少之又少。你和你的主人找到我，是我莫大的幸运。"
+  ],
+  [
+   "sa0#11642/whatIHaveToSay[0]",
+   "Bhulown",
+   "I struggle to see beyond the external in this situation. This partnership will be challenging for me, but it is a battle I am sure to win! Until then, I am watching.",
+   "这种情况下，我很难不被外表所限。这段同行对我将是挑战，但这场仗我一定能赢！在那之前，我会盯着。"
+  ],
+  [
+   "sa0#11668/whatIHaveToSay[0]",
+   "Emerisk",
+   "I have no memory of that place. Will this Emerisk help me to find my quarry? Unlikely...",
+   "那地方我毫无记忆。这个埃梅里斯克，能帮我找到我要猎杀的目标吗？恐怕不能……"
+  ],
+  [
+   "sa0#11678/options[0].text",
+   "Baron Vespes",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11678/options[10].text",
+   "Baron Vespes",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11678/options[11].text",
+   "Baron Vespes",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11678/options[12].text",
+   "Baron Vespes",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11678/options[13].text",
+   "Baron Vespes",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#11678/options[14].text",
+   "Baron Vespes",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#11678/options[15].text",
+   "Baron Vespes",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11678/options[16].text",
+   "Baron Vespes",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11678/options[17].text",
+   "Baron Vespes",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11678/options[18].text",
+   "Baron Vespes",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11678/options[1].text",
+   "Baron Vespes",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11678/options[2].text",
+   "Baron Vespes",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11678/options[3].text",
+   "Baron Vespes",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11678/options[4].text",
+   "Baron Vespes",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11678/options[5].text",
+   "Baron Vespes",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11678/options[6].text",
+   "Baron Vespes",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11678/options[7].text",
+   "Baron Vespes",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11678/options[8].text",
+   "Baron Vespes",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11678/options[9].text",
+   "Baron Vespes",
+   "Goblins",
+   "哥布林"
+  ]
+ ]
+}

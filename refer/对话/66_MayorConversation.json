@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "kind": "对话/MayorConversation",
+  "count": 61,
+  "with_cn": 61
+ },
+ "entries": [
+  [
+   "res#59714/whatIHaveToSay[0]",
+   "Scaphin",
+   "They are friends to the fog, the damp and the wet. These things destroy the works that we create. I would prefer not to associate with such creatures... if they exist.",
+   "他们与迷雾、潮湿和阴湿为伍。这些东西会毁掉我们建造的一切。我不愿与这种生物打交道……前提是，他们真的存在。"
+  ],
+  [
+   "res#59716/whatIHaveToSay[0]",
+   "tookKey",
+   "Just be glad you only have the medium sized ones to deal with.",
+   "庆幸吧，你要对付的只是中等个头的那些。"
+  ],
+  [
+   "res#59722/whatIHaveToSay[0]",
+   "Codex",
+   "Just one among many strange utterances. They come from below us, and sometimes from above. Do you not hear the maddening words!?\n\nAnyways, what was I saying?",
+   "不过是众多怪话里的一句。它们来自我们下方，有时也来自上方。你难道没听见那些让人发疯的言语吗！？\n\n话说回来，我刚说到哪儿了？"
+  ],
+  [
+   "res#59778/whatIHaveToSay[0]",
+   "graveyard",
+   "I locked it up. People were complaining about finding desecrated graves. I don't need more trouble in this town. If you must go, the key fell into a crack as I was taking a stroll.",
+   "我把它锁了。人们抱怨说发现有坟墓被亵渎。这镇上不需要更多麻烦了。你非要去的话——我散步时，钥匙掉进了一道裂缝里。"
+  ],
+  [
+   "res#59778/whatIHaveToSay[1]",
+   "graveyard",
+   "I heard it hit the ground far below, and I swear I heard something moving down there. Check the fissure in the cliff below the Baron's home. It probably fell into that damp place. And do be careful. If something was down there it could be dangerous.",
+   "我听见它坠到很深的地方，还发誓听见下面有什么在动。去男爵宅邸下方的崖壁裂缝里找找。它多半掉进那个潮湿的地方了。千万小心。若真有东西在下面，那可能很危险。"
+  ],
+  [
+   "res#59789/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Sir, I remember you. Did you not stay in our tavern not long ago? Perhaps it was someone else. My memory has not been.. yes, yes it is a fine establishment. The tavern. We were talking about the tavern. Your memory must be off.",
+   "先生，我记得你。你不是不久前还住在我们旅店里吗？也许是别人。我的记性不太好……对，对，那是家好旅店。旅店。我们说的一定是旅店。是你的记性出了岔子。"
+  ],
+  [
+   "res#59825/whatIHaveToSay[0]",
+   "Emerisk",
+   "Emerisk is the most amazing place... in all of Solmaria! That's because it is the only town in Solmaria. All the rest of the world is fog.\n\nWe are humble folk; well, except for the Baron.",
+   "埃梅里斯克，是整个索尔玛利亚……最了不起的地方！因为它是索尔玛利亚唯一的镇子。世界其余的地方全是迷雾。\n\n我们是些谦卑的百姓——嗯，男爵除外。"
+  ],
+  [
+   "res#59825/whatIHaveToSay[1]",
+   "Emerisk",
+   "We are mostly farmers of one kind or another.\n\nEach resident of the town is vital to our survival and serves an important function. That is why we cannot have people running off into the fog, never to return.",
+   "我们大多是各种各样的农户。\n\n镇上的每位居民对我们的生存都至关重要，各司其职。正因如此，我们不能让人跑进迷雾里一去不回。"
+  ],
+  [
+   "res#59839/whatIHaveToSay[0]",
+   "water",
+   "The aquifer beneath us is always fresh and clean. The finest in all the land actually. Legend says that the well has a guardian that keeps it clean, but I find the notion somewhat laughable.",
+   "我们脚下的含水层永远清冽洁净。其实是全国最上等的。传说那口井有守护者负责保持洁净，不过我觉得这说法有点可笑。"
+  ],
+  [
+   "res#59878/whatIHaveToSay[0]",
+   "caves",
+   "I really wish someone would wall up the back part of the cellar. I had to have a door installed to keep critters out. All the caves seem good for is bringing filthy creatures to the surface. If I didn't know any better I'd say the dark times were upon us again. ",
+   "真希望有人把地窖后头那一段砌死。为了挡住那些小东西，我只好装了扇门。这些洞穴似乎只会把肮脏的生物带到地面上来。要不是我明白事理，我都想说黑暗的年代又回来了。 "
+  ],
+  [
+   "res#59878/whatIHaveToSay[1]",
+   "caves",
+   "But that cannot be. The dark lord was destroyed generations ago.\n\nAt least it provides a clean source of water for our village. The well goes deep into the caves; much deeper than any have been in a long time.",
+   "可那不可能。黑暗领主，好几个世代前就被毁灭了。\n\n至少它为我们村子提供了洁净的水。这口井深入洞穴——深得多年无人到过的地步。"
+  ],
+  [
+   "res#59892/whatIHaveToSay[0]",
+   "completedQuest",
+   "You survived? Excellent. I had my doubts, but you are indeed skilled.",
+   "你活下来了？太好了。我本有些怀疑，但你确实身手不凡。"
+  ],
+  [
+   "res#59944/whatIHaveToSay[0]",
+   "Rycard",
+   "Welcome stranger... that's odd. Why do I feel like you shouldn't be here?\n\nForget I said anything. I mean no disrespect.",
+   "欢迎，陌生人……真奇怪。我怎么觉得你不该在这里？\n\n当我没说。我无意冒犯。"
+  ],
+  [
+   "res#59956/whatIHaveToSay[0]",
+   "Deep Cleaning",
+   "At least once a month I must clean up after the tiny slime spawn that work their way up through the floors of the hall. If you eliminate as many of the adults as you can I would be most grateful.",
+   "每个月至少一次，我非得清理那些从厅堂地板缝里钻上来的小史莱姆不可。若你能尽可能多地消灭那些成体，我不胜感激。"
+  ],
+  [
+   "res#59994/whatIHaveToSay[0]",
+   "Bhulown",
+   "Are you... real? Sometimes I have a hard time telling if I am imagining things. Take, for instance, the creatures in black that surround us at all times.",
+   "你是……真的吗？有时候我分不清自己是不是在凭空想象。比如那些无时无刻不围绕在我们身边的黑衣生物。"
+  ],
+  [
+   "res#59998/whatIHaveToSay[0]",
+   "Archaven",
+   "Linen drawer? You should stay out of my things.",
+   "亚麻布抽屉？你少翻我的东西。"
+  ],
+  [
+   "res#60031/whatIHaveToSay[0]",
+   "Agmarians",
+   "Agmarians are a foul people, if they can even be called people. Half lizard they are, and vicious too!",
+   "阿格玛人，是群可恶的家伙——如果他们还配叫「人」的话。半蜥蜴的血统，还凶残得很！"
+  ],
+  [
+   "res#60031/whatIHaveToSay[1]",
+   "Agmarians",
+   "Stories say they betrayed mankind in ages past. True or not, I still don't trust them.",
+   "传说说他们在远古背叛了人类。真假不论，我反正信不过他们。"
+  ],
+  [
+   "res#60128/whatIHaveToSay[0]",
+   "Merewen",
+   "Hello again lass. You didn't follow that young fool into the fog did you? My warnings were clear you know. Emerisk has few enough young folk as it is. We need every last one of you if we are to prepare for the next cycle.",
+   "又见面了，姑娘。你没跟着那个傻小子进迷雾吧？我的警告可是说得清清楚楚。埃梅里斯克，本就年轻人不多。要为下一轮做准备，你们每一个都不能少。"
+  ],
+  [
+   "res#60172/whatIHaveToSay[0]",
+   "book",
+   "The library once had numerous books, but it was destroyed many cycles ago.\n\nI don't see why one book would be so special anyways. It's not as though anyone knows how to read.",
+   "图书馆曾藏有许多书，可它许多轮前就被毁了。\n\n再说，我不明白一本书有什么稀罕。反正也没人识字。"
+  ],
+  [
+   "res#60172/whatIHaveToSay[1]",
+   "book",
+   "Now that you've got me thinking, where did books even come from if nobody knows how to read? Perhaps it was those treacherous Agmarians.",
+   "你这一说倒让我想起来了：既然没人识字，书又是从哪来的？也许正是那些奸诈的阿格玛人，搞出来的。"
+  ],
+  [
+   "res#60308/whatIHaveToSay[0]",
+   "fog",
+   "I warned that nobody should enter it. But does anybody listen to me? Well.. yes, I suppose most of them do. As they well should. Everyone knows there is nothing beyond the fog.",
+   "我警告过谁都不许进去。可有人听我的吗？嗯……有的，多数人都听。他们理当如此。谁都知道，迷雾之外什么都没有。"
+  ],
+  [
+   "res#60337/options[0].text",
+   "Mayor ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60337/options[1].text",
+   "Mayor ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60337/options[2].text",
+   "Mayor ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60337/options[3].text",
+   "Mayor ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60337/options[4].text",
+   "Mayor ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60337/options[5].text",
+   "Mayor ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60337/options[6].text",
+   "Mayor ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60337/options[7].text",
+   "Mayor ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60337/options[8].text",
+   "Mayor ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60337/options[9].text",
+   "Mayor ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60394/whatIHaveToSay[0]",
+   "job",
+   "Oh, I am the welcoming committee for Emerisk; the one and only member too. I welcome folks to our fine town. We're a small enough town that only one member is needed on the committee.",
+   "哦，我是埃梅里斯克，的欢迎委员会——还是唯一一名成员。我负责迎接来我们这座好镇子的人。镇子小，委员会有一个人就够了。"
+  ],
+  [
+   "res#60551/whatIHaveToSay[0]",
+   "Lannon",
+   "Welcome to the town of Emerisk. Wait a moment... I recognize you. Welcome back. It has been a while since I last saw you, wandering off to find your lost sheep.",
+   "欢迎来到埃梅里斯克，镇。等等……我认得你。欢迎回来。上次见你还是好久以前——你为了找丢失的羊，晃出了镇子。"
+  ],
+  [
+   "res#60551/whatIHaveToSay[1]",
+   "Lannon",
+   "I really don't see what all the fuss is about. You have nearly a hundred and you left them to go after just one. That must be one special sheep.",
+   "我实在不明白有什么好折腾的。你有将近一百只羊，却丢下它们去追那一只。那只羊一定非同凡响。"
+  ],
+  [
+   "res#60551/whatIHaveToSay[2]",
+   "Lannon",
+   "In any regard, it is good to have you back in our lovely Emerisk. It's the only town in the world after all.",
+   "不管怎样，欢迎你回到我们可爱的埃梅里斯克。毕竟，这是世界上唯一的镇子。"
+  ],
+  [
+   "res#60641/whatIHaveToSay[0]",
+   "Shione",
+   "I have seen you in the tavern, correct? I do hope you have enjoyed your stay. We are seeing more travellers lately than I can ever remember. Of course, I can remember very little....",
+   "我在旅店里见过你，对吗？希望你这段时间住得愉快。近来我们见到的旅人，比我记忆中的任何时候都多。当然，我记得的东西本就少得可怜……"
+  ],
+  [
+   "res#60645/whatIHaveToSay[0]",
+   "Goblins",
+   "Never take the unknown creatures of the fog for mere tales. I have seen things enter and never return. I have also seen the shapes that lurk on the edges.",
+   "迷雾，中的未知生物，千万别只当作故事。我见过有东西进去后再没回来。我也见过匍匐在边缘的那些影子。"
+  ],
+  [
+   "res#60719/whatIHaveToSay[0]",
+   "Dimas",
+   "You seem like a respectable fellow. Please do keep these others in line.",
+   "你看上去是个体面人。请务必管好这些家伙。"
+  ],
+  [
+   "res#60746/whatIHaveToSay[0]",
+   "Airendal",
+   "A talking light? I refuse to believe my eyes. I am seeing more and more things that defy reason, and I will not give in to madness.",
+   "会说话的光？我不肯相信自己的眼睛。不合常理的事我见得越来越多，但我绝不会向疯狂低头。"
+  ],
+  [
+   "res#60750/whatIHaveToSay[0]",
+   "dark lord",
+   "Defeated. Gone. Irrelevant. In the dark times there were countless evils walking the land. Now there is nothing. Well, mostly nothing. Nothing enough to be worried about. Defeated I say!",
+   "被击败了。消失了。无关紧要。黑暗的年代里，曾有无数邪恶在大地上行走。现在什么也没有了。嗯，基本没有。没有到需要担心的地步。我说了，他败了！"
+  ],
+  [
+   "res#60780/whatIHaveToSay[0]",
+   "Arbo",
+   "Hello there good sir. Welcome to Emerisk.\n...\nWhat's wrong? Cat got your tongue? How rude.",
+   "你好啊，这位先生。欢迎来到埃梅里斯克。\n……\n怎么了？猫叼走了你的舌头？真没礼貌。"
+  ],
+  [
+   "res#60828/whatIHaveToSay[0]",
+   "Laszra",
+   "Welcome to Emerisk. It is glad to see another wrinkle amongst all the youth passing through this place.",
+   "欢迎来到埃梅里斯克。在满眼来来往往的年轻人里看到又一道皱纹，真是件乐事。"
+  ],
+  [
+   "res#60845/whatIHaveToSay[0]",
+   "Renault",
+   "The Renault family was once very prominent in the town of... the... village... of Emerisk is the only habitable place in the whole world, you know.",
+   "雷诺家族，曾在……那个……埃梅里斯克，的村子里十分显赫。要知道，那可是全世界唯一适合居住的地方。"
+  ],
+  [
+   "res#60906/options[0].text",
+   "Baron Vespes",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60906/options[10].text",
+   "Baron Vespes",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60906/options[11].text",
+   "Baron Vespes",
+   "Deep Cleaning",
+   "深度清洁"
+  ],
+  [
+   "res#60906/options[12].text",
+   "Baron Vespes",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60906/options[13].text",
+   "Baron Vespes",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60906/options[14].text",
+   "Baron Vespes",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60906/options[15].text",
+   "Baron Vespes",
+   "water",
+   "水"
+  ],
+  [
+   "res#60906/options[1].text",
+   "Baron Vespes",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60906/options[2].text",
+   "Baron Vespes",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60906/options[3].text",
+   "Baron Vespes",
+   "book",
+   "书"
+  ],
+  [
+   "res#60906/options[4].text",
+   "Baron Vespes",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60906/options[5].text",
+   "Baron Vespes",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60906/options[6].text",
+   "Baron Vespes",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60906/options[7].text",
+   "Baron Vespes",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60906/options[8].text",
+   "Baron Vespes",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60906/options[9].text",
+   "Baron Vespes",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60959/whatIHaveToSay[0]",
+   "onQuest",
+   "Take this key. It will allow you into the deeper parts of the cave where most of the slimes dwell.",
+   "拿着这把钥匙。它能让你进入洞穴更深处——史莱姆大多聚集在那里。"
+  ]
+ ]
+}

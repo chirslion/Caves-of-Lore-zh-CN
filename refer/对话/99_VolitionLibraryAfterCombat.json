@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "kind": "对话/VolitionLibraryAfterCombat",
+  "count": 9,
+  "with_cn": 9
+ },
+ "entries": [
+  [
+   "sa8#117/whatIHaveToSay[0]",
+   "Lannon",
+   "What did you mean, the branches die?",
+   "你说「枝条死去」，是什么意思？"
+  ],
+  [
+   "sa8#135/whatIHaveToSay[0]",
+   "Merewen",
+   "We might have overloaded his tiny brain.",
+   "我们可能把他那小脑子烧坏了。"
+  ],
+  [
+   "sa8#16/whatIHaveToSay[0]",
+   "Shione",
+   "This will make quite a tale.",
+   "这能成就一段相当精彩的故事。"
+  ],
+  [
+   "sa8#22/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Despite 'its' fearsome appearance, it is not like the other monsters we have fought.",
+   "尽管「它」外表骇人，它并不像我们交手过的其他怪物。"
+  ],
+  [
+   "sa8#48/whatIHaveToSay[0]",
+   "Rycard",
+   "You have some explaining to do.",
+   "你可得好好解释一番。"
+  ],
+  [
+   "sa8#8/whatIHaveToSay[0]",
+   "Shione",
+   "I sense something about him. He's different somehow. The way he speaks is changing.",
+   "我感觉到了他身上的一点什么。他有些不一样。他说话的方式在变。"
+  ],
+  [
+   "sa8#92/whatIHaveToSay[0]",
+   "Volition",
+   "Terminated.",
+   "终止。"
+  ],
+  [
+   "sa8#93/whatIHaveToSay[0]",
+   "Airendal",
+   "We will surely meet again. Perhaps answers will come.",
+   "我们一定还会再见。也许到时会有答案。"
+  ],
+  [
+   "sa8#98/whatIHaveToSay[0]",
+   "Rycard",
+   "He? More like an 'it'.",
+   "「他」？还不如说是个「它」。"
+  ]
+ ]
+}

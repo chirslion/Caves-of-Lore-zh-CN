@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_summon_text",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60463/whatIHaveToSay[0]",
+   "Start",
+   "<i>Rain's Bestiary, Forward note\r</i>\n\r\nI watched as Rain painstakingly added to this book, one entry at a time. I continued my studies while he searched the deepest recesses of Agribon, returning each time to add more drawings of strange creatures to his collection. ",
+   "<i>雷恩的博物志·前言\r</i>\n\r\n我看着雷恩一丝不苟地往这本书里添加条目，一条又一条。当他在阿格里邦最幽深的角落探索时，我继续着自己的研究；他每次归来，都会为这部集录添上更多奇异生物的图谱。 "
+  ],
+  [
+   "res#60463/whatIHaveToSay[1]",
+   "Start",
+   "I once cared only for formulas, but I now see that those who make them start with a deep study of their subject. Experimentation is not random as I had once thought, but is highly educated in its guesswork.\n\n\nTake to heart these principles before you begin your journey into Rain's world:\n",
+   "我曾只关心配方，如今才明白：配制配方的人，起点是对其对象的深入研究。实验并非如我昔日所想那般随意，它的每一次猜想都出自精深的学识。\n\n\n在你踏入雷恩的世界之前，请将这些原则记在心里：\n"
+  ],
+  [
+   "res#60463/whatIHaveToSay[2]",
+   "Start",
+   "1. One does not simply stumble into the unknown, for that which is easy to find has already been found. You must pursue your goal, whatever it is, with an unrelenting passion.\r\n\n2. To understand the mind of your subject is just as important as understanding its substance. This applies to rocks and plants, in addition to animals. If you do not understand my meaning, then take time to ponder before continuing.\r",
+   "1. 人不会随随便便撞见未知——轻易能找到的，早已被人找到。无论你的目标是什么，都必须以百折不回的激情去追寻。\r\n\n2. 理解研究对象的心性，与理解它的实质同样重要。这不仅适用于动物，也适用于岩石与草木。若你不明白我的意思，那就停下来好好思量，再继续往下读。\r"
+  ],
+  [
+   "res#60463/whatIHaveToSay[3]",
+   "Start",
+   "3. Patience is a virtue, for in it you find safety, time to contemplate what you have already seen and wisdom to see that which is only seen by the truly attentive.\n\n4. Embrace the joy of discovery. These mental and physical exercises are not devoid of life, or separate from yours. Enjoy what you do.\n",
+   "3. 耐心是一种美德：它赐你安全，赐你回味已见之物的时间，也赐你看清唯有真正用心者才能看见之物的智慧。\n\n4. 拥抱发现的喜悦。这些心智与体力的功课并非没有生命，也并非与你的生命彼此隔绝。享受你所做的事吧。\n"
+  ],
+  [
+   "res#60463/whatIHaveToSay[4]",
+   "Start",
+   "If you embrace these principles; if you fully grasp the nature of your subject; if it brings you life then you can bring life to your subject.\r\n\r\nNow go, enjoy the works of my little brother, whom I once doubted and subjected to much distress for thinking him a fool. I was the fool, and there is no shame in embracing the truth. Behold, a world of strange creatures is about to be opened to you. Tread lightly!\r",
+   "若你拥抱这些原则；若你完全领会研究对象的本性；若它能赐予你生机，你便能为你的对象注入生命。\r\n\r\n去吧，去欣赏我弟弟的作品——我曾怀疑他，因为觉得他傻而让他受了许多委屈。蠢的是我，而拥抱真相并不可耻。看吧，一个奇异生物的世界即将在你面前展开。轻步而行！\r"
+  ],
+  [
+   "res#60463/whatIHaveToSay[5]",
+   "Start",
+   "\n\n\n\n\n- Steppe, loyal friend and brother to Rain.",
+   "\n\n\n\n\n——斯泰普，雷恩忠诚的朋友与兄弟。"
+  ]
+ ]
+}

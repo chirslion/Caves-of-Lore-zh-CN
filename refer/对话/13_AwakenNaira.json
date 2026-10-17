@@ -1,0 +1,213 @@
+{
+ "meta": {
+  "kind": "对话/AwakenNaira",
+  "count": 34,
+  "with_cn": 34
+ },
+ "entries": [
+  [
+   "sa20#116/whatIHaveToSay[0]",
+   "Gallitzin",
+   "We are ready to travel to the deepest places.",
+   "我们已准备好前往最深处。"
+  ],
+  [
+   "sa20#135/whatIHaveToSay[0]",
+   "Naira",
+   "First you must pass the threshold to the Lacunaria.",
+   "首先，你们必须越过通往拉库纳里亚的门槛。"
+  ],
+  [
+   "sa20#135/whatIHaveToSay[1]",
+   "Naira",
+   "Use your Arcane Sight on the gateway in the center of this place; the archway surrounded by water.",
+   "对此地中央的传送门使用你的奥术视觉；就是那座被水环绕的拱门。"
+  ],
+  [
+   "sa20#144/whatIHaveToSay[0]",
+   "Naira",
+   "If you pass through with the material, the portal should stabilize and stay open.",
+   "若你带着那种材料穿过，传送门应当会稳定下来，并保持开启。"
+  ],
+  [
+   "sa20#146/whatIHaveToSay[0]",
+   "Merewen",
+   "I am glad that our search was not in vain.",
+   "我很高兴，我们的寻找没有白费。"
+  ],
+  [
+   "sa20#156/whatIHaveToSay[0]",
+   "Naira",
+   "All this time I was searching for myself.",
+   "这么久以来，我一直在寻找的，是我自己。"
+  ],
+  [
+   "sa20#160/whatIHaveToSay[0]",
+   "Naira",
+   "However, in order to pass through the portal you will need one more thing... a piece of planar material.",
+   "不过，要穿过传送门，你们还需要一样东西……一块位面材料。"
+  ],
+  [
+   "sa20#163/whatIHaveToSay[0]",
+   "Bhulown",
+   "No like name Lacunaria, but no scared either. Sound like...  Scaphin word for dry puddle.",
+   "不喜欢拉库纳里亚这个名字，但也不怕。听起来像……斯卡芬语里的「干水洼」。"
+  ],
+  [
+   "sa20#200/whatIHaveToSay[0]",
+   "Naira",
+   "... I... remember who I am.",
+   "……我……记起自己是谁了。"
+  ],
+  [
+   "sa20#227/whatIHaveToSay[0]",
+   "librarian_1",
+   "This will reveal the moon runes.",
+   "这会令月之符文显现。"
+  ],
+  [
+   "sa20#227/whatIHaveToSay[1]",
+   "librarian_1",
+   "When all the moons are at their peak, the runes will glow and the portal will open.",
+   "当三轮月亮同至极处，符文便会发光，传送门也会开启。"
+  ],
+  [
+   "sa20#253/whatIHaveToSay[0]",
+   "Dimas",
+   "A gem you say?",
+   "你说是一颗宝石？"
+  ],
+  [
+   "sa20#255/whatIHaveToSay[0]",
+   "Laszra",
+   "This parallel world... it must be full of wonder, and danger.",
+   "这个平行世界……一定充满了奇观，也充满了危险。"
+  ],
+  [
+   "sa20#264/whatIHaveToSay[0]",
+   "Merewen",
+   "You are very single-minded.",
+   "你可真是心无旁骛。"
+  ],
+  [
+   "sa20#274/whatIHaveToSay[0]",
+   "Naira",
+   "The place you must seek is neither above or below us. It is parallel, in a place called the Lacunaria.",
+   "你们要寻找的地方，既不在我们上方，也不在我们下方。它是平行的，位于一个叫拉库纳里亚的地方。"
+  ],
+  [
+   "sa20#274/whatIHaveToSay[1]",
+   "Naira",
+   "You have been there before. Now, you must go willingly.",
+   "你们曾到过那里。如今，你们必须心甘情愿地前往。"
+  ],
+  [
+   "sa20#277/whatIHaveToSay[0]",
+   "Shione",
+   "We are ready to help. We have not come all this way to stop here.",
+   "我们随时可以帮忙。走了这么远，不会就此止步。"
+  ],
+  [
+   "sa20#283/whatIHaveToSay[0]",
+   "Naira",
+   "When you find the gem, return it to me, and I will regain the memories that I stored away.",
+   "等你们找到那颗宝石，把它带回给我，我就能重拾自己封存的记忆。"
+  ],
+  [
+   "sa20#295/whatIHaveToSay[0]",
+   "Lannon",
+   "It is good to finally find you.",
+   "终于找到你了，真好。"
+  ],
+  [
+   "sa20#310/whatIHaveToSay[0]",
+   "Airendal",
+   "Parallel places help Fae cross great distances. Might find other Fae as well.",
+   "平行的所在能助妖精跨越遥远的距离。也许还能找到别的妖精。"
+  ],
+  [
+   "sa20#313/whatIHaveToSay[0]",
+   "Lannon",
+   "Where are they? How can we return them to you?",
+   "他们在哪儿？我们怎样才能把他们还给你？"
+  ],
+  [
+   "sa20#322/whatIHaveToSay[0]",
+   "Rycard",
+   "Nothing like a wild goose chase.",
+   "又是一场徒劳的瞎跑。"
+  ],
+  [
+   "sa20#331/whatIHaveToSay[0]",
+   "Naira",
+   "My notes tell of a mine to the west of Emerisk, in the Withering Hills, that emits planar energy.",
+   "我的笔记提到，埃梅里斯克以西的枯败丘陵有一处矿洞，会散发位面能量。"
+  ],
+  [
+   "sa20#68/whatIHaveToSay[0]",
+   "Naira",
+   "Search the mine, and hopefully you will find something of use. You will need the mine key.",
+   "搜索那座矿洞吧，但愿你们能有所收获。你们需要矿洞的钥匙。"
+  ],
+  [
+   "sa20#70/whatIHaveToSay[0]",
+   "Naira",
+   "This place connects all worlds and lands, filled with arcane objects.",
+   "这个地方连接着所有的世界与土地，遍布奥术器物。"
+  ],
+  [
+   "sa20#70/whatIHaveToSay[1]",
+   "Naira",
+   "This void pulls objects and entities into its emptiness through unknown means.",
+   "这片虚空以未知的方式，把器物与生灵拖入它的空无之中。"
+  ],
+  [
+   "sa20#75/whatIHaveToSay[0]",
+   "Naira",
+   "Let us talk later.",
+   "以后再谈吧。"
+  ],
+  [
+   "sa20#79/whatIHaveToSay[0]",
+   "Naira",
+   "Its last known location was in the possession of a guardian of some kind, in the swamps below the mine.",
+   "它最后已知的下落，是在矿洞下方沼泽里某个守护者手中。"
+  ],
+  [
+   "sa20#93/whatIHaveToSay[0]",
+   "Naira",
+   "I hid my memories within this place to protect them.",
+   "为保护我的记忆，我把它们藏在了这里。"
+  ],
+  [
+   "sa20#93/whatIHaveToSay[1]",
+   "Naira",
+   "They lie bound in a unique gem called the Mynswar Opal.",
+   "它们被束缚在一颗独一无二的宝石里，称作明斯瓦蛋白石。"
+  ],
+  [
+   "sa20#95/whatIHaveToSay[0]",
+   "Lannon",
+   "How do we find it?",
+   "我们要怎么找到它？"
+  ],
+  [
+   "sa20#97/whatIHaveToSay[0]",
+   "librarian_1",
+   "Daughter? Is it really you?",
+   "女儿？真的是你吗？"
+  ],
+  [
+   "sa20#99/whatIHaveToSay[0]",
+   "Naira",
+   "There is much I must tell you, but most of my memories are still hidden.",
+   "我有很多话必须告诉你，可我的大部分记忆仍被封存着。"
+  ],
+  [
+   "sa20#99/whatIHaveToSay[1]",
+   "Naira",
+   "I had to keep them safe, in case Kalindraur was not enough.",
+   "我必须保证它们的安全，以防卡林德劳尔还不够。"
+  ]
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "meta": {
+  "kind": "对话/FarmGirlConversation",
+  "count": 65,
+  "with_cn": 65
+ },
+ "entries": [
+  [
+   "res#59713/whatIHaveToSay[0]",
+   "onQuest",
+   "Search the abandoned house for the entrance to the passageway. Be careful when you find the herb. It seemed... unnatural.",
+   "去废弃的房子里找通道入口。找到那株草药时要小心。它看起来……很不自然。"
+  ],
+  [
+   "res#59729/whatIHaveToSay[0]",
+   "Archaven",
+   "Is it a plant? It does not sound quite like a plant, does it...",
+   "它是植物吗？听起来不太像植物，对吧……"
+  ],
+  [
+   "res#59732/whatIHaveToSay[0]",
+   "recievedItem",
+   "Use these aulnuts and carrots to bait the critters. When they follow you, lock them up in the northwest pen!",
+   "用这些奥恩果和胡萝卜引诱那些小东西。等它们跟着你走，就把它们锁进西北边的围栏里！"
+  ],
+  [
+   "res#59771/whatIHaveToSay[0]",
+   "graveyard",
+   "There are valuable herbs that grow there. Since the gate is locked now I would pay well for some of them.",
+   "那里长着珍贵的草药。如今大门锁上了，你若能采些来，我愿出好价钱。"
+  ],
+  [
+   "res#59806/whatIHaveToSay[0]",
+   "onQuest",
+   "Take these aulnuts and carrots. You can use them to lure the pests into a fenced area in the northwestern most part of town, where the stables are. Rabbits used to be raised there, and it should make a good place to keep them out of trouble.",
+   "带上这些奥恩果和胡萝卜。你可以用它们把害兽引进镇子最西北的围栏区，就在马厩那里。那里从前养过兔子，用来把它们关起来、免得惹祸，正合适。"
+  ],
+  [
+   "res#59817/whatIHaveToSay[0]",
+   "Emerisk",
+   "Emerisk is a wonderful place to grow up. It is filled with kind-hearted people who care deeply for one another. I feel as though I know some of them very deeply, and yet... I know nothing about them. Is that strange? At least I have my husband.",
+   "埃梅里斯克，是个成长的好地方。这里住满心地善良、彼此深切关怀的人。我总觉得对其中一些人熟悉至极，可是……我对他们一无所知。这奇怪吗？至少我还有我丈夫。"
+  ],
+  [
+   "res#59845/whatIHaveToSay[0]",
+   "Scaphin",
+   "I have not only heard of them but seen them as well. They can be found foraging in the caves and are very dangerous.",
+   "我不光听说过他们，还亲眼见过。他们会在洞穴里觅食，非常危险。"
+  ],
+  [
+   "res#59872/whatIHaveToSay[0]",
+   "caves",
+   "The caves are full of many useful herbs. I used to travel the passages, amongst the ruins, looking for rare plants.",
+   "洞穴里长着许多有用的草药。我从前常在那些通道与废墟之间穿行，寻找稀有的植物。"
+  ],
+  [
+   "res#59890/whatIHaveToSay[0]",
+   "onQuest",
+   "If you cannot find any moss, know that it regrows in about two week's time. You can always check back later.",
+   "要是你找不到苔藓，记住它大约两周后会重新长出来。你随时可以回头再来看看。"
+  ],
+  [
+   "res#59900/whatIHaveToSay[0]",
+   "dark lord",
+   "I know very little of such things. I recognize the name, but it has no meaning to me.",
+   "这种事我知之甚少。这名字我认得，但对我没有意义。"
+  ],
+  [
+   "res#59917/whatIHaveToSay[0]",
+   "Tunnel Vision",
+   "The caves beneath Emerisk are full of a special moss than can be used in healing potions. It has been too long since I ventured into the caves myself. My husband says it is too dangerous now. If you bring me some I will make a batch of potions for you.",
+   "埃梅里斯克，地下的洞穴里长着一种特别的苔藓，可以入药做治疗药水。我自己下洞穴，已经是太久以前的事了。我丈夫说如今太危险。你若能带些回来，我就为你做一批药水。"
+  ],
+  [
+   "res#59937/whatIHaveToSay[0]",
+   "Rycard",
+   "You look weary, sir. I have some herbs that might be able to help. Also, I recommend a bath, and a square meal. Perhaps some new clothes as well.",
+   "你看着很疲惫，先生。我有一些草药也许能帮上忙。另外，我建议你洗个澡，好好吃一顿。也许再换身新衣裳。"
+  ],
+  [
+   "res#59968/whatIHaveToSay[0]",
+   "Round 'Em Up",
+   "My garden has been under constant assault from the squirrels and rabbits in the area. I would be very appreciative if you could help.",
+   "我的菜园一直被这一带的松鼠和兔子骚扰个不停。你若肯帮忙，我不胜感激。"
+  ],
+  [
+   "res#60023/whatIHaveToSay[0]",
+   "Agmarians",
+   "Are they a kind of mushroom? I know a lot about mushrooms. You should never eat the ones with... the kind that... hmmm. I can't seem to remember much about them after all. They must all be safe to eat.",
+   "它算蘑菇？我对蘑菇很有研究。你绝不该吃那些带……那种……嗯。关于它们，我竟然一点都想不起来了。那它们一定都安全可食。"
+  ],
+  [
+   "res#60045/whatIHaveToSay[0]",
+   "recievedItem",
+   "I sell carrots from time to time, so check back occasionally if you need more.",
+   "我时不时会卖胡萝卜，要是还需要，就常回来看看。"
+  ],
+  [
+   "res#60064/whatIHaveToSay[0]",
+   "Airendal",
+   "There is a fruit that gives off a glow similar to yours. Are you perhaps... related?",
+   "有一种果子会发出和你相似的光。你莫非……和它沾亲？"
+  ],
+  [
+   "res#60074/whatIHaveToSay[0]",
+   "Goblins",
+   "I am unfamiliar with that plant. Is it dangerous?",
+   "那种植物我不熟悉。它危险吗？"
+  ],
+  [
+   "res#60120/whatIHaveToSay[0]",
+   "Merewen",
+   "Well met, my lady. Would you like your usual herb bundle? Oh, I'm sorry. I mistook you for someone else.",
+   "幸会，这位女士。还是要您惯常的那捆草药吗？哦，抱歉。我把您认成别人了。"
+  ],
+  [
+   "res#60166/whatIHaveToSay[0]",
+   "book",
+   "I read only the signs of nature. But I have heard of those that can read the bark on a tree as if it were pages in a book. It's too bad books aren't real though. I've never even heard of one. What were we talking about?",
+   "我只读大自然的迹象。不过我听说过，有人能读懂树皮，仿佛那是一页页的书。可惜书并不真实存在。我甚至没见过一本。我们刚才在说什么来着？"
+  ],
+  [
+   "res#60182/whatIHaveToSay[0]",
+   "Shione",
+   "Did you know that plants respond to music? There are some that even flower only in the presence of it.",
+   "你知道吗，植物会对音乐有所回应？有些植物甚至只在乐声中有花开放。"
+  ],
+  [
+   "res#60300/whatIHaveToSay[0]",
+   "fog",
+   "All of my knowledge and memory stops at the fog. Even the herbs that grow on its edge feel unknown to me. We all know something is wrong, but we cannot find the words... would you like some tea?",
+   "我所有的知识与记忆，都在迷雾那里止步。就连长在迷雾边缘的草药，我也觉得陌生。我们都知道有哪里不对劲，却找不到言语来形容……要来杯茶吗？"
+  ],
+  [
+   "res#60329/options[0].text",
+   "Farm Girl ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60329/options[1].text",
+   "Farm Girl ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60329/options[2].text",
+   "Farm Girl ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60329/options[3].text",
+   "Farm Girl ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60329/options[4].text",
+   "Farm Girl ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60329/options[5].text",
+   "Farm Girl ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60329/options[6].text",
+   "Farm Girl ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60329/options[7].text",
+   "Farm Girl ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60329/options[8].text",
+   "Farm Girl ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60329/options[9].text",
+   "Farm Girl ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60386/whatIHaveToSay[0]",
+   "job",
+   "I am the town herbalist. I help to treat injuries and make cooking more interesting. With all the spices I have, it figures that my husband prefers his food bland. He didn't always... I think.",
+   "我是镇上的草药师。我帮人治伤，也让饭菜更有滋味。我香料这么多，我丈夫偏偏喜欢寡淡口味，真是没辙。他从前不是这样……我想。"
+  ],
+  [
+   "res#60517/whatIHaveToSay[0]",
+   "carrots",
+   "Trystrem sent you? That dear boy loves his goat very much. I have some extra carrots that I was planning to sell. Here, you may have them",
+   "是特里斯崔姆让你来的？那孩子可宝贝他的山羊了。我有些多余的胡萝卜，本来打算卖的。来，拿去用吧"
+  ],
+  [
+   "res#60543/whatIHaveToSay[0]",
+   "Lannon",
+   "Greetings traveller. Forgive my boldness, but you seem very familiar to me. Yet, I am sure I don't know you.",
+   "致意，旅人。恕我冒昧，你看着让我十分眼熟。可我确信，我并不认识你。"
+  ],
+  [
+   "res#60599/whatIHaveToSay[0]",
+   "Dimas",
+   "There are plants that grow exclusively on rocks. Did you know that?",
+   "有些植物只长在岩石上。你知道吗？"
+  ],
+  [
+   "res#60660/whatIHaveToSay[0]",
+   "Codex",
+   "The thing you speak of is told in legend. I... do not know where this memory originates... but the Codex holds power... not the thing itself though. That is just leather and paper.",
+   "你说的那样东西，在传说中才有。我……不知道自己这段记忆从何而来……但典籍，蕴含着力量……不是它本身。它不过是皮革和纸罢了。"
+  ],
+  [
+   "res#60730/whatIHaveToSay[0]",
+   "Bhulown",
+   "A Scaphin, here!? And yet... you do not look like the ones I have seen. You look... kind.",
+   "一个斯卡芬，在这里！？可……你不像我所见过的那些。你看着……和善。"
+  ],
+  [
+   "res#60748/whatIHaveToSay[0]",
+   "Laszra",
+   "Are there magical plants? Certainly not, and also, most definitely yes. Life itself is magical.",
+   "有魔法植物吗？当然没有；同时，也绝对有。生命本身就是魔法。"
+  ],
+  [
+   "res#60752/whatIHaveToSay[0]",
+   "mushrooms",
+   "They have very specific conditions that they like to grow under. Once you learn where they like to grow it is easier to find them, and if you wait long enough after picking, they grow back.",
+   "它们对生长条件有很挑剔的要求。一旦摸清它们喜欢长在哪里，找起来就容易了；而且采过之后等得够久，它们还会再长出来。"
+  ],
+  [
+   "res#60772/whatIHaveToSay[0]",
+   "Arbo",
+   "You should avoid wolfsbane. It is a most foul herb for your kind.",
+   "你该避开乌头。对你们这族来说，它是最凶的毒草。"
+  ],
+  [
+   "res#60793/whatIHaveToSay[0]",
+   "completedQuest",
+   "Thank you so much. Please, take this old book I have had on my shelves. Rumour has it that you have been asking about books lately, and I do not need such things.",
+   "太感谢你了。请收下这本在我书架上放了很久的旧书。听说你最近在四处打听书，而我用不上这种东西。"
+  ],
+  [
+   "res#60837/whatIHaveToSay[0]",
+   "Renault",
+   "That name does sound familiar to me, but most names do. Imagine me, knowing someone with a name of high honor! Preposterous, I know. I'm just a simple herbalist.",
+   "那个名字听着确实耳熟——不过多数名字我都耳熟。想想看，我竟会认识一位姓氏如此尊贵的人！荒唐，我知道。我不过是个普通的草药师。"
+  ],
+  [
+   "res#60859/whatIHaveToSay[0]",
+   "herb",
+   "Has my husband been telling stories again? Very well, I did find something, but I cannot say whether it is truly an herb or not. It was in an old part of the cave, and the entrance to that passage has since been boarded up.",
+   "我丈夫又在讲故事了？好吧，我确实找到过一样东西，但我说不准它算不算草药。它在一个老旧洞穴里，那条通道的入口后来用木板封死了。"
+  ],
+  [
+   "res#60875/whatIHaveToSay[0]",
+   "completedQuest",
+   "This is unlike any plant I have ever seen. It feels... wrong. I have changed my mind. I no longer wish to have this.",
+   "这不像我见过的任何一种植物。它感觉……不对劲。我改主意了。我不再想要它了。"
+  ],
+  [
+   "res#60881/whatIHaveToSay[0]",
+   "completedQuest",
+   "How wonderful! I will get to work making potions with this.",
+   "太好了！我这就动手用它做药水。"
+  ],
+  [
+   "res#60898/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60898/options[10].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60898/options[11].text",
+   "Isobel Warde",
+   "Tunnel Vision",
+   "隧道视野"
+  ],
+  [
+   "res#60898/options[12].text",
+   "Isobel Warde",
+   "carrots",
+   "胡萝卜"
+  ],
+  [
+   "res#60898/options[13].text",
+   "Isobel Warde",
+   "Round 'Em Up",
+   "圈起来"
+  ],
+  [
+   "res#60898/options[14].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60898/options[15].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60898/options[16].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60898/options[17].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60898/options[18].text",
+   "Isobel Warde",
+   "mushrooms",
+   "蘑菇"
+  ],
+  [
+   "res#60898/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60898/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60898/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60898/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60898/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60898/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60898/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60898/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60898/options[9].text",
+   "Isobel Warde",
+   "herb",
+   "草药"
+  ],
+  [
+   "res#60949/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Emerisk has not seen warriors such as yourself in.. well... as long as I can remember. These days that isn't too long. I take herbs to preserve my memory, but...",
+   "埃梅里斯克，已经很久没见过你这样的战士了……嗯……久得超出我的记忆。如今这个「很久」，也不算长了。我靠草药维持记忆，可是……"
+  ]
+ ]
+}

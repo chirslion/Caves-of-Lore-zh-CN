@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "kind": "对话/ArmindasConversation",
+  "count": 66,
+  "with_cn": 66
+ },
+ "entries": [
+  [
+   "res#59753/whatIHaveToSay[0]",
+   "librarian",
+   "Are they not many? Ill has befallen Solmaria, Armindas can see.",
+   "他们难道不多吗？灾难已降临索尔玛利亚，阿尔明达斯看得见。"
+  ],
+  [
+   "res#59764/whatIHaveToSay[0]",
+   "graveyard",
+   "Fae have this concept, but different. It is not for you to know.",
+   "妖精也有这样的观念，但不一样。这不是你该知道的。"
+  ],
+  [
+   "res#59793/whatIHaveToSay[0]",
+   "Airendal",
+   "#. It is good to see. Many long years in this place. # has learned to break servitude. This is good. Too young to remember this place.",
+   "#。见到你真好。困居此地，已历许多漫长岁月。# 已学会挣脱奴役。这很好。你太年幼，不记得这地方。"
+  ],
+  [
+   "res#59810/whatIHaveToSay[0]",
+   "Emerisk",
+   "Near this gate. Armindas has seen this village. Remind of home. This is home now.",
+   "就在这门旁。阿尔明达斯见过那座村庄。令人想起故乡。现在，这里就是家。"
+  ],
+  [
+   "res#59915/whatIHaveToSay[0]",
+   "book",
+   "We have little use for books. Our memories are steadfast and enduring. We share knowledge openly, something which humans could learn from.",
+   "我们不大用得上书。我们的记忆恒久不灭，知识坦诚共享——人类大可以此为师。"
+  ],
+  [
+   "res#59930/whatIHaveToSay[0]",
+   "Rycard",
+   "Armindas welcomes you. What service can there be?",
+   "阿尔明达斯欢迎你。可有什么需要效劳？"
+  ],
+  [
+   "res#59973/whatIHaveToSay[0]",
+   "corundum",
+   "Ore, rock. These are more than they appear. Connected to the world. Corundum is part of Solmaria.",
+   "矿石，岩石。它们不止表面所示。与世界相连。刚玉，是索尔玛利亚的一部分。"
+  ],
+  [
+   "res#60009/whatIHaveToSay[0]",
+   "recievedItem",
+   "Now Armindas must rest. This was last gift to Solmaria. Peace awaits.",
+   "如今阿尔明达斯须得歇息了。这是给索尔玛利亚的最后礼物。安宁在等待。"
+  ],
+  [
+   "res#60016/whatIHaveToSay[0]",
+   "Agmarians",
+   "Origins unknown. Part of Solmaria, or like fae? Would like to know, but fate is decided. Shall remain here.",
+   "起源不明。是索尔玛利亚的一部分，还是像妖精？想知道，但命运已定。就留在这里。"
+  ],
+  [
+   "res#60058/whatIHaveToSay[0]",
+   "Bhulown",
+   "Unprecedented? This companionship is strange. Armindas unsure.",
+   "前所未有？这份同行之情，很陌生。阿尔明达斯不确定。"
+  ],
+  [
+   "res#60067/whatIHaveToSay[0]",
+   "Goblins",
+   "Foul. Armindas does not like. However... history with them can cloud thoughts. Are they all as Armindas sees them? Hope to be wrong.",
+   "恶臭之辈。阿尔明达斯不喜欢。不过……与他们的旧事会蒙蔽判断。他们都如阿尔明达斯所见的那般吗？但愿看走了眼。"
+  ],
+  [
+   "res#60112/whatIHaveToSay[0]",
+   "Airendal",
+   "Welcome. Armindas does not get visitors. It is a pleasure.",
+   "欢迎。阿尔明达斯少有访客。幸甚。"
+  ],
+  [
+   "res#60147/whatIHaveToSay[0]",
+   "Dimas",
+   "You have a gleam in your eye. See beauty, do you not?",
+   "你眼中有光。你看见了美，是么？"
+  ],
+  [
+   "res#60152/whatIHaveToSay[0]",
+   "blue light",
+   "We guide, for we were once guided. A debt paid by service. But.. not our nature, as some think.",
+   "我们指引，因为我们曾被指引。以效力偿还恩情。但……这并非我们的天性，不像某些人所想。"
+  ],
+  [
+   "res#60292/whatIHaveToSay[0]",
+   "fog",
+   "This might speak to the fog that these experience. Perhaps these see a fog where these are unable... or not permitted to see.",
+   "这或许正应了诸位所经历的迷雾。也许在诸位无法……或不被允许看见之处，所见便是迷雾。"
+  ],
+  [
+   "res#60321/options[0].text",
+   "Armindas",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60321/options[1].text",
+   "Armindas",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60321/options[2].text",
+   "Armindas",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60321/options[3].text",
+   "Armindas",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60321/options[4].text",
+   "Armindas",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60321/options[5].text",
+   "Armindas",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60321/options[6].text",
+   "Armindas",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60321/options[7].text",
+   "Armindas",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60321/options[8].text",
+   "Armindas",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60321/options[9].text",
+   "Armindas",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60378/whatIHaveToSay[0]",
+   "job",
+   "Armindas was once a leader. Very old now. Wish for final cycles to be on Miala. Other gates are lost. Have only this.",
+   "阿尔明达斯曾是首领。如今很老了。愿最后的轮次在米亚拉上度过。别的门都已失落。只剩这一道。"
+  ],
+  [
+   "res#60535/whatIHaveToSay[0]",
+   "Lannon",
+   "Human. Greetings. Welcome to Armindas' solitude.",
+   "人类。致意。欢迎来到阿尔明达斯的独居之地。"
+  ],
+  [
+   "res#60563/whatIHaveToSay[0]",
+   "Laszra",
+   "Ancient among humans. Yes, older than you appear. Like Armindas.",
+   "在人类中算古老。是的，比看上去更老。和阿尔明达斯一样。"
+  ],
+  [
+   "res#60628/whatIHaveToSay[0]",
+   "Codex",
+   "It is a key to knowledge. To places, of mind and body. Forbidden for Armindas to read. This is to protect.",
+   "它是通往知识的钥匙。通往心智与实体的诸多所在。阿尔明达斯被禁止阅读它。这是保护。"
+  ],
+  [
+   "res#60628/whatIHaveToSay[1]",
+   "Codex",
+   "Such things were not meant for fae. Fae have our own things not meant for humans.",
+   "这等事物本非为妖精而设。妖精也有不属于人类的事物。"
+  ],
+  [
+   "res#60633/whatIHaveToSay[0]",
+   "manatite",
+   "Miala has no such thing.",
+   "这种东西，米亚拉，并没有。"
+  ],
+  [
+   "res#60654/whatIHaveToSay[0]",
+   "caves",
+   "Even here, beneath. Preserve the past in stone.",
+   "即便在此，在下。以石封存往昔。"
+  ],
+  [
+   "res#60666/whatIHaveToSay[0]",
+   "silver",
+   "Powerful. Dangerous. Beautiful. Describes many things, yes? Armindas will keep his secrets.",
+   "强大。危险。美丽。能形容许多东西，是吧？阿尔明达斯会守住他的秘密。"
+  ],
+  [
+   "res#60695/whatIHaveToSay[0]",
+   "dark lord",
+   "Fae know him well, for he is of Miala. Free of him now, those that remain. We cannot return to them. This is a great sadness. That is why Armindas is here.",
+   "妖精们深知他，因为他出自米亚拉。如今尚存的同族，已得自由。我们无法回到他们身边。这是极大的悲哀。正因如此，阿尔明达斯才在这里。"
+  ],
+  [
+   "res#60708/whatIHaveToSay[0]",
+   "wild boar",
+   "An animal. This one understands the concept. Such a place as this contains animals. Such things are dangerous, but just. All must eventually be consumed.",
+   "一种动物。此身明白其含义。这样的地方自有动物栖居。此等生灵危险，却公正。万物终将彼此吞噬。"
+  ],
+  [
+   "res#60715/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Home of Kalindras? Armindas' translation is adequate. Perhaps insufficient. This word is older than Armindas.",
+   "卡林德拉斯之家园？阿尔明达斯的转译尚算恰当。或许还不够。这个词比阿尔明达斯更古老。"
+  ],
+  [
+   "res#60721/whatIHaveToSay[0]",
+   "Shione",
+   "Speak the same language in many ways. Sing to me, if it pleases you.",
+   "在许多方面，我们说的是同一种语言。若你愿意，唱给我听吧。"
+  ],
+  [
+   "res#60764/whatIHaveToSay[0]",
+   "Arbo",
+   "Woof! Bark!",
+   "汪！汪！"
+  ],
+  [
+   "res#60804/whatIHaveToSay[0]",
+   "Scaphin",
+   "Not friends. Wicked to fae, in times past. Goblins worse.",
+   "不是朋友。往昔对妖精作恶。哥布林，更甚。"
+  ],
+  [
+   "res#60830/whatIHaveToSay[0]",
+   "Renault",
+   "Perhaps, Joid. An old friend. Or older. Zakerunda. Armindas did not know him.",
+   "也许吧，乔伊德。一位故友。或更久远。扎克伦达。阿尔明达斯并不认识他。"
+  ],
+  [
+   "res#60878/whatIHaveToSay[0]",
+   "dimension",
+   "Many places. There are so many places. Cannot visit the one most desired.",
+   "许多地方。有那么多地方。唯独最想去的那一处，去不了。"
+  ],
+  [
+   "res#60890/options[0].text",
+   "Armindas",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60890/options[10].text",
+   "Armindas",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60890/options[11].text",
+   "Armindas",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60890/options[12].text",
+   "Armindas",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60890/options[13].text",
+   "Armindas",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60890/options[14].text",
+   "Armindas",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60890/options[15].text",
+   "Armindas",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60890/options[16].text",
+   "Armindas",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "res#60890/options[17].text",
+   "Armindas",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60890/options[18].text",
+   "Armindas",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60890/options[19].text",
+   "Armindas",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60890/options[1].text",
+   "Armindas",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60890/options[20].text",
+   "Armindas",
+   "Miala",
+   "米亚拉"
+  ],
+  [
+   "res#60890/options[21].text",
+   "Armindas",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60890/options[2].text",
+   "Armindas",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60890/options[3].text",
+   "Armindas",
+   "book",
+   "书"
+  ],
+  [
+   "res#60890/options[4].text",
+   "Armindas",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60890/options[5].text",
+   "Armindas",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60890/options[6].text",
+   "Armindas",
+   "Archaven",
+   "阿奇文"
+  ],
+  [
+   "res#60890/options[7].text",
+   "Armindas",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60890/options[8].text",
+   "Armindas",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60890/options[9].text",
+   "Armindas",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60922/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Greetings warrior. You do well to keep company with these friends. Sense loyalty.",
+   "致意，战士。与这些朋友为伴，你做得很好。感知到了忠诚。"
+  ],
+  [
+   "res#60950/whatIHaveToSay[0]",
+   "Miala",
+   "You are on it. A piece . Drifting. If life sustains here, perhaps... Much that Solmaria gained was at cost to Miala. And much that Solmaria suffered was freedom for Miala.",
+   "你正踩在它上面。一块碎片。漂游着。若这里尚能维系生命，也许……索尔玛利亚所得之物，多是以米亚拉为代价；而索尔玛利亚所受之苦，多是米亚拉换来的自由。"
+  ],
+  [
+   "res#60950/whatIHaveToSay[1]",
+   "Miala",
+   "Just as this is a shard of Miala, it was right to keep this relic here. Here, take it.",
+   "既然这是米亚拉的一块碎片，把这件遗物留在这里便是应当的。来，拿着。"
+  ]
+ ]
+}

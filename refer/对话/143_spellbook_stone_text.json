@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_stone_text",
+  "count": 4,
+  "with_cn": 4
+ },
+ "entries": [
+  [
+   "res#60462/whatIHaveToSay[0]",
+   "Start",
+   "<i>\rThe Stone Makers\r</i>\n\r\n\t The old writings say that as the Ollidian army moved upon the remnants of Amyeria, after the fall of King Celedon, they came upon a forest of stone. All living things within it had perished. The animals, trees and the very ground they grew in had turned to stone. ",
+   "<i>\r石之造物者\r</i>\n\r\n\t 古老的记载说，塞勒顿王倾覆之后，奥利丹大军向阿梅利亚的残土进发时，遇到了一片石之森林。其中万物皆已死去。走兽、树木，乃至它们扎根的土地，全都化作了石头。 "
+  ],
+  [
+   "res#60462/whatIHaveToSay[1]",
+   "Start",
+   "They named this place Tor'anell, meaning 'stone nursery', for here they believe the ground gave birth to the Calcifers, those legendary creatures with the ability to turn things to stone.\r\n\r\n\tThey tracked paths of stone from this point across the land, recording tales of the beasts that left stone in their wake. The Basilisk could turn a man to stone with its bite; the Beholder with its gaze. ",
+   "他们称此地为托拉奈尔，意为「石之苗圃」——他们相信，大地正是在这里孕育了「石生者」，那些传说中能把万物化为石头的生物。\r\n\r\n\t他们从这里出发，追踪遍布大地的石之路径，记录下那些所过之处留下石头的猛兽的传说。蛇怪能以咬啮令人成石；眼魔则以注视。 "
+  ],
+  [
+   "res#60528/whatIHaveToSay[0]",
+   "Page2",
+   "But the most feared was Cockatrice, for anything that would come near it would be turned to stone, regardless of touch or sight. Whether these three only were born in Tor'anell none can say.\r\n\r\n\tFear not, for these are just children's tales! ",
+   "但最令人畏惧的是鸡蛇兽：任何靠近它的东西都会化作石头，无论触碰还是目视。是否只有这三种生物诞生于托拉奈尔，无人能说。\r\n\r\n\t不必害怕，因为这都是些哄孩子的故事！ "
+  ],
+  [
+   "res#60528/whatIHaveToSay[1]",
+   "Page2",
+   "No such place as Tor'anell even exists. Such writings can not be taken as truth, ancient and bent by time as they are. This is what I thought before my excavations began. In my quest for lost antiquities I have had to unlearn a great many things.\r\n\r\n\t- Arendol, son of Pynagmus, Chief Wizard of Her Majesty Queen Verenmir of Arenquist",
+   "托拉奈尔这样的地方，根本就不存在。这样的记载古老而经岁月扭曲，不能当作真相——这是我在发掘开始之前的想法。在追寻失落古物的过程中，我不得不推翻许多成见。\r\n\r\n\t——阿伦多尔，皮纳格穆斯之子，阿伦奎斯特维伦米尔女王殿下的首席法师"
+  ]
+ ]
+}

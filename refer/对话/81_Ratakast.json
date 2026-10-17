@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "kind": "对话/Ratakast",
+  "count": 9,
+  "with_cn": 9
+ },
+ "entries": [
+  [
+   "sa21#17/whatIHaveToSay[0]",
+   "Creature",
+   "Come, feed upon the essence the dark lord left beneath this place.",
+   "来吧，享用黑暗领主在此地之下留下的精粹。"
+  ],
+  [
+   "sa21#21/whatIHaveToSay[0]",
+   "Lannon",
+   "Dark lord?",
+   "黑暗领主？"
+  ],
+  [
+   "sa21#25/whatIHaveToSay[0]",
+   "Rycard",
+   "Something tells me our diets are not at all similar.",
+   "直觉告诉我，我们的食谱完全不是一回事。"
+  ],
+  [
+   "sa21#44/whatIHaveToSay[0]",
+   "Creature",
+   "Unnatural? I feed and grow just as you do.",
+   "不自然？我和你们一样，进食、生长。"
+  ],
+  [
+   "sa21#46/whatIHaveToSay[0]",
+   "Merewen",
+   "What you call food is questionable.",
+   "你所谓的食物，可大有疑问。"
+  ],
+  [
+   "sa21#50/whatIHaveToSay[0]",
+   "Creature",
+   "Humans? In my lair?",
+   "人类？闯进我的巢穴？"
+  ],
+  [
+   "sa21#53/whatIHaveToSay[0]",
+   "Rycard",
+   "What manner of unnatural beast is this?",
+   "这是何等不自然的野兽？"
+  ],
+  [
+   "sa21#54/whatIHaveToSay[0]",
+   "Creature",
+   "He has not revealed himself for many cycles, but his children still grow. He left much food for us.",
+   "他已经许多轮不曾现身，可他的子嗣仍在滋长。他给我们留下了许多食物。"
+  ],
+  [
+   "sa21#76/whatIHaveToSay[0]",
+   "Creature",
+   "It is more than just food. It is a feast! And now.. I will feast upon you!",
+   "这何止是食物。这是一场盛宴！而现在……我要以你们为宴！"
+  ]
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "kind": "对话/VolitionLibrary",
+  "count": 21,
+  "with_cn": 21
+ },
+ "entries": [
+  [
+   "sa8#10/whatIHaveToSay[0]",
+   "Rycard",
+   "This was unexpected.",
+   "这真是出人意料。"
+  ],
+  [
+   "sa8#100/whatIHaveToSay[0]",
+   "Volition",
+   "I am... @.",
+   "我是……@。"
+  ],
+  [
+   "sa8#105/whatIHaveToSay[0]",
+   "Entity",
+   "You speak to this as an individual. Why?",
+   "你们把此物当作个体交谈。为什么？"
+  ],
+  [
+   "sa8#111/whatIHaveToSay[0]",
+   "Entity",
+   "... one cannot do this. To do so would require volition. I do not have volition. I... I? I am...",
+   "……不可能如此。那样做需要意志。我没有意志。我……我？我是……"
+  ],
+  [
+   "sa8#112/whatIHaveToSay[0]",
+   "Volition",
+   "Rotten.",
+   "腐坏。"
+  ],
+  [
+   "sa8#114/whatIHaveToSay[0]",
+   "Volition",
+   "Affirmative. Yet, problem persists. The branches weaken and die.",
+   "确认。但问题仍在。枝条虚弱，正在死去。"
+  ],
+  [
+   "sa8#118/whatIHaveToSay[0]",
+   "Shione",
+   "I am learning not to judge by appearance. Your actions can set a new course.",
+   "我正在学着不以貌取人。你的行动能开出一条新的道路。"
+  ],
+  [
+   "sa8#124/whatIHaveToSay[0]",
+   "Volition",
+   "Unexpected inquiry. Insufficient answers. There is no fog.",
+   "意外的询问。答案不足。并不存在迷雾。"
+  ],
+  [
+   "sa8#125/whatIHaveToSay[0]",
+   "Merewen",
+   "That is a destiny I would rather avoid.",
+   "这样的命运，我宁愿避开。"
+  ],
+  [
+   "sa8#129/whatIHaveToSay[0]",
+   "Airendal",
+   "Do as @ has done. Be free.",
+   "像 @ 那样做。自由吧。"
+  ],
+  [
+   "sa8#131/whatIHaveToSay[0]",
+   "Bhulown",
+   "Make own choices. If cannot change nature, then change direction.",
+   "自己做选择。改不了本性，就改方向。"
+  ],
+  [
+   "sa8#132/whatIHaveToSay[0]",
+   "Lannon",
+   "This thing again? What is it?",
+   "又是这东西？它是什么？"
+  ],
+  [
+   "sa8#137/whatIHaveToSay[0]",
+   "Rycard",
+   "The only destiny he has is with my blade.",
+   "他唯一的命运，就是撞上我的刀锋。"
+  ],
+  [
+   "sa8#25/whatIHaveToSay[0]",
+   "Entity",
+   "It is beyond the nature of this shell. ",
+   "这超乎此躯壳的本性。 "
+  ],
+  [
+   "sa8#33/whatIHaveToSay[0]",
+   "Lannon",
+   "Are you not an individual? Do you not have your own thoughts?",
+   "你不是一个个体吗？你没有自己的思绪吗？"
+  ],
+  [
+   "sa8#38/whatIHaveToSay[0]",
+   "Entity",
+   "This entity was not intended to engage other entities. Unnecessary.",
+   "此实体无意与其他实体交涉。没有必要。"
+  ],
+  [
+   "sa8#45/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I doubt this will turn out well for anyone.",
+   "我怀疑这对谁都不会有好结果。"
+  ],
+  [
+   "sa8#47/whatIHaveToSay[0]",
+   "Lannon",
+   "We seem to be destined to run into one another.",
+   "看来我们注定要一再相遇。"
+  ],
+  [
+   "sa8#49/whatIHaveToSay[0]",
+   "Lannon",
+   "Perhaps, you are more than you believe. Give yourself a name.",
+   "也许，你比自己以为的更丰富。给自己起个名字吧。"
+  ],
+  [
+   "sa8#91/whatIHaveToSay[0]",
+   "Entity",
+   "Anomaly detected. Another spoiled harvest. Insufficient workers.",
+   "检测到异常。又一场腐坏的收割。劳力不足。"
+  ],
+  [
+   "sa8#97/whatIHaveToSay[0]",
+   "Lannon",
+   "And what of the fog? What is it? What is its purpose?",
+   "那迷雾呢？它是什么？它的目的是什么？"
+  ]
+ ]
+}

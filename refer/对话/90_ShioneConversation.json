@@ -1,0 +1,459 @@
+{
+ "meta": {
+  "kind": "对话/ShioneConversation",
+  "count": 75,
+  "with_cn": 75
+ },
+ "entries": [
+  [
+   "sa0#10634/whatIHaveToSay[0]",
+   "Laszra",
+   "Life is a song, if you are willing to listen.",
+   "只要你愿意听，生活就是一首歌。"
+  ],
+  [
+   "sa0#10653/whatIHaveToSay[0]",
+   "Miala",
+   "The silver moon... or sometimes the split moon. She rises slowly in the sky, persisting longer than the others, but disappearing for just as long. Stories say that she suffered a fatal blow, splitting her in two.",
+   "银色的月亮……有时也叫「裂月」。她缓缓升上天空，比其他月亮停留得更久，消失得也同样久。传说她受过致命一击，被劈成了两半。"
+  ],
+  [
+   "sa0#10653/whatIHaveToSay[1]",
+   "Miala",
+   "I have never heard of tales from before she was split, but they say that her death rained silver upon the land. If you do not know about silver, it is often the bane of unholy or magical things. Perhaps this was her last effort to help us, as her death brought such materials to our world.",
+   "我没听过她被劈裂之前的传说，但人们说，她的陨落让银如雨般洒落大地。若你还不知道银——它往往是不洁与魔法之物的克星。也许这是她最后的努力：她的死，为我们的世界带来了这样的东西。"
+  ],
+  [
+   "sa0#10653/whatIHaveToSay[2]",
+   "Miala",
+   "Some say this, some say that. It is impossible to know the truth is it not? I have a hard time remembering even what I know to be true. All I ask for is good material for my next song.",
+   "有人这样说，有人那样说。真相无从知晓，不是吗？就连我确信为真的事，我也记不牢。我求的只是下一首歌的好素材。"
+  ],
+  [
+   "sa0#10661/whatIHaveToSay[0]",
+   "completedQuest",
+   "I feel well fed and rested enough to finally start travelling again! You would make an interesting companion.",
+   "我吃得饱、歇得足，终于能重新上路了！你会是个有趣的旅伴。"
+  ],
+  [
+   "sa0#10666/whatIHaveToSay[0]",
+   "librarian",
+   "I once saw a library. It was open though, not like the one you have here. So many stories... but I cannot recall how we learned the stories from it. I think it had something to do with books.",
+   "我曾见过一座图书馆。不过它开着的，不像你们这里的。那么多故事……可我想不起我们是怎么从那里学到故事的。我想，跟书有些关系。"
+  ],
+  [
+   "sa0#10667/whatIHaveToSay[0]",
+   "Bhulown",
+   "Your... horn. It makes music? What a wonderous thing.",
+   "你的……角。它还能奏乐？多了不起的东西。"
+  ],
+  [
+   "sa0#10668/whatIHaveToSay[0]",
+   "Dimas",
+   "Each metal sings its own tune. Have you ever heard a blade sing out as it is drawn from a scabbard? It can be beautiful.",
+   "每种金属都唱着各自的歌。你听过出鞘的刀刃鸣响吗？那也可以很美。"
+  ],
+  [
+   "sa0#10677/whatIHaveToSay[0]",
+   "graveyard",
+   "A place where stories end but songs begin. Most songs are about those who are no longer with us; the good ones anyways.",
+   "一个故事结束、歌声开始的地方。大多数歌都唱给离去的人——好歌尤其如此。"
+  ],
+  [
+   "sa0#10694/whatIHaveToSay[0]",
+   "Emerisk",
+   "I have been welcomed here. And I think I might stay. Also, I had a bit of a spat with some Agmarians along the way and I would rather not venture back into the fog.",
+   "这里的人接纳了我。我想我可能会留下。再说，我路上和一些阿格玛人，闹了点不愉快，不想再回到迷雾，中去闯荡。"
+  ],
+  [
+   "sa0#10694/whatIHaveToSay[1]",
+   "Emerisk",
+   "I once heard of an Emerisk in song, but it was much larger than this, and full of grandeur. Perhaps this is all that is left. Life often builds on the ruins of that which came before, determined not to give up on the past. So noble. At other times, so sad.",
+   "我曾在一首歌里听过一个埃梅里斯克，可那比这里大得多，富丽堂皇。也许这已是它仅剩的模样。生命常在前人的废墟上继续生长，不肯认输地守着过去。何等高尚。有时，又何等悲凉。"
+  ],
+  [
+   "sa0#10715/whatIHaveToSay[0]",
+   "caves",
+   "Terrible places. And also wonderous. They are filled with so much mystery. I could almost write a new song just thinking about them. I would so love to venture into one sometime.",
+   "可怕的地方。也同样奇妙。里面充满了神秘。光是想想，我几乎就能写出一首新歌。真希望哪天能亲身闯进去看看。"
+  ],
+  [
+   "sa0#10721/whatIHaveToSay[0]",
+   "book",
+   "They are useless, I suppose. Can you think of a use for wood thinly sliced, other than tinder? Maybe they once had a purpose.",
+   "我看它们没什么用。削薄的木头，除了引火，你还能想到别的用处吗？也许它们曾经有过用途。"
+  ],
+  [
+   "sa0#10721/whatIHaveToSay[1]",
+   "book",
+   "I prefer the more intangible, like songs. They are made, and reside, in our minds. They can be shared along a journey, and in each telling they can change. Each artist makes it their own.",
+   "我更喜欢无形的东西，比如歌。它们诞生并栖居于我们的心智。它们能在旅途中分享，每一次传唱都可能改变。每个艺人都让它成为自己的作品。"
+  ],
+  [
+   "sa0#10746/whatIHaveToSay[0]",
+   "Rycard",
+   "Hello there. If you ever want to get a drink, I'm here all day. And night. I never go anywhere since I can scarcely remember who I am. Hah!",
+   "你好啊。要是想喝一杯，我整天都在这儿。夜里也在。我哪儿都去不了，因为我连自己是谁都快记不得了。哈！"
+  ],
+  [
+   "sa0#10757/whatIHaveToSay[0]",
+   "Airendal",
+   "I have met your kind before. You have my thanks.",
+   "我曾见过你的族人。谢谢你。"
+  ],
+  [
+   "sa0#10764/whatIHaveToSay[0]",
+   "corundum",
+   "It sounds... familiar. I must have heard a song about it once.",
+   "听着……耳熟。我一定在哪儿听过一首关于它的歌。"
+  ],
+  [
+   "sa0#10773/whatIHaveToSay[0]",
+   "moongates",
+   "If they were scattered in the wilderness, even then would they not be found? Many walk the night without light. Could they be underground, or in a place too dangerous to reach?",
+   "若它们散落在荒野里，难道就不会被人找到吗？许多人夜里摸黑行走。会不会它们就在地下，或者在太过危险、无法抵达的地方？"
+  ],
+  [
+   "sa0#10787/whatIHaveToSay[0]",
+   "Agmarians",
+   "Oh yes, they are quite real. Many will slay you on sight, yet still others are gentle. I suppose they are not that different from mankind in such respects.",
+   "哦，是的，他们千真万确。许多人一见你就想杀你，可也有温和的。我想，在这一点上，他们和人类也差不了多少。"
+  ],
+  [
+   "sa0#10787/whatIHaveToSay[1]",
+   "Agmarians",
+   "I know a song which tells of their betrayal to men long ago. Who knows if it is true. Songs grow and change, just as we do. In that way I consider them to be alive.",
+   "我知道一首歌，唱的是他们很久以前对人类的背叛。真假谁知道呢。歌会生长、会改变，就像我们一样。正因如此，我认为它们是活的。"
+  ],
+  [
+   "sa0#10801/whatIHaveToSay[0]",
+   "Goblins",
+   "I have fought them. How you ask, for I am but a simple bard? With cunning of course. And also quick feet. Sometimes wisdom counts the steps to an exit before it turns the corner.",
+   "我跟他们打过。你问我一个区区吟游诗人怎么打的？当然是靠机巧。还有一双快腿。有时候，智慧会先数好退路的步数，再拐过那个街角。"
+  ],
+  [
+   "sa0#10819/whatIHaveToSay[0]",
+   "Merewen",
+   "You look as if you have seen many moons, but not enough sunlight. You should get a drink. It might do you well.",
+   "你看上去像是见过许多轮月亮，却少见阳光。你该去喝一杯。也许对你有好处。"
+  ],
+  [
+   "sa0#10830/whatIHaveToSay[0]",
+   "blue light",
+   "I believe this is how I left the fog to enter this place. A light led me out. I may have been lost forever otherwise. Like the others in there... oh.. no! The fog! It is full of them! They wander in darkness! So many! So... so... what were we talking about again?",
+   "我相信，我当初就是这样离开迷雾，进入此地的。一道光把我引了出来。不然我也许永远迷失了。就像里面的其他人……哦……不！迷雾！里面全是他们！他们在黑暗中游荡！那么多！太……太……我们刚才在说什么来着？"
+  ],
+  [
+   "sa0#10836/whatIHaveToSay[0]",
+   "Archaven",
+   "Such a name is worthy of song. I can already hear the melody...",
+   "这样的名字配得上一首歌。我几乎已经听见旋律了……"
+  ],
+  [
+   "sa0#11308/whatIHaveToSay[0]",
+   "fog",
+   "I had to travel through it to get here. Though, I cannot remember where I was before, or what I did while in it. I suppose this is my life now. And not a bad place to start one. A life that is. I've always admired the small towns.",
+   "我来这里，得穿过它。可我记不得自己之前在哪儿，也不记得在里面做过什么。我想，这就是我现在的人生了。而这地方，不算个坏的起点——我是说，人生的起点。我一向喜欢小村镇。"
+  ],
+  [
+   "sa0#11317/options[0].text",
+   "Shione",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11317/options[1].text",
+   "Shione",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11317/options[2].text",
+   "Shione",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11317/options[3].text",
+   "Shione",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11317/options[4].text",
+   "Shione",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11317/options[5].text",
+   "Shione",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11317/options[6].text",
+   "Shione",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11317/options[7].text",
+   "Shione",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11317/options[8].text",
+   "Shione",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11317/options[9].text",
+   "Shione",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11384/whatIHaveToSay[0]",
+   "job",
+   "The best thing about being a bard is that it isn't a job at all. I am only doing what I love. I can't remember nearly as many songs as I once could, but I can still get a tavern singing along.",
+   "当吟游诗人最大的好处，是这根本算不上差事。我只是在做我热爱的事。我能记住的歌远不如从前多了，可我仍能让整间旅店跟着我唱。"
+  ],
+  [
+   "sa0#11532/whatIHaveToSay[0]",
+   "Lannon",
+   "Greetings! Are you a resident of this town, or a traveller like me?",
+   "致意！你是这镇上的居民，还是像我一样的旅人？"
+  ],
+  [
+   "sa0#11532/whatIHaveToSay[1]",
+   "Lannon",
+   "I've heard what your mayor says, but I assure you, there are other towns. I just... am having a hard time remembering their names.",
+   "我听过你们镇长的说法，但我向你保证，别处还有别的镇子。我只是……一时想不起它们的名字。"
+  ],
+  [
+   "sa0#11566/whatIHaveToSay[0]",
+   "Gallitzin",
+   "A stalwart individual you appear to be. I would love to hear your story.",
+   "你看上去是个坚毅的人。我很想听听你的故事。"
+  ],
+  [
+   "sa0#11579/whatIHaveToSay[0]",
+   "silver",
+   "A song says that the moon Miala rained down its tears upon the world, giving us silver. It gave this gift as it died. It remains split nearly down the middle.\n\nIf a moon can be alive, I would think Miala still is. Just... wounded.",
+   "有首歌谣说，月亮的眼泪洒向人间——那是米亚拉，给了我们银。它在死去时留下了这份赠礼。如今它几乎从正中裂成两半。\n\n若月亮也能称之为活着，我想米亚拉还活着。只是……受了伤。"
+  ],
+  [
+   "sa0#11598/whatIHaveToSay[0]",
+   "zenith",
+   "Zenith and Nadir? Up and down, but not quite. It has more to do with energy or light. I am no expert, though.",
+   "天顶与天底？像上和下，又不全是。它更关乎能量与光。不过我算不上行家。"
+  ],
+  [
+   "sa0#11639/whatIHaveToSay[0]",
+   "Arbo",
+   "Awww, what a sweet thing you are. I had a, whatever you are, once when I was child. I think.",
+   "哎呀，你真是个可爱的小东西。我小时候也养过一只……你这样的。我想是的。"
+  ],
+  [
+   "sa0#11648/whatIHaveToSay[0]",
+   "Scaphin",
+   "I am not familiar with such creatures, though it would not surprise me to encounter such a thing on my travels. I have seen many strange things as I venture, and I can even remember some of them.",
+   "我不认识这样的生物——不过在旅途中遇到这种东西，我也不会惊讶。我四处闯荡，见过许多怪事，甚至还能记住其中一些。"
+  ],
+  [
+   "sa0#11655/whatIHaveToSay[0]",
+   "Renault",
+   "Songs do tell of a great warrior by that name. A noble house, with a long lineage of heroes, many of which have had songs crafted in their honor. Could it be that he lived in such a simple town?",
+   "歌谣里确实唱过一位同名的伟大战士。一个高贵的家族，英雄血脉绵长，许多人的事迹都被谱成了歌。他当真住在这样一个简朴的小镇里？"
+  ],
+  [
+   "sa0#11655/whatIHaveToSay[1]",
+   "Renault",
+   "It would not surprise me, for I have often found great things in simple places. In fact, I reckon they are more likely to rise in such places. I cannot say why.",
+   "我不会觉得意外，因为我常在简朴之处发现伟大的事物。事实上，我认为伟大更可能自这种地方升起。说不上为什么。"
+  ],
+  [
+   "sa0#11661/whatIHaveToSay[0]",
+   "Codex",
+   "I may not be able to help you with this, but I could always write a song about it. We shall see if inspiration seizes me.",
+   "这件事我恐怕帮不上忙，但我总能为它写首歌。看看灵感会不会找上我吧。"
+  ],
+  [
+   "sa0#11663/whatIHaveToSay[0]",
+   "venture",
+   "I have been travelling for so long, and to be honest, the food has been quite dull. I haven't had something sweet to eat in ages. I don't suppose you would be willing to fetch me a cake would you?",
+   "我漂泊了这么久，说实话，吃食一直很乏味。我已经很久没吃过甜的了。你该不会愿意替我弄块蛋糕来吧？"
+  ],
+  [
+   "sa0#11679/options[0].text",
+   "Bard",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11679/options[10].text",
+   "Bard",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11679/options[11].text",
+   "Bard",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11679/options[12].text",
+   "Bard",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11679/options[13].text",
+   "Bard",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11679/options[14].text",
+   "Bard",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "sa0#11679/options[15].text",
+   "Bard",
+   "moons",
+   "月亮"
+  ],
+  [
+   "sa0#11679/options[16].text",
+   "Bard",
+   "Miala",
+   "米亚拉"
+  ],
+  [
+   "sa0#11679/options[17].text",
+   "Bard",
+   "venture",
+   "闯荡"
+  ],
+  [
+   "sa0#11679/options[18].text",
+   "Bard",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11679/options[19].text",
+   "Bard",
+   "moongates",
+   "月之门"
+  ],
+  [
+   "sa0#11679/options[1].text",
+   "Bard",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11679/options[20].text",
+   "Bard",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11679/options[21].text",
+   "Bard",
+   "zenith",
+   "天顶"
+  ],
+  [
+   "sa0#11679/options[22].text",
+   "Bard",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11679/options[2].text",
+   "Bard",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11679/options[3].text",
+   "Bard",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11679/options[4].text",
+   "Bard",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11679/options[5].text",
+   "Bard",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11679/options[6].text",
+   "Bard",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11679/options[7].text",
+   "Bard",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11679/options[8].text",
+   "Bard",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11679/options[9].text",
+   "Bard",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#11682/whatIHaveToSay[0]",
+   "moons",
+   "There are three moons, as you already know;\nTethrys, Gammon, and Miala. But Miala is the most interesting to me. Something about her silver light inspires me.\n\nWhen she is at her zenith I feel different, and at her nadir I sometimes feel a sense of loss. Isn't that odd?",
+   "如你所知，有三轮月亮；\n泰丝瑞斯、加蒙和米亚拉。但米亚拉，我最感兴趣。她银色的光不知怎地就打动了我。\n\n当她在天顶，我感觉不同；当她行至天底，我有时感到一阵失落。这不奇怪吗？"
+  ],
+  [
+   "sa0#11696/whatIHaveToSay[0]",
+   "onQuest",
+   "I have heard the baron talking, loudly I should say... that he has been selling sweets to people, but they keep forgetting that they paid him, or even asked for food. He stores all the excess in crates and stashes them somewhere below his house.",
+   "我听见男爵在说——还是大声地说——他一直在向人们卖甜食，可人们老是忘记自己付过钱，甚至忘记自己讨过吃的。他把多余的都装进箱子，囤在他宅邸底下的什么地方。"
+  ],
+  [
+   "sa0#11696/whatIHaveToSay[1]",
+   "onQuest",
+   "I am sure it would not be too much trouble for you to retrieve one for me. He is just leaving them to rot.",
+   "我相信，替我去取一块，对你来说不算什么难事。他就任它们烂掉。"
+  ],
+  [
+   "sa0#11697/whatIHaveToSay[0]",
+   "Shione",
+   "I have never attempted to make an instrument. It could be done... but I would need specialized tools. No, I am afraid this is beyond my talents.",
+   "我从未尝试过制作乐器。理论上可行……但我需要专门的工具。不，恐怕这超出了我的才干。"
+  ],
+  [
+   "sa0#11712/whatIHaveToSay[0]",
+   "dark lord",
+   "I once knew a song about him... but I have forgotten it.",
+   "我曾会一首关于他的歌……但我已经忘了。"
+  ]
+ ]
+}

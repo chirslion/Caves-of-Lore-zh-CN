@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "kind": "对话/MerewenFirstMeet",
+  "count": 21,
+  "with_cn": 21
+ },
+ "entries": [
+  [
+   "sa5#234/whatIHaveToSay[0]",
+   "Stranger",
+   "I have been looking for it for as long as I can remember. In fact, I remember little else.",
+   "打我记事起，我就一直在找它。其实，别的我也几乎不记得了。"
+  ],
+  [
+   "sa5#235/whatIHaveToSay[0]",
+   "Stranger",
+   "Since you helped find the book, I will help you find your sheep.",
+   "既然你帮忙找到了那本书，我就帮你找你的羊。"
+  ],
+  [
+   "sa5#236/whatIHaveToSay[0]",
+   "Stranger",
+   "You look like a shepherd. Perhaps you are looking for a sheep.",
+   "你看上去像个牧羊人。也许你正在找一只羊。"
+  ],
+  [
+   "sa5#239/whatIHaveToSay[0]",
+   "Stranger",
+   "Without the book? But it is of utmost importance!",
+   "不带着书？可它至关重要！"
+  ],
+  [
+   "sa5#240/whatIHaveToSay[0]",
+   "Lannon",
+   "Oh. I didn't realize. What is it for?",
+   "哦。我没意识到。它有什么用？"
+  ],
+  [
+   "sa5#241/whatIHaveToSay[0]",
+   "Stranger",
+   "That is unfortunate...",
+   "那可真不巧……"
+  ],
+  [
+   "sa5#242/whatIHaveToSay[0]",
+   "Lannon",
+   "I am in a similar situation. I am looking for something, but I don't know what.",
+   "我的处境类似。我在找某样东西，却不知道是什么。"
+  ],
+  [
+   "sa5#243/whatIHaveToSay[0]",
+   "Arbo",
+   "*Woof!*",
+   "*汪！*"
+  ],
+  [
+   "sa5#245/whatIHaveToSay[0]",
+   "Lannon",
+   "Um... Thanks?",
+   "呃……谢谢？"
+  ],
+  [
+   "sa5#246/whatIHaveToSay[0]",
+   "Stranger",
+   "Stop, shepherd!",
+   "站住，牧羊人！"
+  ],
+  [
+   "sa5#249/whatIHaveToSay[0]",
+   "Lannon",
+   "How can I help you?",
+   "我能帮你什么？"
+  ],
+  [
+   "sa5#250/whatIHaveToSay[0]",
+   "Lannon",
+   "Perhaps...",
+   "也许……"
+  ],
+  [
+   "sa5#251/whatIHaveToSay[0]",
+   "Lannon",
+   "I, too, lost something. I must pass.",
+   "我也弄丢了东西。我必须过去。"
+  ],
+  [
+   "sa5#259/whatIHaveToSay[0]",
+   "Stranger",
+   "Come, let us go.",
+   "来吧，我们走。"
+  ],
+  [
+   "sa5#34/options[0].text",
+   "Stranger",
+   "No.",
+   "不。"
+  ],
+  [
+   "sa5#34/options[1].text",
+   "Stranger",
+   "Yes.",
+   "好。"
+  ],
+  [
+   "sa5#34/whatIHaveToSay[0]",
+   "Stranger",
+   "I am looking for a book. Have you, by chance, found one?",
+   "我在找一本书。你碰巧找到过吗？"
+  ],
+  [
+   "sa5#48/whatIHaveToSay[0]",
+   "Lannon",
+   "But, I don't even know if that's what I lost.",
+   "可我连丢的是不是它都不知道。"
+  ],
+  [
+   "sa5#50/whatIHaveToSay[0]",
+   "Stranger",
+   "... it is... of utmost importance...",
+   "……它……至关重要……"
+  ],
+  [
+   "sa5#50/whatIHaveToSay[1]",
+   "Stranger",
+   "I have already searched every passage beyond this point.",
+   "此地去处之外的每条通道，我都搜过了。"
+  ],
+  [
+   "sa5#50/whatIHaveToSay[2]",
+   "Stranger",
+   "Bring me the book and we can find a way out together.",
+   "把书带给我，我们就能一起找到出去的路。"
+  ]
+ ]
+}

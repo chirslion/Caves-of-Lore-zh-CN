@@ -1,0 +1,393 @@
+{
+ "meta": {
+  "kind": "对话/GamagonConversation",
+  "count": 64,
+  "with_cn": 64
+ },
+ "entries": [
+  [
+   "res#59757/whatIHaveToSay[0]",
+   "librarian",
+   "Unknown. Inquire. Frustrating.",
+   "未知。询问。令人沮丧。"
+  ],
+  [
+   "res#59772/whatIHaveToSay[0]",
+   "graveyard",
+   "Repository. Rest. Eternal.",
+   "存放之所。安息。永恒。"
+  ],
+  [
+   "res#59795/whatIHaveToSay[0]",
+   "Airendal",
+   "Light. Intensify. Explain.",
+   "光。增强。解释。"
+  ],
+  [
+   "res#59819/whatIHaveToSay[0]",
+   "Emerisk",
+   "Collection. Reside. Good.",
+   "聚居。安居。好。"
+  ],
+  [
+   "res#59901/whatIHaveToSay[0]",
+   "recievedItem",
+   "Joy. Unite. Expectation.",
+   "喜悦。团聚。期盼。"
+  ],
+  [
+   "res#59918/whatIHaveToSay[0]",
+   "book",
+   "Unknown. Inquire. Object.",
+   "未知。询问。物品。"
+  ],
+  [
+   "res#59938/whatIHaveToSay[0]",
+   "Rycard",
+   "Shifty. Halt. Danger.",
+   "鬼祟。止步。危险。"
+  ],
+  [
+   "res#59979/whatIHaveToSay[0]",
+   "corundum",
+   "Unknown. Inquire. Ore.",
+   "未知。询问。矿石。"
+  ],
+  [
+   "res#60025/whatIHaveToSay[0]",
+   "Agmarians",
+   "Unknown. Inquire. Confusing.",
+   "未知。询问。费解。"
+  ],
+  [
+   "res#60059/whatIHaveToSay[0]",
+   "Bhulown",
+   "History. Abdicate. Wary.",
+   "旧事。退位。戒备。"
+  ],
+  [
+   "res#60075/whatIHaveToSay[0]",
+   "Goblins",
+   "Unknown. Inquire. Mysterious.",
+   "未知。询问。神秘。"
+  ],
+  [
+   "res#60122/whatIHaveToSay[0]",
+   "Airendal",
+   "Strength. Halt. Risk.",
+   "力量。止步。风险。"
+  ],
+  [
+   "res#60148/whatIHaveToSay[0]",
+   "Dimas",
+   "Round. Elevate. Disappointment.",
+   "圆润。高举。失望。"
+  ],
+  [
+   "res#60156/whatIHaveToSay[0]",
+   "blue light",
+   "Unknown. Inquire. Blue.",
+   "未知。询问。蓝色。"
+  ],
+  [
+   "res#60302/whatIHaveToSay[0]",
+   "fog",
+   "Moist. Evaporate. Troublesome.",
+   "潮湿。蒸发。麻烦。"
+  ],
+  [
+   "res#60331/options[0].text",
+   "Gamagon",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60331/options[1].text",
+   "Gamagon",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60331/options[2].text",
+   "Gamagon",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60331/options[3].text",
+   "Gamagon",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60331/options[4].text",
+   "Gamagon",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60331/options[5].text",
+   "Gamagon",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60331/options[6].text",
+   "Gamagon",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60331/options[7].text",
+   "Gamagon",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60331/options[8].text",
+   "Gamagon",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60331/options[9].text",
+   "Gamagon",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60388/whatIHaveToSay[0]",
+   "job",
+   "Gamagon, observe. Command. Assess.",
+   "伽马贡，观察。指令。评估。"
+  ],
+  [
+   "res#60545/whatIHaveToSay[0]",
+   "Lannon",
+   "See. Speak. Friend.",
+   "看见。交谈。朋友。"
+  ],
+  [
+   "res#60564/whatIHaveToSay[0]",
+   "Laszra",
+   "Frail. Rest. Share.",
+   "虚弱。休憩。分享。"
+  ],
+  [
+   "res#60634/whatIHaveToSay[0]",
+   "manatite",
+   "Unknown. Inquire. Mineral.",
+   "未知。询问。矿物。"
+  ],
+  [
+   "res#60655/whatIHaveToSay[0]",
+   "caves",
+   "Gammon. Protect. Surrounding.",
+   "加蒙。守护。环绕。"
+  ],
+  [
+   "res#60663/whatIHaveToSay[0]",
+   "Codex",
+   "Power. Inquire. Worthy.",
+   "力量。询问。配得上者。"
+  ],
+  [
+   "res#60672/whatIHaveToSay[0]",
+   "silver",
+   "Unknown. Inquire. Ore.",
+   "未知。询问。矿石。"
+  ],
+  [
+   "res#60697/whatIHaveToSay[0]",
+   "dark lord",
+   "Unknown. Inquire. Warning.",
+   "未知。询问。警示。"
+  ],
+  [
+   "res#60710/whatIHaveToSay[0]",
+   "wild boar",
+   "Unknown. Inquire. Animal.",
+   "未知。询问。动物。"
+  ],
+  [
+   "res#60716/whatIHaveToSay[0]",
+   "Kalindraur",
+   "Kalindras. Argue. Difficult.",
+   "卡林德拉斯。争论。困难。"
+  ],
+  [
+   "res#60723/whatIHaveToSay[0]",
+   "Shione",
+   "Sound. Make. Joy.",
+   "声音。制造。喜悦。"
+  ],
+  [
+   "res#60774/whatIHaveToSay[0]",
+   "Arbo",
+   "Observe. Speak. Incapable.",
+   "观察。言语。无能。"
+  ],
+  [
+   "res#60810/whatIHaveToSay[0]",
+   "Scaphin",
+   "Danger. Exterminate. Success.",
+   "危险。剿灭。成功。"
+  ],
+  [
+   "res#60839/whatIHaveToSay[0]",
+   "Renault",
+   "Unknown. Inquire. Inconsequential.",
+   "未知。询问。无关紧要。"
+  ],
+  [
+   "res#60879/whatIHaveToSay[0]",
+   "dimension",
+   "Numerous. Avoid. Danger.",
+   "繁多。避开。危险。"
+  ],
+  [
+   "res#60900/options[0].text",
+   "Gamagon",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60900/options[10].text",
+   "Gamagon",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60900/options[11].text",
+   "Gamagon",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60900/options[12].text",
+   "Gamagon",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60900/options[13].text",
+   "Gamagon",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60900/options[14].text",
+   "Gamagon",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60900/options[15].text",
+   "Gamagon",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60900/options[16].text",
+   "Gamagon",
+   "wild boar",
+   "野猪"
+  ],
+  [
+   "res#60900/options[17].text",
+   "Gamagon",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60900/options[18].text",
+   "Gamagon",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60900/options[19].text",
+   "Gamagon",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60900/options[1].text",
+   "Gamagon",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60900/options[20].text",
+   "Gamagon",
+   "Gammon",
+   "加蒙"
+  ],
+  [
+   "res#60900/options[21].text",
+   "Gamagon",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60900/options[2].text",
+   "Gamagon",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60900/options[3].text",
+   "Gamagon",
+   "book",
+   "书"
+  ],
+  [
+   "res#60900/options[4].text",
+   "Gamagon",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60900/options[5].text",
+   "Gamagon",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60900/options[6].text",
+   "Gamagon",
+   "Archaven",
+   "阿奇文"
+  ],
+  [
+   "res#60900/options[7].text",
+   "Gamagon",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60900/options[8].text",
+   "Gamagon",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60900/options[9].text",
+   "Gamagon",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60924/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Power. Stay. Safe.",
+   "力量。留下。安全。"
+  ],
+  [
+   "res#60951/whatIHaveToSay[0]",
+   "Gammon",
+   "Home. Preserve. Give",
+   "家园。保存。给予"
+  ]
+ ]
+}

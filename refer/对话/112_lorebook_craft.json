@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_craft",
+  "count": 5,
+  "with_cn": 5
+ },
+ "entries": [
+  [
+   "res#60469/whatIHaveToSay[0]",
+   "Start",
+   "<i>Lesson 1\n     A Pinch and a Dash\r</i>\r\n\r\r\r\r\n\tWhen it comes to plying your tools, from hammer to hands, it is important to know when to use instructions and when to use your intuition.\r\n\r\n\tNo recipe has a grasp on what is happening in the workshop.",
+   "<i>第一课\n     一撮与一把\r</i>\r\n\r\r\r\r\n\t无论你使唤的是锤子还是双手，都要明白一件事：何时该照章办事，何时该相信直觉。\r\n\r\n\t没有哪份配方能掌握工坊里正在发生的一切。"
+  ],
+  [
+   "res#60469/whatIHaveToSay[1]",
+   "Start",
+   "Only you have that knowledge, so when you come to a point in your work where you feel that the directions are wrong, take a break, if the work allows, and immerse yourself in thought.\n\n\n\tYou may ruin the work if you break from the recipe, or you may save it. This can be frustrating to a beginner, but a skilled craftsman learns to adapt.",
+   "知晓这一切的只有你。所以，当你在工作中感到步骤不对时，若手上的活计允许，就停下来歇一歇，让自己沉入思考。\n\n\n\t脱离配方，可能毁掉作品，也可能救活它。新手会因此气馁，而老练的匠人学会随机应变。"
+  ],
+  [
+   "res#60469/whatIHaveToSay[2]",
+   "Start",
+   "\tConsider this scenario: You are mixing ingredients with your mortar and pestle. You add a strand of spider's silk and work it into a teaspoon of slime, but the recipe continues, \"\"A chunk of dungeon amber\"\". How does one measure a chunk? At this point you are faced with a dilemma, for dungeon amber is rare. Perhaps, if you add half of what you have the potion will still work. However, if it fails, you may end up without enough to try again.",
+   "\t设想这样一个场景：你用研钵与杵搅拌原料。你加入一缕蛛丝，拌进一茶匙黏液，可配方接着写：「地牢琥珀一块。」「一块」该怎么量？此时你便陷入两难——地牢琥珀十分稀有。加一半或许药水仍能制成；可要是失败，你连重试的份儿都没了。"
+  ],
+  [
+   "res#60469/whatIHaveToSay[3]",
+   "Start",
+   "\r\tSuch scenarios are commonplace, and often experience is the only factor that wins out. As you grow your skills, you will fail. Both triumph and failure are a part of expressing your craft.\r\n\r\n\tTo learn the limits of your skill, experiment, and practice with tools or ingredients that are less rare. Do not wait until the situation is dire to hone your senses.\r",
+   "\r\t这样的情形屡见不鲜，往往只有经验才能定夺。技艺精进之路上，你终会遭遇失败。得意与失手，都是「手艺」的一部分。\r\n\r\n\t想摸清自己技艺的边界，就用不太稀有的工具或原料去试验、去练习。别等到火烧眉毛才来磨砺感官。\r"
+  ],
+  [
+   "res#60469/whatIHaveToSay[4]",
+   "Start",
+   "\tEach of you comes highly recommended, and I look forward to seeing how you will grow in the coming cycle.\n\n\n\n- Professor Sor, of Her Majesty's department of crafts",
+   "\t你们每一位都备受举荐，我很期待看到你们在接下来一轮里的成长。\n\n\n\n——索尔教授，女王陛下匠艺部\t"
+  ]
+ ]
+}

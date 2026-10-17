@@ -1,0 +1,327 @@
+{
+ "meta": {
+  "kind": "对话/BaronConversation",
+  "count": 53,
+  "with_cn": 53
+ },
+ "entries": [
+  [
+   "res#59723/whatIHaveToSay[0]",
+   "Goblins",
+   "No such thing.",
+   "哪有这种东西。"
+  ],
+  [
+   "res#59731/whatIHaveToSay[0]",
+   "caves",
+   "I hear they used to build cities in them. If you ask me, and you did, only a fool would leave luxury to crawl around in filth. Now, if you don't mind I'm on the way to get lost in a drink.",
+   "听说他们从前会在洞穴里建城。要问我的看法——既然你问了——只有傻瓜才会放着安逸日子不过，去烂泥里爬来爬去。好了，失陪，我正要去杯酒里好好迷失一番。"
+  ],
+  [
+   "res#59807/whatIHaveToSay[0]",
+   "Laszra",
+   "Never trust a man in robes. Capes, on the other hand, are quite respectable.",
+   "永远别信穿袍子的人。斗篷嘛，那就体面多了。"
+  ],
+  [
+   "res#59857/whatIHaveToSay[0]",
+   "dark lord",
+   "Am I to be impressed by such a lowly title? A baron is much higher in stature than a lord. Now, leave me alone. I can hardly breathe with your stink in the air.",
+   "这种下等头衔也想叫我肃然起敬？男爵的位阶可比领主高得多。行了，别烦我。你身上的臭味在空气里一飘，我连气都喘不过来了。"
+  ],
+  [
+   "res#59955/whatIHaveToSay[0]",
+   "Bhulown",
+   "Eew. Get this... slug... away from me.",
+   "呕。把这……鼻涕虫……弄远点。"
+  ],
+  [
+   "res#59966/whatIHaveToSay[0]",
+   "onQuest",
+   "Bring me 5 quality pieces of snail meat and I will reward you handsomely. You will have to ask the Mayor for the key. He locked those creatures away, and not without good reason.",
+   "给我带来 5 块上等蜗牛肉，我会重重赏你。你得先向镇长讨钥匙。他把那些东西锁了起来——而且不是没有道理的。"
+  ],
+  [
+   "res#59967/whatIHaveToSay[0]",
+   "Airendal",
+   "What manner of insect are you? Begone.",
+   "你是什么虫子？滚开。"
+  ],
+  [
+   "res#59969/whatIHaveToSay[0]",
+   "Renault",
+   "I don't recall telling you anything about it. Renault is my family name though. Perhaps this place was built by one of my ancestors.\n",
+   "我不记得跟你提过半点有关它的事。不过，雷诺是我的姓氏。也许这地方正是我某位先祖建造的。\n"
+  ],
+  [
+   "res#60049/whatIHaveToSay[0]",
+   "graveyard",
+   "I don't bother with such places or thoughts. I neither expect to die, nor would I be caught dead in a place where people have.",
+   "我才懒得理会那种地方，也懒得想那种事。我既不打算死，也绝不会死在死过人的地方。"
+  ],
+  [
+   "res#60098/whatIHaveToSay[0]",
+   "peasant",
+   "Some people are just born more important. It isn't your fault. Many of the families in this town were of noble blood once, but they lost it along the way. Only I was able to maintain the dignity of nobility. The rest waste their time with... well, I don't even know... peasant stuff.",
+   "有些人天生就比别人重要。这不是你的错。这镇上的许多家族也曾有贵族血统，可他们中途把血统弄丢了。只有我，保住了贵族的尊严。其余的人把时间浪费在……怎么说呢，我甚至都不知道……农民，那些玩意儿上。"
+  ],
+  [
+   "res#60103/whatIHaveToSay[0]",
+   "Archaven",
+   "A fancy name for sure. I want to keep talking about this, really I do. But I have... matters to attend to. So many matters.",
+   "确实是个花哨的名字。我真想继续聊下去，真的。可我还有……要事在身。好多好多的要事。"
+  ],
+  [
+   "res#60105/whatIHaveToSay[0]",
+   "Agmarians",
+   "That sounds like a very uninteresting word. Try asking someone else.",
+   "这词听着就没意思。去问别人吧。"
+  ],
+  [
+   "res#60114/whatIHaveToSay[0]",
+   "Merewen",
+   "Well hello, my good lady. What ever are you doing with this ruffian?",
+   "哎呀，你好啊，这位女士。你跟着这个流氓做什么呢？"
+  ],
+  [
+   "res#60162/whatIHaveToSay[0]",
+   "book",
+   "Books are of little use to me. Perhaps, if there was anyone able to make out the gibberish found within... It matters not. My collection was used for fuel many cycles ago.\n\nAt least, I think it was many cycles ago. Does it really matter? ",
+   "书对我没什么用。除非，真有人能读懂里面那些鬼画符……不过这也不打紧。我的藏书许多轮前就当柴烧了。\n\n至少，我记得是许多轮前。这真的重要吗？ "
+  ],
+  [
+   "res#60162/whatIHaveToSay[1]",
+   "book",
+   "If you must know more, ask farmer... what's his name again... that farmer sometimes speaks of a librarian, though I do not recall one. The library has been closed for many cycles. Now, off with you. Shoo.",
+   "要是你非要知道更多，就去问农夫……他叫什么来着……那个农夫有时会提起一位图书管理员，可我记不起有这么个人。图书馆已经闭馆许多轮了。行了，你走吧。去去去。"
+  ],
+  [
+   "res#60202/whatIHaveToSay[0]",
+   "Dimas",
+   "Scruffy. Move along.",
+   "邋遢鬼。滚远点。"
+  ],
+  [
+   "res#60294/whatIHaveToSay[0]",
+   "fog",
+   "Even if I desired to enter it, I would not. I would send a peasant like you! No offense.",
+   "就算我想进去，我也不会亲自去。要派人，我就派个农民，像你这样的。无意冒犯。"
+  ],
+  [
+   "res#60323/options[0].text",
+   "Baron Vespes",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60323/options[1].text",
+   "Baron Vespes",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60323/options[2].text",
+   "Baron Vespes",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60323/options[3].text",
+   "Baron Vespes",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60323/options[4].text",
+   "Baron Vespes",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60323/options[5].text",
+   "Baron Vespes",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60323/options[6].text",
+   "Baron Vespes",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60323/options[7].text",
+   "Baron Vespes",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60323/options[8].text",
+   "Baron Vespes",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60323/options[9].text",
+   "Baron Vespes",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60380/whatIHaveToSay[0]",
+   "job",
+   "Is it not apparent? I am this town's fancy dresser.\n\nNo doubt I was elected to this position because of my excellent sense of style, which has been a Renault family trait for generations.",
+   "这还不明显吗？我是这个镇子的体面衣着官。\n\n毫无疑问，我之所以当选，全凭我出色的衣着品味——那是我家世代相传的特质，源自雷诺。"
+  ],
+  [
+   "res#60380/whatIHaveToSay[1]",
+   "job",
+   "True, I cannot recall who my parents are, but I am certain. Yes... certain!",
+   "没错，我记不起自己的父母是谁，但我确信。是的……确信无疑！"
+  ],
+  [
+   "res#60537/whatIHaveToSay[0]",
+   "Lannon",
+   "Greetings, peasant! You are looking, most... peasantly, today.",
+   "致意，农民！你今天看着，真是……要多农民有多农民。"
+  ],
+  [
+   "res#60570/whatIHaveToSay[0]",
+   "Emerisk",
+   "This is a fine village. I would not settle for anything less, even if others did exist.",
+   "这是个上等的村子。就算世上真还有别的村子，我也不会将就比这更差的地方。"
+  ],
+  [
+   "res#60629/whatIHaveToSay[0]",
+   "Rycard",
+   "You look somehow familiar... have we met?",
+   "你看着有些眼熟……我们见过吗？"
+  ],
+  [
+   "res#60646/whatIHaveToSay[0]",
+   "Shione",
+   "Didn't I hire you to play music, and not to talk?",
+   "我雇你是来奏乐的，不是来讲话的，不是吗？"
+  ],
+  [
+   "res#60659/whatIHaveToSay[0]",
+   "completedQuest",
+   "Fabulous! I need only to have it prepared for me. Alas, my chef wandered into the fog days ago.",
+   "妙极了！只差让人给我做好了。唉，可惜我的厨师几天前走进迷雾里去了。"
+  ],
+  [
+   "res#60690/whatIHaveToSay[0]",
+   "Codex",
+   "Big words do not make a big man. Money does! And I have lots of it. Now away with you.",
+   "大话撑不起大人物，钱才行！而我有的是钱。现在，滚开。"
+  ],
+  [
+   "res#60756/whatIHaveToSay[0]",
+   "Delicate Palate",
+   "It has been a long time since I have feasted on a rare delicacy that can only be found in the caves below us. I, of course, have no interest in getting my hands dirty. However, I will pay well for snail meat.",
+   "我已许久没享用过那种只在我们脚下洞穴里才有的稀罕美味了。我嘛，当然没兴趣把手弄脏。不过，蜗牛肉我付得起好价钱。"
+  ],
+  [
+   "res#60766/whatIHaveToSay[0]",
+   "Arbo",
+   "Hello there, good boy. May I interest you in a treat? No? Hmmm, too good for garlic are we? Perhaps you should let your owner do the talking.",
+   "你好啊，乖狗狗。想不想来点好吃的？不要？嗯，看来你瞧不上大蒜是吧？还是让你的主人来说话吧。"
+  ],
+  [
+   "res#60792/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I could use a servant of your strength. You will have to sleep outside of course, for I have no room in my home.",
+   "我正用得着像你这样有力的仆人。当然，你得睡在屋外——我家里可没地方。"
+  ],
+  [
+   "res#60892/options[0].text",
+   "Baron Vespes",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60892/options[10].text",
+   "Baron Vespes",
+   "Delicate Palate",
+   "精致口味"
+  ],
+  [
+   "res#60892/options[11].text",
+   "Baron Vespes",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60892/options[12].text",
+   "Baron Vespes",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60892/options[13].text",
+   "Baron Vespes",
+   "peasant",
+   "农民"
+  ],
+  [
+   "res#60892/options[14].text",
+   "Baron Vespes",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60892/options[1].text",
+   "Baron Vespes",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60892/options[2].text",
+   "Baron Vespes",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60892/options[3].text",
+   "Baron Vespes",
+   "book",
+   "书"
+  ],
+  [
+   "res#60892/options[4].text",
+   "Baron Vespes",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60892/options[5].text",
+   "Baron Vespes",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60892/options[6].text",
+   "Baron Vespes",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60892/options[7].text",
+   "Baron Vespes",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60892/options[8].text",
+   "Baron Vespes",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60892/options[9].text",
+   "Baron Vespes",
+   "Goblins",
+   "哥布林"
+  ]
+ ]
+}

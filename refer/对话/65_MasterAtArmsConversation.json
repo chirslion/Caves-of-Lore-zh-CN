@@ -1,0 +1,453 @@
+{
+ "meta": {
+  "kind": "对话/MasterAtArmsConversation",
+  "count": 74,
+  "with_cn": 74
+ },
+ "entries": [
+  [
+   "res#59741/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Indeed, you must be a fine warrior. But cunning is just as deadly as a sword. Remember that.",
+   "的确，你一定是位出色的战士。但机巧与利剑同样致命。记住这一点。"
+  ],
+  [
+   "res#59777/whatIHaveToSay[0]",
+   "graveyard",
+   "I don't know much about them. They say we all go there eventually, but this is not true. I have seen the remains left in this cave... unless you consider these caves to be a graveyard as well.",
+   "关于墓地，我了解不多。人们说我们终有一日都会去那里，可这话并不对。我见过留在这洞穴里的遗骸……除非，你把这些洞穴也算作墓地。"
+  ],
+  [
+   "res#59824/whatIHaveToSay[0]",
+   "Emerisk",
+   "I do not believe I was from there, though I am not certain. It seems as if most here were not residents. I wonder why so few from the town made it here. Perhaps they would not leave their homes.",
+   "我不认为自己是那里人，虽然也不确定。这里的大多数人似乎都不是本地居民。我纳闷，为何从镇上到这里来的人这么少。也许他们不愿离开家。"
+  ],
+  [
+   "res#59877/whatIHaveToSay[0]",
+   "caves",
+   "They are all around us, but it does not bother me. Whether a cave or a forest, it would not matter if my memory were totally lost. This place is almost all that I know, and I welcome any place that would provide safe harbor from the calamity.",
+   "它们就在我们四周，可我并不介意。洞穴也好，森林也罢，就算我的记忆完全丧失，也无所谓。这地方几乎是我所知的一切；任何能于灾变中提供安全庇护的所在，我都欣然接受。"
+  ],
+  [
+   "res#59895/whatIHaveToSay[0]",
+   "moongates",
+   "Gates? Hmmm... I remember the tale of the Moonblade. It was a powerful weapon in ancient times. It was split into pieces when it was no longer needed and hidden in magical gates.",
+   "门？嗯……我记得月刃，的传说。它曾是一件强大的武器，属于远古时代。当它不再被需要时，它被拆成碎片，藏进了魔法之门中。"
+  ],
+  [
+   "res#59895/whatIHaveToSay[1]",
+   "moongates",
+   "If these moongates exist, maybe the legendary sword does as well.",
+   "若这些月之门真的存在，也许那把传说中的剑也存在。"
+  ],
+  [
+   "res#59943/whatIHaveToSay[0]",
+   "Rycard",
+   "Battle can forge a man's heart, but so can doubt and sadness. I see a battle raging within you. I can help you win, if you are willing.",
+   "战斗能锻造一个人的心，怀疑与悲伤亦然。我看见你内心正有一场战斗。若你愿意，我可以帮你取胜。"
+  ],
+  [
+   "res#59957/whatIHaveToSay[0]",
+   "energy",
+   "I assume you have interest in the obelisk. It can summon all manner of fiends. They can be somewhat useful for training, but ultimately offer limited experience and rarely drop items. There is no substitute for a dynamic fight in the field.",
+   "我猜你对那座方尖碑感兴趣。它能召唤各种妖魔。用来练手尚有几分用处，但能给的经验终究有限，也极少掉落物品。实战中的激斗，无可替代。"
+  ],
+  [
+   "res#59957/whatIHaveToSay[1]",
+   "energy",
+   "If you wish to use it, there is a lever in the east hall that will allow you to cross. But beware, these creatures can still kill you.",
+   "若你想用它，东厅有一根拉杆，能让你过去。但当心，这些生物照样能要你的命。"
+  ],
+  [
+   "res#59983/whatIHaveToSay[0]",
+   "corundum",
+   "This material is light, strong and hard to come by. I remember using weapons made from it in my old life.",
+   "这种材质轻、坚固，且难得。我记得从前的人生里，用过它制成的武器。"
+  ],
+  [
+   "res#60030/whatIHaveToSay[0]",
+   "Agmarians",
+   "I know how to fight them, somehow. I remember the way to swing my sword; the steps needed to dodge their tails... the venom in their claws... it is strange indeed. I can almost make out an image of them based on my memory of how to fight them. I must have fought them many times.",
+   "不知怎地，我知道怎么与它们战斗。我记得挥剑的方式；闪避它们尾巴的步法……爪中的毒液……真是不可思议。凭着我记得的打法，我几乎能在脑中勾出它们的模样。我一定和它们交战过许多次。"
+  ],
+  [
+   "res#60079/whatIHaveToSay[0]",
+   "Goblins",
+   "I have seen them in the forest, and in these caves, believe it or not. There is one in particular that I have seen scurrying about, before we locked the doors to the south. He was odd, but not violent like they have a reputation for being.",
+   "信不信由你，我在森林里、在这些洞穴里都见过他们。尤其有一个，在我们锁上南边的大门之前，我常看见他跑来跑去。他很古怪，却不像传闻中那样凶暴。"
+  ],
+  [
+   "res#60127/whatIHaveToSay[0]",
+   "Merewen",
+   "In these times we must accept that all who are willing to fight are deserving of the warrior's title. Why does it takes times such as these for us to realise that?",
+   "在这样的时代，我们必须承认：所有愿意战斗的人，都配得上战士之名。为什么非要到这种年月，我们才明白这一点？"
+  ],
+  [
+   "res#60171/whatIHaveToSay[0]",
+   "book",
+   "I must admit that my mind drifts away when the others speak of books and scrolls. I do not know if it is my memory loss, or whether I never cared for them much. I suppose I shall not know the answer unless we succeed. We will succeed.",
+   "我得承认，别人谈起书卷时，我的心思总会飘走。我不知道这是因为记忆流失，还是我从来就不太在意它们。除非我们成功，否则我大概不会知道答案。我们一定会成功。"
+  ],
+  [
+   "res#60194/whatIHaveToSay[0]",
+   "dark lord",
+   "I wonder, was he truly wrapped in darkness, or was it just a title?",
+   "我在想，他是真的被黑暗包裹，还是那只是个称号？"
+  ],
+  [
+   "res#60307/whatIHaveToSay[0]",
+   "fog",
+   "Naira found me wandering in it on her way here. There were others, but they would not follow. I am greatly robbed of my memories, but is it strange that I remember my sword work so well?",
+   "奈拉在来这里的路上，发现我在迷雾中游荡。当时还有其他人，可他们不肯跟来。我的记忆被夺走太多，可我剑术记得如此清楚，这奇怪吗？"
+  ],
+  [
+   "res#60307/whatIHaveToSay[1]",
+   "fog",
+   "Naira thinks that perhaps some parts of our memory cannot be lost, especially those that have become nearly instinct, as swordsmanship will when you put in the right effort.",
+   "奈拉认为，也许我们记忆中的某些部分不会丢失，尤其是那些近乎本能的——只要功夫下得对，剑术就会变成那样。"
+  ],
+  [
+   "res#60336/options[0].text",
+   "MasterAtArms ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60336/options[1].text",
+   "MasterAtArms ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60336/options[2].text",
+   "MasterAtArms ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60336/options[3].text",
+   "MasterAtArms ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60336/options[4].text",
+   "MasterAtArms ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60336/options[5].text",
+   "MasterAtArms ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60336/options[6].text",
+   "MasterAtArms ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60336/options[7].text",
+   "MasterAtArms ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60336/options[8].text",
+   "MasterAtArms ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60336/options[9].text",
+   "MasterAtArms ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60393/whatIHaveToSay[0]",
+   "job",
+   "Master at arms, at your service. I help organize the guard here, and I train anyone who is willing to devote the time. I would most like to go adventuring with you, but someone has to stay here.\n\nI can also help sharpen weapons if you have the right materials.",
+   "军械教官，听候差遣。我帮着整顿这里的守卫，也训练任何肯投入时间的人。我最想跟你们去冒险，可总得有人留守。\n\n若有合适的材料，武器的磨砺，我也能帮上忙。"
+  ],
+  [
+   "res#60520/whatIHaveToSay[0]",
+   "training",
+   "I can train you in the use of various weapons, but you will need practice weapons first. I don't wish to kill you.",
+   "我可以训练你使用各种武器，但你得先有练习，用的兵器——我可不想闹出人命。"
+  ],
+  [
+   "res#60520/whatIHaveToSay[1]",
+   "training",
+   "When you find some, return to me and I will train you.",
+   "等你找到了，就回来找我，我来训练你。"
+  ],
+  [
+   "res#60550/whatIHaveToSay[0]",
+   "Lannon",
+   "You do not look like a warrior, but I know that raising sheep and growing food is not light work. I will not underestimate you.",
+   "你看着不像战士，但我知道，牧羊和种地都不是轻活。我不会小看你。"
+  ],
+  [
+   "res#60586/whatIHaveToSay[0]",
+   "librarian",
+   "I suppose we need her. Everyone says so, but really we need everyone here to succeed. Let us not undervalue anyone who is helping.",
+   "我想我们需要她。人人都这么说；其实，这里的每一个人都得派上用场，我们才能成功。别轻视任何出力的人。"
+  ],
+  [
+   "res#60611/whatIHaveToSay[0]",
+   "sharpen",
+   "I can sharpen a blade easily enough, but for a really sharp edge you will want to find elder stone.",
+   "磨快一把刀对我来说不难，但要想锋刃真正犀利，你得找到上古之石。"
+  ],
+  [
+   "res#60626/whatIHaveToSay[0]",
+   "Laszra",
+   "Welcome friend. I was in a daze when we first met and so do not remember you. But I have heard good things. May your humor brighten this dark place!",
+   "欢迎，朋友。初次见面时我神志恍惚，所以不记得你。但我听到了不少好话。愿你的幽默照亮这个黑暗的地方！"
+  ],
+  [
+   "res#60642/whatIHaveToSay[0]",
+   "training",
+   "I see that you have acquired practice weapons. Excellent. You may commence training whenever you like.",
+   "看来你已经弄到了练习武器。很好。你随时可以开始训练。"
+  ],
+  [
+   "res#60662/whatIHaveToSay[0]",
+   "Bhulown",
+   "I wonder what strategies might come from the mind of something so different. Please, regale me with tales of battle.",
+   "我在想，如此不同的心智会孕育出怎样的战术。请给我讲讲你的战斗故事。"
+  ],
+  [
+   "res#60676/whatIHaveToSay[0]",
+   "silver",
+   "To be honest, it is an odd choice for a weapon material. There must be something beyond durability. Perhaps there was some sort of ritual significance to using silver.",
+   "说实话，用它做武器材料是个古怪的选择。除了耐用，它必有别的过人之处。也许用银是出于某种仪式上的意义。"
+  ],
+  [
+   "res#60738/whatIHaveToSay[0]",
+   "Airendal",
+   "Small one, you are as welcome as any. Your light is comforting in this darkness. Let it strike fear into the dark things that lurk here.",
+   "小个子，你与任何人一样受欢迎。在这黑暗中，你的光令人安心。让它把恐惧打进潜伏此地的黑暗之物心里吧。"
+  ],
+  [
+   "res#60779/whatIHaveToSay[0]",
+   "Arbo",
+   "A mighty warrior, at last. I have no doubt that you are a formidable foe.",
+   "一位强大的战士，总算来了。我毫不怀疑，你是个可畏的对手。"
+  ],
+  [
+   "res#60801/whatIHaveToSay[0]",
+   "Moonblade",
+   "It was said to draw its power from the moons. When they rose, it would do mighty things. And creatures that drew from the power of those moons were greatly harmed.",
+   "据说它的力量取自众月。月亮升起时，它便能施展非凡之力。而那些汲取月力的生物，会被它重创。"
+  ],
+  [
+   "res#60801/whatIHaveToSay[1]",
+   "Moonblade",
+   "It could be nothing more than a legend, but I have seen stranger things already.",
+   "也许它终究只是个传说——不过，更离奇的东西我都已经见过了。"
+  ],
+  [
+   "res#60802/whatIHaveToSay[0]",
+   "keystone",
+   "I have little interest in stones and symbols and can therefore be of no help. I hope that you find what you are looking for.",
+   "我对石头和符号没什么兴趣，所以帮不上忙。希望你找到你要找的东西。"
+  ],
+  [
+   "res#60814/whatIHaveToSay[0]",
+   "Scaphin",
+   "There are many strange creatures in this world, or so Callor tells me. We must appear strange to them as well.",
+   "这世上有许多奇怪的生物——卡洛尔是这么告诉我的。在它们眼里，我们想必也很奇怪。"
+  ],
+  [
+   "res#60827/whatIHaveToSay[0]",
+   "elder stone",
+   "It is a strange stone that can be found in the halls surrounding this place. We do not know its purpose, but it can hone the edge of a blade like nothing I have ever seen. Well, nothing I remember seeing anyways.",
+   "这是一种奇怪的石头，可以在环绕此地的厅堂里找到。我们不知道它的用途，但它打磨刀刃的效果，是我平生仅见——嗯，是我记得起来的里头最厉害的。"
+  ],
+  [
+   "res#60827/whatIHaveToSay[1]",
+   "elder stone",
+   "Once the blade is nearing its sharpest the stone will glow softly and then crumble. It is quite remarkable. What purpose could the builders have had for such a thing?",
+   "当刀刃接近最锋利的程度时，石头会泛起微光，随后碎裂。真了不起。当年的建造者，造出这种东西是为了什么用途呢？"
+  ],
+  [
+   "res#60844/whatIHaveToSay[0]",
+   "Renault",
+   "This is not a name that I know. I am poor at names, even without the memory loss.",
+   "这个名字我不认识。就算没有失忆，我也不擅长记名字。"
+  ],
+  [
+   "res#60870/whatIHaveToSay[0]",
+   "Dimas",
+   "Some weapons are unconventional. Shovels, pickaxes, and the like. One should never underestimate an opponent trained in the use of common items.",
+   "有些武器并不寻常。铲子、镐子之类。永远不要低估一个把寻常物件用得纯熟的对手。"
+  ],
+  [
+   "res#60884/whatIHaveToSay[0]",
+   "Archaven",
+   "Those that lived here long ago made sure that all of their needs could be met, for many cycles if needed. It was thorough planning.",
+   "很久以前住在这里的人，确保一切所需都能自给自足——必要时可支撑许多轮。筹划得滴水不漏。"
+  ],
+  [
+   "res#60905/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60905/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60905/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60905/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60905/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60905/options[14].text",
+   "Isobel Warde",
+   "energy",
+   "能量"
+  ],
+  [
+   "res#60905/options[15].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60905/options[16].text",
+   "Isobel Warde",
+   "moongates",
+   "月之门"
+  ],
+  [
+   "res#60905/options[17].text",
+   "Isobel Warde",
+   "Moonblade",
+   "月刃"
+  ],
+  [
+   "res#60905/options[18].text",
+   "Isobel Warde",
+   "keystone",
+   "拱心石"
+  ],
+  [
+   "res#60905/options[19].text",
+   "Isobel Warde",
+   "sharpen",
+   "磨砺"
+  ],
+  [
+   "res#60905/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60905/options[20].text",
+   "Isobel Warde",
+   "elder stone",
+   "上古之石"
+  ],
+  [
+   "res#60905/options[21].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60905/options[22].text",
+   "Isobel Warde",
+   "training",
+   "训练"
+  ],
+  [
+   "res#60905/options[23].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60905/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60905/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60905/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60905/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60905/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60905/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60905/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60905/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60973/whatIHaveToSay[0]",
+   "Codex",
+   "This Codex of yours is the key to much, or so I have overheard. They say that our fate rests upon this object, but I know that the one wielding it matters just as much.",
+   "你这部典籍，是解开许多事情的钥匙——我是这么听说的。他们都说我们的命运系于这件东西，但我知道，握着它的人同样重要。"
+  ],
+  [
+   "res#60993/whatIHaveToSay[0]",
+   "Shione",
+   "Battle with music? Even at my age I learn new things. You must teach me this wisdom.",
+   "用音乐战斗？我这把年纪还能学新东西。这智慧你一定要教我。"
+  ]
+ ]
+}

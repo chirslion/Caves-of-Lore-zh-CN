@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "kind": "对话/FarmBoyConversation",
+  "count": 66,
+  "with_cn": 66
+ },
+ "entries": [
+  [
+   "res#59700/whatIHaveToSay[0]",
+   "Tablet Of Glyphs",
+   "I plan to do more with my engraving studies, but I cannot read. For some reason I seem to grasp ancient glyphs fairly well, and I need an example to study. In particular, I remember seeing an old tablet in the library. Would you bring it to me?",
+   "我打算把铭刻，学得更深些，可我不识字。不知为何，我似乎对古代符文颇有悟性，我需要一件范本来研习。我记得，图书馆里见过一块古老的石板。能帮我取来吗？"
+  ],
+  [
+   "res#59717/whatIHaveToSay[0]",
+   "graveyard",
+   "The animals tend to stay clear. Except for one that is. My favorite goat refuses to stay away. Now that the mayor locked it, I can't even bring him back. I suppose there is enough forage to keep him alive for months.",
+   "动物们通常会避开那里。只有一个例外。我最喜欢的那只山羊死活不肯远离。如今镇长把它锁了进去，我连牵都牵不回来。我想那里的草料够它活上几个月。"
+  ],
+  [
+   "res#59718/whatIHaveToSay[0]",
+   "Laszra",
+   "Are you a noble? I quite dislike nobles. No offense. It is not the position itself that I dislike, but rather those who occupy the positions. I hear there was once a great noble though, by the name of Renault.",
+   "你是贵族吗？我相当不喜欢贵族。无意冒犯。我讨厌的不是这个身份本身，而是占着这个身份的人。不过我听说，从前有位了不起的贵族，名叫雷诺。"
+  ],
+  [
+   "res#59735/whatIHaveToSay[0]",
+   "completedQuest",
+   "Zy! You have been returned! Stay by my side from now on will you?\n\nThank you, I feared I might never see him again. He was a gift from my mother and is very dear to me.",
+   "齐！你回来了！从今往后就待在我身边，好吗？\n\n谢谢你，我原以为再也见不到他了。他是母亲的赠礼，对我极其珍贵。"
+  ],
+  [
+   "res#59756/whatIHaveToSay[0]",
+   "librarian",
+   "We had a librarian once. She worked in the library of course. It is the most marvelous building in town, is it not? I believe it to be the oldest as well. I wonder what secrets it holds.",
+   "我们从前有过一位图书管理员。她当然是在图书馆里工作。那是镇上最奇妙的建筑，不是吗？我相信它也是最古老的。真想知道它藏着什么秘密。"
+  ],
+  [
+   "res#59770/whatIHaveToSay[0]",
+   "graveyard",
+   "The animals tend to stay clear. Except for one that is. My favorite goat refuses to stay away. Now that the mayor locked it, I can't even bring him back. I suppose there is enough forage to keep him alive for months.",
+   "动物们通常会避开那里。只有一个例外。我最喜欢的那只山羊死活不肯远离。如今镇长把它锁了进去，我连牵都牵不回来。我想那里的草料够它活上几个月。"
+  ],
+  [
+   "res#59792/whatIHaveToSay[0]",
+   "onQuest",
+   "Search the graveyard and bring something he likes or he won't follow you. The herbalist often sells carrots and may be able to give you one as a favor to me.",
+   "去墓地找找，带点他喜欢的东西，否则他不会跟你走。草药师常卖胡萝卜，也许能看在我们的交情上送你一根。"
+  ],
+  [
+   "res#59816/whatIHaveToSay[0]",
+   "Emerisk",
+   "Long has it been the home of my family. Our name is not great, like the Renaults of course. But without us, what would they have eaten? Goblin meat?",
+   "长久以来，这里一直是我家族的家园。我们的姓氏不算显赫——当然比不上雷诺家。可没有我们，他们吃什么？难道吃哥布林？"
+  ],
+  [
+   "res#59837/whatIHaveToSay[0]",
+   "Archaven",
+   "I am sorry. That name is not familiar to me.",
+   "抱歉。那个名字我不熟悉。"
+  ],
+  [
+   "res#59871/whatIHaveToSay[0]",
+   "caves",
+   "I used to store vegetables in the cave under the Baron's manor, but they keep disappearing. I'd rather not find out why.",
+   "我从前把蔬菜储存在男爵庄园下的洞穴里，可它们老是消失。我宁可不去弄清原因。"
+  ],
+  [
+   "res#59893/whatIHaveToSay[0]",
+   "book",
+   "I am not too familiar with them. A life of farming does not leave much time for other pursuits. Even so... I have been practicing my engraving skills.",
+   "我对它们不太了解。务农的生活留不出多少时间做别的事。即便如此……我一直在练习铭刻，这门手艺。"
+  ],
+  [
+   "res#59893/whatIHaveToSay[1]",
+   "book",
+   "It is strange, that I can draw these runes from memory. I do not know where I learned them, and my memory clears as I draw, but fades again when I stop. ",
+   "说来奇怪，我能凭记忆画出这些符文。我不知道自己是在哪里学的；一画起来，记忆就清晰，一停手，又模糊了。 "
+  ],
+  [
+   "res#59936/whatIHaveToSay[0]",
+   "Rycard",
+   "You look able-bodied. We could use some strong labor around here. If you need work, let me know.",
+   "你看着身强力壮。我们这一带正缺壮劳力。要是你需要活干，告诉我。"
+  ],
+  [
+   "res#59978/whatIHaveToSay[0]",
+   "corundum",
+   "I was once given a corundum scythe by a traveller. It has not dulled to this day. We do not see many travellers these days. They only wander in and then back out. They seem truly lost, and rarely speak.",
+   "曾有旅人送我一把镰刀。刚玉，打成的。直到今天都没钝过。如今我们很少见到旅人了。他们只是晃进来，又晃出去。看上去确实迷失了，也难得开口。"
+  ],
+  [
+   "res#60022/whatIHaveToSay[0]",
+   "Agmarians",
+   "I know nothing of that name. Though... I remember a word in the old tongue that I was once taught. Agamaar. I think it was a city. Perhaps there is some connection.",
+   "那个名字我一无所知。不过……我记得从前学过的一个古语词。阿加马尔。我想那是一座城市。也许其中有什么联系。"
+  ],
+  [
+   "res#60073/whatIHaveToSay[0]",
+   "Goblins",
+   "A fairy tale perhaps. Though the Renaults were said to have engaged in many battles with them when this town was first established. If they exist, they have not shown themselves since. I would prefer it remains that way.",
+   "也许是个童话吧。不过据说本镇初建时，雷诺家与他们打过许多仗。若他们真的存在，自那以后就再没露过面。我倒希望一直如此。"
+  ],
+  [
+   "res#60100/whatIHaveToSay[0]",
+   "Bhulown",
+   "A fairy tale come to life? Are you a Goblin? Should I be worried?",
+   "童话活了？你是哥布林？我是不是该担心了？"
+  ],
+  [
+   "res#60119/whatIHaveToSay[0]",
+   "Merewen",
+   "Good to see you again. I trust all is well?",
+   "很高兴再见到你。我想一切都好吧？"
+  ],
+  [
+   "res#60155/whatIHaveToSay[0]",
+   "blue light",
+   "I have seen them outside of my window at night. Such beautiful things. I do not know what they are for they tend to flee when approached.",
+   "夜里我在窗外见过它们。多美的东西。我不知道它们是什么，因为一靠近它们就跑了。"
+  ],
+  [
+   "res#60186/whatIHaveToSay[0]",
+   "Dimas",
+   "I used to hunt for pretty rocks in the stream. I imagined that every rock I broke open  would be filled with treasure. Oh, what is must be like to see such a dream fulfilled.",
+   "我从前常在溪里找好看的石头。我以为每一块敲开的石头里都装满了宝藏。唉，那样的梦想要是成真，该是什么滋味啊。"
+  ],
+  [
+   "res#60201/whatIHaveToSay[0]",
+   "Airendal",
+   "Your light is... comforting. I have seen such lights before.",
+   "你的光……令人安心。我见过这样的光。"
+  ],
+  [
+   "res#60203/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I have never seen a man as big as you before. I bet you could pull a plow all by yourself.",
+   "我从没见过像你这么高大的人。我打赌你一个人就能拉动犁。"
+  ],
+  [
+   "res#60299/whatIHaveToSay[0]",
+   "fog",
+   "When animals wander in they usually do not come back. A few weeks ago some fool wandered in saying they'd lost something. I think they were a shepherd.",
+   "动物走进去，通常就回不来了。几周前，有个蠢人晃了进去，说自己丢了东西。我想，他是个牧羊人。"
+  ],
+  [
+   "res#60328/options[0].text",
+   "Farm Boy ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60328/options[1].text",
+   "Farm Boy ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60328/options[2].text",
+   "Farm Boy ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60328/options[3].text",
+   "Farm Boy ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60328/options[4].text",
+   "Farm Boy ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60328/options[5].text",
+   "Farm Boy ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60328/options[6].text",
+   "Farm Boy ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60328/options[7].text",
+   "Farm Boy ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60328/options[8].text",
+   "Farm Boy ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60328/options[9].text",
+   "Farm Boy ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60385/whatIHaveToSay[0]",
+   "job",
+   "I am a farm hand of course, like most folk are. Though, lately I have been teaching myself engraving. I find it much more satisfying than harvesting grain or feeding animals. One day, I hope to make a business of it.",
+   "我当然是农户帮工，和大多数人一样。不过近来我一直在自学铭刻。我觉得它比收割谷物或喂养牲口令人满足得多。总有一天，我希望能靠它谋生。"
+  ],
+  [
+   "res#60542/whatIHaveToSay[0]",
+   "Lannon",
+   "Are you in search of stable work? Ah? Ah? See what I did there? Really though, we could use someone for the stables. The horses don't seem to trust anyone anymore.",
+   "你是在找「马厩」的活吗？啊？啊？懂我的幽默了吗？说真的，我们的马厩缺个人手。那些马似乎谁都不信了。"
+  ],
+  [
+   "res#60568/whatIHaveToSay[0]",
+   "book",
+   "I have not heard of it, no.",
+   "这个我没听过，没有。"
+  ],
+  [
+   "res#60632/whatIHaveToSay[0]",
+   "Shione",
+   "Though I am tempted to say we have little use for music when there are mouths to feed, this cannot be further fom the truth. A full stomach and no joy is not a life.",
+   "虽说我差点就说出「饭都吃不上的时候要音乐何用」这种话——这话再错不过了。吃饱肚子却没有欢乐，那不叫生活。"
+  ],
+  [
+   "res#60671/whatIHaveToSay[0]",
+   "silver",
+   "A song says that the moon Miala rained down its tears upon the world, giving us silver. It gave this gift as it died. It remains split nearly down the middle.\n\nIf a moon can be alive, I would think Miala still is. Just... wounded.",
+   "有首歌谣说，月亮的眼泪洒向人间——那是米亚拉，给了我们银。它在死去时留下了这份赠礼。如今它几乎从正中裂成两半。\n\n若月亮也能称之为活着，我想米亚拉还活着。只是……受了伤。"
+  ],
+  [
+   "res#60771/whatIHaveToSay[0]",
+   "Arbo",
+   "I could use someone like you to to help with rounding up sheep.",
+   "我正用得着像你这样的帮手，来帮忙把羊群赶拢。"
+  ],
+  [
+   "res#60809/whatIHaveToSay[0]",
+   "Scaphin",
+   "There is much that I know... about farming. Otherwise I fear I know very little. But what is required for my life to continue? Knowledge of strange beasts, or how to grow food?",
+   "要说务农……我懂的很多。其他方面，我怕就知之甚少了。可维持我的生活，真正需要的是什么？是了解奇异野兽的知识，还是如何种出粮食？"
+  ],
+  [
+   "res#60836/whatIHaveToSay[0]",
+   "Renault",
+   "Songs do tell of a great warrior by that name. A noble house, with a long lineage of heroes, many of whom have had songs crafted in their honor. Could it be that he lived in such a simple town?",
+   "歌谣里确实唱过一位同名的伟大战士。一个高贵的家族，英雄血脉绵长，许多人的事迹都被谱成了歌。他当真住在这样一个简朴的小镇里？"
+  ],
+  [
+   "res#60836/whatIHaveToSay[1]",
+   "Renault",
+   "It would not surprise me, for I have often found great things in simple places. In fact, I reckon they are more likely to rise in such places. I cannot say why.",
+   "我不会觉得意外，因为我常在简朴之处发现伟大的事物。事实上，我认为伟大更可能自这种地方升起。说不上为什么。"
+  ],
+  [
+   "res#60869/whatIHaveToSay[0]",
+   "dark lord",
+   "That is an odd name. What if we were all named for how we look and what we do. I can just imagine, people with surnames like Smith, Tailor and... oh. Nevermind.",
+   "这名字真怪。要是我们都按长相和营生取名会怎样。我可以想象，有人姓铁匠、姓裁缝，还有……哦。算了。"
+  ],
+  [
+   "res#60872/whatIHaveToSay[0]",
+   "completedQuest",
+   "Amazing! The glyphs look so... vivid. This will surely help in my studies. I will sell the stones that I practice on.",
+   "太神奇了！这些符文看起来如此……生动。这对我的研究肯定大有帮助。我练习用的那些石头会拿去卖掉。"
+  ],
+  [
+   "res#60897/options[0].text",
+   "Woodcutter ***",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60897/options[10].text",
+   "Woodcutter ***",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60897/options[11].text",
+   "Woodcutter ***",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60897/options[12].text",
+   "Woodcutter ***",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60897/options[13].text",
+   "Woodcutter ***",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60897/options[14].text",
+   "Woodcutter ***",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "res#60897/options[15].text",
+   "Woodcutter ***",
+   "Tablet Of Glyphs",
+   "刻文石板"
+  ],
+  [
+   "res#60897/options[16].text",
+   "Woodcutter ***",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60897/options[17].text",
+   "Woodcutter ***",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60897/options[18].text",
+   "Woodcutter ***",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60897/options[19].text",
+   "Woodcutter ***",
+   "engraving",
+   "铭刻"
+  ],
+  [
+   "res#60897/options[1].text",
+   "Woodcutter ***",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60897/options[2].text",
+   "Woodcutter ***",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60897/options[3].text",
+   "Woodcutter ***",
+   "book",
+   "书"
+  ],
+  [
+   "res#60897/options[4].text",
+   "Woodcutter ***",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60897/options[5].text",
+   "Woodcutter ***",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60897/options[6].text",
+   "Woodcutter ***",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60897/options[7].text",
+   "Woodcutter ***",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60897/options[8].text",
+   "Woodcutter ***",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60897/options[9].text",
+   "Woodcutter ***",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60952/whatIHaveToSay[0]",
+   "onQuest",
+   "Thank you so much! I do not have the key to the library, unfortunately. I sincerely hope that you find a way in.",
+   "太感谢你了！可惜我没有图书馆的钥匙。我真心希望你能找到进去的办法。"
+  ],
+  [
+   "res#60978/whatIHaveToSay[0]",
+   "engraving",
+   "I like to carve symbols into stone in my free time. They have meaning to me. I am unsure why... it is like I know them personally. Surely this is what reading and writing was like.",
+   "闲暇时我喜欢在石头上雕刻符号。它们对我有意义。我也说不清为什么……仿佛我与它们相识已久。读书写字，想必就是这种感觉。"
+  ]
+ ]
+}

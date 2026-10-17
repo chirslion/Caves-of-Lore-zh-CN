@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/lorebook_awareness",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60467/whatIHaveToSay[0]",
+   "Start",
+   "\n\n\t\rThere are few birds in Solmaria as fantastic to behold as the cloaked abrigal. Do you want to find one? Of course you do! I am about to give you the tools you need to find one.\r\n\r",
+   "\n\n\t\r在索尔玛利亚，少有飞鸟能像披斗篷的阿布里加尔那样令人叹为观止。你想找到一只吗？当然想！我这就把寻找它的工具交给你。\r\n\r"
+  ],
+  [
+   "res#60467/whatIHaveToSay[1]",
+   "Start",
+   "\n<i>Identification</i>:\n\tBrown and gray alternating feathers along torso, ending brown at the tail. White head with black hood, orange beak and black throat. Wings extend the length of the body, black near the base, quickly changing to brown. Grey legs and feet.\r\n\r",
+   "\n<i>识别特征</i>：\n\t躯干羽毛棕灰相间，至尾部收为棕色。白色头部罩着黑色兜帽，橙色喙、黑色喉部。双翼与身等长，近根部为黑色，很快转为棕色。灰色腿与爪。\r\n\r"
+  ],
+  [
+   "res#60467/whatIHaveToSay[2]",
+   "Start",
+   "<i>Habitat</i>:\n\tBrushy lowlands and hills. Also, forest edges. Prefers tall grasses and shrubs, but will make a home in a tree if necessary. Spans inland areas from the northern peninsula to the central hills and plains.\r\n\r\n<i>Behaviours</i>:\n\tPrefers to stay clear of people and livestock. Disturbed by loud noises, and flees at human presence.\r\r",
+   "<i>栖息地</i>：\n\t灌丛遍布的低地与丘陵，也见于林缘。偏爱高草与灌木，必要时也会在树上筑巢。分布范围自北方半岛延伸至中部丘陵与平原。\r\n\r\n<i>习性</i>：\n\t偏好远离人与牲畜。受大声惊扰，见到人影即逃。\r\r"
+  ],
+  [
+   "res#60467/whatIHaveToSay[3]",
+   "Start",
+   "<i>Tips for finding</i>:\n\tOne might consider their colors too dull to be spotted, but this is not so. Begin by focusing on a singular color, such as brown. Bring all instances of that color into your mind. Dim the focus of your eyes slightly. You may find that certain colors become more pronounced and others diminished. Look for abnormalities. The abrigal will not move with you present so you cannot rely on movement.",
+   "<i>寻找要诀</i>：\n\t有人觉得它的羽色太素、难以发现，并非如此。先从单一颜色入手，比如棕色：在脑中记住这种颜色的所有样子，把目光稍稍放虚。你会发觉某些颜色变得更鲜明，另一些则淡去。这时再留意异常之处。阿布里加尔在你面前不会移动，所以别指望靠动静找它。"
+  ],
+  [
+   "res#60467/whatIHaveToSay[4]",
+   "Start",
+   "Look instead for patterns and patches of light and dark. If you notice something off, move your eyes to these areas and focus.\n\n\n\tCongratulations. You have begun your journey. With ten more years of training you may be lucky enough to spot one.\n\n\n\n",
+   "转而观察明暗的纹样与斑块。若察觉哪里不对劲，就把目光移过去、定住细看。\n\n\n\t恭喜。你的旅程已经起步。再练上十年，你也许就有幸见到一只了。\n\n\n\n"
+  ],
+  [
+   "res#60467/whatIHaveToSay[5]",
+   "Start",
+   "\n\tFor information on my abrigal seminar, please visit me at the palace garden at each sunrise. Your future awaits! An abrigal feather will be awarded each day to the first attendee.\n\nBrom Tallis, palace gardener for her majesty Queen Duin'pal of Elok'ora.\n\n",
+   "\n\t欲了解我的阿布里加尔研讨课，请于每日日出时来王宫花园寻我。你的未来在等你！每天第一位到场者，将获赠一枚阿布里加尔羽毛。\n\n布罗姆·塔利斯，埃洛克欧拉女王杜因帕尔陛下的王宫园丁。\n\n"
+  ]
+ ]
+}

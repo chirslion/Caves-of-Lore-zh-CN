@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "kind": "对话/IrikagFirstMeet",
+  "count": 11,
+  "with_cn": 11
+ },
+ "entries": [
+  [
+   "sa12#198/whatIHaveToSay[0]",
+   "Lannon",
+   "I suppose we shall have to leave for now.",
+   "看来我们只好先走了。"
+  ],
+  [
+   "sa12#201/whatIHaveToSay[0]",
+   "Irikag",
+   "No! You no enter! This my hoard!",
+   "不！你不许进！这是伊里卡格的财宝！"
+  ],
+  [
+   "sa12#206/whatIHaveToSay[0]",
+   "Lannon",
+   "We did not come for your hoard. Please, let us pass.",
+   "我们不是冲你的财宝来的。请让我们过去。"
+  ],
+  [
+   "sa12#224/whatIHaveToSay[0]",
+   "Merewen",
+   "What a troublesome creature.",
+   "真是个麻烦的家伙。"
+  ],
+  [
+   "sa12#240/whatIHaveToSay[0]",
+   "Shione",
+   "I think he's just adorable. Look at the ears!",
+   "我觉得他太可爱了。看那对耳朵！"
+  ],
+  [
+   "sa12#245/whatIHaveToSay[0]",
+   "Bhulown",
+   "Goblin never believe. Only seek treasure.",
+   "哥布林从不相信人。只找财宝。"
+  ],
+  [
+   "sa12#246/whatIHaveToSay[0]",
+   "Irikag",
+   "Good. No return, except  bestow treasure upon Irikag.",
+   "好。别再回来，除非把财宝赏给伊里卡格。"
+  ],
+  [
+   "sa12#251/whatIHaveToSay[0]",
+   "Irikag",
+   "What!!? Irikag no adorable. Irikag greedy. Give to Irikag or go.",
+   "什么！！？伊里卡格不可爱。伊里卡格贪婪。给伊里卡格，不然就走。"
+  ],
+  [
+   "sa12#28/whatIHaveToSay[0]",
+   "Irikag",
+   "Irikag not believe you.",
+   "伊里卡格不信你。"
+  ],
+  [
+   "sa12#40/whatIHaveToSay[0]",
+   "Dimas",
+   "I understand little guy. I really do.",
+   "我懂，小家伙。我真的懂。"
+  ],
+  [
+   "sa12#65/whatIHaveToSay[0]",
+   "Rycard",
+   "Perhaps there is another way around.",
+   "也许还有别的路可以绕。"
+  ]
+ ]
+}

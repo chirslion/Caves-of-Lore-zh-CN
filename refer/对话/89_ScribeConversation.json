@@ -1,0 +1,441 @@
+{
+ "meta": {
+  "kind": "对话/ScribeConversation",
+  "count": 72,
+  "with_cn": 72
+ },
+ "entries": [
+  [
+   "res#59702/whatIHaveToSay[0]",
+   "keystone",
+   "I wonder if there is symbology in it being a keystone. I see no reason it should look like any kind of stone in particular. Perhaps it acts as a key of some sort.",
+   "我一直在想，它被称作「拱心石」，是不是别有寓意。我看不出它为什么非得像某种特定的石头。也许它是某种钥匙。"
+  ],
+  [
+   "res#59702/whatIHaveToSay[1]",
+   "keystone",
+   "Callor is always digging up strange things. You should talk to him. He is usually at the dig site west of here.",
+   "卡洛尔总在挖出奇怪的东西。你该找他谈谈。他通常在往西的发掘点。"
+  ],
+  [
+   "res#59705/whatIHaveToSay[0]",
+   "Kalindraur",
+   "When we arrived, it was empty. It must have served its purpose. Now it is needed again. I pray that we do not need to stay here much longer. I miss the sun.",
+   "我们来的时候，它是空的。它想必曾完成过使命。如今它又被需要了。我祈祷我们不必在这里待太久。我想念太阳。"
+  ],
+  [
+   "res#59746/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Strength itself is not noble, but a will to use it for good is a powerful force. I am glad to be in this with you.",
+   "力量本身无所谓高尚，但以力量行善的意志，是一股强大的力量。很高兴与你并肩。"
+  ],
+  [
+   "res#59784/whatIHaveToSay[0]",
+   "graveyard",
+   "We have cleaned this shelter a great deal. However... it was not unlike a graveyard when we arrived. I did not enjoy the experience of cleaning it out.",
+   "我们把这处庇护所大大清理了一番。不过……我们来时，它跟墓地也差不了多少。清理它的过程，我并不好受。"
+  ],
+  [
+   "res#59784/whatIHaveToSay[1]",
+   "graveyard",
+   "Some of the bodies had to be tossed into the abyss. I do hope that our actions will not be seen as desecration, but rather necessity. It still haunts my dreams.",
+   "有些遗体不得已扔进了深渊。我真希望我们的所为不被视为亵渎，而是无奈之举。它至今仍萦绕我的梦。"
+  ],
+  [
+   "res#59832/whatIHaveToSay[0]",
+   "Emerisk",
+   "The town above us; a fine town it is. Full of mostly good people. At least, that is my memory of it. I do not even know if I lived there, to be honest. I barely remember finding my way here. I would not have, if it weren't for Naira.",
+   "我们上方的镇子，是个好镇子。大多是好人。至少，我的记忆如此。老实说，我甚至不知道自己是否住过那里。我勉强记得自己找到这里。要不是奈拉，我根本来不了。"
+  ],
+  [
+   "res#59884/whatIHaveToSay[0]",
+   "caves",
+   "A wealth of knowledge lies here. I do not mean only in this shelter, but even in the winding depths. Much history has transpired here, and Callor and I are determined to unearth whatever we can.",
+   "这里藏着丰厚的知识。我说的不只是这处庇护所，还有那些蜿蜒的深处。无数历史在此上演，我和卡洛尔决心能挖多少就挖多少。"
+  ],
+  [
+   "res#59906/whatIHaveToSay[0]",
+   "Codex",
+   "The Codex is something ancient and powerful. I do not understand where it came from or who wrote it, but Naira has some theories. Perhaps it turns words into power. This would explain how the books you find react to it.",
+   "典籍是古老而强大的东西。我不明白它从何而来、由谁写就，但奈拉有些猜想。也许它能把文字化为力量。这就能解释你找到的那些书为何会与它产生反应。"
+  ],
+  [
+   "res#59906/whatIHaveToSay[1]",
+   "Codex",
+   "I wonder, could it be used to determine if something is false?",
+   "我在想，能不能用它来判断某物是否为假？"
+  ],
+  [
+   "res#59950/whatIHaveToSay[0]",
+   "Rycard",
+   "I wonder how long you were down here. Time loses meaning when your memories begin to fade.",
+   "不知道你在这下面待了多久。当记忆开始消褪，时间就失去了意义。"
+  ],
+  [
+   "res#59962/whatIHaveToSay[0]",
+   "energy",
+   "Below this place lies a vast reservoir of energy. We do not know its exact nature, but it does not appear to be good.\n\nOne of the obelisks in this place, the one near the place you entered from, draws energy from it. I have seen Kazimar use it to summon evil creatures, which he quickly disposes of.",
+   "这地方之下，蓄着巨大的能量。我们不知道它的确切性质，但它似乎并非善物。\n\n此地的一座方尖碑——就是你进来那处附近的那座——从中汲取能量。我见过卡齐玛尔用它召唤邪恶生物，再迅速处理掉。"
+  ],
+  [
+   "res#59988/whatIHaveToSay[0]",
+   "corundum",
+   "It does not sound familiar, but if it is a real thing it can likely be found here.",
+   "听着不耳熟，但若它真实存在，多半能在这里找到。"
+  ],
+  [
+   "res#60038/whatIHaveToSay[0]",
+   "Agmarians",
+   "I have read of these in our library here. They are some kind of serpent men. A creation of the dark lord, one might think, but this is not so. They appear to be as old as mankind, or older. The things I could learn from them... assuming they are not also afflicted by this curse.",
+   "我在这里的藏书中读到过他们。他们是某种蛇人。有人或许以为他们是黑暗领主的造物，但并非如此。他们似乎与人类同样古老，甚至更古老。我能从他们身上学到的东西……前提是他们没有被这诅咒波及。"
+  ],
+  [
+   "res#60085/whatIHaveToSay[0]",
+   "Goblins",
+   "I have read of these. They are ancient, but not as ancient as mankind. I believe they were created by the dark lord. His power still lingers in these caves. Will we ever be rid of him?",
+   "这些我读到过。他们古老，但不如人类古老。我相信他们是黑暗领主，创造的。他的力量仍盘踞在这些洞穴里。我们真能摆脱他吗？"
+  ],
+  [
+   "res#60097/whatIHaveToSay[0]",
+   "moons",
+   "I do not even remember what they look like... but my research has led me to tales of moongates; bridges between Solmaria and the moons.",
+   "我甚至不记得它们的样子了……可我的研究把我引向了关于「月之门」的传说；那是索尔玛利亚与众月之间的桥梁。"
+  ],
+  [
+   "res#60097/whatIHaveToSay[1]",
+   "moons",
+   "Supposedly, they open only when a moon is up, and fade in the light. They cannot be approached with a torch or lantern or in sun, or they will vanish. I wish I knew more.",
+   "据说，它们只在月亮升起时开启，又会在光中消隐。带着火把或灯笼、或在日光下，都无法接近它们——否则它们就会消失。我真希望能知道更多。"
+  ],
+  [
+   "res#60135/whatIHaveToSay[0]",
+   "Merewen",
+   "When you have time I would be interested in recording your experiences in this cave.",
+   "等你有空，我很想把你在这洞穴里的经历记录下来。"
+  ],
+  [
+   "res#60179/whatIHaveToSay[0]",
+   "book",
+   "As a scribe, I am a student of writing. I feel as though I have taken the brunt of this calamity, from a professional perspective.",
+   "身为书记官，我是研习文字的人。从职业的角度说，我感觉这场灾变对我的打击尤其沉重。"
+  ],
+  [
+   "res#60190/whatIHaveToSay[0]",
+   "dreams",
+   "I have been having strange dreams. I am falling into the abyss below. The air is thick and murky. Water cascades all around me. And I hear someone from above calling to me. Fundas! Fundas!",
+   "我近来总做奇怪的梦。我坠入下方的深渊。空气浑浊浓稠。水在我四周倾泻。我还听见有人在上面呼唤我。芬达斯！芬达斯！"
+  ],
+  [
+   "res#60190/whatIHaveToSay[1]",
+   "dreams",
+   "I fear that one of those old skeletons we tossed over the edge now haunts me.",
+   "我担心，是我们扔下深渊的某具旧骸骨，现在缠上了我。"
+  ],
+  [
+   "res#60315/whatIHaveToSay[0]",
+   "fog",
+   "We do not yet understand it, and that frightens me. Something with the power to rob us of our memories, perhaps? It gives me the shivers.",
+   "我们尚未理解它，这让我害怕。也许，它是某种能夺走我们记忆的东西？一想到就让我发颤。"
+  ],
+  [
+   "res#60344/options[0].text",
+   "Scribe ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60344/options[1].text",
+   "Scribe ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60344/options[2].text",
+   "Scribe ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60344/options[3].text",
+   "Scribe ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60344/options[4].text",
+   "Scribe ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60344/options[5].text",
+   "Scribe ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60344/options[6].text",
+   "Scribe ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60344/options[7].text",
+   "Scribe ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60344/options[8].text",
+   "Scribe ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60344/options[9].text",
+   "Scribe ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60401/whatIHaveToSay[0]",
+   "job",
+   "I am a scribe. I record things for posterity. I am certain that one day all of this will be read in stories. Yes, I am certain that we will succeed... now that you are here.",
+   "我是书记官。我为后世记录一切。我确信，总有一天，这一切会被当作故事来读。是的，我确信我们会成功……既然你们来了。"
+  ],
+  [
+   "res#60401/whatIHaveToSay[1]",
+   "job",
+   "I also sell the occasional trinket.",
+   "我也偶尔卖些小玩意儿。"
+  ],
+  [
+   "res#60558/whatIHaveToSay[0]",
+   "Lannon",
+   "It is good to find others who can read. For me, the hardest part of this calamity may be my intellectual isolation.\n\nI don't mean to say that others are not smart. Only that they have lost what they once had.",
+   "能遇到其他识字的人，真好。对我来说，这场灾变最难受的也许是智识上的孤独。\n\n我不是说别人不聪明。只是他们失去了曾经拥有的东西。"
+  ],
+  [
+   "res#60578/whatIHaveToSay[0]",
+   "dark lord",
+   "There are writings, but most of them are lost. Time is not kind to manuscripts. If only we had a way to preserve things for longer.",
+   "有文字记载，但大多已散失。时间对文稿并不仁慈。要是我们有办法把东西保存得更久就好了。"
+  ],
+  [
+   "res#60578/whatIHaveToSay[1]",
+   "dark lord",
+   "I suppose we could go back to carving on stones.",
+   "我看，大不了退回去把字刻在石头上。"
+  ],
+  [
+   "res#60591/whatIHaveToSay[0]",
+   "librarian",
+   "If she knows something then we must find her at all costs. We believe the book to be the key to ending this madness... somehow.",
+   "若她知道些什么，我们必须不惜代价找到她。我们相信那本书，是终结这场疯狂的关键……不管以什么方式。"
+  ],
+  [
+   "res#60591/whatIHaveToSay[1]",
+   "librarian",
+   "If she has perished it will be up to Callor and I to find whatever we can in the ruins. There is also the library in town. Perhaps there is something of use there.",
+   "若她已经不在，就轮到我和卡洛尔在废墟里尽力搜寻了。镇上还有那座图书馆。也许那里有可用的东西。"
+  ],
+  [
+   "res#60608/whatIHaveToSay[0]",
+   "Bhulown",
+   "Your presence here is proof of theories long held. Outward appearance is deceiving, as always.",
+   "你的出现，印证了长久以来的猜想。外表从来都会骗人。"
+  ],
+  [
+   "res#60651/whatIHaveToSay[0]",
+   "Laszra",
+   "#, old friend. You always did have a stone cold sense of humor.",
+   "#，老朋友。你那一手石头般的冷幽默，从不曾变过。"
+  ],
+  [
+   "res#60681/whatIHaveToSay[0]",
+   "silver",
+   "These caves are full of it, but I am not an expert in metals. Occasionally I will find something made from it. I give some of the artifacts I find to others down here, but they become lost again when those people venture out of our shelter and do not return.",
+   "这些洞穴，满是它——但我不是金属的行家。偶尔我会挖到用它制成的器物。找到的一些古器，我会分给下面的其他人；可等他们出了我们的庇护所一去不回，这些东西又散失了。"
+  ],
+  [
+   "res#60743/whatIHaveToSay[0]",
+   "Airendal",
+   "You are a fairy, yes? I have worked with your kind before. But I cannot recall any more about it. Though much of my memory is retained I still lost many precious things.",
+   "你是妖精，对吗？我曾与你的族人共事过。可再多就想不起来了。虽说我的记忆保住了大半，仍丢失了许多珍贵的东西。"
+  ],
+  [
+   "res#60787/whatIHaveToSay[0]",
+   "Arbo",
+   "For an animal you are quite intelligent. I wonder... has the calamity affected you as well, or do you remember everything?",
+   "作为动物，你相当聪明。我在想……灾变是否也影响了你，还是你什么都记得？"
+  ],
+  [
+   "res#60819/whatIHaveToSay[0]",
+   "Scaphin",
+   "They are not what I would call a noble race, though that sounds rather arrogant now that I say it. A creation of the dark lord likely... I cannot say for sure. Perhaps I should hold my tongue. Judgement of an entire race is unwise, creation of the dark lord or not.",
+   "他们称不上什么高贵的种族——不过这话说出来，我自己都觉得傲慢。多半是黑暗领主的造物……我不能肯定。也许我该闭嘴。对一整个种族下判断，是不明智的，不管他们是不是黑暗领主的造物。"
+  ],
+  [
+   "res#60852/whatIHaveToSay[0]",
+   "Renault",
+   "A Renault built this place that we now occupy. To what end we are not entirely sure. It has power, like the book. It is likely the two are linked, somehow.",
+   "我们现在占据的这地方，是一位雷诺建造的。目的为何，我们还不能完全确定。它蕴含着力量，那本书也是。两者多半有某种关联。"
+  ],
+  [
+   "res#60852/whatIHaveToSay[1]",
+   "Renault",
+   "The Renault family is still around. There may even be descendants in Emerisk.",
+   "雷诺家族如今仍在。埃梅里斯克，甚至可能就有他们的后裔。"
+  ],
+  [
+   "res#60868/whatIHaveToSay[0]",
+   "Dimas",
+   "You are not from this land, I can tell. Your clothing stirs my memory, but I cannot keep the thoughts in place.",
+   "看得出，你不是本地人。你的衣着搅动了我记忆里的什么，可那些念头留不住。"
+  ],
+  [
+   "res#60913/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60913/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60913/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60913/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60913/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60913/options[14].text",
+   "Isobel Warde",
+   "dreams",
+   "梦"
+  ],
+  [
+   "res#60913/options[15].text",
+   "Isobel Warde",
+   "energy",
+   "能量"
+  ],
+  [
+   "res#60913/options[16].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60913/options[17].text",
+   "Isobel Warde",
+   "moons",
+   "月亮"
+  ],
+  [
+   "res#60913/options[18].text",
+   "Isobel Warde",
+   "moongates",
+   "月之门"
+  ],
+  [
+   "res#60913/options[19].text",
+   "Isobel Warde",
+   "keystone",
+   "拱心石"
+  ],
+  [
+   "res#60913/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60913/options[20].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60913/options[21].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60913/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60913/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60913/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60913/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60913/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60913/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60913/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60913/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60998/whatIHaveToSay[0]",
+   "Shione",
+   "Play me something, please. It has been.... I do not even know how long... since I last heard music.",
+   "请为我演奏一曲。我上一次听到音乐……我甚至不知道是多久以前了。"
+  ],
+  [
+   "res#61000/whatIHaveToSay[0]",
+   "moongates",
+   "I wish I knew more. They are bridges of some kind. They can only be seen in moonlight, and where moonlight can touch. Even the light of a torch will snuff them out.",
+   "我真希望能知道更多。它们是某种桥梁。只在月光中、月光能及之处才得见。哪怕火把的光，也会把它们熄灭。"
+  ]
+ ]
+}

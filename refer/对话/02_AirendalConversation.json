@@ -1,0 +1,369 @@
+{
+ "meta": {
+  "kind": "对话/AirendalConversation",
+  "count": 60,
+  "with_cn": 60
+ },
+ "entries": [
+  [
+   "sa0#10660/whatIHaveToSay[0]",
+   "Kalindraur",
+   "It protects. Ancient power is there. Darkness cannot remain there.",
+   "它在守护。古老的力量就在那里。黑暗无法久留。"
+  ],
+  [
+   "sa0#10662/whatIHaveToSay[0]",
+   "librarian",
+   "Master... no longer. Her face fades from memory.",
+   "主人……已不再是了。她的面容正从记忆中褪去。"
+  ],
+  [
+   "sa0#10672/whatIHaveToSay[0]",
+   "dimension",
+   "Fae are connected to many. We see them. We travel through them... but not fully. They are like a breeze. It cools us, yet we know not where it came from or where it goes.",
+   "妖精与许多「门」相连。我们看得见它们，也穿行其间……却并非全然。它们如微风：拂过带来凉意，我们却不知它从何而来、往何而去。"
+  ],
+  [
+   "sa0#10673/whatIHaveToSay[0]",
+   "graveyard",
+   "Spirits live there. Spirits seek to inhabit... flesh, stone. They are not the dead, yet give life to the dead.",
+   "灵体住在那里。灵体渴望寄居……血肉、石头。它们不是死者，却能让死者复苏。"
+  ],
+  [
+   "sa0#10690/whatIHaveToSay[0]",
+   "Emerisk",
+   "This is Emerisk. Emerisk is ancient. Emerisk has roots. You live in the crown. You cannot see the trunk or roots.",
+   "这里是埃梅里斯克。埃梅里斯克很古老。埃梅里斯克有根，而你们住在树冠上——看不见树干，也看不见根。"
+  ],
+  [
+   "sa0#10699/whatIHaveToSay[0]",
+   "Dimas",
+   "You like things that shine yes? You like me as well?",
+   "你喜欢闪闪亮的东西，对吧？那你也喜欢我咯？"
+  ],
+  [
+   "sa0#10712/whatIHaveToSay[0]",
+   "Laszra",
+   "It is good to see you again. You remain unchanged, as expected.",
+   "很高兴再见到你。你一如所料，毫无变化。"
+  ],
+  [
+   "sa0#10713/whatIHaveToSay[0]",
+   "Airendal",
+   "Master entered them and did not return. The bond is weak, yet remains... # is free to serve again. # has been released.",
+   "主人进入了那些「门」，再未归来。契约虽微弱，却仍在……# 可以重新自由效力了。# 已被释放。"
+  ],
+  [
+   "sa0#10719/whatIHaveToSay[0]",
+   "manatite",
+   "It is more than you think. Fae did not have such a thing in ancient times.",
+   "它比你以为的更不凡。上古之时，妖精并没有这样的东西。"
+  ],
+  [
+   "sa0#10729/whatIHaveToSay[0]",
+   "Airendal",
+   "# feels compelled to serve. And yet, # provides company instead of service. What is this thing?",
+   "# 感到不得不效力。然而，# 给出的却是陪伴，而非效力。这是什么东西？"
+  ],
+  [
+   "sa0#10734/whatIHaveToSay[0]",
+   "book",
+   "Fae do not write them. We pass memories. Rarely forget.",
+   "妖精不写书。我们传递记忆，几乎从不遗忘。"
+  ],
+  [
+   "sa0#10742/whatIHaveToSay[0]",
+   "Rycard",
+   "Your fate is... uncertain.",
+   "你的命运……难以预料。"
+  ],
+  [
+   "sa0#10754/whatIHaveToSay[0]",
+   "Codex",
+   "You have it. You have seen Master? ...",
+   "你拿到了它。你见过主人吗？……"
+  ],
+  [
+   "sa0#10760/whatIHaveToSay[0]",
+   "corundum",
+   "Powerful ore. Fae do not fear.",
+   "强大的矿石。妖精并不畏惧。"
+  ],
+  [
+   "sa0#10765/whatIHaveToSay[0]",
+   "Airendal",
+   "# senses loyalty. # understand this.",
+   "# 感知到忠诚。# 明白这一点。"
+  ],
+  [
+   "sa0#10783/whatIHaveToSay[0]",
+   "Agmarians",
+   "Good folk. Evil folk. Like men, either may be true. Have caution.",
+   "有善族，也有恶族。就像人类一样，两者皆有可能。要当心。"
+  ],
+  [
+   "sa0#10797/whatIHaveToSay[0]",
+   "Goblins",
+   "Vile things. Eat fae. Not like Agmarians.",
+   "丑恶的东西。吃妖精。不像阿格玛人。"
+  ],
+  [
+   "sa0#10815/whatIHaveToSay[0]",
+   "Airendal",
+   "You return? # will serve. ... no, you are someone else.",
+   "你回来了？# 将为效力……不，你是另一个人。"
+  ],
+  [
+   "sa0#10826/whatIHaveToSay[0]",
+   "Airendal",
+   "#. Fae. We serve, or we go mad. Many have gone mad now. Few left to serve.",
+   "#。妖精。我们要么效力，要么发疯。如今许多已经疯了，能效力的人所剩无几。"
+  ],
+  [
+   "sa0#10838/whatIHaveToSay[0]",
+   "Shione",
+   "Music is universal language. For fae, it is one of our primary ones.",
+   "音乐是通用的语言。对妖精而言，它更是我们最本初的语言之一。"
+  ],
+  [
+   "sa0#11301/whatIHaveToSay[0]",
+   "Airendal",
+   "Enter not, if you see it. Your mind will be broken. # can enter, for # cannot even see it. # is different.  # is Fae.",
+   "若你见到它，切勿进入。你的心智会被碾碎。# 能进去，因为 # 连看都看不见它。# 与众不同——# 是妖精。"
+  ],
+  [
+   "sa0#11309/options[0].text",
+   "Airendal",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11309/options[1].text",
+   "Airendal",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11309/options[2].text",
+   "Airendal",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11309/options[3].text",
+   "Airendal",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11309/options[4].text",
+   "Airendal",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11309/options[5].text",
+   "Airendal",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11309/options[6].text",
+   "Airendal",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11309/options[7].text",
+   "Airendal",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11309/options[8].text",
+   "Airendal",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11309/options[9].text",
+   "Airendal",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11377/whatIHaveToSay[0]",
+   "Airendal",
+   "# will serve. We are made to serve.",
+   "# 将效力。我们生来便是为了效力。"
+  ],
+  [
+   "sa0#11524/whatIHaveToSay[0]",
+   "Airendal",
+   "You are different. Perhaps # will serve.",
+   "你不一样。也许 # 愿意效力。"
+  ],
+  [
+   "sa0#11558/whatIHaveToSay[0]",
+   "Airendal",
+   "Your kind is misunderstood. Gentle, mild, if not provoked. You make good companion.",
+   "你的族类被误解了。不招惹它们，便温顺和善。你是好伙伴。"
+  ],
+  [
+   "sa0#11575/whatIHaveToSay[0]",
+   "silver",
+   "Dangerous. Fae do not fear.",
+   "危险。但妖精不怕。"
+  ],
+  [
+   "sa0#11631/whatIHaveToSay[0]",
+   "Arbo",
+   "Woof, ruff... bark, bark!\n\nArooO!!",
+   "汪，嗷呜……汪！汪！\n\n嗷呜呜——！！"
+  ],
+  [
+   "sa0#11644/whatIHaveToSay[0]",
+   "Scaphin",
+   "Eat fae. Like Goblins. Their king will bargain.",
+   "吃妖精，像哥布林。它们的国王愿意谈条件。"
+  ],
+  [
+   "sa0#11651/whatIHaveToSay[0]",
+   "Airendal",
+   "Maker of Kalindraur, in part. There was another. # does not know who.",
+   "卡林德劳尔，我也算它的建造者之一。还有另一位——# 不知是谁。"
+  ],
+  [
+   "sa0#11666/whatIHaveToSay[0]",
+   "dark lord",
+   "Not all corruption can be blamed on a single creature. Evil is not a monolith. It can take many forms. All races have ancient foes.",
+   "并非所有腐化都能归咎于某一个存在。邪恶并非铁板一块，它可以有许多形态。每个种族都有自己的宿敌。"
+  ],
+  [
+   "sa0#11672/options[0].text",
+   "Airendal",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11672/options[10].text",
+   "Airendal",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11672/options[11].text",
+   "Airendal",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11672/options[12].text",
+   "Airendal",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11672/options[13].text",
+   "Airendal",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11672/options[14].text",
+   "Airendal",
+   "blue light",
+   "蓝光"
+  ],
+  [
+   "sa0#11672/options[15].text",
+   "Airendal",
+   "serve",
+   "效力"
+  ],
+  [
+   "sa0#11672/options[16].text",
+   "Airendal",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11672/options[17].text",
+   "Airendal",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11672/options[18].text",
+   "Airendal",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#11672/options[19].text",
+   "Airendal",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11672/options[1].text",
+   "Airendal",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11672/options[2].text",
+   "Airendal",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11672/options[3].text",
+   "Airendal",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11672/options[4].text",
+   "Airendal",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11672/options[5].text",
+   "Airendal",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11672/options[6].text",
+   "Airendal",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11672/options[7].text",
+   "Airendal",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11672/options[8].text",
+   "Airendal",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11672/options[9].text",
+   "Airendal",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#11694/whatIHaveToSay[0]",
+   "serve",
+   "Fae must serve, or go mad. You cannot be served. None of you can.\n\nPerhaps... to serve a common goal would be enough. It has never been done.",
+   "妖精必须效力，否则就会发疯。而你们无法被效力。你们谁都做不到。\n\n也许……为一个共同的目标效力，便已足够。这还从未有人试过。"
+  ]
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "kind": "对话/BastillereAfter",
+  "count": 11,
+  "with_cn": 11
+ },
+ "entries": [
+  [
+   "sa17#101/whatIHaveToSay[0]",
+   "Merewen",
+   "Jokes, at a time like this?",
+   "都这时候了，还开玩笑？"
+  ],
+  [
+   "sa17#26/whatIHaveToSay[0]",
+   "Rycard",
+   "Whatever that was, we won.",
+   "不管那是什么，我们赢了。"
+  ],
+  [
+   "sa17#32/whatIHaveToSay[0]",
+   "Merewen",
+   "Peace at last. That nagging voice is finally gone.",
+   "终于平静了。那个聒噪的声音总算消失了。"
+  ],
+  [
+   "sa17#4/whatIHaveToSay[0]",
+   "Lannon",
+   "The crystal remains intact. I wonder who it is in there.",
+   "水晶依然完好。我好奇里面是谁。"
+  ],
+  [
+   "sa17#64/whatIHaveToSay[0]",
+   "Lannon",
+   "I no longer hear that name in the air.",
+   "空气中再也听不到那个名字了。"
+  ],
+  [
+   "sa17#72/whatIHaveToSay[0]",
+   "Rycard",
+   "I wish I could say the same...",
+   "我希望我也能这么说……"
+  ],
+  [
+   "sa17#79/whatIHaveToSay[0]",
+   "Bhulown",
+   "So many creature with no bone. Strange world.",
+   "这么多没骨头的生物。奇怪的世界。"
+  ],
+  [
+   "sa17#89/whatIHaveToSay[0]",
+   "Shione",
+   "It is times like this that levity can raise one's spirits when all else fails. Perhaps a song then?",
+   "正是这种时候，当一切都不管用了，一点轻快还能提提精神。那么，来首歌？"
+  ],
+  [
+   "sa17#92/whatIHaveToSay[0]",
+   "Dimas",
+   "Another foe defeated.",
+   "又一个敌人倒下了。"
+  ],
+  [
+   "sa17#97/whatIHaveToSay[0]",
+   "Dimas",
+   "Now for the treasure!",
+   "现在，该去找宝藏了！"
+  ],
+  [
+   "sa17#99/whatIHaveToSay[0]",
+   "Airendal",
+   "Perhaps we are victorious, but that rift did not come from that creature. Quite the other way I am afraid.",
+   "也许我们胜利了，可那道裂隙并非来自那个生物。恐怕恰恰相反。"
+  ]
+ ]
+}

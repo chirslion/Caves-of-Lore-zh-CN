@@ -1,0 +1,39 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_purification_text",
+  "count": 5,
+  "with_cn": 5
+ },
+ "entries": [
+  [
+   "res#60456/whatIHaveToSay[0]",
+   "Start",
+   "<i>Leunamar's Blessing\r</i>\n\r\n\tLeunamar is light, words of truth and remaking. In these things we understand ourselves, for we are Leunamar's Gift.\n\r",
+   "<i>卢纳玛尔的赐福\r</i>\n\r\n\t卢纳玛尔是光，是真实之言，是重塑。在这些事物中，我们认识了自己，因为我们是卢纳玛尔的赠礼。\n\r"
+  ],
+  [
+   "res#60456/whatIHaveToSay[1]",
+   "Start",
+   "\tLight fills shadow. The sun gives this light and Miala, Gammon and  Tethrys reflect it. The one who makes the light desires that which is hidden to be known, and that which was lost to be found.\n\n\tEmbrace the Light of Leunamar and you will be found.",
+   "\t光充满阴影。太阳发出光，而米亚拉、加蒙与泰丝瑞斯映照它。造光者愿隐秘之物为人所知，愿失落之物被寻回。\n\n\t拥抱卢纳玛尔之光，你便会被寻见。"
+  ],
+  [
+   "res#60456/whatIHaveToSay[2]",
+   "Start",
+   "\tTruth spoken drives away evil, for lies abound where the light cannot reach. In the shadows falsehood takes root. Though its roots go deep, its branches may receive the light and find the truth.\n\n\tHear the words that are spoken, and allow the light to find you.",
+   "\t说出的真理能驱走邪恶，因为光所不及之处，谎言滋生。虚妄在阴影里扎根。纵然其根扎得极深，它的枝条仍可承接光明，寻得真理。\n\n\t倾听被说出的言语，让光找到你。"
+  ],
+  [
+   "res#60456/whatIHaveToSay[3]",
+   "Start",
+   "\tThat which is broken can be mended. The light illuminates the vessel, and the truth reveals its cracks. Not all of them are on the outside, yet all are in need. The vessel shall not be thrown away, but rather made new. It was not idly made, nor will it be cast away idly. The light illuminates for such a purpose as this, and the words we hear say 'mend'. Let this truth be manifested in the vessel.\r\n\n\tEmbrace the mending, and become something new.",
+   "\t破碎之物可以修好。光映照器皿，真理揭示其裂痕。并非所有裂痕都在外面，但所有裂痕都需要修补。器皿不应被丢弃，而应焕然一新。它并非徒然成形，也不会被徒然抛却。光正是为此而照耀，我们听到的话语说着「修补」。让这真理在器皿中显现。\r\n\n\t拥抱修补，成为全新的存在。"
+  ],
+  [
+   "res#60456/whatIHaveToSay[4]",
+   "Start",
+   "\n\tAnd this is the Blessing of Leunamar, that like the moons you may reflect the light of Leunamar.",
+   "\n\t这便是卢纳玛尔的赐福：愿你们如众月一般，映照卢纳玛尔之光。"
+  ]
+ ]
+}

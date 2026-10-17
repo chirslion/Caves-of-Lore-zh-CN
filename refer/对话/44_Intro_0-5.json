@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/Intro 0-5",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "sa0#11345/whatIHaveToSay[0]",
+   "Dog",
+   "*whimper*",
+   "*呜咽*"
+  ],
+  [
+   "sa0#11372/whatIHaveToSay[0]",
+   "Wanderer",
+   "Come on, we'll find a way out together.",
+   "来吧，我们一起找出去的路。"
+  ],
+  [
+   "sa0#11398/whatIHaveToSay[0]",
+   "Wanderer",
+   "I'm lost too. In fact, I feel like I've been lost for a long time.",
+   "我也迷路了。其实，我觉得自己已经迷路很久了。"
+  ],
+  [
+   "sa0#11452/whatIHaveToSay[0]",
+   "Dog",
+   "*Woof! Woof!*",
+   "*汪！汪！*"
+  ],
+  [
+   "sa0#11489/whatIHaveToSay[0]",
+   "Wanderer",
+   "Hey boy. How long have you been down here?",
+   "嘿，伙计。你在这下面待多久了？"
+  ],
+  [
+   "sa0#11511/whatIHaveToSay[0]",
+   "Dog",
+   "*lick*",
+   "*舔你*"
+  ]
+ ]
+}

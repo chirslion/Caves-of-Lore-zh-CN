@@ -1,0 +1,303 @@
+{
+ "meta": {
+  "kind": "对话/InfoConversation",
+  "count": 49,
+  "with_cn": 49
+ },
+ "entries": [
+  [
+   "sa0#10644/whatIHaveToSay[0]",
+   "Laszra",
+   "Grettings, old one. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，长者。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#10649/whatIHaveToSay[0]",
+   "(SPI) Spirit",
+   "(SPI) Spirit:\n+ Spell Damage\n+ Mana Points (secondary)\n+ Resist Magic\n+ Determines max Spell Tier (if higher than MND)\n\nSkills:\n+ Music\n+ Identify\n+ Craft\n+ Hand to Hand Weapons",
+   "(SPI) 精神:\n+ 法术伤害\n+ 法力点（次要）\n+ 抗魔\n+ 决定法术阶级上限（若高于 MND）\n\n技能:\n+ 音乐\n+ 鉴定\n+ 制作\n+ 徒手武器"
+  ],
+  [
+   "sa0#10655/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Grettings, human. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，人类。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#10687/whatIHaveToSay[0]",
+   "The Moons",
+   "There are three moons rotating around Solmaria (your world). They appear in the upper right of the screen along with the sun. Each of them grants special properties and can activate secrets. This is revelaed slowly as you play, but you may continue for more information.",
+   "环绕索尔玛利亚（你的世界）有三轮月亮。它们与太阳一同出现在屏幕右上方。每一轮都赋予特殊的属性，并能激活种种秘密。这些会随着你的游玩慢慢揭示，你也可以继续询问以了解更多。"
+  ],
+  [
+   "sa0#10687/whatIHaveToSay[1]",
+   "The Moons",
+   "The white moon is Miala, The blue moon is Tethrys and the red moon is Gammon. There is a colored gem on the left side of the screen that will light up for each of these when they have risen or set.\t",
+   "白色的月亮是米亚拉，蓝色的是泰丝瑞斯，红色的是加蒙。屏幕左侧有一颗彩色宝石，当对应的月亮升起或落下时，它就会亮起。\t"
+  ],
+  [
+   "sa0#10696/whatIHaveToSay[0]",
+   "Nadir",
+   "When a moon reaches its Nadir (the lower part of the circle in the upper right), it is behind the world. At this position it loses influence on the world, which can have simialr effects to the Zenith.",
+   "当一轮月亮到达天底，（即右上圆圈中的下半部分）它便位于世界背后。在此位置，它对世界的影响会消退，其效果，与天顶相似。"
+  ],
+  [
+   "sa0#10741/whatIHaveToSay[0]",
+   "Bhulown",
+   "Grettings, scaphin. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，斯卡芬。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#10747/whatIHaveToSay[0]",
+   "Rycard",
+   "Grettings, human. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，人类。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#10770/whatIHaveToSay[0]",
+   "Dimas",
+   "Grettings, human. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，人类。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#10803/whatIHaveToSay[0]",
+   "(MND) Mind",
+   "(MND) Mind:\n+ Resisting Fear\n+ Resist Mind\n+ Mana Points (primary)\n+ Skill Points\n+ Learn Skills, Abilities and Spells Faster\n+ Determines max Spell Tier (if higher than SPI)\n\nSkills:\n+ Awareness\n+ Monster Lore\n+ Survival\n+ Disarm\n+ Identify\n+ Barter",
+   "(MND) 心智:\n+ 抵抗恐惧\n+ 抗心智\n+ 法力点（主要）\n+ 技能点\n+ 更快地学习技能、能力与法术\n+ 决定法术阶级上限（若高于 SPI）\n\n技能:\n+ 警觉\n+ 怪物学识\n+ 生存\n+ 卸除武器\n+ 鉴定\n+ 议价"
+  ],
+  [
+   "sa0#10820/whatIHaveToSay[0]",
+   "Merewen",
+   "Grettings, human. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，人类。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#10822/whatIHaveToSay[0]",
+   "(STR) Strength",
+   "(STR) Strength:\n+ Weapon Damage\n+ Resisting Physical\n+ Resisting Fear\n+ Hit Points (secondary)\n\n\nSkills:\n+ Hand-To-Hand Weapons\n+ One-Handed Weapons\n+ Two-Handed Weapons\n+ Ranged Weapons",
+   "(STR) 力量:\n+ 武器伤害\n+ 抵抗物理\n+ 抵抗恐惧\n+ 生命值（次要）\n\n\n技能:\n+ 徒手武器\n+ 单手武器\n+ 双手武器\n+ 远程武器"
+  ],
+  [
+   "sa0#10835/whatIHaveToSay[0]",
+   "(RES) Resistance",
+   "(RES) Resistance:\n+ Hit Points (primary)\n+ Willpower\n+ Resist Physical\n+ Resist Magic\n+ Defense\n\nSkills:\n+ Survival\n+ First Aid",
+   "(RES) 抗性:\n+ 生命值（主要）\n+ 意志力\n+ 抗物理\n+ 抗魔\n+ 防御\n\n技能:\n+ 生存\n+ 急救"
+  ],
+  [
+   "sa0#11296/whatIHaveToSay[0]",
+   "Setting",
+   "When a moon passes below the horizon, the corresponding gem on the left of the screen will go dark. This status can grants special bonuses, different from the Zenith and Nadir.",
+   "当一轮月亮沉到地平线之下，屏幕左侧对应的宝石便会熄灭。此状态可赋予不同于天顶与天底的特殊加成。"
+  ],
+  [
+   "sa0#11318/options[0].text",
+   "Feline Entity",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11318/options[1].text",
+   "Feline Entity",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11318/options[2].text",
+   "Feline Entity",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11318/options[3].text",
+   "Feline Entity",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11318/options[4].text",
+   "Feline Entity",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11318/options[5].text",
+   "Feline Entity",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11318/options[6].text",
+   "Feline Entity",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11318/options[7].text",
+   "Feline Entity",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11318/options[8].text",
+   "Feline Entity",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11318/options[9].text",
+   "Feline Entity",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11385/whatIHaveToSay[0]",
+   "Stats",
+   "Each character has 6 stats that determine how they interact with the world. They are:\n\n(STR) Strength\n(AGI) Agility\n(SPI) Spirit\n(MND) Mind\n(RES) Resistance\n(SPD) Speed\n\nPress the arrow to flip the page.",
+   "每个角色都有 6 项决定其与世界互动方式的属性。它们分别是：\n\n(STR) 力量\n(AGI) 敏捷\n(SPI) 精神\n(MND) 心智\n(RES) 抗性\n(SPD) 速度\n\n按箭头翻页。"
+  ],
+  [
+   "sa0#11385/whatIHaveToSay[1]",
+   "Stats",
+   "Stats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.",
+   "属性以倍率方式起作用，以 10 为基准。高于或低于这个值，都会使修正值每点变化 10%。从这个角度看，单点提升看似不多，实则会随着你的成长而按比例放大。"
+  ],
+  [
+   "sa0#11385/whatIHaveToSay[2]",
+   "Stats",
+   "Stats are hard to raise beyond your initial value, but it can be done temporarily through magic items and permanently through the occasional rare object.",
+   "属性很难突破初始值提升，但可以通过魔法物品临时提升，偶尔也能通过稀有物品永久提升。"
+  ],
+  [
+   "sa0#11533/whatIHaveToSay[0]",
+   "Lannon",
+   "Grettings, human. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，人类。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#11534/whatIHaveToSay[0]",
+   "(SPD) Speed",
+   "(SPD) Speed:\n+ Initiative\n+ Movement Rate\n+ To Hit\n+ Dodge\n\nSkills:\n+ Awareness\n+ Evasion\n+ First Aid\n+ Music",
+   "(SPD) 速度:\n+ 先攻\n+ 移动速度\n+ 命中\n+ 闪避\n\n技能:\n+ 警觉\n+ 回避\n+ 急救\n+ 音乐"
+  ],
+  [
+   "sa0#11536/whatIHaveToSay[0]",
+   "Greetings",
+   "Grettings, friend. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，朋友。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#11539/whatIHaveToSay[0]",
+   "(AGI) Agility",
+   "(AGI) Agility:\n+ To Hit\n+ Reflex\n+ Resist Mind\n+ Dodge\n\n\nSkills:\n+ Evasion\n+ Ranged Weapons\n+ Disarm\n+ Stealth\n+ Craft",
+   "(AGI) 敏捷:\n+ 命中\n+ 反射\n+ 抗心智\n+ 闪避\n\n\n技能:\n+ 回避\n+ 远程武器\n+ 卸除武器\n+ 潜行\n+ 制作"
+  ],
+  [
+   "sa0#11617/whatIHaveToSay[0]",
+   "Airendal",
+   "Grettings, fae. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，妖精。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#11619/whatIHaveToSay[0]",
+   "Zenith",
+   "When a moon reaches its Zenith (the upper part of the circle in the upper right), it is high in the sky. At this position it has the power to influence the world in special ways.",
+   "当一轮月亮到达天顶，（即右上圆圈中的上半部分）它便高悬天际。在此位置，它有以特殊方式影响世界的力量。"
+  ],
+  [
+   "sa0#11623/whatIHaveToSay[0]",
+   "Rising",
+   "When a moon passes above the horizon, the corresponding gem on the left of the screen will light up. This status can grant special bonuses, different from the Zenith and Nadir.",
+   "当一轮月亮升出地平线，屏幕左侧对应的宝石就会亮起。此状态可赋予不同于天顶与天底的特殊加成。"
+  ],
+  [
+   "sa0#11640/whatIHaveToSay[0]",
+   "Arbo",
+   "Grettings, canine. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，犬类。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ],
+  [
+   "sa0#11680/options[0].text",
+   "Isobel Warde",
+   "Greetings",
+   "问候"
+  ],
+  [
+   "sa0#11680/options[10].text",
+   "Isobel Warde",
+   "Setting",
+   "月落"
+  ],
+  [
+   "sa0#11680/options[11].text",
+   "Isobel Warde",
+   "Zenith",
+   "天顶"
+  ],
+  [
+   "sa0#11680/options[12].text",
+   "Isobel Warde",
+   "Nadir",
+   "天底"
+  ],
+  [
+   "sa0#11680/options[1].text",
+   "Isobel Warde",
+   "Stats",
+   "属性"
+  ],
+  [
+   "sa0#11680/options[2].text",
+   "Isobel Warde",
+   "Strength",
+   "力量"
+  ],
+  [
+   "sa0#11680/options[3].text",
+   "Isobel Warde",
+   "Agility",
+   "敏捷"
+  ],
+  [
+   "sa0#11680/options[4].text",
+   "Isobel Warde",
+   "Spirit",
+   "精神"
+  ],
+  [
+   "sa0#11680/options[5].text",
+   "Isobel Warde",
+   "Mind",
+   "心智"
+  ],
+  [
+   "sa0#11680/options[6].text",
+   "Isobel Warde",
+   "Resistance",
+   "抗性"
+  ],
+  [
+   "sa0#11680/options[7].text",
+   "Isobel Warde",
+   "Speed",
+   "速度"
+  ],
+  [
+   "sa0#11680/options[8].text",
+   "Isobel Warde",
+   "The Moons",
+   "众月"
+  ],
+  [
+   "sa0#11680/options[9].text",
+   "Isobel Warde",
+   "Rising",
+   "月升"
+  ],
+  [
+   "sa0#11713/whatIHaveToSay[0]",
+   "Shione",
+   "Grettings, human. I can help you understand various aspects of the game. Please choose a subject.",
+   "问候，人类。我可以帮你了解这款游戏的方方面面。请选择一个话题。"
+  ]
+ ]
+}

@@ -1,0 +1,351 @@
+{
+ "meta": {
+  "kind": "对话/MerewenConversation",
+  "count": 57,
+  "with_cn": 57
+ },
+ "entries": [
+  [
+   "sa0#10631/whatIHaveToSay[0]",
+   "Merewen",
+   "I spent so long in the dark that I find it rather comforting to talk to myself.",
+   "我在黑暗里待得太久，如今自言自语反而让我觉得安心。"
+  ],
+  [
+   "sa0#10637/whatIHaveToSay[0]",
+   "corundum",
+   "I do not know of this. If it can make a blade, then I do not care what it is called.",
+   "这个我不知道。只要能打造刀刃，它叫什么我都不在乎。"
+  ],
+  [
+   "sa0#10646/whatIHaveToSay[0]",
+   "book",
+   "I entered the caverns looking for it. I do not recall how long I wandered the musty tunnels before I found you. The book is of great importance, and I was willing to risk my life for it.\n\nI still am.",
+   "我进入这些洞窟，就是为了找它。我记不清在霉味弥漫的坑道里游荡了多久，才找到你。那本书，至关重要，我甘愿为它冒生命危险。\n\n现在依然如此。"
+  ],
+  [
+   "sa0#10648/whatIHaveToSay[0]",
+   "dimension",
+   "I will travel anywhere it is needed to fulfill my duties. Land, sea and powers of darkness will not stop me.",
+   "为了履行职责，哪里需要，我就去往哪里。陆地、海洋和黑暗的势力都拦不住我。"
+  ],
+  [
+   "sa0#10695/whatIHaveToSay[0]",
+   "Dimas",
+   "My list of friends grows. This is an unexpected joy. And yet, not without risk. New trust is easily broken.",
+   "我的友人名单又添了一位。这是意外之喜。不过，也并非没有风险。新生的信任易于破碎。"
+  ],
+  [
+   "sa0#10718/whatIHaveToSay[0]",
+   "librarian",
+   "I knew one once. I think. The struggle to remember... it slows our progress and helps the darkness. We must not give up!",
+   "我曾认识一位。我想是的。这般苦苦追忆……拖慢了我们的脚步，反倒帮了黑暗。我们绝不能放弃！"
+  ],
+  [
+   "sa0#10739/whatIHaveToSay[0]",
+   "Renault",
+   "That name sounds familiar. Perhaps it is something I once read about?\n\nNo, that cannot be it. I am unable to read.",
+   "这名字听着耳熟。也许是我从前读到过的？\n\n不，不可能。我根本不识字。"
+  ],
+  [
+   "sa0#10749/whatIHaveToSay[0]",
+   "graveyard",
+   "I would prefer not to tread on sacred ground, if possible. My mother warned me that one might awaken the dead by desecrating their resting places. I have no other memories of my mother.",
+   "若非必要，我不愿践踏圣土。母亲告诫过我，亵渎安息之地可能会唤醒亡者。关于母亲，我没有别的记忆了。"
+  ],
+  [
+   "sa0#10771/whatIHaveToSay[0]",
+   "caves",
+   "I quite like caves. There is something about solitude and the sounds of the earth. Alas, I have very little time for rest. Always am I on an errand for one person or another. It seems my fate to be bound in duty, but in that duty I will not fail.",
+   "我很喜欢洞穴。独处与大地之声，自有一番韵味。可惜，我几乎没有时间休息。我总在为这个人那个人奔忙。仿佛我命中注定要受职责之缚——但这份职责，我绝不辜负。"
+  ],
+  [
+   "sa0#10778/whatIHaveToSay[0]",
+   "Shione",
+   "Discipline is necessary to learn to play an instrument, is it not? You must be very disciplined, and I am happy to accompany such a person.",
+   "学一件乐器，少不了自律，不是吗？你一定非常自律，我很乐意与这样的人同行。"
+  ],
+  [
+   "sa0#10795/whatIHaveToSay[0]",
+   "Airendal",
+   "I welcome company that talks less and does more. Actions always speak louder than words.",
+   "我欢迎少说多做的人同行。行动永远比言语响亮。"
+  ],
+  [
+   "sa0#10808/whatIHaveToSay[0]",
+   "Rycard",
+   "Don't read too much into this conversation. Not that you would bother to read even if you knew how.",
+   "别对这场谈话想太多。反正就算你识字，你也懒得「读」。"
+  ],
+  [
+   "sa0#10813/whatIHaveToSay[0]",
+   "Scaphin",
+   "This is not an area in which I am confident in speaking. Many creatures must surely exist beyond our knowledge.",
+   "这个话题，我说起来没有底气。在我们的认知之外，一定还存在着许多生物。"
+  ],
+  [
+   "sa0#10840/whatIHaveToSay[0]",
+   "Goblins",
+   "The world is full of odd creatures. Which is strange, since the only world I know of is this town. I have... gaps... in my... what were we talking about?",
+   "世上满是古怪的生物。这就怪了——毕竟我知道的世界，只有这个镇子。我的……记忆有……空洞……我们刚说到哪儿了？"
+  ],
+  [
+   "sa0#11306/whatIHaveToSay[0]",
+   "fog",
+   "I have never entered it. The elders warned us not to, after all. Why were you so foolish?",
+   "我从未进去过。毕竟长辈们警告过我们。你为什么那么傻？"
+  ],
+  [
+   "sa0#11315/options[0].text",
+   "Merewen",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11315/options[1].text",
+   "Merewen",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11315/options[2].text",
+   "Merewen",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11315/options[3].text",
+   "Merewen",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11315/options[4].text",
+   "Merewen",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "sa0#11315/options[5].text",
+   "Merewen",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11315/options[6].text",
+   "Merewen",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11315/options[7].text",
+   "Merewen",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11315/options[8].text",
+   "Merewen",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11315/options[9].text",
+   "Merewen",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11382/whatIHaveToSay[0]",
+   "job",
+   "I was sent to find the book. That means I am likely a librarian. Who else would go to such lengths to obtain a book?\n\nAnd something more... ever since I met you I have been able to read this book that I carry. How is that? I was sure that I could not read.",
+   "我奉命去找那本书。这么说，我很可能是个图书管理员。若不是为了书，谁会费这么大周折？\n\n还有……自从遇见你，我随身携带的这本书，我竟然能读懂了。这是怎么回事？我明明确信自己不识字。"
+  ],
+  [
+   "sa0#11530/whatIHaveToSay[0]",
+   "Lannon",
+   "You must be very grateful that I found you. I will allow you to return the favor later.",
+   "你可得好好感谢我找到了你。这份人情，改天再还也不迟。"
+  ],
+  [
+   "sa0#11546/whatIHaveToSay[0]",
+   "Codex",
+   "Yes, that is its name. It is hard to believe that I forgot it, given the weight of my quest. What else have I forgotten?",
+   "对，它就是这个名字。以我这使命的分量，我竟然会忘记它，真难以置信。我还忘了什么？"
+  ],
+  [
+   "sa0#11586/whatIHaveToSay[0]",
+   "Agmarians",
+   "Half man, half lizard? Never heard of them.",
+   "半人半蜥蜴？从没听说过。"
+  ],
+  [
+   "sa0#11589/whatIHaveToSay[0]",
+   "Laszra",
+   "You look familiar. I wish I could remember who you are.",
+   "你看着眼熟。真希望我能想起你是谁。"
+  ],
+  [
+   "sa0#11599/whatIHaveToSay[0]",
+   "dark lord",
+   "No creature of darkness merits the title of lord. It implies reverence, whether from love or fear.",
+   "黑暗的生物都不配「领主」这样的头衔。那意味着尊崇，无论源于爱还是恐惧。"
+  ],
+  [
+   "sa0#11637/whatIHaveToSay[0]",
+   "Arbo",
+   "If I recall correctly, dogs cannot talk. That would make this conversation meaningless. I will not waste my time on meaningless endeavors.",
+   "如果我没记错，狗不会说话。那这场对话就毫无意义了。我不会把时间浪费在无意义的事上。"
+  ],
+  [
+   "sa0#11664/whatIHaveToSay[0]",
+   "manatite",
+   "You would think being stuck in a cave for so long gave me some knowledge of minerals. But, you would be mistaken. I have been so focused on my mission that little else has mattered.",
+   "你大概以为，在洞穴里困了这么久，我该对矿物有些了解。那你可就错了。我太专注于使命，别的事几乎都不重要。"
+  ],
+  [
+   "sa0#11667/whatIHaveToSay[0]",
+   "Emerisk",
+   "I think... I am from this place. And yet, I do not recognize it.",
+   "我想……我就是这地方的人。可我竟然认不出它。"
+  ],
+  [
+   "sa0#11677/options[0].text",
+   "Merewen",
+   "greet",
+   "问候"
+  ],
+  [
+   "sa0#11677/options[10].text",
+   "Merewen",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "sa0#11677/options[11].text",
+   "Merewen",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "sa0#11677/options[12].text",
+   "Merewen",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "sa0#11677/options[13].text",
+   "Merewen",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "sa0#11677/options[14].text",
+   "Merewen",
+   "dimension",
+   "次元"
+  ],
+  [
+   "sa0#11677/options[15].text",
+   "Merewen",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "sa0#11677/options[16].text",
+   "Merewen",
+   "silver",
+   "银"
+  ],
+  [
+   "sa0#11677/options[17].text",
+   "Merewen",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "sa0#11677/options[18].text",
+   "Merewen",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "sa0#11677/options[1].text",
+   "Merewen",
+   "job",
+   "差事"
+  ],
+  [
+   "sa0#11677/options[2].text",
+   "Merewen",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "sa0#11677/options[3].text",
+   "Merewen",
+   "book",
+   "书"
+  ],
+  [
+   "sa0#11677/options[4].text",
+   "Merewen",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "sa0#11677/options[5].text",
+   "Merewen",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "sa0#11677/options[6].text",
+   "Merewen",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "sa0#11677/options[7].text",
+   "Merewen",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "sa0#11677/options[8].text",
+   "Merewen",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "sa0#11677/options[9].text",
+   "Merewen",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "sa0#11681/whatIHaveToSay[0]",
+   "Kalindraur",
+   "It is part of my mission I think. I can remember very little from before you found me.",
+   "我想，这是我使命的一部分。在你找到我之前的事，我记得的很少。"
+  ],
+  [
+   "sa0#11700/whatIHaveToSay[0]",
+   "Bhulown",
+   "You are an unexpected ally, and a chance for personal growth.",
+   "你是一位意外的盟友，也是一次自我成长的机会。"
+  ],
+  [
+   "sa0#11702/whatIHaveToSay[0]",
+   "silver",
+   "A pretty metal. Am I missing something?",
+   "一种漂亮的金属。我漏掉了什么吗？"
+  ],
+  [
+   "sa0#11715/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Do not think I am impressed by your strength. Strength of character is far more important. Prove yourself in this way and we will be fine companions.",
+   "别以为你的力量能叫我刮目相看。品格的力量重要得多。你若能在这方面证明自己，我们会是很好的同伴。"
+  ]
+ ]
+}

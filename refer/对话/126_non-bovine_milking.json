@@ -1,0 +1,51 @@
+{
+ "meta": {
+  "kind": "对话/non-bovine_milking",
+  "count": 7,
+  "with_cn": 7
+ },
+ "entries": [
+  [
+   "res#60446/whatIHaveToSay[0]",
+   "Start",
+   "<i>Observations of Non-Bovine Milking</i>\n\r\n\tIn Agamaar, a world apart from human civilization, I have found peace. I pass my days amongst the Agmarians not in solitude, but learning from them; and they from me.",
+   "<i>《非牛挤奶观察记》</i>\n\r\n\t在阿加马尔这片远离人类文明的土地上，我找到了安宁。我在阿格玛人之间度日，并非离群索居，而是向他们求教——他们也向我求教。"
+  ],
+  [
+   "res#60446/whatIHaveToSay[1]",
+   "Start",
+   "     There are creatures in these swamps far more strange than some might find my new friends to be. Behold, the majestic Lunicid. It reaches into the muck of the swamp and filters the water through its body, leaving magnificent eddies of emerald water in its wake. A few days of this beast lounging in a muddy pool leaves it sparkling and fresh.",
+   "     这片沼泽里的生物，远比某些人眼中的我的新朋友们更古怪。瞧， majestic 的月蛞蝓。它将身体探进沼泽的淤泥，把水滤过躯体，身后留下一道道壮丽的翠色涡流。这巨物在泥潭里瘫上几天，周身便会变得光洁如新。"
+  ],
+  [
+   "res#60446/whatIHaveToSay[2]",
+   "Start",
+   "\tBut the true gem is far more strange than you might imagine. It can also be milked. Though it is not truly milk, as we associate with mammals, this gargantuan slug can be scraped for gelatinous loaves. I find the gel quite tasty, and similar enough to the flavor of milk that I scarcely can tell the difference. I imagine one could even make cheese from it and none would be the wiser.",
+   "\t但真正的奇珍，远比你想象的更不可思议：它还可以被「挤奶」。虽说那并非我们印象中哺乳动物的乳汁，这头巨型蛞蝓身上可以刮下凝冻状的「奶块」。我觉得这凝胶相当可口，与乳汁的味道像得让我几乎分辨不出。我猜，甚至可以用它做奶酪——保管没人尝得出来。"
+  ],
+  [
+   "res#60446/whatIHaveToSay[3]",
+   "Start",
+   "\tI might find it quite amusing to watch locals consume mouthfuls of slug ooze and declare their delight, all the while unknowing as to its origin. Ah, perhaps if my journey ever leads me back to humankind... I almost said civilization; but I find the Agmarians much more civilized, and far less judgmental. In truth, I hope to remain here for as long as I can, and learn about this strange land and its people...",
+   "\t看着当地人一口口吞下蛞蝓黏液、啧啧称奇，却全然不知它的来路——想来一定很有趣。啊，若我的旅程有一日把我带回人类……我差点说「文明世界」；可在我看来，阿格玛人文明得多，也远不那么爱指摘别人。说实话，我希望能在这里待得越久越好，了解这片奇异的土地和它的人民……"
+  ],
+  [
+   "res#60446/whatIHaveToSay[4]",
+   "Start",
+   "\tI digress. In order to harvest the gel one must get close enough to be trampled, though this rarely happens. Lunicids frequently sleep, and are easily set upon with a bucket, which preferably has a flat edge, and should be drawn laterally from the base of the neck towards the tail. One such pass and the bucket is full.",
+   "\t扯远了。要采集凝胶，得靠近到有被踩扁的风险——不过这种事很少发生。月蛞蝓时常昏睡，带着一只桶就能轻易得手：桶沿最好是平的，沿着颈根向尾部横向刮过一遍，桶就满了。"
+  ],
+  [
+   "res#60446/whatIHaveToSay[5]",
+   "Start",
+   "It is no more difficult than milking a cow, which I might add, can also kick and trample, in case you were thinking this to be exceptionally dangerous.\n\n\tThe milking process can be performed frequently, though not often enough to remove the protective gel entirely, for the beast requires it to pass through a myriad of toxic plants as it grazes.",
+   "这并不比给奶牛挤奶更难——顺带一提，奶牛也会踢人、踩人，免得你以为这活儿危险得离谱。\n\n\t取胶可以常做，但不能频繁到把保护性的凝胶取尽——这种生物要穿过无数有毒的植物觅食，全靠那层黏液护身。"
+  ],
+  [
+   "res#60446/whatIHaveToSay[6]",
+   "Start",
+   "\tA difficult task awaits me now. How might I transport such a creature to a new location? I am certain that I will find an answer.\n\r\n\tMengid, Ysslair of Elok'ora",
+   "\t眼下我有一件难事：该怎么把这等庞然大物运到新的地方去？我确信，我终会找到答案。\n\r\n\t门吉德，埃洛克欧拉的伊斯拉尔"
+  ]
+ ]
+}

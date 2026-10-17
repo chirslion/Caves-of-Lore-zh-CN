@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_shock_text",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60460/whatIHaveToSay[0]",
+   "Start",
+   "<i>The Obelisks of Glowfir\r</i>\n\r\n\tI, Arendol the first, employed in the procurement of treasure and oddities for her lordship Queen Verenmir of Arenquist, do hereby give my account of the Guardians of the legendary sword Glowfir.\r\n\r",
+   "<i>格罗菲尔的方尖碑\r</i>\n\r\n\t我，阿伦多尔一世，受雇为阿伦奎斯特的维伦米尔女王殿下采办珍宝与奇物，谨此记述传说之剑格罗菲尔的守卫者们。\r\n\r"
+  ],
+  [
+   "res#60460/whatIHaveToSay[1]",
+   "Start",
+   "\n\tThe legend of Glowfir is not a tale taken seriously by many. Indeed, my compatriots felt as though I had set out upon a fool's errand. But I must be truthful to my queen, and cannot alter my tale, despite the way in which I expect it will be received.",
+   "\n\t格罗菲尔的传说，并非许多人会认真对待的故事。事实上，我的同僚都觉得我此行是在干傻事。但我必须对女王忠实，不能改动我的记述——哪怕我预料到它将如何被看待。"
+  ],
+  [
+   "res#60460/whatIHaveToSay[2]",
+   "Start",
+   "My journey began after much research in the great library of Arenquist, where I came upon ancient scrolls depicting a weapon so powerful and worthy of her majesty, that I could not resist its pursuit. Of all the treasures in her hold, this one weapon (whether sword or axe or spear I do not know) shines above all the rest. ",
+   "我的旅程始于在阿伦奎斯特大图书馆中的长期研究：我在那里发现了古老的卷轴，描述着一件强大到配得上女王殿下的武器，我无法抗拒追寻它的诱惑。在女王的所有收藏中，这一件武器（是剑、是斧还是矛，我不得而知）光芒盖过其余全部。 "
+  ],
+  [
+   "res#60460/whatIHaveToSay[3]",
+   "Start",
+   "And this I mean quite literally, for its name is taken from the old tongue meaning 'glowing ember'.\n\tMany weeks of study I gave until I came upon its resting place; the Isle of Springhold. Dotted with small towns and villages, this island is not known to many, though it resides within the boundaries of Arenquist. ",
+   "这话我是照字面说的，因为它的名字取自古老的语言，意为「灼燃的余烬」。\n\t我钻研了数周之久，终于寻到它的安放之地：斯普林霍尔德岛。这座岛上点缀着小镇与村落，虽在阿伦奎斯特的疆界之内，却不为许多人所知。 "
+  ],
+  [
+   "res#60460/whatIHaveToSay[4]",
+   "Start",
+   "The inhabitants much prefer it this way, as in staying quiet they have avoided their queen's taxes.\n\tOn this land there once rested a mighty city, whose name I was unable to discern. In this city, long since fallen to ruin, there lay a dungeon, and beneath it a catacomb. And beneath that, a cavern.",
+   "岛上的居民巴不得如此，因为沉默低调让他们得以逃避女王的赋税。\n\t这片土地上曾有一座宏伟的城市，名字我未能查明。那座早已沦为废墟的城市里，有一座地牢，地牢之下是墓窟，墓窟之下还有一处岩洞。"
+  ],
+  [
+   "res#60460/whatIHaveToSay[5]",
+   "Start",
+   "\tIt is in this cavern that I believed was the resting place of Glowfir. And so, we entered.",
+   "\t我认定，格罗菲尔就安放在这处岩洞里。于是，我们进去了。"
+  ]
+ ]
+}

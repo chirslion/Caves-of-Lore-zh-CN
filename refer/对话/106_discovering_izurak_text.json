@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "kind": "对话/discovering_izurak_text",
+  "count": 6,
+  "with_cn": 6
+ },
+ "entries": [
+  [
+   "res#60442/whatIHaveToSay[0]",
+   "Start",
+   "<i>Discovering Izurak</i>\n\r\n\tWhen Azros fled from his world and settled upon Solmaria, he began to work in the dark. He used his power to bring forth life and twisted it to reflect his own image. Thus, monsters were born into this world. Many forms they took; some borrowed, and some new.",
+   "<i>《发现伊祖拉克》</i>\n\r\n\t阿兹罗斯逃离他的世界、落户索尔玛利亚之后，便在暗中劳作。他以伟力催生出生命，又将其扭曲成自己的模样。怪物便是这样降临此世的。它们形态万千：有因袭而来，也有全新之作。"
+  ],
+  [
+   "res#60442/whatIHaveToSay[1]",
+   "Start",
+   "But the first was Izurak, and he was also Azros' first failure. When commanded to bow, he refused, and fled to spare his own life. Little else is known about this creature, until now.\n\r\n\tI aim to enlighten you, for I have spent time with Izurak, and I seek to set the record straight, if there be one.\r\n",
+   "但第一个是伊祖拉克，他也是阿兹罗斯的第一次失败。当被命令跪拜时，他拒绝了，并为保命而逃。关于这个生物，世人所知寥寥——直到如今。\n\r\n\t我愿为诸位解惑，因为我曾与伊祖拉克共处，也想把记录拨正——倘若世间真有过什么记录的话。\r\n"
+  ],
+  [
+   "res#60442/whatIHaveToSay[2]",
+   "Start",
+   "\tEarly one morning, as I neared a construction area in the northern halls, a scaffolding gave way, and I plummeted into the abyss. I was certain that I would die, but I was caught by a serpentine creature and whisked into the crevices and tunnels below. I was taken to the lair of my captor, who, as you have guessed, was Izurak.\r\n",
+   "\t一日清晨，我行至北侧厅堂的施工处时，脚手架忽然垮塌，我坠入深渊。我确信自己必死无疑，却被一个蛇形的生物接住，带入下方的缝隙与坑道。我被带到掳走我的人的老巢——诸位想必已经猜到，那便是伊祖拉克。\r\n"
+  ],
+  [
+   "res#60442/whatIHaveToSay[3]",
+   "Start",
+   "\tI presumed I was to become a feast for this creature, but instead I was given food and rested. We engaged in conversation of all sorts. For three days I stayed in his lair, and we shared our views of the world and revealed mysteries to one another. I will share this story at length, one day... On the third day, I heard voices calling my name from above.",
+   "\t我以为自己将成为这家伙的盘中餐，可它反而给我食物、让我歇息。我们天南地北地谈。我在它的巢穴里住了三天，彼此交换对这世界的看法，互相透露秘密。有朝一日我会把这个故事原原本本写出来……第三天，我听见上方有人呼喊我的名字。"
+  ],
+  [
+   "res#60442/whatIHaveToSay[4]",
+   "Start",
+   "I answered to shouts of joy. My friends awaited. I saw a sadness fall upon Izurak, and promised to be his friend and to return often. His face lifted, and I knew that this was not a monster, but another ruined life left in Azros' wake. Before I left, we decided that he should have a new name, and he chose this: Alumandris. Then he bore me upwards, into the light.",
+   "我应声而答，换来一片欢呼。朋友们在等着我。我看见伊祖拉克脸上浮起一丝悲伤，于是向他承诺：我会是他的朋友，会常回来看他。它重新抬起了头。我知道，这并非怪物，而是阿兹罗斯身后又一条被毁掉的生命。临走前，我们决定它该有个新名字——它选了这一个：阿鲁曼德里斯。随后它托起我，送我到光明之中。"
+  ],
+  [
+   "res#60442/whatIHaveToSay[5]",
+   "Start",
+   "\tPerhaps one day he will join us, but for now he sits below, listening.\n\r\n- A man of no consequence, friend of Alumandris.",
+   "\t也许有一天，他会加入我们；但此刻，他仍在下方坐着，聆听着。\n\r\n——一名无足轻重的人，阿鲁曼德里斯的朋友。"
+  ]
+ ]
+}

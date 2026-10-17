@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "kind": "对话/VascatarDone",
+  "count": 11,
+  "with_cn": 11
+ },
+ "entries": [
+  [
+   "sa1#33/whatIHaveToSay[0]",
+   "Merewen",
+   "Why, you...",
+   "你这……"
+  ],
+  [
+   "sa1#381/whatIHaveToSay[0]",
+   "Lannon",
+   "How did we end up here!?",
+   "我们怎么到了这里！？"
+  ],
+  [
+   "sa1#386/whatIHaveToSay[0]",
+   "Bhulown",
+   "Keh. No like. Too dry.",
+   "咳。不喜欢。太干。"
+  ],
+  [
+   "sa1#409/whatIHaveToSay[0]",
+   "Dimas",
+   "Trapped again... lovely.",
+   "又被困住了……好极了。"
+  ],
+  [
+   "sa1#425/whatIHaveToSay[0]",
+   "Rycard",
+   "Yes, but then you never do, eh?",
+   "是啊，可你从来就不会，是吧？"
+  ],
+  [
+   "sa1#43/whatIHaveToSay[0]",
+   "Airendal",
+   "I have seen this place... in passing. When I Blink, I see.",
+   "我见过这地方……一闪而过。我闪烁时，看得到。"
+  ],
+  [
+   "sa1#46/whatIHaveToSay[0]",
+   "Shione",
+   "In all my travels I do not think I have been to a place such as this.",
+   "走了这么多地方，我想我没到过像这里一样的所在。"
+  ],
+  [
+   "sa1#55/whatIHaveToSay[0]",
+   "Lannon",
+   "We must make the most of this, as we have so far.",
+   "我们必须像此前一样，把眼下的处境利用到极致。"
+  ],
+  [
+   "sa1#64/whatIHaveToSay[0]",
+   "Gallitzin",
+   "I've been lost before. There is always a way out... I think.",
+   "我迷失过。出路总是有的……我想。"
+  ],
+  [
+   "sa1#65/whatIHaveToSay[0]",
+   "Lannon",
+   "Let's be careful. If there are other things as powerful as that creature we will do well to stay hidden.",
+   "小心行事。若还有别的存在与那生物一样强大，我们最好藏好。"
+  ],
+  [
+   "sa1#75/whatIHaveToSay[0]",
+   "Merewen",
+   "I do not like the look of this.",
+   "这情形我可不喜欢。"
+  ]
+ ]
+}

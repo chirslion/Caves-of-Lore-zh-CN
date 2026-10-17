@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "kind": "对话/Dog2Conversation",
+  "count": 45,
+  "with_cn": 45
+ },
+ "entries": [
+  [
+   "res#59767/whatIHaveToSay[0]",
+   "graveyard",
+   "*growl*",
+   "*低吼*"
+  ],
+  [
+   "res#59813/whatIHaveToSay[0]",
+   "Emerisk",
+   "*bark*",
+   "*吠*"
+  ],
+  [
+   "res#59844/whatIHaveToSay[0]",
+   "Scaphin",
+   "*ruff*",
+   "*吠*"
+  ],
+  [
+   "res#59868/whatIHaveToSay[0]",
+   "caves",
+   "*woof*",
+   "*汪*"
+  ],
+  [
+   "res#59933/whatIHaveToSay[0]",
+   "Rycard",
+   "*growl*",
+   "*低吼*"
+  ],
+  [
+   "res#60019/whatIHaveToSay[0]",
+   "Agmarians",
+   "*tilt head*",
+   "*歪头*"
+  ],
+  [
+   "res#60063/whatIHaveToSay[0]",
+   "Airendal",
+   "*woof!*",
+   "*汪！*"
+  ],
+  [
+   "res#60070/whatIHaveToSay[0]",
+   "Goblins",
+   "*growl*",
+   "*低吼*"
+  ],
+  [
+   "res#60096/whatIHaveToSay[0]",
+   "Codex",
+   "*tilt head*",
+   "*歪头*"
+  ],
+  [
+   "res#60116/whatIHaveToSay[0]",
+   "Merewen",
+   "*woof!*",
+   "*汪！*"
+  ],
+  [
+   "res#60163/whatIHaveToSay[0]",
+   "book",
+   "*tilt head*",
+   "*歪头*"
+  ],
+  [
+   "res#60181/whatIHaveToSay[0]",
+   "Shione",
+   "*pant*",
+   "*喘气*"
+  ],
+  [
+   "res#60296/whatIHaveToSay[0]",
+   "fog",
+   "*woof*",
+   "*汪*"
+  ],
+  [
+   "res#60325/options[0].text",
+   "Tassie",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60325/options[1].text",
+   "Tassie",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60325/options[2].text",
+   "Tassie",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60325/options[3].text",
+   "Tassie",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60325/options[4].text",
+   "Tassie",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60325/options[5].text",
+   "Tassie",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60325/options[6].text",
+   "Tassie",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60325/options[7].text",
+   "Tassie",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60325/options[8].text",
+   "Tassie",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60325/options[9].text",
+   "Tassie",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60382/whatIHaveToSay[0]",
+   "job",
+   "*barks at sheep*",
+   "*冲着羊吠*"
+  ],
+  [
+   "res#60539/whatIHaveToSay[0]",
+   "Lannon",
+   "*woof!*",
+   "*汪！*"
+  ],
+  [
+   "res#60598/whatIHaveToSay[0]",
+   "Dimas",
+   "*bark!*",
+   "*吠！*"
+  ],
+  [
+   "res#60612/whatIHaveToSay[0]",
+   "Archaven",
+   "*ruff*",
+   "*吠*"
+  ],
+  [
+   "res#60729/whatIHaveToSay[0]",
+   "Bhulown",
+   "*tilt head*",
+   "*歪头*"
+  ],
+  [
+   "res#60747/whatIHaveToSay[0]",
+   "Laszra",
+   "Hello, man. Give to me the pets. I will have joy. You will have joy. Pets bring joy!",
+   "你好，人。把宠物给我。我会开心。你也会开心。宠物带来快乐！"
+  ],
+  [
+   "res#60768/whatIHaveToSay[0]",
+   "Arbo",
+   "Hello, other dog. It is good to be dog as well. Dog times fun. I share treasure. Follow creek to splash. Dig. Joy!",
+   "你好，另一只狗。当狗也很好。狗狗时光好玩。我分享宝藏。沿着小溪去玩水。挖土。快乐！"
+  ],
+  [
+   "res#60833/whatIHaveToSay[0]",
+   "Renault",
+   "*growl*",
+   "*低吼*"
+  ],
+  [
+   "res#60894/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60894/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60894/options[11].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60894/options[12].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60894/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60894/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60894/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60894/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60894/options[5].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60894/options[6].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60894/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60894/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60894/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60948/whatIHaveToSay[0]",
+   "Gallitzin",
+   "*woof!*",
+   "*汪！*"
+  ]
+ ]
+}

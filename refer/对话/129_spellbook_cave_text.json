@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "kind": "对话/spellbook_cave_text",
+  "count": 8,
+  "with_cn": 8
+ },
+ "entries": [
+  [
+   "res#59888/whatIHaveToSay[0]",
+   "Crevice",
+   "<i>A Shattered Heart\r</i>\n\r\n          A small crack, at first glance, may appear to be only on the surface. Upon closer inspection, however, it is evident of flaws long present. It is deep, reaching to unknown places.",
+   "<i>《碎裂之心\r</i>\n\r\n          一道细小的裂缝，乍看或许只在表面。可细看之下，便知那缺陷早已存在，深不可测，直通未知之处。"
+  ],
+  [
+   "res#59888/whatIHaveToSay[1]",
+   "Crevice",
+   "     Is the heart not like this also? And does not what flows from your mouth betray what lies in your heart? Be careful not to step on such a crack, lest you suffer all that lies within.",
+   "     人心不亦如此吗？你口中流出的话语，不也泄露了你心底的隐秘吗？当心，别踩上那样的裂缝——否则你将承受其中蕴含的一切。"
+  ],
+  [
+   "res#60449/whatIHaveToSay[0]",
+   "Start",
+   "<i>Musings of Dark Passages\r</i>\n\r\n     Darkness is safe harbor to that which does not wish to be seen. Light is its enemy. In the deepest recesses of the earth lie mysteries untold, horrors unknown to man, and secrets waiting to be discovered.",
+   "<i>《幽暗通路的沉思\r</i>\n\r\n     黑暗，是那些不欲被看见者的避风港。光明是它的敌人。在大地最深沉的怀抱里，藏着无人讲述的谜团、人类未知的恐怖，以及等待被发现的秘密。"
+  ],
+  [
+   "res#60449/whatIHaveToSay[1]",
+   "Start",
+   "     If you have no fear, venture further than the surface. There is beauty in the dark places, but also room to conceal evil.\n\nBut do I speak of caves, or the hearts of men?",
+   "     若你毫无畏惧，便往地表之外更深处探险吧。幽暗之处既有美，也有藏匿邪恶的余地。\n\n只是——我说的是洞穴，还是人心？"
+  ],
+  [
+   "res#60521/whatIHaveToSay[0]",
+   "BatSwarm",
+   "<i>Messengers of Night\r</i>\n\r\n     From bats we can learn much. Though they desire warmth and freedom, they spend their days huddled in frigid darkness. Enduring this daily confinement they find comfort and warmth in each other's company.",
+   "<i>《夜之信使\r</i>\n\r\n     从蝙蝠身上，我们能学到许多。它们渴望温暖与自由，却整日蜷缩在冰冷的黑暗里。日复一日忍受着禁锢，它们在同类的依偎中寻得慰藉与温暖。"
+  ],
+  [
+   "res#60521/whatIHaveToSay[1]",
+   "BatSwarm",
+   "     They are keepers of dark passageways, and feared among the ignorant. Though they have the appearance of evil, wise men know their value, and that true evil is not so easily observed.\r\n\r\n     In observing them we can find freedom within limits, comfort and shelter with friends, and wisdom to look beyond outward appearances. What more might we learn from them?",
+   "     它们是幽暗通道的守望者，为愚昧者所惧。虽生就一副邪恶的外貌，智者却知其价值——也知真正的邪恶从不那么显而易见。\r\n\r\n     观察它们，我们得以领悟：受限之中亦有自由，友伴之间可得慰藉与庇护，以及超越表象去看待事物的智慧。还能从它们身上学到什么呢？"
+  ],
+  [
+   "res#60937/whatIHaveToSay[0]",
+   "Collapse",
+   "<i>Strength in Failure\r</i>\n\r\n     Consider a shelter of stone, hanging freely without worry. Great strength holds it up, the likes of which men cannot attain. Yet time is a greater strength.",
+   "<i>《失败中的力量\r</i>\n\r\n     且看一处岩石的庇护所，悬空而挂，安然无恙。支撑它的是人类难以企及的伟力。然而，时间比它更强大。"
+  ],
+  [
+   "res#60937/whatIHaveToSay[1]",
+   "Collapse",
+   "     One day it falls, but in weakness it finds power. To the ground it crashes; with a mighty force it crushes all who stand in its way.",
+   "     终有一日它会坠落——而它在脆弱中寻得了力量。它轰然砸向大地，以磅礴之势，碾碎一切挡路之物。"
+  ]
+ ]
+}

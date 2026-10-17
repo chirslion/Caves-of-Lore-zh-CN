@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "kind": "对话/MeetAtShelter",
+  "count": 18,
+  "with_cn": 18
+ },
+ "entries": [
+  [
+   "sa20#107/whatIHaveToSay[0]",
+   "librarian_1",
+   "I am afraid not, for we also seek the owner of the book... if there is anything left to find.",
+   "恐怕没有。因为我们也寻找书的主人……如果还剩下什么可找的话。"
+  ],
+  [
+   "sa20#107/whatIHaveToSay[1]",
+   "librarian_1",
+   "Many attempted to get to the Shelter with us, but few made it.",
+   "许多人曾和我们一起试着来到庇护所，但成功的人寥寥无几。"
+  ],
+  [
+   "sa20#107/whatIHaveToSay[2]",
+   "librarian_1",
+   "Once here, the power in this place protects the mind from degrading further. I suspect the book has a similar effect.",
+   "来到这里之后，此地的力量保护心智不至于继续崩坏。我猜想，那本书也有类似的效果。"
+  ],
+  [
+   "sa20#122/whatIHaveToSay[0]",
+   "scribe_1",
+   "You can read!? And you have the book? The Codex? No wonder you were able to find us.",
+   "你识字！？而且你拿着那本书？典籍？难怪你能找到我们。"
+  ],
+  [
+   "sa20#133/whatIHaveToSay[0]",
+   "Merewen",
+   "A shelter from what? Why would such a place exist below ground?",
+   "躲避什么的地方？为什么会有这样的地方建在地下？"
+  ],
+  [
+   "sa20#16/whatIHaveToSay[0]",
+   "librarian_1",
+   "That is the calamity. The slow loss of all knowledge and memory. I was hoping that you had escaped.",
+   "那就是灾变。一切知识与记忆缓慢的流失。我原以为你逃过了一劫。"
+  ],
+  [
+   "sa20#16/whatIHaveToSay[1]",
+   "librarian_1",
+   "How did you make it here, with little to no memory?",
+   "几乎没有记忆，你是怎么来到这里的？"
+  ],
+  [
+   "sa20#199/whatIHaveToSay[0]",
+   "Rycard",
+   "I do not care, so long as there is something to eat other than rat.",
+   "我不在乎，只要除了老鼠还有别的可吃。"
+  ],
+  [
+   "sa20#205/whatIHaveToSay[0]",
+   "Lannon",
+   "What is this place?",
+   "这是什么地方？"
+  ],
+  [
+   "sa20#212/whatIHaveToSay[0]",
+   "Merewen",
+   "Then, perhaps you are the one who sent me to retrieve the book.",
+   "那么，也许就是您派我去取那本书的。"
+  ],
+  [
+   "sa20#214/whatIHaveToSay[0]",
+   "Lannon",
+   "What calamity are you referring to? I am afraid we cannot remember very much.",
+   "您说的是什么灾变？恐怕我们记不得多少了。"
+  ],
+  [
+   "sa20#217/whatIHaveToSay[0]",
+   "scribe_1",
+   "Please, come in. We will be happy to answer more of your questions once you are settled.",
+   "请进。等你们安顿下来，我们很乐意再回答你们更多问题。"
+  ],
+  [
+   "sa20#225/whatIHaveToSay[0]",
+   "Stranger",
+   "I was beginning to think I would not live to see this day.",
+   "我差点以为，自己活不到这一天了。"
+  ],
+  [
+   "sa20#225/whatIHaveToSay[1]",
+   "Stranger",
+   "Welcome to Kalindraur, our shelter.",
+   "欢迎来到卡林德劳尔——我们的庇护所。"
+  ],
+  [
+   "sa20#269/whatIHaveToSay[0]",
+   "Stranger",
+   "Forgive me. My name is Quay. And this is Naira.",
+   "恕我失礼。我叫奎伊。这位是奈拉。"
+  ],
+  [
+   "sa20#297/whatIHaveToSay[0]",
+   "Lannon",
+   "It seems to have begun when I happened upon this old book. I can only read some of it.",
+   "一切似乎始于我偶然得到这本旧书的时候。我只能读懂其中一部分。"
+  ],
+  [
+   "sa20#320/whatIHaveToSay[0]",
+   "librarian_1",
+   "Pleased to meet you. We have been hiding here for... years perhaps. Ever since the calamity befell our world.",
+   "幸会。我们躲在这里已经……也许好几年了。自灾变降临我们的世界以来。"
+  ],
+  [
+   "sa20#39/whatIHaveToSay[0]",
+   "Stranger",
+   "Can it be? Has someone come at last?",
+   "真的吗？终于有人来了？"
+  ]
+ ]
+}

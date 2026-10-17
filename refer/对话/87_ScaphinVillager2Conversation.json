@@ -1,0 +1,387 @@
+{
+ "meta": {
+  "kind": "对话/ScaphinVillager2Conversation",
+  "count": 63,
+  "with_cn": 63
+ },
+ "entries": [
+  [
+   "res#59701/whatIHaveToSay[0]",
+   "Bhulown",
+   "Scaphin. I am sure. Yet... some human...",
+   "斯卡芬。我确定。可是……有点像人类……"
+  ],
+  [
+   "res#59711/whatIHaveToSay[0]",
+   "manatite",
+   "Is like darkness food, but light? Not sure.",
+   "像黑暗的食物，但是光的？不确定。"
+  ],
+  [
+   "res#59744/whatIHaveToSay[0]",
+   "Gallitzin",
+   "Human. Yes sure human.",
+   "人类。对，肯定是人类。"
+  ],
+  [
+   "res#59782/whatIHaveToSay[0]",
+   "graveyard",
+   "Some mushroom and herb grow on this. On dead.",
+   "有些蘑菇和草长在这上面。长在死的上面。"
+  ],
+  [
+   "res#59830/whatIHaveToSay[0]",
+   "Emerisk",
+   "Is human home. Human was smart. Now human dumb.\n\nManshroom was dumb. Was mushroom. Now smart.",
+   "是人类的家。人类曾经聪明。如今人类笨了。\n\n人菇，曾经笨。曾是蘑菇。如今聪明。"
+  ],
+  [
+   "res#59882/whatIHaveToSay[0]",
+   "caves",
+   "Is full of mushroom, herb.",
+   "满是蘑菇、草。"
+  ],
+  [
+   "res#59948/whatIHaveToSay[0]",
+   "Rycard",
+   "Also human.",
+   "也是人类。"
+  ],
+  [
+   "res#59986/whatIHaveToSay[0]",
+   "corundum",
+   "We keep it safe from Goblin. Goblin want make more war on us.",
+   "我们把它藏起来，不让哥布林，得到。哥布林，还想对我们开战。"
+  ],
+  [
+   "res#60036/whatIHaveToSay[0]",
+   "Agmarians",
+   "Has many of the herb. But make war. Scaphin make war too.",
+   "有很多那种草。但要打仗。斯卡芬，也打仗。"
+  ],
+  [
+   "res#60048/whatIHaveToSay[0]",
+   "Codex",
+   "Take guess. Think... is name for human. No! Is name furry, meat friend.",
+   "猜猜看。想……是给人类的名字。不！是毛乎乎的、肉做朋友的名字。"
+  ],
+  [
+   "res#60083/whatIHaveToSay[0]",
+   "Goblins",
+   "Scaphin hates this. Scaphin say mean. Sometimes Scaphin mean too. Scaphin forget that Scaphin sometimes bad.",
+   "斯卡芬，讨厌这个。斯卡芬，说它刻薄。有时斯卡芬，自己也刻薄。斯卡芬，忘了自己有时也坏。"
+  ],
+  [
+   "res#60133/whatIHaveToSay[0]",
+   "Merewen",
+   "More human.",
+   "又有人类。"
+  ],
+  [
+   "res#60143/whatIHaveToSay[0]",
+   "onQuest",
+   "Gouraah! Heart is mushroom. Manshroom want. Cannot find. Scaphin not find also.\n\nMust look for blue. More blue. Heart like. Make blue!",
+   "咕啦！心是蘑菇。人菇，想要。找不到。斯卡芬，也找不到。\n\n必须找蓝色。更多的蓝。心喜欢。让它变蓝！"
+  ],
+  [
+   "res#60177/whatIHaveToSay[0]",
+   "book",
+   "Is librarian has. Put knowing into.",
+   "是图书管理员，有的。把知道的东西装进去。"
+  ],
+  [
+   "res#60313/whatIHaveToSay[0]",
+   "fog",
+   "Scaphin likes.\nMushroom likes. Manshroom likes... ",
+   "斯卡芬，喜欢。\n蘑菇喜欢。人菇，也喜欢…… "
+  ],
+  [
+   "res#60342/options[0].text",
+   "Scaphin Villager 2 ***",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "res#60342/options[1].text",
+   "Scaphin Villager 2 ***",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "res#60342/options[2].text",
+   "Scaphin Villager 2 ***",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "res#60342/options[3].text",
+   "Scaphin Villager 2 ***",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "res#60342/options[4].text",
+   "Scaphin Villager 2 ***",
+   "Airendal",
+   "艾伦达尔"
+  ],
+  [
+   "res#60342/options[5].text",
+   "Scaphin Villager 2 ***",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "res#60342/options[6].text",
+   "Scaphin Villager 2 ***",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#60342/options[7].text",
+   "Scaphin Villager 2 ***",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "res#60342/options[8].text",
+   "Scaphin Villager 2 ***",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "res#60342/options[9].text",
+   "Scaphin Villager 2 ***",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "res#60399/whatIHaveToSay[0]",
+   "job",
+   "The herbs. I find. I make. I sell.\n\nHave ingredient?",
+   "草。我找。我做。我卖。\n\n有原料？"
+  ],
+  [
+   "res#60556/whatIHaveToSay[0]",
+   "Lannon",
+   "Human here? What this?",
+   "人类在这儿？这是什么？"
+  ],
+  [
+   "res#60589/whatIHaveToSay[0]",
+   "librarian",
+   "Summmja... maybe. Is word I know. I meet one with this word name, Librarian. Long time. When human became dumb. Look for safe place with daughter.",
+   "苏姆贾……也许吧。这词我知道。我见过一个用这个词当名字的，图书管理员。很久以前。那时人类开始变笨。她带着女儿找安全的地方。"
+  ],
+  [
+   "res#60603/whatIHaveToSay[0]",
+   "Manshroom",
+   "Mushroom was feed on darkness. Is dark lord fault. Is gone now, but leave this not gift.",
+   "蘑菇曾是靠黑暗喂养。是黑暗领主的错。他如今没了，可留下的不是礼物。"
+  ],
+  [
+   "res#60621/whatIHaveToSay[0]",
+   "dimension",
+   "Some mushroom in two world. Same time.",
+   "有些蘑菇在两个世界。同时。"
+  ],
+  [
+   "res#60679/whatIHaveToSay[0]",
+   "silver",
+   "Goblin not ask for. Why is it? Goblin like metal for war. Like corundum.",
+   "哥布林，不问津。为什么？哥布林，喜欢打仗用的金属。比如刚玉。"
+  ],
+  [
+   "res#60688/whatIHaveToSay[0]",
+   "dark lord",
+   "Is feed the dark to all. The dark make Scaphin want death. They serve dark lord.",
+   "给一切喂黑暗。黑暗让斯卡芬渴望死亡。他们效力黑暗领主。"
+  ],
+  [
+   "res#60741/whatIHaveToSay[0]",
+   "Airendal",
+   "Not human.",
+   "不是人类。"
+  ],
+  [
+   "res#60785/whatIHaveToSay[0]",
+   "Arbo",
+   "Fur thing. Food?",
+   "毛东西。能吃吗？"
+  ],
+  [
+   "res#60795/whatIHaveToSay[0]",
+   "ingredient",
+   "Buy, sell. Look for special. Heart of Scaphos. In old home. You find?",
+   "买，卖。找特别的。斯卡福斯之心。在老家里。你们找到吗？"
+  ],
+  [
+   "res#60817/whatIHaveToSay[0]",
+   "Scaphin",
+   "Scaphin is good, strong. Can wear cloth make more strong? No! Only flammable.",
+   "斯卡芬，好，强。穿上布能更强吗？不！只会着火。"
+  ],
+  [
+   "res#60850/whatIHaveToSay[0]",
+   "Renault",
+   "Is human name. Make safe place librarian search.",
+   "是人类的姓氏。让图书管理员，寻找的安全之所。"
+  ],
+  [
+   "res#60886/whatIHaveToSay[0]",
+   "Dimas",
+   "Short. Is child?",
+   "个子矮。是小孩？"
+  ],
+  [
+   "res#60911/options[0].text",
+   "Isobel Warde",
+   "greet",
+   "问候"
+  ],
+  [
+   "res#60911/options[10].text",
+   "Isobel Warde",
+   "Scaphin",
+   "斯卡芬"
+  ],
+  [
+   "res#60911/options[11].text",
+   "Isobel Warde",
+   "librarian",
+   "图书管理员"
+  ],
+  [
+   "res#60911/options[12].text",
+   "Isobel Warde",
+   "silver",
+   "银"
+  ],
+  [
+   "res#60911/options[13].text",
+   "Isobel Warde",
+   "corundum",
+   "刚玉"
+  ],
+  [
+   "res#60911/options[14].text",
+   "Isobel Warde",
+   "manatite",
+   "法力晶石"
+  ],
+  [
+   "res#60911/options[15].text",
+   "Isobel Warde",
+   "dimension",
+   "次元"
+  ],
+  [
+   "res#60911/options[16].text",
+   "Isobel Warde",
+   "Manshroom",
+   "人菇"
+  ],
+  [
+   "res#60911/options[17].text",
+   "Isobel Warde",
+   "dark lord",
+   "黑暗领主"
+  ],
+  [
+   "res#60911/options[18].text",
+   "Isobel Warde",
+   "ingredient",
+   "原料"
+  ],
+  [
+   "res#60911/options[19].text",
+   "Isobel Warde",
+   "Kalindraur",
+   "卡林德劳尔"
+  ],
+  [
+   "res#60911/options[1].text",
+   "Isobel Warde",
+   "job",
+   "差事"
+  ],
+  [
+   "res#60911/options[20].text",
+   "Isobel Warde",
+   "Codex",
+   "典籍"
+  ],
+  [
+   "res#60911/options[2].text",
+   "Isobel Warde",
+   "fog",
+   "迷雾"
+  ],
+  [
+   "res#60911/options[3].text",
+   "Isobel Warde",
+   "book",
+   "书"
+  ],
+  [
+   "res#60911/options[4].text",
+   "Isobel Warde",
+   "Emerisk",
+   "埃梅里斯克"
+  ],
+  [
+   "res#60911/options[5].text",
+   "Isobel Warde",
+   "Renault",
+   "雷诺"
+  ],
+  [
+   "res#60911/options[6].text",
+   "Isobel Warde",
+   "Agmarians",
+   "阿格玛人"
+  ],
+  [
+   "res#60911/options[7].text",
+   "Isobel Warde",
+   "caves",
+   "洞穴"
+  ],
+  [
+   "res#60911/options[8].text",
+   "Isobel Warde",
+   "graveyard",
+   "墓地"
+  ],
+  [
+   "res#60911/options[9].text",
+   "Isobel Warde",
+   "Goblins",
+   "哥布林"
+  ],
+  [
+   "res#60956/whatIHaveToSay[0]",
+   "Archaven",
+   "Is friend? No see this friend. Maybe friend dead.",
+   "是朋友？没见过这个朋友。也许朋友死了。"
+  ],
+  [
+   "res#60970/whatIHaveToSay[0]",
+   "completedQuest",
+   "Heart is for Scaphin. Much wait for such day. Help sick Scaphin.",
+   "心，属于斯卡芬。为这一天等了太久。帮助生病的斯卡芬。"
+  ],
+  [
+   "res#60996/whatIHaveToSay[0]",
+   "Shione",
+   "Is human? Yes.",
+   "是人类？对。"
+  ],
+  [
+   "res#61001/whatIHaveToSay[0]",
+   "Laszra",
+   "Human past expire date.",
+   "人类过期了。"
+  ]
+ ]
+}

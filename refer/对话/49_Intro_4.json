@@ -1,0 +1,27 @@
+{
+ "meta": {
+  "kind": "对话/Intro 4",
+  "count": 3,
+  "with_cn": 3
+ },
+ "entries": [
+  [
+   "sa0#11458/whatIHaveToSay[0]",
+   "Wanderer",
+   "Have I lost my way?",
+   "我是不是迷路了？"
+  ],
+  [
+   "sa0#11458/whatIHaveToSay[1]",
+   "Wanderer",
+   "Everything looks familiar, and yet...",
+   "一切都看着熟悉，却偏偏……"
+  ],
+  [
+   "sa0#11458/whatIHaveToSay[2]",
+   "Wanderer",
+   "Was I looking for something?\n",
+   "我是在找什么东西吗？\n"
+  ]
+ ]
+}

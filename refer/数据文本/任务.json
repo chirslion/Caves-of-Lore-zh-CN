@@ -1,0 +1,1749 @@
+{
+ "meta": {
+  "kind": "数据/任务",
+  "count": 348,
+  "with_cn": 348
+ },
+ "entries": [
+  [
+   "lv0#28465/myQuests[0].description",
+   "Find a way out of the cave",
+   "找到离开洞穴的路"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[0].description",
+   "Find an exit to the cave system.",
+   "找到洞穴系统的出口。"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[0].parentQuestName",
+   "Seeking The Light",
+   "追寻光明"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[0].phaseDetails",
+   "How quickly what seemed an ordinary day turned into an adventure. Mind you, I do not know whether this story will end well. All I know is that I must seek the light.",
+   "一个看似平常的日子，转眼就成了冒险。说真的，我不知道这个故事会不会有好结局。我只知道，我必须追寻光明。"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[0].phaseName",
+   "Find An Exit",
+   "找到出口"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[1].description",
+   "Whisper the magic word Naira gave you at the door above the depths.",
+   "在深渊上方的门前，低声念出奈拉给你的魔法词。"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[1].parentQuestName",
+   "Seeking The Light",
+   "追寻光明"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[1].phaseDetails",
+   "Before I crossed the arcane bridge, there was a stone door at the top of a small stair. I am supposed to whisper some kind of magic word in front of it. The world truly is more complex than I thought that it was.",
+   "在我走过奥术之桥之前，小阶梯顶上有一扇石门。我要在门前低声念出某个魔法词。这个世界比我以为的要复杂得多。"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[1].phaseName",
+   "Whisper At The Door",
+   "在门前低语"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[2].description",
+   "Find your way to the surface.",
+   "找到通往地表的道路。"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[2].parentQuestName",
+   "Seeking The Light",
+   "追寻光明"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[2].phaseDetails",
+   "We have made it this far. I will see the light of day once more. Just a little bit further.",
+   "我们已经走到这里了。我会再一次见到天日。再往前一点就好。"
+  ],
+  [
+   "lv0#28465/myQuests[0].phases[2].phaseName",
+   "Reach The Town Above",
+   "抵达上方的镇子"
+  ],
+  [
+   "lv0#28465/myQuests[0].questName",
+   "Seeking The Light",
+   "追寻光明"
+  ],
+  [
+   "lv0#28465/myQuests[10].description",
+   "Find the strange herb in the caves beneath the old house.",
+   "在旧宅下方的洞穴里寻找奇异草药。"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[0].description",
+   "Find the herb.",
+   "找到草药。"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[0].parentQuestName",
+   "Strange Herb",
+   "奇异草药"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[0].phaseDetails",
+   "Isobel has asked us to seek out a strange plant growing in the caves below the old house. Half of the plants I have seen so far are strange to me, so I can only imagine what she must consider strange.",
+   "伊索贝尔请我们去旧宅下方的洞穴寻找一株奇异植物。到目前为止，我见过的植物有一半对我来说都很奇异，真想象不出她要找的「奇异」是什么样。"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[0].phaseName",
+   "Find the Herb",
+   "找到草药"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[1].description",
+   "Return the herb to the Herbalist.",
+   "把草药还给草药师。"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[1].parentQuestName",
+   "Strange Herb",
+   "奇异草药"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[1].phaseDetails",
+   "This plant lives up to the word strange. It seemed attached to that skeleton, almost as if it was part of it. I cannot wait to be rid of it.",
+   "这株植物完全配得上「奇异」二字。它像是附着在那具骷髅上，几乎成了它的一部分。我巴不得赶紧把它送走。"
+  ],
+  [
+   "lv0#28465/myQuests[10].phases[1].phaseName",
+   "Return the Herb",
+   "交还草药"
+  ],
+  [
+   "lv0#28465/myQuests[10].questName",
+   "Strange Herb",
+   "奇异草药"
+  ],
+  [
+   "lv0#28465/myQuests[11].description",
+   "Find the ancient cheese in the Flooded Crypt.",
+   "在淹没的墓室中寻找古老的奶酪。"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[0].description",
+   "Find the ancient cheese.",
+   "找到古老的奶酪。"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[0].parentQuestName",
+   "The Old Curd",
+   "陈年凝乳"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[0].phaseDetails",
+   "Adela is looking for some old cheese. Really old cheese. I do not know what is so special about it, but apparently it is in a flooded crypt in the graveyard.",
+   "阿德拉在找一种陈年奶酪——真正陈年的奶酪。我不知道它有什么特别，但据说就在墓园里一座被水淹没的墓室中。"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[0].phaseName",
+   "Find the Curd",
+   "找到凝乳"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[1].description",
+   "Return the ancient cheese to the Dairy Maid.",
+   "把古老的奶酪还给挤奶女工。"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[1].parentQuestName",
+   "The Old Curd",
+   "陈年凝乳"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[1].phaseDetails",
+   "It smells.... ancient. I hope it did not absorb any flavors from the crypt.",
+   "闻起来……非常古老。但愿它没沾上墓室里的什么味道。"
+  ],
+  [
+   "lv0#28465/myQuests[11].phases[1].phaseName",
+   "Return the Ancient Cheese",
+   "交还古老奶酪"
+  ],
+  [
+   "lv0#28465/myQuests[11].questName",
+   "The Old Curd",
+   "陈年凝乳"
+  ],
+  [
+   "lv0#28465/myQuests[12].description",
+   "Gather tunnel moss from nearby caves.",
+   "从附近的洞穴采集隧道苔藓。"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[0].description",
+   "Gather 10 Tunnel Moss.",
+   "采集 10 份隧道苔藓。"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[0].parentQuestName",
+   "Tunnel Vision",
+   "隧道视野"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[0].phaseDetails",
+   "Isobel wants Tunnel Moss. I have seen plenty of it on my journey so far. In fact, I might even have enough already... If not, there are plenty of caves around here, and it regrows.",
+   "伊索贝尔想要隧道苔藓。这一路上我见过不少。事实上，我手里可能已经够了……如果不够，这周围洞穴多得是，它还会再长。"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[0].phaseName",
+   "Gather 10 Tunnel Moss",
+   "采集 10 份隧道苔藓"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[1].description",
+   "Return to the herbalist with 10 Tunnel Moss.",
+   "带 10 份隧道苔藓回去见草药师。"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[1].parentQuestName",
+   "Tunnel Vision",
+   "隧道视野"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[1].phaseDetails",
+   "Let us hope this was worth the trouble. This moss is sticky, and I would rather not touch any more of it for a while.",
+   "但愿这番折腾值得。这苔藓黏糊糊的，我暂时不想再碰了。"
+  ],
+  [
+   "lv0#28465/myQuests[12].phases[1].phaseName",
+   "Return With Tunnel Moss",
+   "带着隧道苔藓返回"
+  ],
+  [
+   "lv0#28465/myQuests[12].questName",
+   "Tunnel Vision",
+   "隧道视野"
+  ],
+  [
+   "lv0#28465/myQuests[13].description",
+   "Collect snail meat by slaying Giant Snails",
+   "猎杀巨蜗牛以收集蜗牛肉"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[0].description",
+   "Gather 5 Snail Meat",
+   "收集 5 份蜗牛肉"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[0].parentQuestName",
+   "Delicate Palate",
+   "精致口味"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[0].phaseDetails",
+   "Gerbald wants snail meat. Is it really meat though? Snail something. He thinks it is a delicacy. Maybe I will try some after we give him his share. Maybe.",
+   "杰巴德想要蜗牛肉。不过那真的算肉吗？蜗牛什么的。他觉得这是美味。交完他那一份之后，也许我会尝一点。也许。"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[0].phaseName",
+   "Gather 5 Snail Meat",
+   "收集 5 份蜗牛肉"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[1].description",
+   "Return to the Baron with 5 Snail Meat",
+   "带 5 份蜗牛肉回去见男爵"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[1].parentQuestName",
+   "Delicate Palate",
+   "精致口味"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[1].phaseDetails",
+   "And I thought Tunnel Moss was sticky. This had better wash out. Knowing Gerbald, I can probably find him drinking in the Town Hall.",
+   "我还以为隧道苔藓够黏了。这玩意最好洗得掉。按我对杰巴德的了解，他多半在镇公所里喝酒。"
+  ],
+  [
+   "lv0#28465/myQuests[13].phases[1].phaseName",
+   "Return With Snail Meat",
+   "带着蜗牛肉返回"
+  ],
+  [
+   "lv0#28465/myQuests[13].questName",
+   "Delicate Palate",
+   "精致口味"
+  ],
+  [
+   "lv0#28465/myQuests[14].description",
+   "Collect boar meat by slaying Twisted Boars",
+   "猎杀獠牙野猪以收集野猪肉"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[0].description",
+   "Collect 10 Boar Meat",
+   "收集 10 份野猪肉"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[0].parentQuestName",
+   "Full Hog",
+   "整猪盛宴"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[0].phaseDetails",
+   "The boars west of town are tough to fight, but their meat is tender. It seems to be highly prized here in Emerisk.",
+   "镇西的野猪不好对付，但它们的肉很嫩。在埃梅里斯克似乎很受追捧。"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[0].phaseName",
+   "Collect 10 Boar Meat",
+   "收集 10 份野猪肉"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[1].description",
+   "Return to the Butcher with 10 Boar Meat",
+   "带 10 份野猪肉回去见屠夫"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[1].parentQuestName",
+   "Full Hog",
+   "整猪盛宴"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[1].phaseDetails",
+   "Maybe we should have asked for something more in exchange for this meat. It was not easily obtained.",
+   "也许我们该拿这些肉换点更多的东西。这可不是轻易得来的。"
+  ],
+  [
+   "lv0#28465/myQuests[14].phases[1].phaseName",
+   "Return With Boar Meat",
+   "带着野猪肉返回"
+  ],
+  [
+   "lv0#28465/myQuests[14].questName",
+   "Full Hog",
+   "整猪盛宴"
+  ],
+  [
+   "lv0#28465/myQuests[15].description",
+   "Collect Butterflies",
+   "收集蝴蝶"
+  ],
+  [
+   "lv0#28465/myQuests[15].phases[0].description",
+   "Collect 20 Butterflies",
+   "收集 20 只蝴蝶"
+  ],
+  [
+   "lv0#28465/myQuests[15].phases[0].parentQuestName",
+   "Flight Of Fancy",
+   "异想天开"
+  ],
+  [
+   "lv0#28465/myQuests[15].phases[0].phaseDetails",
+   "I wonder how many of these I can catch!",
+   "不知道我能抓到多少只！"
+  ],
+  [
+   "lv0#28465/myQuests[15].phases[0].phaseName",
+   "Collect 20 Butterflies",
+   "收集 20 只蝴蝶"
+  ],
+  [
+   "lv0#28465/myQuests[15].questName",
+   "Flight Of Fancy",
+   "异想天开"
+  ],
+  [
+   "lv0#28465/myQuests[16].description",
+   "Collect Femurs for Rhumophris",
+   "为鲁莫弗里斯收集股骨"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[0].description",
+   "Gather 10 Femurs for Rhumophris",
+   "为鲁莫弗里斯收集 10 根股骨"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[0].parentQuestName",
+   "Bone Collector",
+   "集骨者"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[0].phaseDetails",
+   "Rhumophris wants femurs to make armor out of. We could try digging, or maybe some of the creatures out there will drop them.",
+   "鲁莫弗里斯想要股骨来做护甲。我们可以挖挖看，也许外面某些生物掉这个。"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[0].phaseName",
+   "Gather 10 Femurs",
+   "收集 10 根股骨"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[1].description",
+   "Return 10 Femurs to Rhumophris",
+   "把 10 根股骨交还鲁莫弗里斯"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[1].parentQuestName",
+   "Bone Collector",
+   "集骨者"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[1].phaseDetails",
+   "Scaphin seems to hold bone in high regard. They have access to metal, but still they prefer this. It must be something deeply cultural.",
+   "斯卡芬似乎极其看重骨头。他们明明能弄到金属，却依旧偏爱这些。这一定是某种深入骨血的文化。"
+  ],
+  [
+   "lv0#28465/myQuests[16].phases[1].phaseName",
+   "Return With Femurs",
+   "带着股骨返回"
+  ],
+  [
+   "lv0#28465/myQuests[16].questName",
+   "Bone Collector",
+   "集骨者"
+  ],
+  [
+   "lv0#28465/myQuests[17].description",
+   "Collect Chitinous Plate for Rhumophris",
+   "为鲁莫弗里斯收集甲壳板"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[0].description",
+   "Gather 5 Chitinous Plate for Rhumophris",
+   "为鲁莫弗里斯收集 5 块甲壳板"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[0].parentQuestName",
+   "Exo-Hunter",
+   "甲壳猎人"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[0].phaseDetails",
+   "Rhumophris wants chitinous plating. The kinds of creatures that would drop this plating will not part with it willingly.",
+   "鲁莫弗里斯想要甲壳板。会掉这种甲壳的生物，可不会心甘情愿地交出来。"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[0].phaseName",
+   "Gather 5 Chitinous Plate",
+   "收集 5 块甲壳板"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[1].description",
+   "Return 5 Chitinous Plate to Rhumophris",
+   "把 5 块甲壳板交还鲁莫弗里斯"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[1].parentQuestName",
+   "Exo-Hunter",
+   "甲壳猎人"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[1].phaseDetails",
+   "I am eager to see what Rhumophris will make with this.",
+   "我很期待鲁莫弗里斯会拿这些做出什么。"
+  ],
+  [
+   "lv0#28465/myQuests[17].phases[1].phaseName",
+   "Return With Chitinous Plate",
+   "带着甲壳板返回"
+  ],
+  [
+   "lv0#28465/myQuests[17].questName",
+   "Exo-Hunter",
+   "甲壳猎人"
+  ],
+  [
+   "lv0#28465/myQuests[18].description",
+   "Collect Silk Thread for Huraphnim",
+   "为胡拉夫尼姆收集丝线"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[0].description",
+   "Gather 7 Silk Thread from Spiders",
+   "从蜘蛛身上收集 7 束丝线"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[0].parentQuestName",
+   "Threadbare",
+   "衣衫褴褛"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[0].phaseDetails",
+   "Huraphnim wants silk, and the only thing that makes it in enough quantity is really big spiders. I hope that I do not regret agreeing to this.",
+   "胡拉夫尼姆想要丝线，而能产出足量丝线的只有那些真正的大蜘蛛。但愿我不会后悔答应这件事。"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[0].phaseName",
+   "Gather 7 Silk Thread",
+   "收集 7 束丝线"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[1].description",
+   "Return 7 Silk Thread to Huraphnim",
+   "把 7 束丝线交还胡拉夫尼姆"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[1].parentQuestName",
+   "Threadbare",
+   "衣衫褴褛"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[1].phaseDetails",
+   "I hope that Huraphnim enjoys making clothes. He... or she, seems very fascinated by human clothing. What things will a creature with no use for clothing come up with? Maybe it is better not to know.",
+   "希望胡拉夫尼姆喜欢做衣服。他……或者她，似乎对人类衣物非常着迷。一个根本用不着衣服的生物，会做出什么样的东西来呢？也许不知道更好。"
+  ],
+  [
+   "lv0#28465/myQuests[18].phases[1].phaseName",
+   "Return With Silk Thread",
+   "带着丝线返回"
+  ],
+  [
+   "lv0#28465/myQuests[18].questName",
+   "Threadbare",
+   "衣衫褴褛"
+  ],
+  [
+   "lv0#28465/myQuests[19].description",
+   "Collect Sentient Wood for the Woodcutter",
+   "为木匠收集有灵之木"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[0].description",
+   "Gather 5 Sentient Wood from the Withering Hills",
+   "从枯败丘陵采集 5 段有灵之木"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[0].parentQuestName",
+   "Wooden Expression",
+   "木然表情"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[0].phaseDetails",
+   "I already feel bad enough cutting down trees; but sentient ones? I have a feeling they are not going to like this. We should look out west, away from town.",
+   "砍树已经让我够不好受了；还是有灵智的树？我有种预感，它们不会乐意的。该往西边去找，离镇子远点。"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[0].phaseName",
+   "Gather 5 Sentient Wood",
+   "采集 5 段有灵之木"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[1].description",
+   "Return 5 Sentient Wood to the Woodcutter",
+   "把 5 段有灵之木交还木匠"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[1].parentQuestName",
+   "Wooden Expression",
+   "木然表情"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[1].phaseDetails",
+   "This wood keeps... staring at me. I cannot wait to hand this over. Let us get this back to Hardwin quickly.",
+   "这木料一直在……盯着我。我巴不得赶紧脱手。快把它送回给哈德温吧。"
+  ],
+  [
+   "lv0#28465/myQuests[19].phases[1].phaseName",
+   "Return With Sentient Wood",
+   "带着有灵之木返回"
+  ],
+  [
+   "lv0#28465/myQuests[19].questName",
+   "Wooden Expression",
+   "木然表情"
+  ],
+  [
+   "lv0#28465/myQuests[1].description",
+   "Kill 10 Giant Rats.",
+   "杀死 10 只巨鼠。"
+  ],
+  [
+   "lv0#28465/myQuests[1].phases[0].description",
+   "Kill 10 Giant Rats.",
+   "杀死 10 只巨鼠。"
+  ],
+  [
+   "lv0#28465/myQuests[1].phases[0].parentQuestName",
+   "Extermination",
+   "灭鼠行动"
+  ],
+  [
+   "lv0#28465/myQuests[1].phases[0].phaseDetails",
+   "So many rats, and not a barn cat in sight. In fact, a cat is to blame for this whole mess if you ask me. Perhaps, I bear some responsibility.",
+   "这么多老鼠，却连一只谷仓猫的影子都没有。要说的话，这场烂摊子都得怪一只猫。也许……我自己也有一份责任。"
+  ],
+  [
+   "lv0#28465/myQuests[1].phases[0].phaseName",
+   "Kill 10 Giant Rats.",
+   "杀死 10 只巨鼠。"
+  ],
+  [
+   "lv0#28465/myQuests[1].questName",
+   "Extermination",
+   "灭鼠行动"
+  ],
+  [
+   "lv0#28465/myQuests[20].description",
+   "Collect iron ore for the smith.",
+   "为铁匠收集铁矿石。"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[0].description",
+   "Gather 10 Iron Ore.",
+   "采集 10 份铁矿石。"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[0].parentQuestName",
+   "Iron Deficiency",
+   "缺铁"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[0].phaseDetails",
+   "I bet these caves are full of iron. I should not have trouble finding enough to mine. Galeren will have his work cut out for him once I return.",
+   "我敢说这些洞里到处都是铁。凑够要挖的量应该不难。等我回去，加莱伦可有得忙了。"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[0].phaseName",
+   "Gather 10 Iron Ore",
+   "采集 10 份铁矿石"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[1].description",
+   "Return to the Smith with 10 Iron Ore.",
+   "带 10 份铁矿石回去见铁匠。"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[1].parentQuestName",
+   "Iron Deficiency",
+   "缺铁"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[1].phaseDetails",
+   "If Galeren can help me upgrade my pick, there will be much more ore to be had.",
+   "要是加莱伦能帮我升级镐子，以后能挖到的矿就多得多了。"
+  ],
+  [
+   "lv0#28465/myQuests[20].phases[1].phaseName",
+   "Return with Iron Ore",
+   "带着铁矿石返回"
+  ],
+  [
+   "lv0#28465/myQuests[20].questName",
+   "Iron Deficiency",
+   "缺铁"
+  ],
+  [
+   "lv0#28465/myQuests[21].description",
+   "Collect corundum ore for the smith.",
+   "为铁匠收集刚玉矿石。"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[0].description",
+   "Gather 5 Corundum Ore",
+   "采集 5 份刚玉矿石"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[0].parentQuestName",
+   "Corundum Conundrum",
+   "刚玉谜题"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[0].phaseDetails",
+   "Galeren wants Corundum. There is something about this blue ore that seems odd to me, but I cannot say why.",
+   "加莱伦想要刚玉。这种蓝色矿石总让我觉得有些古怪，却说不上为什么。"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[0].phaseName",
+   "Gather 5 Corundum Ore",
+   "采集 5 份刚玉矿石"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[1].description",
+   "Return to the Smith with 5 Corundum Ore",
+   "带 5 份刚玉矿石回去见铁匠"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[1].parentQuestName",
+   "Corundum Conundrum",
+   "刚玉谜题"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[1].phaseDetails",
+   "This can feel a bit repetitive sometimes, but it is worth it. Mine, craft. Mine, craft. Hmmm, catchy.",
+   "这活有时是有点单调，但值得。挖矿、打造；挖矿、打造。嗯，还挺顺口。"
+  ],
+  [
+   "lv0#28465/myQuests[21].phases[1].phaseName",
+   "Return with Conundrum Ore",
+   "带着刚玉矿石返回"
+  ],
+  [
+   "lv0#28465/myQuests[21].questName",
+   "Corundum Conundrum",
+   "刚玉谜题"
+  ],
+  [
+   "lv0#28465/myQuests[22].description",
+   "Enter The Moon Portals Near Kazimar's Echo",
+   "进入卡齐玛尔回响附近的月之门"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[0].description",
+   "Gather Miala's Orb",
+   "收集米亚拉之珠"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[0].parentQuestName",
+   "Orb Weaver",
+   "织球者"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[0].phaseDetails",
+   "I love the glow of the silver moon, but waiting for it to rise can be exhausting. Maybe I should make camp to give Miala time to plot her course.",
+   "我喜欢银月的辉光，但等它升起着实累人。也许我该扎营休息，给米亚拉一点时间走完她的轨迹。"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[0].phaseName",
+   "Miala's Bauble",
+   "米亚拉的小饰珠"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[1].description",
+   "Gather Tethrys' Orb",
+   "收集泰丝瑞斯之珠"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[1].parentQuestName",
+   "Orb Weaver",
+   "织球者"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[1].phaseDetails",
+   "I will have to wait for Tethrys' blue form to rise high into the sky before I can seek out this orb.",
+   "我得等泰丝瑞斯的蓝色身影升上高空，才能去寻找这颗宝珠。"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[1].phaseName",
+   "Tethrys' Concretion",
+   "泰丝瑞斯的凝珠"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[2].description",
+   "Gather Gammon's Orb",
+   "收集加蒙之珠"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[2].parentQuestName",
+   "Orb Weaver",
+   "织球者"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[2].phaseDetails",
+   "In this place I can see the red moon, but only when it rises; just like the others. I would expect to be able to see them at all times. What is this place?",
+   "在这个地方，我能看见红月——但也只在它升起的时候，和其他月亮一样。我还以为在这里能随时看见它们呢。这到底是什么地方？"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[2].phaseName",
+   "Gammon's Nodule",
+   "加蒙的结核"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[3].description",
+   "Enter Kazimar's Sanctum",
+   "进入卡齐玛尔的圣所"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[3].parentQuestName",
+   "Orb Weaver",
+   "织球者"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[3].phaseDetails",
+   "I have all three orbs. Now I can enter Kazimar's sanctum. We must be careful, though. Whatever he was up to before he was trapped here is likely dangerous.",
+   "三颗宝珠都到手了。现在我可以进入卡齐玛尔的圣所了。不过要小心——他被困在这里之前所做的事，多半很危险。"
+  ],
+  [
+   "lv0#28465/myQuests[22].phases[3].phaseName",
+   "Enter Kazimar's Sanctum",
+   "进入卡齐玛尔的圣所"
+  ],
+  [
+   "lv0#28465/myQuests[22].questName",
+   "Orb Weaver",
+   "织球者"
+  ],
+  [
+   "lv0#28465/myQuests[23].description",
+   "Collect the Moonblade Fragments",
+   "收集月刃碎片"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[0].description",
+   "Gather Miala Fragment",
+   "收集米亚拉碎片"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[0].parentQuestName",
+   "Moonstruck",
+   "月迷"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[0].phaseDetails",
+   "A fragment of Miala herself... what cost might carrying such a thing entail?",
+   "米亚拉本体的一块碎片……带着这样的东西，要付出什么代价？"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[0].phaseName",
+   "Miala's Fragment",
+   "米亚拉的碎片"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[1].description",
+   "Gather Gammon Fragment",
+   "收集加蒙碎片"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[1].parentQuestName",
+   "Moonstruck",
+   "月迷"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[1].phaseDetails",
+   "Of all the moons, Gammon seems to me to be the most alien. I cannot say why.",
+   "所有月亮之中，加蒙在我看来最为疏异。我说不清为什么。"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[1].phaseName",
+   "Gammon's Fragment",
+   "加蒙的碎片"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[2].description",
+   "Gather Tethrys Fragment",
+   "收集泰丝瑞斯碎片"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[2].parentQuestName",
+   "Moonstruck",
+   "月迷"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[2].phaseDetails",
+   "Does Solmaria have an effect on Tethrys and the other moons? I should not become so focused on myself that I forget to ask big questions.",
+   "索尔玛利亚对泰丝瑞斯和其他月亮有影响吗？我可不该一心只想着自己，忘了去追问大问题。"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[2].phaseName",
+   "Tethrys' Fragment",
+   "泰丝瑞斯的碎片"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[3].description",
+   "Return to the Smith with the 3 fragments.",
+   "带 3 块碎片回去见铁匠。"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[3].parentQuestName",
+   "Moonstruck",
+   "月迷"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[3].phaseDetails",
+   "I have all of the shards! Let us see what Galeran can do with these.",
+   "所有碎片都齐了！看看加莱伦能用它们做出什么。"
+  ],
+  [
+   "lv0#28465/myQuests[23].phases[3].phaseName",
+   "Return Fragments to Smith",
+   "把碎片交还铁匠"
+  ],
+  [
+   "lv0#28465/myQuests[23].questName",
+   "Moonstruck",
+   "月迷"
+  ],
+  [
+   "lv0#28465/myQuests[24].description",
+   "Find a cake for Shione.",
+   "为 Shione 找一块蛋糕。"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[0].description",
+   "Find a Cake",
+   "找到一块蛋糕"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[0].parentQuestName",
+   "Tasty Treat",
+   "美味点心"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[0].phaseDetails",
+   "You would think that finding a simple cake would be easy. Maybe she already ate them all. I guess we will have to enter the caves under the Gerbalds house.",
+   "你大概以为找一块普通蛋糕很容易。也许她自己已经把它们都吃光了。看来我们得进杰巴德家的地下去一趟。"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[0].phaseName",
+   "Find a Cake",
+   "找到一块蛋糕"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[1].description",
+   "Bring the Cake back to the Town Hall",
+   "把蛋糕带回镇公所"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[1].parentQuestName",
+   "Tasty Treat",
+   "美味点心"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[1].phaseDetails",
+   "This cake had better be worth it. That was a lot of trouble.",
+   "这块蛋糕最好值得。可费了不少劲。"
+  ],
+  [
+   "lv0#28465/myQuests[24].phases[1].phaseName",
+   "Return to the Tavern with Cake",
+   "带着蛋糕回酒馆"
+  ],
+  [
+   "lv0#28465/myQuests[24].questName",
+   "Tasty Treat",
+   "美味点心"
+  ],
+  [
+   "lv0#28465/myQuests[25].description",
+   "Return Trystrem's Goat",
+   "送回特里斯特雷姆的山羊"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[0].description",
+   "Convince Zy To Follow You.",
+   "说服 Zy 跟你走。"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[0].parentQuestName",
+   "Goats In The Graveyard",
+   "墓地里的山羊"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[0].phaseDetails",
+   "Trystrem said Zy is wandering the graveyard, and he needs him returned. If I run out of carrots for some reason, I can always buy more from Isobel.",
+   "特里斯特雷姆说 Zy 正在墓园里游荡，他需要把它带回来。万一胡萝卜不够了，我可以随时找伊索贝尔再买。"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[0].phaseName",
+   "Zy the Goat",
+   "山羊 Zy"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[1].description",
+   "Return Zy to Trystrem.",
+   "把 Zy 交还特里斯特雷姆。"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[1].parentQuestName",
+   "Goats In The Graveyard",
+   "墓地里的山羊"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[1].phaseDetails",
+   "What a troublesome little guy. He must be very loved. What I cannot figure out is how he survived out here on his own. That is one tough goat!",
+   "真是只麻烦的小家伙。它一定很受疼爱。可我实在想不通，它独自在外是怎么活下来的。真是一只好顽强的山羊！"
+  ],
+  [
+   "lv0#28465/myQuests[25].phases[1].phaseName",
+   "Return with Zy",
+   "带着 Zy 返回"
+  ],
+  [
+   "lv0#28465/myQuests[25].questName",
+   "Goats In The Graveyard",
+   "墓地里的山羊"
+  ],
+  [
+   "lv0#28465/myQuests[26].description",
+   "Lure and trap the local squirrels.",
+   "诱捕当地的松鼠。"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[0].description",
+   "Lure the squirrels and rabbits to the northwest pen.",
+   "把松鼠和兔子引到西北的围栏。"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[0].parentQuestName",
+   "Round 'Em Up",
+   "圈起来"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[0].phaseDetails",
+   "Isobel wants me to trap the rabbits and squirrels in town that damage her garden. I wonder what she plans to do with them once I catch them.",
+   "伊索贝尔想让我把镇里糟蹋她园圃的兔子和松鼠都捉起来。不知道我捉到之后，她打算拿它们怎么办。"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[0].phaseName",
+   "Lure and Trap",
+   "引诱并围捕"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[1].description",
+   "Tell Isobel of your success.",
+   "把好消息告诉伊索贝尔。"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[1].parentQuestName",
+   "Round 'Em Up",
+   "圈起来"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[1].phaseDetails",
+   "Well, now it feels a little quiet around here without all those critters running about.",
+   "好吧，没了那些小东西四处乱窜，这儿现在反倒显得有点安静了。"
+  ],
+  [
+   "lv0#28465/myQuests[26].phases[1].phaseName",
+   "Return to Isobel",
+   "回去见伊索贝尔"
+  ],
+  [
+   "lv0#28465/myQuests[26].questName",
+   "Round 'Em Up",
+   "圈起来"
+  ],
+  [
+   "lv0#28465/myQuests[27].description",
+   "Learn more about the dark lord.",
+   "进一步了解黑暗领主。"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[0].description",
+   "Find out information on the Dark Lord.",
+   "打探黑暗领主的情报。"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[0].parentQuestName",
+   "The Dark Lord",
+   "黑暗领主"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[0].phaseDetails",
+   "The Dark Lord? That seems like a pretty low effort kind of name. I suppose I should find out more. I will ask around.",
+   "黑暗领主？这名字听起来起得可真够敷衍的。我想我该多了解一些。去四处打听打听。"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[0].phaseName",
+   "Who is the Dark Lord",
+   "黑暗领主是谁"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[1].description",
+   "Find a book about the origins of the Dark Lord.",
+   "寻找一本讲述黑暗领主来历的书。"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[1].parentQuestName",
+   "The Dark Lord",
+   "黑暗领主"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[1].phaseDetails",
+   "There is a book somewhere that speaks of the Dark Lord. I wonder, would holding such a book result in more powers? Anyways, it is probably in the library, where books belong.",
+   "某处有一本谈及黑暗领主的书。我不禁想，捧着那样一本书会不会多几份力量？总之，它多半在图书馆——书就该待的地方。"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[1].phaseName",
+   "Origins of the Dark Lord",
+   "黑暗领主的来历"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[2].description",
+   "Find out how the Dark Lord is connected to the curse.",
+   "查明黑暗领主与诅咒之间的关联。"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[2].parentQuestName",
+   "The Dark Lord",
+   "黑暗领主"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[2].phaseDetails",
+   "If this curse is the work of the Dark Lord, I need to find out how and put an end to it. But who might know such information when everyone has forgotten?",
+   "如果这诅咒真是黑暗领主的手笔，我必须查明原委，将它终结。可当所有人都已遗忘，谁还能知道这些？"
+  ],
+  [
+   "lv0#28465/myQuests[27].phases[2].phaseName",
+   "Find the Connection",
+   "查明关联"
+  ],
+  [
+   "lv0#28465/myQuests[27].questName",
+   "The Dark Lord",
+   "黑暗领主"
+  ],
+  [
+   "lv0#28465/myQuests[28].description",
+   "Naira is the Librarian. Help Return Her Memories",
+   "奈拉就是那位图书管理员。帮她找回记忆"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[0].description",
+   "Say the magic word to Naira to help her find her memories.",
+   "对奈拉念出魔法词，助她找回记忆。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[0].parentQuestName",
+   "The Magic Word",
+   "魔法词"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[0].phaseDetails",
+   "I was told to whisper a magic word in front of Naira to bring back her memories. She must have been powerful, wise and brave to have created such a failsafe and been willing to endure it.",
+   "有人让我在奈拉面前低声念出魔法词，唤回她的记忆。当年能设下这样的保险、还甘愿承受它，她一定既强大、又睿智、又勇敢。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[0].phaseName",
+   "Say the Magic Word",
+   "念出魔法词"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[1].description",
+   "Search the swamp below the mine to find the key's guardian.",
+   "在矿井下方的沼泽中寻找钥匙的守护者。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[1].parentQuestName",
+   "Hidden Memories",
+   "尘封的记忆"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[1].phaseDetails",
+   "I must enter the Manatite Mine. Some guardian west of town has the key. Maybe the guardian will give us the key if we state our purpose. Either way, we will get it.",
+   "我必须进入法力晶石矿。钥匙在镇西某个守护者手里。如果我们说明来意，也许它会交出钥匙。无论如何，我们都得拿到它。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[1].phaseName",
+   "Find a key to the Manatite Mine",
+   "找到法力晶石矿的钥匙"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[2].description",
+   "Search a mine to the west of Emerisk for the Planar Material",
+   "在埃梅里斯克以西的矿井中寻找位面材料"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[2].parentQuestName",
+   "Hidden Memories",
+   "尘封的记忆"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[2].phaseDetails",
+   "To pass though the portal in Kalindraur we will need Planar Material, or else we may become trapped there forever.",
+   "要穿过卡林德劳尔的传送门，我们需要位面材料，否则可能会被困在那一边，永远回不来。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[2].phaseName",
+   "Find the Planar Material",
+   "找到位面材料"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[3].description",
+   "Reveal the moonrunes with Arcane Sight and enter the portal.",
+   "用「奥术视觉」显现月之符文，进入传送门。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[3].parentQuestName",
+   "Hidden Memories",
+   "尘封的记忆"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[3].phaseDetails",
+   "This is it. Naira's memories are through that archway surrounded by water. Once we have used Arcane Sight, we can use the spell fused with the Planar Material to align the moons and enter, or we can pass time in the Dormitory.",
+   "就是这里了。奈拉的记忆就在那座被水围绕的拱门之后。用过「奥术视觉」之后，我们可以用与位面材料融合的法术将月亮连成一线，然后进去——或者在宿舍里消磨时间。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[3].phaseName",
+   "Enter the Portal",
+   "进入传送门"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[4].description",
+   "Search the Lacunaria for the Mynswar Opal",
+   "在拉库纳里亚寻找明斯瓦蛋白石"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[4].parentQuestName",
+   "Hidden Memories",
+   "尘封的记忆"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[4].phaseDetails",
+   "The Opal is here, somewhere. I just hope it did not fall over the edge.",
+   "蛋白石就在这里的某个地方。但愿它没掉下崖边。"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[4].phaseName",
+   "Find the Mynswar Opal",
+   "找到明斯瓦蛋白石"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[5].description",
+   "Return with Naira's Memories",
+   "带着奈拉的记忆返回"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[5].parentQuestName",
+   "Return the Memories",
+   "交还记忆"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[5].phaseDetails",
+   "We have it! Now to return Naira's memories and end this curse!",
+   "拿到了！现在把奈拉的记忆还回去，终结这场诅咒！"
+  ],
+  [
+   "lv0#28465/myQuests[28].phases[5].phaseName",
+   "Return To Naira",
+   "回去见奈拉"
+  ],
+  [
+   "lv0#28465/myQuests[28].questName",
+   "Hidden Memories",
+   "尘封的记忆"
+  ],
+  [
+   "lv0#28465/myQuests[29].description",
+   "Find A Plane Piercer For Kazimar",
+   "为卡齐玛尔寻找一株穿位草"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[0].description",
+   "Find the Rare Plane Piercer Plant",
+   "找到稀有的穿位草"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[0].parentQuestName",
+   "Just A Phase",
+   "只是一时"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[0].phaseDetails",
+   "Kazimar is looking for a strange plant that grows in wet, underground conditions. He says it lives in two worlds at once; something I can relate to. Maybe, I was always meant to be more than just a shepherd.",
+   "卡齐玛尔在找一种生长于潮湿地下的奇异植物。他说它同时活在两个世界里——这一点，我感同身受。也许，我从来就不该只是个牧羊人。"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[0].phaseName",
+   "Find A Plane Piercer",
+   "找到穿位草"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[1].description",
+   "Return to Kazimar with the Plane Piercer",
+   "带着穿位草回去见卡齐玛尔"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[1].parentQuestName",
+   "Just A Phase",
+   "只是一时"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[1].phaseDetails",
+   "We have the plant, and holding it is more than a little distrubing. I feel another place calling out when I touch it. I really hope this does not make his condition worse, if such a thing is possible.",
+   "植物到手了，拿着它实在相当瘆人。每次触碰，我都能感觉到另一个地方在呼唤。真希望这不会让他的状况更糟——如果还能更糟的话。"
+  ],
+  [
+   "lv0#28465/myQuests[29].phases[1].phaseName",
+   "Return To Kazimar",
+   "回去见卡齐玛尔"
+  ],
+  [
+   "lv0#28465/myQuests[29].questName",
+   "Just A Phase",
+   "只是一时"
+  ],
+  [
+   "lv0#28465/myQuests[2].description",
+   "Traverse the Spider Tunnels to find the Queen",
+   "穿过蜘蛛隧道，找到蜘蛛女王"
+  ],
+  [
+   "lv0#28465/myQuests[2].phases[0].description",
+   "Find and Kill the Spider Queen",
+   "找到并杀死蜘蛛女王"
+  ],
+  [
+   "lv0#28465/myQuests[2].phases[0].parentQuestName",
+   "Silk Road",
+   "丝路"
+  ],
+  [
+   "lv0#28465/myQuests[2].phases[0].phaseDetails",
+   "A note scratched into an old book said that Neladra lives beneath Emerisk. This is a frightening thought, but we have faced many fears already. I will keep a look out for cobwebs.",
+   "一本旧书上的潦草批注说，内德拉拉就住在埃梅里斯克之下。想想就吓人，但我们已经面对过许多恐惧了。我会留意蛛网的。"
+  ],
+  [
+   "lv0#28465/myQuests[2].phases[0].phaseName",
+   "Find and Kill the Spider Queen",
+   "找到并杀死蜘蛛女王"
+  ],
+  [
+   "lv0#28465/myQuests[2].questName",
+   "Silk Road",
+   "丝路"
+  ],
+  [
+   "lv0#28465/myQuests[3].description",
+   "Kill All Manshrooms",
+   "消灭所有人菇"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[0].description",
+   "Kill all Manshrooms in the Fungal Shelf",
+   "消灭菌菇台地的所有人菇"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[0].parentQuestName",
+   "Bad Shrooms",
+   "坏蘑菇"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[0].phaseDetails",
+   "The Scaphin King, Jormagreas, has asked us to clear their old home of Manshrooms, in exchange for the graveyard key. I do not see that we have any other choice. The entrance to their lair is south-west of the Scaphin village.",
+   "斯卡芬国王约玛格烈亚斯请我们清剿他们旧居里的人菇，作为交换，给我们墓园钥匙。看来我们别无选择。它们巢穴的入口在斯卡芬村西南方。"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[0].phaseName",
+   "Kill All Manshrooms",
+   "消灭所有人菇"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[1].description",
+   "Tell Scaphin King of Your Sucess",
+   "向斯卡芬国王报捷"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[1].parentQuestName",
+   "Bad Shrooms",
+   "坏蘑菇"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[1].phaseDetails",
+   "It may be some time before I can eat mushrooms again. We have done it. The Scaphin home is clear. Now, let us get to business and collect this key.",
+   "我大概有段时间吃不下蘑菇了。我们做到了，斯卡芬的家园清干净了。现在，谈正事吧——去拿那把钥匙。"
+  ],
+  [
+   "lv0#28465/myQuests[3].phases[1].phaseName",
+   "Return to Scaphin King",
+   "回去见斯卡芬国王"
+  ],
+  [
+   "lv0#28465/myQuests[3].questName",
+   "Bad Shrooms",
+   "坏蘑菇"
+  ],
+  [
+   "lv0#28465/myQuests[4].description",
+   "Kill 10 Slimes.",
+   "杀死 10 只史莱姆。"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[0].description",
+   "Kill 10 Slimes.",
+   "杀死 10 只史莱姆。"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[0].parentQuestName",
+   "Deep Cleaning",
+   "深度清洁"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[0].phaseDetails",
+   "The mayor has asked us to go below the Town Hall to clean up the slimes that infest that old place. It cannot be that bad. I used to muck out stables all the time.",
+   "市长请我们去镇公所底下清理那座旧建筑里泛滥的史莱姆。能有多糟呢？我以前可是天天清理马厩的。"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[0].phaseName",
+   "Kill 10 Slimes.",
+   "杀死 10 只史莱姆。"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[1].description",
+   "Tell Mayor Ingram of your success.",
+   "向英格拉姆市长报捷。"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[1].parentQuestName",
+   "Deep Cleaning",
+   "深度清洁"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[1].phaseDetails",
+   "It was a bit worse than I was expecting, but the job is done. If these are the small ones, I would not like to meet the large ones in tight quarters.",
+   "比我预想的稍微糟一点，但活儿干完了。如果这些都算小的，我可不想在狭窄的地方遇上大的。"
+  ],
+  [
+   "lv0#28465/myQuests[4].phases[1].phaseName",
+   "Return to Mayor Ingram",
+   "回去见英格拉姆市长"
+  ],
+  [
+   "lv0#28465/myQuests[4].questName",
+   "Deep Cleaning",
+   "深度清洁"
+  ],
+  [
+   "lv0#28465/myQuests[5].description",
+   "Find a Lost Tablet of Glyphs",
+   "寻找遗失的刻文石板"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[0].description",
+   "Search the Library for the Tablet",
+   "在图书馆中寻找石板"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[0].parentQuestName",
+   "Tablet Of Glyphs",
+   "刻文石板"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[0].phaseDetails",
+   "Trystrem asked us to find a tablet that he saw in the library. How hard can that be? I can think of few things less dangerous than books.",
+   "特里斯特雷姆请我们去找他在图书馆里见过的一块石板。能有多难？我想不出还有什么比书更不危险的东西了。"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[0].phaseName",
+   "Search the Library",
+   "搜查图书馆"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[1].description",
+   "Give the Tablet to Trystrem Halle",
+   "把石板交给特里斯特雷姆·哈勒"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[1].parentQuestName",
+   "Tablet Of Glyphs",
+   "刻文石板"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[1].phaseDetails",
+   "I stand corrected. I may now have to consider that even books may try to eat me. I suspose I should have considered books dangerous all along. Knowledge is powerful.",
+   "我收回前言。现在我不得不承认，连书都可能想吃掉我。也许我早该把书视为危险之物。知识就是力量。"
+  ],
+  [
+   "lv0#28465/myQuests[5].phases[1].phaseName",
+   "Return to Trystrem Halle",
+   "回去见特里斯特雷姆·哈勒"
+  ],
+  [
+   "lv0#28465/myQuests[5].questName",
+   "Tablet Of Glyphs",
+   "刻文石板"
+  ],
+  [
+   "lv0#28465/myQuests[6].description",
+   "Discover more about the book.",
+   "进一步了解那本书。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[0].description",
+   "Find a book lost in the caves.",
+   "寻找遗失在洞穴中的一本书。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[0].parentQuestName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[0].phaseDetails",
+   "I found this old book, and it has some kind of power within it. This burden should belong to its owner. I will return it to them.",
+   "我捡到了这本旧书，里面蕴藏着某种力量。这份负担该由它的主人来背。我会把它物归原主。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[0].phaseName",
+   "Find the Book",
+   "找到那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[1].description",
+   "Find information that will lead you to the book keeper.",
+   "寻找能引你找到藏书人的线索。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[1].parentQuestName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[1].phaseDetails",
+   "Someone in town must know more about this book. I should ask around.",
+   "镇上一定有人更了解这本书。我该四处打听。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[1].phaseName",
+   "Find Information",
+   "寻找线索"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[2].description",
+   "Talk to the Farmer about the librarian.",
+   "向农夫打听图书管理员。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[2].parentQuestName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[2].phaseDetails",
+   "The farmer might know something. I should talk to him. If only he would stay in one place!",
+   "那个农夫也许知道些什么。我得跟他谈谈。他要是能别到处乱跑就好了！"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[2].phaseName",
+   "Inquire About Librarian",
+   "打听图书管理员"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[3].description",
+   "Find the Graveyard Key",
+   "找到墓园钥匙"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[3].parentQuestName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[3].phaseDetails",
+   "The key fell into a crack, and now lies below Emerisk. This place is full of caves. I should look for an entrance somewhere in town. I have a feeling this is not the same cave that I just escaped from.",
+   "钥匙掉进了裂缝，如今躺在埃梅里斯克之下。这地方到处是洞穴。我该在镇上找找入口。我总觉得，这跟我刚逃出来的不是同一个洞。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[3].phaseName",
+   "Retrieve the Graveyard Key",
+   "取回墓园钥匙"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[4].description",
+   "Search the graveyard for the librarian's tombstone.",
+   "在墓园中寻找图书管理员的墓碑。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[4].parentQuestName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[4].phaseDetails",
+   "The librarian is dead. If I can find her tomb, maybe it will shed some light on what to do with this book.",
+   "那位图书管理员死了。如果能找到她的墓，也许就能明白该拿这本书怎么办。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[4].phaseName",
+   "Search the Graveyard for the Librarian",
+   "在墓园中寻找图书管理员"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[5].description",
+   "Search for the Librarian below the crypt or library.",
+   "在墓室或图书馆下方寻找图书管理员。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[5].parentQuestName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[5].phaseDetails",
+   "The librarian lives, and she went into the crypt! I need to find her, but that will require making my way through catacombs... something I do not look foward to.",
+   "图书管理员还活着，而且她进了墓室！我得找到她，但那意味着要穿过地下墓窟……这可不是我期待的事。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[5].phaseName",
+   "Search for the Librarian",
+   "寻找图书管理员"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[6].description",
+   "Enter the Bleak Halls from the Library and find the Vital Information.",
+   "从图书馆进入凄凉厅堂，找到关键情报。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[6].parentQuestName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[6].phaseDetails",
+   "The librarian must have gone deeper into the halls. To get there I need to enter from the Library, for which I have a key. There is information at the other end of these halls that I must give to Naira regarding the librarian.",
+   "图书管理员一定是深入厅堂里去了。要过去，我得从图书馆进入——钥匙我有。厅堂的另一端有一份关于图书管理员的情报，我必须交给奈拉。"
+  ],
+  [
+   "lv0#28465/myQuests[6].phases[6].phaseName",
+   "Gather Vital Information",
+   "取得关键情报"
+  ],
+  [
+   "lv0#28465/myQuests[6].questName",
+   "The Book",
+   "那本书"
+  ],
+  [
+   "lv0#28465/myQuests[7].description",
+   "Find the trinket lost somewhere in a garden.",
+   "找到遗失在某处园圃里的护身符。"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[0].description",
+   "Find the trinket lost somewhere in a garden.",
+   "找到遗失在某处园圃里的护身符。"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[0].parentQuestName",
+   "The Lost Trinket",
+   "失落的护身符"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[0].phaseDetails",
+   "Samm mentioned losing his trinket while digging with his hoe. I should check some of the surrounding gardens, or other places he might have been digging.",
+   "萨姆提到他在用锄头挖掘时丢了自己的护身符。我该去周围的园圃、或者他可能挖过的其他地方找找。"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[0].phaseName",
+   "Find the Trinket",
+   "找到护身符"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[1].description",
+   "Return the trinket to its owner.",
+   "把护身符还给它的主人。"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[1].parentQuestName",
+   "The Lost Trinket",
+   "失落的护身符"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[1].phaseDetails",
+   "It is sad to think that something valuable can lie in the dirt for so long, unnoticed and yet so close.",
+   "想到一件珍贵之物竟能在泥土里躺那么久，无人察觉，却又近在咫尺，真让人难过。"
+  ],
+  [
+   "lv0#28465/myQuests[7].phases[1].phaseName",
+   "Return the Trinket",
+   "交还护身符"
+  ],
+  [
+   "lv0#28465/myQuests[7].questName",
+   "The Lost Trinket",
+   "失落的护身符"
+  ],
+  [
+   "lv0#28465/myQuests[8].description",
+   "Find the bard's lost lute beneath the graveyard.",
+   "在墓园下方寻找吟游诗人丢失的鲁特琴。"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[0].description",
+   "Find where the stream in town ends and retrieve the lute.",
+   "找到镇中溪流的尽头，取回鲁特琴。"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[0].parentQuestName",
+   "Lute and Plunder",
+   "鲁特琴与战利品"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[0].phaseDetails",
+   "Loric said that he lost his instrument where the stream meets its end. I hope that the end is not some kind of chasm or raging rapid.",
+   "洛里克说，他是在溪流尽头弄丢乐器的。但愿那个「尽头」不是什么深渊或怒涛。"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[0].phaseName",
+   "Find the Voice of Errolas",
+   "找到「埃罗拉斯之声」"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[1].description",
+   "Return the lute to the bard in the tavern.",
+   "把鲁特琴交还给酒馆里的吟游诗人。"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[1].parentQuestName",
+   "Lute and Plunder",
+   "鲁特琴与战利品"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[1].phaseDetails",
+   "This is a fine lute. It is truly special to have survived the trip over the edge, and is clearly more than just an ordinary instrument.",
+   "好一把鲁特琴。从崖边坠落还能幸存，实在非同寻常——它显然不是普通的乐器。"
+  ],
+  [
+   "lv0#28465/myQuests[8].phases[1].phaseName",
+   "Return the Voice of Errolas",
+   "交还「埃罗拉斯之声」"
+  ],
+  [
+   "lv0#28465/myQuests[8].questName",
+   "Lute and Plunder",
+   "鲁特琴与战利品"
+  ],
+  [
+   "lv0#28465/myQuests[9].description",
+   "Retrieve the Heart of Scaphos for Calgazur",
+   "为卡尔加祖尔取回斯卡福斯之心"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[0].description",
+   "Find the Heart of Scaphos in the Fungal Shelf. It Likes Blue?",
+   "在菌菇台地寻找斯卡福斯之心。它喜欢蓝色？"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[0].parentQuestName",
+   "Heart of Scaphos",
+   "斯卡福斯之心"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[0].phaseDetails",
+   "Calgazur wants us to find the Heart of Scaphos in his old home, and he wanted us to focus on the color blue. I do not know why he had to be so cryptic. Perhaps all he ever knew about it was in legend and lore.",
+   "卡尔加祖尔想让我们在他旧居里找到斯卡福斯之心，还特意叮嘱我们留意蓝色。我不懂他为什么说得这么隐晦。也许他对它的了解也只来自传说与故事。"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[0].phaseName",
+   "Retrieve the Heart",
+   "取回心脏"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[1].description",
+   "Return the Heart of Scaphos to Calgazur",
+   "把斯卡福斯之心交还卡尔加祖尔"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[1].parentQuestName",
+   "Heart of Scaphos",
+   "斯卡福斯之心"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[1].phaseDetails",
+   "Finally, a mushroom I do not have to smash or eat. I will be happy to be rid of it.",
+   "终于有一朵蘑菇不用砸也不用吃了。能摆脱它，我很高兴。"
+  ],
+  [
+   "lv0#28465/myQuests[9].phases[1].phaseName",
+   "Return the Heart",
+   "交还心脏"
+  ],
+  [
+   "lv0#28465/myQuests[9].questName",
+   "Heart of Scaphos",
+   "斯卡福斯之心"
+  ]
+ ]
+}

@@ -1,0 +1,2614 @@
+{
+ "meta": {
+  "kind": "数据/实体与生物",
+  "count": 521,
+  "with_cn": 521
+ },
+ "entries": [
+  [
+   "lv0#25787/displayName",
+   "Dog",
+   "Dog"
+  ],
+  [
+   "lv0#28319/displayName",
+   "Giant Rat",
+   "巨鼠"
+  ],
+  [
+   "lv0#28502/displayName",
+   "Feline Entity",
+   "猫科实体"
+  ],
+  [
+   "lv0#28503/displayName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "lv1#8828/displayName",
+   "Irikag",
+   "伊里卡格"
+  ],
+  [
+   "lv1#8843/displayName",
+   "Kazimar",
+   "卡齐玛尔"
+  ],
+  [
+   "lv12#8029/displayName",
+   "Irikag",
+   "伊里卡格"
+  ],
+  [
+   "lv12#8039/displayName",
+   "Biscuit",
+   "饼干"
+  ],
+  [
+   "lv14#649/displayName",
+   "Gamagon",
+   "加玛贡"
+  ],
+  [
+   "lv18#7782/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv18#7783/displayName",
+   "Calgazur",
+   "卡尔加祖尔"
+  ],
+  [
+   "lv18#7784/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv18#7785/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv18#7786/displayName",
+   "Jormagreas",
+   "约玛格烈亚斯"
+  ],
+  [
+   "lv18#7787/displayName",
+   "Rhumophris",
+   "鲁莫弗里斯"
+  ],
+  [
+   "lv18#7788/displayName",
+   "Huraphnim",
+   "胡拉夫尼姆"
+  ],
+  [
+   "lv18#7789/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11085/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11086/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11087/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11088/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11089/displayName",
+   "Corvin",
+   "科尔文"
+  ],
+  [
+   "lv20#11090/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11091/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11092/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11093/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11094/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11095/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11096/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "lv20#11265/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11266/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11267/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11268/displayName",
+   "Naira",
+   "奈拉"
+  ],
+  [
+   "lv20#11269/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11270/displayName",
+   "Kazimar",
+   "卡齐玛尔"
+  ],
+  [
+   "lv20#11271/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11272/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11273/displayName",
+   "Callor",
+   "卡洛尔"
+  ],
+  [
+   "lv20#11274/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11275/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11276/displayName",
+   "Quay",
+   "奎伊"
+  ],
+  [
+   "lv20#11277/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv20#11282/displayName",
+   "Biscuit",
+   "饼干"
+  ],
+  [
+   "lv21#10490/displayName",
+   "Irikag",
+   "伊里卡格"
+  ],
+  [
+   "lv3#1412/displayName",
+   "Armindas",
+   "阿明达斯"
+  ],
+  [
+   "lv4#4225/displayName",
+   "Taranad",
+   "塔拉纳德"
+  ],
+  [
+   "lv5#13309/displayName",
+   "Irikag",
+   "伊里卡格"
+  ],
+  [
+   "lv6#22807/displayName",
+   "Adela Meyard",
+   "阿德拉·梅亚德"
+  ],
+  [
+   "lv6#22974/displayName",
+   "Anna",
+   "安娜"
+  ],
+  [
+   "lv6#22988/displayName",
+   "Trystrem Halle",
+   "特里斯特雷姆·哈勒"
+  ],
+  [
+   "lv6#22993/displayName",
+   "Bessie",
+   "贝茜"
+  ],
+  [
+   "lv6#23017/displayName",
+   "Galeren Cole",
+   "加莱伦·科尔"
+  ],
+  [
+   "lv6#23029/displayName",
+   "Hardwin Wylde",
+   "哈德温·怀尔德"
+  ],
+  [
+   "lv6#23050/displayName",
+   "Gerbald Renault",
+   "杰巴德·雷诺"
+  ],
+  [
+   "lv6#23052/displayName",
+   "Murie Vawdrey",
+   "穆里·沃德雷"
+  ],
+  [
+   "lv6#23095/displayName",
+   "Olsun Gyffard",
+   "奥尔森·吉法德"
+  ],
+  [
+   "lv6#23211/displayName",
+   "Festos Ingram",
+   "费斯托斯·英格拉姆"
+  ],
+  [
+   "lv6#23220/displayName",
+   "Elias Gyffard",
+   "埃利亚斯·吉法德"
+  ],
+  [
+   "lv6#23224/displayName",
+   "Samm Redmund",
+   "萨姆·雷德蒙德"
+  ],
+  [
+   "lv6#23302/displayName",
+   "Goat",
+   "山羊"
+  ],
+  [
+   "lv6#23333/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23334/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23335/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23336/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23337/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23338/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23339/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23340/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23341/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "lv6#23400/displayName",
+   "Belle",
+   "贝尔"
+  ],
+  [
+   "lv6#23417/displayName",
+   "Isobel Warde",
+   "伊索贝尔·沃德"
+  ],
+  [
+   "lv6#23454/displayName",
+   "Biscuit",
+   "饼干"
+  ],
+  [
+   "lv6#23458/displayName",
+   "Alford Hayfest",
+   "阿尔福德·海菲斯特"
+  ],
+  [
+   "lv7#10193/displayName",
+   "Galeren Cole",
+   "加莱伦·科尔"
+  ],
+  [
+   "lv7#10198/displayName",
+   "Bessie",
+   "贝茜"
+  ],
+  [
+   "lv7#10204/displayName",
+   "Hardwin Wylde",
+   "哈德温·怀尔德"
+  ],
+  [
+   "lv7#10229/displayName",
+   "Olsun Gyffard",
+   "奥尔森·吉法德"
+  ],
+  [
+   "lv7#10268/displayName",
+   "Isobel Warde",
+   "伊索贝尔·沃德"
+  ],
+  [
+   "lv7#10287/displayName",
+   "Belle",
+   "贝尔"
+  ],
+  [
+   "lv7#10288/displayName",
+   "Murie Vawdrey",
+   "穆里·沃德雷"
+  ],
+  [
+   "lv7#10294/displayName",
+   "Anna",
+   "安娜"
+  ],
+  [
+   "lv7#10298/displayName",
+   "Trystrem Halle",
+   "特里斯特雷姆·哈勒"
+  ],
+  [
+   "lv7#10302/displayName",
+   "Alford Hayfest",
+   "阿尔福德·海菲斯特"
+  ],
+  [
+   "lv7#10309/displayName",
+   "Yssandra",
+   "Yssandra"
+  ],
+  [
+   "lv7#10310/displayName",
+   "Festos Ingram",
+   "费斯托斯·英格拉姆"
+  ],
+  [
+   "lv7#10319/displayName",
+   "Gerbald Renault",
+   "杰巴德·雷诺"
+  ],
+  [
+   "lv7#10320/displayName",
+   "Loric",
+   "洛里克"
+  ],
+  [
+   "lv7#10330/displayName",
+   "Adela Meyard",
+   "阿德拉·梅亚德"
+  ],
+  [
+   "lv7#10331/displayName",
+   "Elias Gyffard",
+   "埃利亚斯·吉法德"
+  ],
+  [
+   "lv7#10332/displayName",
+   "Samm Redmund",
+   "萨姆·雷德蒙德"
+  ],
+  [
+   "lv8#2060/displayName",
+   "Biscuit",
+   "饼干"
+  ],
+  [
+   "res#61205/displayName",
+   "Crypt Spider",
+   "墓穴蜘蛛"
+  ],
+  [
+   "res#61206/displayName",
+   "Giant Rat",
+   "巨鼠"
+  ],
+  [
+   "res#61207/displayName",
+   "Giant Rat",
+   "巨鼠"
+  ],
+  [
+   "res#61208/displayName",
+   "Crypt Knight",
+   "墓穴骑士"
+  ],
+  [
+   "res#61209/displayName",
+   "Slime Drop",
+   "史莱姆滴"
+  ],
+  [
+   "res#61210/displayName",
+   "Scaphin Polliwog",
+   "斯卡芬蝌蚪"
+  ],
+  [
+   "res#61211/displayName",
+   "Tunnel Spider",
+   "坑道蜘蛛"
+  ],
+  [
+   "res#61212/displayName",
+   "Goblin Scout",
+   "哥布林斥候"
+  ],
+  [
+   "res#61213/displayName",
+   "Treasure Mimic",
+   "宝箱怪"
+  ],
+  [
+   "res#61214/displayName",
+   "Ruin Crawler",
+   "废墟爬行者"
+  ],
+  [
+   "res#61215/displayName",
+   "Skeleton",
+   "骷髅"
+  ],
+  [
+   "res#61216/displayName",
+   "Zombie",
+   "僵尸"
+  ],
+  [
+   "res#61217/displayName",
+   "Slime Mother",
+   "史莱姆母体"
+  ],
+  [
+   "res#61265/displayName",
+   "Galeren Cole",
+   "加莱伦·科尔"
+  ],
+  [
+   "res#61309/displayName",
+   "Horse",
+   "马"
+  ],
+  [
+   "res#61310/displayName",
+   "Bessie",
+   "贝茜"
+  ],
+  [
+   "res#61328/displayName",
+   "Pig",
+   "猪"
+  ],
+  [
+   "res#61337/displayName",
+   "Cow",
+   "牛"
+  ],
+  [
+   "res#61369/displayName",
+   "Hardwin Wylde",
+   "哈德温·怀尔德"
+  ],
+  [
+   "res#61370/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "res#61371/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "res#61372/displayName",
+   "Wanderer",
+   "Wanderer"
+  ],
+  [
+   "res#61373/displayName",
+   "Irikag",
+   "伊里卡格"
+  ],
+  [
+   "res#61374/displayName",
+   "Corvin",
+   "科尔文"
+  ],
+  [
+   "res#61396/displayName",
+   "Tassie",
+   "Tassie"
+  ],
+  [
+   "res#61397/displayName",
+   "Dog",
+   "Dog"
+  ],
+  [
+   "res#61398/displayName",
+   "Armindas",
+   "阿明达斯"
+  ],
+  [
+   "res#61399/displayName",
+   "Taranad",
+   "塔拉纳德"
+  ],
+  [
+   "res#61892/displayName",
+   "Scaphin Lancer",
+   "斯卡芬枪兵"
+  ],
+  [
+   "res#61893/displayName",
+   "Wicked Scion",
+   "邪恶子裔"
+  ],
+  [
+   "res#61894/displayName",
+   "Manshroom Lord",
+   "人菇领主"
+  ],
+  [
+   "res#61895/displayName",
+   "Possessed Armor",
+   "附魔铠甲"
+  ],
+  [
+   "res#61896/displayName",
+   "Nullbore",
+   "虚无穴兽"
+  ],
+  [
+   "res#61897/displayName",
+   "Coffinaerie",
+   "棺巢妖"
+  ],
+  [
+   "res#61898/displayName",
+   "Timberwight",
+   "林木尸鬼"
+  ],
+  [
+   "res#61899/displayName",
+   "Azunauri",
+   "阿祖纳里"
+  ],
+  [
+   "res#61900/displayName",
+   "Volition",
+   "意志体"
+  ],
+  [
+   "res#61901/displayName",
+   "Banshee",
+   "报丧女妖"
+  ],
+  [
+   "res#61902/displayName",
+   "Manshroom Stalker",
+   "人菇潜猎者"
+  ],
+  [
+   "res#61903/displayName",
+   "Goblin Shaman",
+   "哥布林萨满"
+  ],
+  [
+   "res#61904/displayName",
+   "Vascatar",
+   "瓦斯卡塔"
+  ],
+  [
+   "res#61905/displayName",
+   "Bookwyrm",
+   "书龙"
+  ],
+  [
+   "res#61906/displayName",
+   "Blightroot Guardian",
+   "枯萎根守卫"
+  ],
+  [
+   "res#61907/displayName",
+   "Fragmental",
+   "碎界体"
+  ],
+  [
+   "res#61908/displayName",
+   "Grave Elder",
+   "墓中长者"
+  ],
+  [
+   "res#61909/displayName",
+   "Voracious Cube",
+   "贪食方块"
+  ],
+  [
+   "res#61910/displayName",
+   "Lesser Occulant",
+   "次级视者"
+  ],
+  [
+   "res#61911/displayName",
+   "Neladra",
+   "内拉德拉"
+  ],
+  [
+   "res#61912/displayName",
+   "Stalagren",
+   "石笋怪"
+  ],
+  [
+   "res#61913/displayName",
+   "Graveback",
+   "墓背龟"
+  ],
+  [
+   "res#61914/displayName",
+   "Lore Eater",
+   "噬识者"
+  ],
+  [
+   "res#61915/displayName",
+   "Helioon",
+   "赫利翁"
+  ],
+  [
+   "res#61916/displayName",
+   "Ratakast",
+   "拉塔卡斯特"
+  ],
+  [
+   "res#61917/displayName",
+   "Fetid Manshroom",
+   "腐臭人菇"
+  ],
+  [
+   "res#61918/displayName",
+   "Ghast",
+   "食尸鬼"
+  ],
+  [
+   "res#61919/displayName",
+   "Coldspore",
+   "寒孢"
+  ],
+  [
+   "res#61920/displayName",
+   "Flowstone Prowler",
+   "流石潜兽"
+  ],
+  [
+   "res#61921/displayName",
+   "Dread Host",
+   "恐惧宿主"
+  ],
+  [
+   "res#61922/displayName",
+   "Shade",
+   "幽影"
+  ],
+  [
+   "res#61923/displayName",
+   "Giant Bat",
+   "巨蝠"
+  ],
+  [
+   "res#61924/displayName",
+   "Nullbore",
+   "虚无穴兽"
+  ],
+  [
+   "res#61925/displayName",
+   "Runefly",
+   "符文蝇"
+  ],
+  [
+   "res#61926/displayName",
+   "Embergit",
+   "烬火兽"
+  ],
+  [
+   "res#61927/displayName",
+   "Arvillein",
+   "阿维雷因"
+  ],
+  [
+   "res#61928/displayName",
+   "Agroboar",
+   "怒猪"
+  ],
+  [
+   "res#61929/displayName",
+   "Bastillere",
+   "巴斯提莱尔"
+  ],
+  [
+   "res#61930/displayName",
+   "Mycellibrant",
+   "菌辉体"
+  ],
+  [
+   "res#61931/displayName",
+   "Scaphin Shaman",
+   "斯卡芬萨满"
+  ],
+  [
+   "res#61932/displayName",
+   "Bastillere",
+   "巴斯提莱尔"
+  ],
+  [
+   "res#61933/displayName",
+   "Neladra",
+   "内拉德拉"
+  ],
+  [
+   "res#61934/displayName",
+   "Giant Snail",
+   "巨蜗牛"
+  ],
+  [
+   "res#61935/displayName",
+   "Agmacarrion",
+   "阿格玛腐尸"
+  ],
+  [
+   "res#61936/displayName",
+   "Grimoire",
+   "魔典"
+  ],
+  [
+   "res#61937/displayName",
+   "Flambral",
+   "焰灵"
+  ],
+  [
+   "res#61938/displayName",
+   "Blightroot Guardian",
+   "枯萎根守卫"
+  ],
+  [
+   "res#61939/displayName",
+   "Agroboar",
+   "怒猪"
+  ],
+  [
+   "res#62220/displayName",
+   "Sheep",
+   "绵羊"
+  ],
+  [
+   "res#62359/displayName",
+   "Olsun Gyffard",
+   "奥尔森·吉法德"
+  ],
+  [
+   "res#62552/displayName",
+   "Chicken",
+   "鸡"
+  ],
+  [
+   "res#62566/displayName",
+   "Duck",
+   "鸭"
+  ],
+  [
+   "res#62645/displayName",
+   "Chicken",
+   "鸡"
+  ],
+  [
+   "res#62923/displayName",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "res#63230/displayName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#63238/displayName",
+   "Isobel Warde",
+   "伊索贝尔·沃德"
+  ],
+  [
+   "res#63476/displayName",
+   "Belle",
+   "贝尔"
+  ],
+  [
+   "res#63479/displayName",
+   "Murie Vawdrey",
+   "穆里·沃德雷"
+  ],
+  [
+   "res#63496/displayName",
+   "Bird",
+   "鸟"
+  ],
+  [
+   "res#63577/displayName",
+   "Anna",
+   "安娜"
+  ],
+  [
+   "res#65562/displayName",
+   "Trystrem Halle",
+   "特里斯特雷姆·哈勒"
+  ],
+  [
+   "res#65603/displayName",
+   "Alford Hayfest",
+   "阿尔福德·海菲斯特"
+  ],
+  [
+   "res#65624/displayName",
+   "Goose",
+   "鹅"
+  ],
+  [
+   "res#65695/displayName",
+   "Rabbit",
+   "兔"
+  ],
+  [
+   "res#65739/displayName",
+   "Goat",
+   "山羊"
+  ],
+  [
+   "res#65740/displayName",
+   "Goat",
+   "山羊"
+  ],
+  [
+   "res#65770/displayName",
+   "Squirrel",
+   "松鼠"
+  ],
+  [
+   "res#65771/displayName",
+   "Rat",
+   "鼠"
+  ],
+  [
+   "res#65845/displayName",
+   "Jormagreas",
+   "约玛格烈亚斯"
+  ],
+  [
+   "res#65846/displayName",
+   "Naira",
+   "奈拉"
+  ],
+  [
+   "res#65847/displayName",
+   "Callor",
+   "卡洛尔"
+  ],
+  [
+   "res#65848/displayName",
+   "Huraphnim",
+   "胡拉夫尼姆"
+  ],
+  [
+   "res#65849/displayName",
+   "Rhumophris",
+   "鲁莫弗里斯"
+  ],
+  [
+   "res#65850/displayName",
+   "Quay",
+   "奎伊"
+  ],
+  [
+   "res#65851/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "res#65852/displayName",
+   "Kazimar",
+   "卡齐玛尔"
+  ],
+  [
+   "res#65853/displayName",
+   "Yssandra",
+   "Yssandra"
+  ],
+  [
+   "res#65854/displayName",
+   "Gamagon",
+   "加玛贡"
+  ],
+  [
+   "res#65855/displayName",
+   "Festos Ingram",
+   "费斯托斯·英格拉姆"
+  ],
+  [
+   "res#65856/displayName",
+   "Kazimar",
+   "卡齐玛尔"
+  ],
+  [
+   "res#65857/displayName",
+   "Guard",
+   "卫兵"
+  ],
+  [
+   "res#65858/displayName",
+   "Calgazur",
+   "卡尔加祖尔"
+  ],
+  [
+   "res#66087/displayName",
+   "Loric",
+   "洛里克"
+  ],
+  [
+   "res#66088/displayName",
+   "Gerbald Renault",
+   "杰巴德·雷诺"
+  ],
+  [
+   "res#66173/displayName",
+   "Adela Meyard",
+   "阿德拉·梅亚德"
+  ],
+  [
+   "res#66175/displayName",
+   "Elias Gyffard",
+   "埃利亚斯·吉法德"
+  ],
+  [
+   "res#66202/displayName",
+   "Chicken",
+   "鸡"
+  ],
+  [
+   "res#66206/displayName",
+   "Samm Redmund",
+   "萨姆·雷德蒙德"
+  ],
+  [
+   "res#66241/displayName",
+   "Cat",
+   "猫"
+  ],
+  [
+   "res#66242/displayName",
+   "Feline Entity",
+   "猫科实体"
+  ],
+  [
+   "res#66243/displayName",
+   "Biscuit",
+   "饼干"
+  ],
+  [
+   "sa0#11818/displayName",
+   "Laszra",
+   "Laszra"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[3].identifiedName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[3].unidentifiedName",
+   "Wooden Staff",
+   "木杖"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[4].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[4].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[5].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[5].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11818/specialAbilityName",
+   "Rune-Sense",
+   "Rune-Sense"
+  ],
+  [
+   "sa0#11818/specialAbilityText",
+   "Sense the presence of nearby moon runes.",
+   "感知附近月之符文的存在。"
+  ],
+  [
+   "sa0#11819/displayName",
+   "Volition",
+   "意志体"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[3].identifiedName",
+   "Bone Club",
+   "骨棒"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[3].unidentifiedName",
+   "Bone Club",
+   "骨棒"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[4].identifiedName",
+   "Leather Armor",
+   "皮甲"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[4].setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[4].unidentifiedName",
+   "Leather Armor",
+   "皮甲"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[5].identifiedName",
+   "Bone Shield",
+   "骨盾"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[5].unidentifiedName",
+   "Bone Shield",
+   "骨盾"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11819/specialAbilityName",
+   "Bravado",
+   "Bravado"
+  ],
+  [
+   "sa0#11819/specialAbilityText",
+   "Cause active nearby enemies to come after you.",
+   "引附近活跃的敌人来追杀你。"
+  ],
+  [
+   "sa0#11820/displayName",
+   "Gallitzin",
+   "Gallitzin"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[3].identifiedName",
+   "War Hammer",
+   "战锤"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[3].unidentifiedName",
+   "War Hammer",
+   "战锤"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[4].identifiedName",
+   "Studded Leather Armor",
+   "镶钉皮甲"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[4].setName",
+   "Studded",
+   "镶钉"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[4].unidentifiedName",
+   "Studded Leather Armor",
+   "镶钉皮甲"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[5].identifiedName",
+   "Kite Shield",
+   "鸢盾"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[5].unidentifiedName",
+   "Kite Shield",
+   "鸢盾"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11820/specialAbilityName",
+   "Roar",
+   "Roar"
+  ],
+  [
+   "sa0#11820/specialAbilityText",
+   "Frighten monsters away by mimicking an even darker foe.",
+   "模仿更黑暗的敌人，将怪物吓退。"
+  ],
+  [
+   "sa0#11821/displayName",
+   "Merewen",
+   "Merewen"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[3].identifiedName",
+   "Short Sword",
+   "短剑"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[3].unidentifiedName",
+   "Short Sword",
+   "短剑"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[4].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[4].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[5].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[5].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[6].attributeList[0]",
+   "BatSwarm",
+   "蝙蝠群"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[6].attributeList[1]",
+   "Crevice",
+   "裂隙"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[6].attributeList[2]",
+   "Collapse",
+   "崩塌"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[6].attributeList[3]",
+   "ResistEarth",
+   "抗土"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[6].identifiedName",
+   "Tome of Deepest Reaches",
+   "至深之境书卷"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[6].itemNotes",
+   "Go to the Spells tab to equip newly available spells",
+   "前往「法术」页签，装备新解锁的法术。"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[6].unidentifiedName",
+   "Tome of Deepest Reaches",
+   "至深之境书卷"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11821/specialAbilityName",
+   "Wind Sense",
+   "Wind Sense"
+  ],
+  [
+   "sa0#11821/specialAbilityText",
+   "Listen and feel the flow of wind to detect exits in enclosed spaces.",
+   "聆听并感受风的流动，以察觉封闭空间中的出口。"
+  ],
+  [
+   "sa0#11822/displayName",
+   "Shione",
+   "Shione"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[0].identifiedName",
+   "Mystics Robe",
+   "秘法师长袍"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[0].setName",
+   "Enchanter",
+   "附魔师"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[0].unidentifiedName",
+   "Mystics Robe",
+   "秘法师长袍"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[3].identifiedName",
+   "Longbow",
+   "长弓"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[3].unidentifiedName",
+   "Longbow",
+   "长弓"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[4].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[4].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[5].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[5].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[9].identifiedName",
+   "Lute",
+   "鲁特琴"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[9].itemNotes",
+   "A finely crafted wooden lute.",
+   "一把做工精良的木制鲁特琴。"
+  ],
+  [
+   "sa0#11822/heroBase.myStandardItems[9].unidentifiedName",
+   "Lute",
+   "鲁特琴"
+  ],
+  [
+   "sa0#11822/specialAbilityName",
+   "Regale",
+   "Regale"
+  ],
+  [
+   "sa0#11822/specialAbilityText",
+   "Boost the health and mana regeneration of your party by playing a tune. ",
+   "演奏一曲，提高队伍的生命与法力回复。 "
+  ],
+  [
+   "sa0#11823/displayName",
+   "Lannon",
+   "Lannon"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[3].identifiedName",
+   "Torch",
+   "火炬"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[3].unidentifiedName",
+   "Torch",
+   "火炬"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[4].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[4].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[5].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[5].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11823/heroBase.myTraits[0].displayName",
+   "Heat Tolerant",
+   "耐热"
+  ],
+  [
+   "sa0#11823/heroBase.myTraits[0].traitDetail",
+   "Gain a 5% increase to Resist Fire.",
+   "抗火提高 5%。"
+  ],
+  [
+   "sa0#11823/heroBase.myTraits[0].traitInfo",
+   "Natural Fire Resistance",
+   "天生火焰抗性"
+  ],
+  [
+   "sa0#11823/specialAbilityName",
+   "Perspective",
+   "Perspective"
+  ],
+  [
+   "sa0#11823/specialAbilityText",
+   "Gain a heightened sense of perception of the area around you.",
+   "你对周围区域的感知更加敏锐。"
+  ],
+  [
+   "sa0#11824/displayName",
+   "Dimas",
+   "Dimas"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[3].identifiedName",
+   "Pickaxe",
+   "镐子"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[3].unidentifiedName",
+   "Pickaxe",
+   "镐子"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[4].identifiedName",
+   "Chain Mail Armor",
+   "链甲"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[4].setName",
+   "Chain",
+   "链甲"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[4].unidentifiedName",
+   "Chain Mail Armor",
+   "链甲"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[5].identifiedName",
+   "Kite Shield",
+   "鸢盾"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[5].unidentifiedName",
+   "Kite Shield",
+   "鸢盾"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11824/specialAbilityName",
+   "Ore-Sense",
+   "Ore-Sense"
+  ],
+  [
+   "sa0#11824/specialAbilityText",
+   "Observe the surrounding area to detect and extract extra ore and gems during mining.",
+   "观察周围区域，在采矿时发现并采出额外的矿石与宝石。"
+  ],
+  [
+   "sa0#11825/displayName",
+   "Bhulown",
+   "Bhulown"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[3].identifiedName",
+   "Bone Club",
+   "骨棒"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[3].unidentifiedName",
+   "Bone Club",
+   "骨棒"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[4].identifiedName",
+   "Leather Armor",
+   "皮甲"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[4].setName",
+   "Leather",
+   "皮革"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[4].unidentifiedName",
+   "Leather Armor",
+   "皮甲"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[5].identifiedName",
+   "Bone Shield",
+   "骨盾"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[5].unidentifiedName",
+   "Bone Shield",
+   "骨盾"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11825/specialAbilityName",
+   "Bravado",
+   "Bravado"
+  ],
+  [
+   "sa0#11825/specialAbilityText",
+   "Cause active nearby enemies to come after you.",
+   "引附近活跃的敌人来追杀你。"
+  ],
+  [
+   "sa0#11826/displayName",
+   "Rycard",
+   "Rycard"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[3].identifiedName",
+   "Short Sword",
+   "短剑"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[3].unidentifiedName",
+   "Short Sword",
+   "短剑"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[4].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[4].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[5].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[5].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11826/specialAbilityName",
+   "Track",
+   "Track"
+  ],
+  [
+   "sa0#11826/specialAbilityText",
+   "Track a path to an enemy type you are familiar with.",
+   "追踪你熟悉的某类敌人的踪迹。"
+  ],
+  [
+   "sa0#11867/displayName",
+   "Airendal",
+   "Airendal"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[3].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[3].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[4].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[4].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[5].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[5].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11867/specialAbilityName",
+   "Spirit Sight",
+   "Spirit Sight"
+  ],
+  [
+   "sa0#11867/specialAbilityText",
+   "Make the spiritual essence of entities visible in the dark.",
+   "让实体的灵魂本质在黑暗中可见。"
+  ],
+  [
+   "sa0#11868/displayName",
+   "Arbo",
+   "Arbo"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[0].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[0].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[10].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[10].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[11].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[11].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[1].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[1].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[2].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[2].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[3].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[3].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[4].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[4].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[5].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[5].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[6].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[6].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[7].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[7].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[8].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[8].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[9].identifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/heroBase.myStandardItems[9].unidentifiedName",
+   "Blank Item",
+   "空白物品"
+  ],
+  [
+   "sa0#11868/specialAbilityName",
+   "Sniff",
+   "Sniff"
+  ],
+  [
+   "sa0#11868/specialAbilityText",
+   "Finds buried objects in the surrounding area.",
+   "发现周围区域中埋藏的物品。"
+  ]
+ ]
+}
