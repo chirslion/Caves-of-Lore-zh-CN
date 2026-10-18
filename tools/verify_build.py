@@ -58,6 +58,21 @@ def main():
     if not b8set:
         raise SystemExit("b8 白名单为空——请先运行 b8_fontsize.py 生成 _b8_rect_objs.json")
 
+    # b9 地图羊皮纸标签对象（白名单：Texture2D 允许像素改动）
+    b9set = set()
+    try:
+        import json as _json9
+        _m9 = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(
+            os.path.abspath(__file__)))), "output", "game", "_b9_tex_objs.json")
+        for _fn9, _pids in _json9.load(io.open(_m9, encoding="utf-8")).items():
+            for _p9 in _pids:
+                b9set.add((CL.short_name(_fn9), _p9))
+    except Exception as e:
+        print("（b9 白名单加载失败：%r）" % e)
+    b9_changed = 0
+    if not b9set:
+        raise SystemExit("b9 白名单为空——请先运行 b9_map_labels.py 生成 _b9_tex_objs.json")
+
     # b13 外科修补对象（GameVariables 成就副本；schema 无法解析 → 内容自证）
     b13set = set()
     b13_changed = 0
@@ -159,7 +174,10 @@ def main():
                     n_chg += 1
             else:
                 if rb != ra:
-                    if ob.type.name == "Texture2D" and (short, pid) in b7set:
+                    if ob.type.name == "Texture2D" and (short, pid) in b9set:
+                        b9_changed += 1
+                        n_chg += 1
+                    elif ob.type.name == "Texture2D" and (short, pid) in b7set:
                         b7_changed += 1
                         n_chg += 1
                     elif (short, pid) in b8set:
@@ -190,6 +208,7 @@ def main():
     print("白名单外逐字节相同对象合计：%d" % total_same)
     print("白名单内全为有意保留（CN==EN）而未变对象：%d" % n_keep)
     print("b7 按钮贴图重绘对象：%d 个" % b7_changed)
+    print("b9 地图羊皮纸标签对象：%d 个（期望 %d）" % (b9_changed, len(b9set)))
     print("b8 排版修正对象（RectTransform）：%d 个" % b8_changed)
     print("b13 成就修补对象：%d 个" % b13_changed)
     if problems:

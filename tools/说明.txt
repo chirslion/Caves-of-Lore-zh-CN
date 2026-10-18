@@ -1,10 +1,11 @@
 tools/ —— 脚本命名与职责（本工程实际构成）
 ================================================
 
-  生成汉化文件.bat   ★ Windows 双击入口（4 步全跑：build → b7 → b8 → verify）
+  生成汉化文件.bat   ★ Windows 双击入口（5 步全跑：build → b7 → b8 → b9 → verify）
   build_game.py      按 refer/ 生成 game/loc_files（43 个游戏文件）+ 字体合并 + DLL 登记
   b7_fix.py          按钮贴图重绘（像素字体原生 12px；图集格逐格 ROI）
   b8_fontsize.py     按钮文字排版统一（固定字号 / 文本框展宽加高）
+  b9_map_labels.py   地图站点羊皮纸标签重绘（UI_Parchment_*，11 张）
   verify_build.py    产物校验（白名单对象 diff / CN 读回 / 存档类文件扫描）
   collect_md5.py     全量 md5 清单（双轮可复现性对比）
   pack.py            打包两类发布包（output/ 顶层 zip）+ 打包后清空 game/

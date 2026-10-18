@@ -24,20 +24,24 @@ echo ============================================
 echo   Caves of Lore 汉化文件生成
 echo ============================================
 echo.
-echo   [1/4] 构建（refer 译文 -> 游戏文件 + 字体合并 + DLL 登记）
+echo   [1/5] 构建（refer 译文 -> 游戏文件 + 字体合并 + DLL 登记）
 python "build_game.py"
 if errorlevel 1 goto FAIL
 
-echo   [2/4] 按钮贴图汉化（Sprite/Texture2D 重绘）
+echo   [2/5] 按钮贴图汉化（Sprite/Texture2D 重绘）
 python "b7_fix.py"
 if errorlevel 1 goto FAIL
 
-echo   [3/4] 按钮文字排版统一（字号 / 文本框宽度）
+echo   [3/5] 按钮文字排版统一（字号 / 文本框宽度）
 python "b8_fontsize.py"
 if errorlevel 1 goto FAIL
 
+echo   [4/5] 地图站点羊皮纸标签（UI_Parchment_* 重绘）
+python "b9_map_labels.py"
+if errorlevel 1 goto FAIL
+
 echo.
-echo   [4/4] 产物校验（白名单 diff / 读回 / 存档类文件扫描）
+echo   [5/5] 产物校验（白名单 diff / 读回 / 存档类文件扫描）
 python "verify_build.py"
 if errorlevel 1 goto FAIL
 

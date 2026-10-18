@@ -3,12 +3,40 @@
 《Caves of Lore》（Red Plume LLC / Steam / Unity 2022.3.62f3 **Mono**）的**玩家侧文本汉化**。
 译文直接写回游戏资源文件，不需要任何 Mod 加载器。
 
-> **当前状态（2026-10-17，v1.24b 第二十四轮术语修正版）**：全文 CN 完成；构建 / 校验 /
-> 打包 / 冷缓存全绿；24 轮实机反馈问题已逐条修复闭环。**复测确认**：配方「任意食物」、
-> 以太环属性说明（DAMAGE / EFFECTS / 元素伤害行）、NPC 对话「差事」按钮均正常 ✓。
+> **当前状态（2026-10-18，v1.31 存档纯度收尾版）**：全文 CN 完成；
+> 构建 / 校验 / 打包 / 冷缓存全绿；24 轮实机反馈问题已逐条修复闭环。**复测确认**：
+> 配方「任意食物」、以太环属性说明（DAMAGE / EFFECTS / 元素伤害行）、NPC 对话
+> 「差事」按钮均正常 ✓；v1.26 旧档重复话题去重**用户确认已修复 ✓**；
+> v1.27 对话/教程字幕重影**用户确认已修复 ✓**；v1.28 接受签/地图站点标签
+> **用户确认已通过 ✓**。
 > v1.24b：`+1 个效果与记忆` 统一为 `+1 效果与记忆`、召唤系「怪物生命加成」去掉硬换行；
-> 新增玩家向 `术语说明.txt`（解释效果/记忆/法术持续时间等实际机制）。
+> 新增玩家向 `术语说明.txt`。v1.25：世界地图 11 个站点羊皮纸标签像素字体重绘。
+> v1.26：附魔服务面板三个按钮字号统一、任务书「ACCEPT」→「接受」、旧档重复话题按钮
+> 读档自动去重。v1.27：对话/教程字幕原版 2px 黑描边统一为游戏标准的 1px。
+> v1.28：任务书「接受」签改为保羊皮纸纹理的放大重绘（消除「两层拼接」感）；
+> 地图站点标签的单行小字居中于深色带、大字居中于纸张空白。
+> v1.29：露营界面月相按钮 `UI_NextMoonrise/UI_NextMoonset` 重绘为
+> 「下次月临天顶 / 下次月临天底」。
+> v1.30：装备品质前缀（磨砺/精良/精致/卓越）不再重复叠加；旧档里的
+> 「Exquisite ×N」读档自动折叠为单个前缀。
+> v1.31：存档纯度收尾——训练台技能显示名进白名单；旧话题「Runes 石」归一为
+> 「符文石」；话题列表空条目读档清除。
 > 修复历史与逐轮记录见开发工作区（本仓库之外的 `workspace/recon/翻译进度.md`）。
+>
+> * **品质前缀重复（v1.30，2026-10-18）**：游戏 `FillItemBoxes` 每次刷新都执行
+>   `"Exquisite " + name`，守卫串 `Contains("Exquisite")` 未随显示串同译，中文名
+>   便每刷新一次叠一层「精致」（旧档已累积成 `Exquisite ×4/×6`）。
+>   DLL 补 Honed/Fine/Exquisite 裸守卫串（Superior 已有）；Saver 在读入/写出时
+>   对两个名字字段折叠开头重复品质前缀（旧档 4/6 个 → 1 个），Honed 显式映射
+>   避开通用表里 sharpen 的「磨砺」撞车。DLL `934dc80a…` / CavesL10N `95b462de…`。
+>
+> * **存档纯度收尾（v1.31，2026-10-18）**：复查 v1.30 后的 SAVEGAME1 发现两处旧残留：
+>   ① `KioskBase.mySkillDisplayName`（训练台技能显示名，仅显示用途）在存档里仍是
+>   中文（单手武器/双手武器/…）；② 话题列表含旧译「Runes 石」与一个空条目。
+>   Saver 把该字段纳入白名单（写出 CN→EN、读入 EN→CN），旧话题归一为「符文石」
+>   （写出再由话题专用表回 Glyph Stones），读档时移除空话题。真实存档副本
+>   savedump 验证：写出侧 map_clone **0 个中文行**、无空条目。CavesL10N
+>   `e3077c8c…`（16,384）；DLL/resources/level0/sa0/表不变。
 
 ---
 
@@ -48,10 +76,11 @@
 │   ├─ 对象归属索引.tsv   每个界面文本对象的父节点链/字号/位置（排查归属用）
 │   └─ 说明书文件
 ├─ tools/                 生成/校验/打包链
-│   ├─ 生成汉化文件.bat   ★ 双击入口（4 步：build → b7 → b8 → verify）
+│   ├─ 生成汉化文件.bat   ★ 双击入口（5 步：build → b7 → b8 → b9 → verify）
 │   ├─ build_game.py      按 refer/ 生成 game/loc_files（43 文件）+ 字体合并 + DLL 登记
 │   ├─ b7_fix.py          按钮贴图重绘（像素字体原生 12px；图集格逐格 ROI）
 │   ├─ b8_fontsize.py     按钮文字排版统一（固定字号 / 文本框展宽加高）
+│   ├─ b9_map_labels.py   地图站点羊皮纸标签重绘（UI_Parchment_*，11 张）
 │   ├─ verify_build.py    产物校验（白名单 diff / CN 读回 / 存档类文件扫描）
 │   ├─ collect_md5.py     全量 md5 清单（双轮可复现性对比）
 │   ├─ pack.py            打包两类发布包（顶层 zip）+ 打包后清空 game/
@@ -85,7 +114,8 @@
 1. 安装依赖：`pip install -r requirements.txt`；
 2. 把原版游戏（`Caves of Lore.exe` + `Caves of Lore_Data/` + `MonoBleedingEdge/`）放进 `origin/`；
 3. 生成：双击 `tools/生成汉化文件.bat`
-   （= `build_game.py` → `b7_fix.py` → `b8_fontsize.py` → `verify_build.py`）；
+   （= `build_game.py` → `b7_fix.py` → `b8_fontsize.py` → `b9_map_labels.py` →
+   `verify_build.py`）；
 4. 改译文：只改 `refer/` 下的 **CN** 字段，**不要动 ID 与 EN**；改完回第 3 步重跑；
 5. 打包：`python tools/pack.py`；冷缓存验收：`python tools/cold_test.py`。
 
@@ -99,9 +129,9 @@
 | 文件 | 改动 | 说明 |
 |---|---|---|
 | `Caves of Lore_Data/level*`（24 个） | 场景 UI 文本（m_Text）+ 排版修正 | 菜单/按钮/场景内固定文字；level0 另含字号与文本框调整 |
-| `Caves of Lore_Data/resources.assets` | 数据/物品/技能/任务文本 + 贴图 + 字体 | 含对话图节点与 Database 文本；7 个字体并入 CJK 子集 |
-| `Caves of Lore_Data/sharedassets*`（15 个） | 对话/数据/UI 文本 + 贴图 | sharedassets0 含标题/创建/服务按钮贴图重绘 |
-| `Caves of Lore_Data/Managed/Assembly-CSharp.dll` | 568 处 ldstr 替换 + 多组 IL 显示层注入 | 运行时文本；枚举/后缀/敌种名/配方类型名等显示层翻译 |
+| `Caves of Lore_Data/resources.assets` | 数据/物品/技能/任务文本 + 贴图 + 字体 | 含对话图节点与 Database 文本；7 个字体并入 CJK 子集；11 张地图站点羊皮纸标签（`UI_Parchment_*`）像素字体重绘 |
+| `Caves of Lore_Data/sharedassets*`（15 个） | 对话/数据/UI 文本 + 贴图 | sharedassets0 含标题/创建/服务按钮、任务书「接受」签贴图重绘 |
+| `Caves of Lore_Data/Managed/Assembly-CSharp.dll` | 571 处 ldstr 替换 + 多组 IL 显示层注入 | 运行时文本；枚举/后缀/敌种名/配方类型名等显示层翻译 |
 | `Caves of Lore_Data/Managed/CavesL10N.dll`（新增） | 存档边界翻译 + 显示层包装 | 纯反射辅助程序集（netstandard2.0） |
 | `Caves of Lore_Data/Managed/CavesL10N.table.txt`（新增） | 存档边界翻译表 | CN↔EN 双向（含只写别名与保留值标记） |
 
@@ -122,8 +152,12 @@
   数据侧改了没用，须走 DLL 补丁（spec 驱动逐规则计数断言 + PCL 作用域扫描 + 全量 JIT 自检）。
 * **显示层翻译**：枚举直出（材质/生物/伤害/武器类型）、品质词缀（`基名·词`）、敌种名等
   以注入包装方法实现；数据侧保持英文标识符（匹配机制所限）。
-* **按钮美术字**：标题/创造/服务等按钮文字烘焙在贴图里 → 用游戏自身像素字体原生 12px 重绘。
-* **字号一致性**：UI Text 的 BestFit 按宽+高双拟合 → 同型按钮统一固定字号 + 文本框展宽加高。
+* **按钮/地图美术字**：标题/创造/服务等按钮文字、任务书「接受」签（`UI_Accept`）、
+  世界地图站点羊皮纸标签（`UI_Parchment_*`）都烘焙在贴图里 → 用游戏自身像素字体
+  原生 12px 重绘（地图大字 2x NEAREST）。「接受」签只擦原紫色文字像素并按邻域中值
+  补羊皮纸纹理（不做矩形平涂）；地图单行小字居中于深色带、大字居中于纸张空白。
+* **字号一致性**：UI Text 的 BestFit 按宽+高双拟合 → 同型按钮统一固定字号 + 文本框展宽加高；
+  对话/教程字幕的 Outline 描边统一为游戏标准的 1px（原版 2px 在中文像素字下呈「重影」）。
 * **高亮**：对话高亮为运行时注入；译文保证高亮词三处同词且后跟全角标点。
 * **已知限制**：少数机制性英文有意保留（按键名、输入谜题答案、部分人名等），详见译文说明。
 

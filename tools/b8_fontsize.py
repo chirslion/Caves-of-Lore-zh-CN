@@ -93,9 +93,24 @@ TEXT_EDITS = {
     # —— 营地页签：急救/音乐/疲劳 原为固定 30，守夜(24049)为 BestFit（CN 短 → 撑到 40）
     #    → 统一固定 30（原版多数值）——
     24049: (30, False, 2, 40),   # 守夜
+    # —— 附魔服务面板：「剥除附魔」是动态 Text（BestFit 10..40，框高 26.2 会被撑到
+    #    ~20px），与左右两个像素贴图按钮（附魔/增幅，原生 12px）大小不一 →
+    #    固定 12px 与贴图标签统一（截图 2026-10-18 用户反馈）。
+    22831: (12, False, 2, 40),   # Strip Enchant（剥除附魔）
 }
 # 注：营地面板说明（20412/20435/20760/24610）第九轮曾改固定 38 + 加宽，实机与面板内
 # 图形（血条/箭头示意）重叠错乱 → 已全部还原为原版 BestFit/原 rect（见 git 历史）。
+
+# Outline 组件 path_id -> (effectDistance.x, effectDistance.y)
+# v1.27：对话/教程字幕三框（TutorialManager displayText1-3，即 DisplayTextSpeaker1-3）
+# 原版 Outline 距离 (2,-2)、alpha 0.5；中文像素字 BestFit 后约 15px，2px 四向描边
+# 在实机里被读成「重影」。游戏内其余 100+ 处 Outline 均为标准 (1,-1)
+# → 这三处统一为 1px（保留黑描边的可读性，不删除组件）。
+OUTLINE_EDITS = {
+    22685: (1.0, -1.0),   # DisplayTextSpeaker
+    26148: (1.0, -1.0),   # DisplayTextSpeaker2
+    27587: (1.0, -1.0),   # DisplayTextSpeaker3
+}
 
 # Text path_id -> (新宽度, 新高度)；高度 ≥ 38（fs38 单行），否则垂直截断。
 # 尺寸变化时须确认 pivot=(0.5,0.5) + 居中锚点（本作 level0 全部满足，脚本内断言）。
@@ -153,6 +168,25 @@ def main():
         o.set_raw_data(new_raw)
         n_text += 1
         print("  · Text #%d fs/best %s -> %s" % (pid, old[:2], (fs, best)))
+
+    # ---- 1b) Outline 描边距离（对话字幕重影）----
+    outline_schema = CS.SCHEMAS["UnityEngine.UI.Outline"]
+    n_outline = 0
+    for pid, (dx, dy) in sorted(OUTLINE_EDITS.items()):
+        o = objs.get(pid)
+        if o is None:
+            raise SystemExit("#%d Outline 不存在" % pid)
+        raw = o.get_raw_data()
+        prefix, fields = CL.parse_obj(raw, outline_schema)
+        old = tuple(fields["m_EffectDistance"])
+        fields["m_EffectDistance"] = [dx, dy]
+        new_raw = CL.encode_obj(prefix, fields, outline_schema)
+        _, chk = CL.parse_obj(new_raw, outline_schema)
+        if CL.encode_obj(prefix, chk, outline_schema) != new_raw:
+            raise SystemExit("#%d Outline 编解码自证失败" % pid)
+        o.set_raw_data(new_raw)
+        n_outline += 1
+        print("  · Outline #%d dist %s -> %s" % (pid, old, (dx, dy)))
 
     # ---- 2) RectTransform 宽度（按同 GO 找 RT；typetree 改宽）
     # 注意：UnityPy 的 get_raw_data()/read_typetree() 一律从磁盘原文件重读，
@@ -215,19 +249,22 @@ def main():
     man = os.path.join(ROOT, "output", "game", "_b8_rect_objs.json")
     text_only = sorted(set(TEXT_EDITS) - set(RECT_EDITS))
     with io.open(man, "w", encoding="utf-8", newline="\n") as f:
-        json.dump({FN: sorted(set(done_go.values()) | set(text_only) | set(doc_done))},
+        json.dump({FN: sorted(set(done_go.values()) | set(text_only) | set(doc_done) | set(OUTLINE_EDITS))},
                   f, ensure_ascii=False, indent=1)
-    print("白名单清单 → %s（Rect %d + Text %d + 直指 %d）" % (man, len(done_go), len(text_only), len(doc_done)))
+    print("白名单清单 → %s（Rect %d + Text %d + 直指 %d + Outline %d）"
+          % (man, len(done_go), len(text_only), len(doc_done), len(OUTLINE_EDITS)))
 
     out = env.file.save()
     with io.open(loc, "wb") as f:
         f.write(out)
-    print("写出 %s：Text %d 个、Rect %d 个；文件 %d 字节" % (FN, n_text, n_rect, len(out)))
+    print("写出 %s：Text %d 个、Rect %d 个、Outline %d 个；文件 %d 字节"
+          % (FN, n_text, n_rect, n_outline, len(out)))
 
     # ---- 3) 读回复核（重新打开保存后的文件）----
     env2 = UnityPy.load(loc)
     ok_t = 0
     ok_r = 0
+    ok_o = 0
     for o in env2.objects:
         if o.path_id in TEXT_EDITS:
             _, f2 = CL.parse_obj(o.get_raw_data(), schema)
@@ -236,6 +273,12 @@ def main():
             if got != (fs, best):
                 raise SystemExit("#%d 读回不符 %s" % (o.path_id, got))
             ok_t += 1
+        elif o.path_id in OUTLINE_EDITS:
+            _, f2 = CL.parse_obj(o.get_raw_data(), outline_schema)
+            got = tuple(f2["m_EffectDistance"])
+            if got != OUTLINE_EDITS[o.path_id]:
+                raise SystemExit("#%d Outline 读回不符 %s" % (o.path_id, got))
+            ok_o += 1
         elif o.path_id in done_go.values() or o.path_id in doc_done:
             t = o.read_typetree()
             if o.path_id in doc_done:
@@ -248,9 +291,10 @@ def main():
             if h is not None and abs(t["m_SizeDelta"]["y"] - h) > 1e-3:
                 raise SystemExit("RT 读回不符 #%d（y=%s）" % (o.path_id, t["m_SizeDelta"]["y"]))
             ok_r += 1
-    if ok_t != len(TEXT_EDITS) or ok_r != len(done_go) + len(doc_done):
-        raise SystemExit("复核计数不符 Text %d/%d Rect %d/%d" % (ok_t, len(TEXT_EDITS), ok_r, len(done_go)))
-    print("读回复核通过（Text %d / Rect %d）" % (ok_t, ok_r))
+    if ok_t != len(TEXT_EDITS) or ok_r != len(done_go) + len(doc_done) or ok_o != len(OUTLINE_EDITS):
+        raise SystemExit("复核计数不符 Text %d/%d Rect %d/%d Outline %d/%d"
+                         % (ok_t, len(TEXT_EDITS), ok_r, len(done_go), ok_o, len(OUTLINE_EDITS)))
+    print("读回复核通过（Text %d / Rect %d / Outline %d）" % (ok_t, ok_r, ok_o))
 
 
 if __name__ == "__main__":

@@ -159,7 +159,10 @@ def main():
         "基础虚体无定形大地石质熔岩水流寒冰闪电气流木质虚空需要一把刚玉飞行大型距离时"
         # 第二十四轮：ItemAttributeModifier 说明片段 + --recipe 物品类型名 helper 输出
         "伤害效果击退武器法术火焰冰霜闪电毒素神圣食物原料药水护甲衣物乐器配方箭矢"
-        "护符宝箱跟随图标货币项链戒指空白特殊书笔记盾牌法术书武器盾法球箭袋") | set(affix_chars)  # + --school/--enumdisp/--itemalias/--affix/--recipe helper 输出
+        "护符宝箱跟随图标货币项链戒指空白特殊书笔记盾牌法术书武器盾法球箭袋"
+        # 第二十四轮：地图站点羊皮纸标签（b9_map_labels.py）
+        "裁缝屠夫训练师草药附魔炼金图书馆制箭旅店铁匠镇公所药剂酿造法杖遗忘藏馆"
+        "弓斧睡眠饮品") | set(affix_chars)  # + --school/--enumdisp/--itemalias/--affix/--recipe/--b9 输出
     font_file = None
     if os.path.isdir(C.FONTS_DIR):
         for fn in sorted(os.listdir(C.FONTS_DIR)):

@@ -85,6 +85,9 @@ ENTRIES = [
     (SA0, "atlas", 23, (693, 40, 136, 36), "休息到早晨"),
     (SA0, "atlas", 23, (230, 260, 136, 36), "休息到夜晚"),
     (SA0, "atlas", 23, (0, 358, 136, 36), "休息至痊愈"),
+    # 露营月相按钮（独立 136×36 贴图：NEXT MOON ZENITH / NEXT MOON NADIR）
+    (SA0, "tex", 67, None, "下次月临天顶"),
+    (SA0, "tex", 69, None, "下次月临天底"),
     (SA0, "atlas", 23, (90, 300, 136, 20), "守夜"),
     (SA0, "atlas", 23, (90, 324, 136, 20), "照料伤员"),
     (SA0, "tex", 195, None, "结束露营"),
@@ -107,6 +110,9 @@ ENTRIES = [
     (SA0, "tex", 232, None, "购买能力"),
     (SA0, "tex", 284, None, "购买特质"),
     (SA0, "tex", 298, None, "跳过"),
+    # —— 任务书页「接受任务」签（金色问号 + ACCEPT 烘焙字）——
+    # 专用重绘路径 redraw_accept()：保留羊皮纸纹理、按原文字宽度重绘「接受」。
+    (SA0, "tex", 364, None, "接受"),
     # —— 任务筛选 / 知识菜单（图集 68x32 + 独立）——
     (SA0, "tex", 202, None, "全部"),
     (SA0, "tex", 348, None, "已完成"),
@@ -160,6 +166,9 @@ SS_OVERRIDE = {}
 UP_OVERRIDE = {}
 # 关闭二值化、灰度掩码贴图（软边 ≈ 字体渲染观感）——当前无条目（181 已回二值）。
 AA_ENTRIES = set()
+# 文字颜色覆盖（原文字色非"深色/浅色"常规时用）。任务书 ACCEPT 签走专用路径
+# redraw_accept()（保纹理 + 放大重绘），不在此表。
+COLOR_OVERRIDE = {}
 
 # 文字区域限制（相对矩形；避开装饰图标）。默认按"内缩边框 + 全宽"自动检测。
 ROI = {
@@ -282,7 +291,8 @@ def render_text_mask(text, size=NATIVE_SIZE, wrap=None, threshold=True, ss=None,
     return m.crop(bb), bb[2] - bb[0], bb[3] - bb[1], f
 
 
-def render_into(img, roi, text, interior=None, size=NATIVE_SIZE, aa=False, ss=None, up=None):
+def render_into(img, roi, text, interior=None, size=NATIVE_SIZE, aa=False, ss=None, up=None,
+                color=None):
     bbox, bg = text_bbox(img, roi)
     W, H = img.size
     ix0, iy0, ix1, iy1 = interior or (2, 2, W - 2, H - 2)
@@ -291,7 +301,8 @@ def render_into(img, roi, text, interior=None, size=NATIVE_SIZE, aa=False, ss=No
         color = (255, 255, 255)
     else:
         cx0, cy0, cx1, cy1 = bbox
-        color = dominant_text_color(img, bbox, bg)
+        if color is None:
+            color = dominant_text_color(img, bbox, bg)
     # RGBA 图必须保住透明通道（曾因 convert('RGB') 把整张图集的 alpha 变实心，
     # 图集内所有透明图标/圆角变白块——2026-10-16 实机定位）
     if img.mode == "RGBA":
@@ -318,6 +329,63 @@ def render_into(img, roi, text, interior=None, size=NATIVE_SIZE, aa=False, ss=No
     dr = ImageDraw.Draw(img)
     dr.rectangle((ux0, uy0, ux1, uy1), fill=bg)
     img.paste(color, (tx, ty), mask)
+    return True
+
+
+# ---------------- 任务书「接受」签专用重绘 ----------------
+# 原版：128×128 羊皮纸 + 金色问号 + 「ACCEPT」紫色像素字（左对齐、宽约 69px、高 11px）。
+# 通用 render_into 会把整块文字区擦成纯色矩形 → 羊皮纸纹理被抹平，中文小字看起来
+# 像「另贴的一层」（2026-10-18 实机反馈）。专用路径：
+#   1) 只把原文字紫色像素按邻域中值补成羊皮纸（保留纹理）；
+#   2) 「接  受」用 12px 像素字渲染后 ×2 NEAREST（两个空格 ≈ 原 ACCEPT 宽度 69px），
+#      左对齐位置与原文字一致（x=16），保留下方整块羊皮纸的「一体」观感。
+ACCEPT_PID = 364
+ACCEPT_ROI = (8, 78, 120, 114)
+ACCEPT_COLOR = (102, 45, 99)
+ACCEPT_TEXT_XY = (16, 80)
+
+
+def _color_near(c, t, tol=12):
+    return abs(c[0] - t[0]) <= tol and abs(c[1] - t[1]) <= tol and abs(c[2] - t[2]) <= tol
+
+
+def redraw_accept(img):
+    x0, y0, x1, y1 = ACCEPT_ROI
+    px = img.load()
+    mask = set()
+    for y in range(y0, y1):
+        for x in range(x0, x1):
+            if _color_near(px[x, y][:3], ACCEPT_COLOR):
+                mask.add((x, y))
+    if not mask:
+        return False
+    # 邻域中值补背景：用原图中未遮像素，逐通道取中值（保留纸张纹理，不做矩形平涂）
+    src = img.copy()
+    sp = src.load()
+    for (x, y) in sorted(mask):
+        found = []
+        for rad in range(1, 10):
+            for yy in range(max(y0, y - rad), min(y1, y + rad + 1)):
+                for xx in range(max(x0, x - rad), min(x1, x + rad + 1)):
+                    if (xx, yy) not in mask:
+                        found.append(sp[xx, yy][:3])
+            if len(found) >= 12:
+                break
+        if found:
+            med = tuple(sorted(v[i] for v in found)[len(found) // 2] for i in range(3))
+            px[x, y] = med + (px[x, y][3],)
+    # 2x 像素字：12px 原生掩码 ×2 NEAREST，宽度接近原 ACCEPT（69px）
+    m, mw, mh, _ = render_text_mask("接  受", size=NATIVE_SIZE)
+    if m is None:
+        return False
+    m = m.resize((mw * 2, mh * 2), Image.NEAREST)
+    tx, ty = ACCEPT_TEXT_XY
+    if tx + m.width > img.width or ty + m.height > img.height:
+        return False
+    for yy in range(m.height):
+        for xx in range(m.width):
+            if m.getpixel((xx, yy)) > 0:
+                px[tx + xx, ty + yy] = ACCEPT_COLOR + (255,)
     return True
 
 
@@ -348,11 +416,15 @@ def main():
                 print("！缺纹理 %s#%d (%s)" % (fn, tid, cn)); fail += 1; continue
             d = o.read()
             img = d.image.convert("RGBA")
-            ok = render_into(img, ROI.get((fn, tid)), cn,
-                             size=SIZE_OVERRIDE.get((fn, tid, None), NATIVE_SIZE),
-                             aa=(fn, tid, None) in AA_ENTRIES,
-                             ss=SS_OVERRIDE.get((fn, tid, None)),
-                             up=UP_OVERRIDE.get((fn, tid, None)))
+            if (fn, tid) == (SA0, ACCEPT_PID):
+                ok = redraw_accept(img)
+            else:
+                ok = render_into(img, ROI.get((fn, tid)), cn,
+                                 size=SIZE_OVERRIDE.get((fn, tid, None), NATIVE_SIZE),
+                                 aa=(fn, tid, None) in AA_ENTRIES,
+                                 ss=SS_OVERRIDE.get((fn, tid, None)),
+                                 up=UP_OVERRIDE.get((fn, tid, None)),
+                                 color=COLOR_OVERRIDE.get((fn, tid, None)))
             total += 1
             if not ok:
                 print("！重绘失败 %s#%d (%s)" % (fn, tid, cn)); fail += 1; continue
@@ -383,7 +455,8 @@ def main():
                                  size=SIZE_OVERRIDE.get((fn, tid, rect), NATIVE_SIZE),
                                  aa=(fn, tid, rect) in AA_ENTRIES,
                                  ss=SS_OVERRIDE.get((fn, tid, rect)),
-                                 up=UP_OVERRIDE.get((fn, tid, rect)))
+                                 up=UP_OVERRIDE.get((fn, tid, rect)),
+                                 color=COLOR_OVERRIDE.get((fn, tid, rect)))
                 total += 1
                 if not ok:
                     print("！重绘失败 %s#%d rect=%r (%s)" % (fn, tid, rect, cn)); fail += 1; continue
