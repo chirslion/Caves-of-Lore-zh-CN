@@ -968,7 +968,7 @@
   [
    "lv0#28354/myAbilities[68].skill_Detail",
    "Throw dust into your enemy's face, blinding them until their next physical attack or dodge, which will fail.\n\nGain back a used movement for every second skill level after the first.\n\nEnds Turn: No",
-   "将尘土扬向敌人面部，使其失明，直到其下一次物理攻击或闪避——那一次将必定失败。\n\n第一级之后每两级技能返还 1 点已用移动。\n\n结束回合：否"
+   "将尘土扬向敌人面部，使其失明，直到其下一次物理攻击或闪避，那一次将必定失败。\n\n第一级之后每两级技能返还 1 点已用移动。\n\n结束回合：否"
   ],
   [
    "lv0#28354/myAbilities[68].skill_Text",
@@ -1703,7 +1703,7 @@
   [
    "lv0#28354/mySpells[26].skill_Detail",
    "Summon 4 orbs; Fire, Earth, Shock and Ice, to hover around your target and randomly discharge at the start of their turn. Each orb deals 2 damage.\n\nDamage increases by 1 for every skill level beyond the first.\n\nEnds Turn: Yes",
-   "召唤 4 颗光球——火焰、土、电击与冰霜——环绕目标悬浮，并在其回合开始时随机放电。每颗光球造成 2 点伤害。\n\n第一级之后每级使伤害提高 1。\n\n结束回合：是"
+   "召唤 4 颗光球（火焰、土、电击与冰霜）环绕目标悬浮，并在其回合开始时随机放电。每颗光球造成 2 点伤害。\n\n第一级之后每级使伤害提高 1。\n\n结束回合：是"
   ],
   [
    "lv0#28354/mySpells[26].skill_Text",
@@ -1838,7 +1838,7 @@
   [
    "lv0#28354/mySpells[34].skill_Detail",
    "Two horrifying arms each deal 1 Earth and 5 Slashing damage each to a single target.\n\nThe target will also be rooted if they fail a Reflex roll, even if they are Incorporeal or Void, and become more vulnerable to attack.\n\nEvery two spell levels beyond the first 3 add an additional arm, subject to modification by Spirit attribute.\n\nSpell levels increase damage bonus per arm by 1 for every level beyond the first and increases damage vulnerability by 3.\n\nIf your target is on a Vent or Crevice each arm gains an additional 2 Fire damage plus the damage bonus for levels.\n\nEach time Umbral Embrace has been used against the same target adds 10% more damage.\n\nEnds Turn: Yes",
-   "两条骇人的手臂各对单一目标造成 1 点土伤害与 5 点挥砍伤害。\n\n目标若反应检定失败还会被定身——即使是虚体或虚空生物也不例外——并变得更易受到攻击。\n\n第 3 级之后每两级法术等级再增加一条手臂，数量受精神属性影响。\n\n第一级之后每级使每条手臂的伤害加成提高 1，并使受击易伤提高 3。\n\n若目标位于喷气孔或裂隙上，每条手臂再获得 2 点火焰伤害，外加随等级提升的伤害加成。\n\n对同一目标每次使用「暗影缠拥」都会再增加 10% 伤害。\n\n结束回合：是"
+   "两条骇人的手臂各对单一目标造成 1 点土伤害与 5 点挥砍伤害。\n\n目标若反应检定失败还会被定身（即使是虚体或虚空生物也不例外）并变得更易受到攻击。\n\n第 3 级之后每两级法术等级再增加一条手臂，数量受精神属性影响。\n\n第一级之后每级使每条手臂的伤害加成提高 1，并使受击易伤提高 3。\n\n若目标位于喷气孔或裂隙上，每条手臂再获得 2 点火焰伤害，外加随等级提升的伤害加成。\n\n对同一目标每次使用「暗影缠拥」都会再增加 10% 伤害。\n\n结束回合：是"
   ],
   [
    "lv0#28354/mySpells[34].skill_Text",
@@ -2003,7 +2003,7 @@
   [
    "lv0#28354/mySpells[44].skill_Detail",
    "Send out a wave of fire that deals 2 fire damage for each tile the wave has travelled, to each entity in its path.\n\nAll damaged entities that fail a Resist Fire roll will catch on fire.\n\nSkill levels increase damage bonus by 1 for every level beyond the first.\n\nEnds Turn: Yes",
-   "放出一道火焰之浪，对路径上的每个实体造成伤害——火浪每前进一格，便造成 2 点火焰伤害。\n\n所有受伤害且抗火失败的实体都会着火。\n\n第一级之后每级使伤害加成提高 1。\n\n结束回合：是"
+   "放出一道火焰之浪，对路径上的每个实体造成伤害，火浪每前进一格，便造成 2 点火焰伤害。\n\n所有受伤害且抗火失败的实体都会着火。\n\n第一级之后每级使伤害加成提高 1。\n\n结束回合：是"
   ],
   [
    "lv0#28354/mySpells[44].skill_Text",

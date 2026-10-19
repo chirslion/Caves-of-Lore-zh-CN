@@ -39,7 +39,7 @@
    "res#59815/whatIHaveToSay[0]",
    "Emerisk",
    "It is small compared to where I came from. That much I know. I have not seen it, or at least I do not recall if I have. I also do not know why I was on my way to this region, but I am grateful that I was, for I may have been lost otherwise.",
-   "与我来的地方相比，这里很小。这一点我清楚。我没见过它，至少不记得见过。我也不明白自己当初为何正前往这一带，但我很庆幸——否则我恐怕早已迷失。"
+   "与我来的地方相比，这里很小。这一点我清楚。我没见过它，至少不记得见过。我也不明白自己当初为何正前往这一带，但我很庆幸，否则我恐怕早已迷失。"
   ],
   [
    "res#59870/whatIHaveToSay[0]",
@@ -123,7 +123,7 @@
    "res#60146/whatIHaveToSay[0]",
    "zenith",
    "When a moon rises, not just above the horizon, but to a point where its energy can be strongly felt, it is called a zenith. The opposite is true for the nadir, which is when a moon's energy can no longer be felt at all.",
-   "当一轮月亮升起，不只是升出地平线，而是升到它的能量能被强烈感知之处，这便称为天顶。天底则相反——那是月亮的能量彻底无法被感知之时。"
+   "当一轮月亮升起，不只是升出地平线，而是升到它的能量能被强烈感知之处，这便称为天顶。天底则相反，那是月亮的能量彻底无法被感知之时。"
   ],
   [
    "res#60146/whatIHaveToSay[1]",
@@ -141,7 +141,7 @@
    "res#60298/whatIHaveToSay[0]",
    "fog",
    "My interest in the fog is different than the others. It does not appear physical, which has been observed by some of the others, but more so, arcane symbols can be viewed through it.",
-   "我对迷雾的兴趣与他人不同。它看起来并非实体——这一点别人也观察到过；更甚的是，透过它能看到奥术符号。"
+   "我对迷雾的兴趣与他人不同。它看起来并非实体，这一点别人也观察到过；更甚的是，透过它能看到奥术符号。"
   ],
   [
    "res#60327/options[0].text",
@@ -219,13 +219,13 @@
    "res#60519/whatIHaveToSay[0]",
    "Respectacle",
    "I felt a strange presence appear the moment you were taken into the other realm. It is some kind of artifact, created by the tear in our world.\n\nI shall call it, the Respectacle, for it must be respected. Not for any other reason.",
-   "你被带入另一个领域的那一刻，我感到一个陌生的存在出现了。它是某种人造之物，由我们世界的那道裂口所生。\n\n我将称它为——敬视镜。因为它必须受人敬重，没有别的原因。"
+   "你被带入另一个领域的那一刻，我感到一个陌生的存在出现了。它是某种人造之物，由我们世界的那道裂口所生。\n\n我将称它为，敬视镜。因为它必须受人敬重，没有别的原因。"
   ],
   [
    "res#60519/whatIHaveToSay[1]",
    "Respectacle",
    "I believe it latched on to the narrowest gap between worlds; the same gap that you used to escape. Be very careful around it. We do not know what it is capable of.",
-   "我相信它攀附在世界之间最狭窄的缝隙上——正是你用来逃脱的那道缝隙。在它周围务必小心。我们不知道它有何能力。"
+   "我相信它攀附在世界之间最狭窄的缝隙上，正是你用来逃脱的那道缝隙。在它周围务必小心。我们不知道它有何能力。"
   ],
   [
    "res#60531/whatIHaveToSay[0]",
@@ -237,7 +237,7 @@
    "res#60531/whatIHaveToSay[1]",
    "dark lord",
    "Unfortunately his creatures remain, and even continue to grow. Solmaria may never be rid of them. I remember hearing once that some of them came from wherever he did; not from Solmaria, that much is certain.",
-   "可惜他的造物仍在，甚至在不断滋长。索尔玛利亚也许永远摆脱不了它们。我记得听人说过，其中一些来自他来的地方；它们并非出自索尔玛利亚——这一点是肯定的。"
+   "可惜他的造物仍在，甚至在不断滋长。索尔玛利亚也许永远摆脱不了它们。我记得听人说过，其中一些来自他来的地方；它们并非出自索尔玛利亚，这一点是肯定的。"
   ],
   [
    "res#60541/whatIHaveToSay[0]",
@@ -249,7 +249,7 @@
    "res#60583/whatIHaveToSay[0]",
    "librarian",
    "I was not here when she first arrived and restored this place, so I have not seen her. Nor would I remember her if I had, for none of the others can, and I do not hold myself above them.",
-   "她初来此地、修复这个地方时，我并不在这里，所以没见过她。就算见过，我大概也记不住——因为其他人都记不住，而我不认为自己比他们高明。"
+   "她初来此地、修复这个地方时，我并不在这里，所以没见过她。就算见过，我大概也记不住，因为其他人都记不住，而我不认为自己比他们高明。"
   ],
   [
    "res#60613/whatIHaveToSay[0]",

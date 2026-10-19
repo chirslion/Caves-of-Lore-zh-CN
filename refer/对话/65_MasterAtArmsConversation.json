@@ -33,7 +33,7 @@
    "res#59895/whatIHaveToSay[0]",
    "moongates",
    "Gates? Hmmm... I remember the tale of the Moonblade. It was a powerful weapon in ancient times. It was split into pieces when it was no longer needed and hidden in magical gates.",
-   "门？嗯……我记得月刃，的传说。它曾是一件强大的武器，属于远古时代。当它不再被需要时，它被拆成碎片，藏进了魔法之门中。"
+   "门？嗯……我记得月刃的传说。它曾是一件强大的武器，属于远古时代。当它不再被需要时，它被拆成碎片，藏进了魔法之门中。"
   ],
   [
    "res#59895/whatIHaveToSay[1]",
@@ -105,7 +105,7 @@
    "res#60307/whatIHaveToSay[1]",
    "fog",
    "Naira thinks that perhaps some parts of our memory cannot be lost, especially those that have become nearly instinct, as swordsmanship will when you put in the right effort.",
-   "奈拉认为，也许我们记忆中的某些部分不会丢失，尤其是那些近乎本能的——只要功夫下得对，剑术就会变成那样。"
+   "奈拉认为，也许我们记忆中的某些部分不会丢失，尤其是那些近乎本能的，只要功夫下得对，剑术就会变成那样。"
   ],
   [
    "res#60336/options[0].text",
@@ -177,7 +177,7 @@
    "res#60520/whatIHaveToSay[0]",
    "training",
    "I can train you in the use of various weapons, but you will need practice weapons first. I don't wish to kill you.",
-   "我可以训练你使用各种武器，但你得先有练习，用的兵器——我可不想闹出人命。"
+   "我可以训练你使用各种武器，但你得先有练习，用的兵器，我可不想闹出人命。"
   ],
   [
    "res#60520/whatIHaveToSay[1]",
@@ -249,7 +249,7 @@
    "res#60801/whatIHaveToSay[1]",
    "Moonblade",
    "It could be nothing more than a legend, but I have seen stranger things already.",
-   "也许它终究只是个传说——不过，更离奇的东西我都已经见过了。"
+   "也许它终究只是个传说，不过，更离奇的东西我都已经见过了。"
   ],
   [
    "res#60802/whatIHaveToSay[0]",
@@ -261,13 +261,13 @@
    "res#60814/whatIHaveToSay[0]",
    "Scaphin",
    "There are many strange creatures in this world, or so Callor tells me. We must appear strange to them as well.",
-   "这世上有许多奇怪的生物——卡洛尔是这么告诉我的。在它们眼里，我们想必也很奇怪。"
+   "这世上有许多奇怪的生物，卡洛尔是这么告诉我的。在它们眼里，我们想必也很奇怪。"
   ],
   [
    "res#60827/whatIHaveToSay[0]",
    "elder stone",
    "It is a strange stone that can be found in the halls surrounding this place. We do not know its purpose, but it can hone the edge of a blade like nothing I have ever seen. Well, nothing I remember seeing anyways.",
-   "这是一种奇怪的石头，可以在环绕此地的厅堂里找到。我们不知道它的用途，但它打磨刀刃的效果，是我平生仅见——嗯，是我记得起来的里头最厉害的。"
+   "这是一种奇怪的石头，可以在环绕此地的厅堂里找到。我们不知道它的用途，但它打磨刀刃的效果，是我平生仅见，嗯，是我记得起来的里头最厉害的。"
   ],
   [
    "res#60827/whatIHaveToSay[1]",
@@ -291,7 +291,7 @@
    "res#60884/whatIHaveToSay[0]",
    "Archaven",
    "Those that lived here long ago made sure that all of their needs could be met, for many cycles if needed. It was thorough planning.",
-   "很久以前住在这里的人，确保一切所需都能自给自足——必要时可支撑许多轮。筹划得滴水不漏。"
+   "很久以前住在这里的人，确保一切所需都能自给自足，必要时可支撑许多轮。筹划得滴水不漏。"
   ],
   [
    "res#60905/options[0].text",
@@ -441,7 +441,7 @@
    "res#60973/whatIHaveToSay[0]",
    "Codex",
    "This Codex of yours is the key to much, or so I have overheard. They say that our fate rests upon this object, but I know that the one wielding it matters just as much.",
-   "你这部典籍，是解开许多事情的钥匙——我是这么听说的。他们都说我们的命运系于这件东西，但我知道，握着它的人同样重要。"
+   "你这部典籍，是解开许多事情的钥匙，我是这么听说的。他们都说我们的命运系于这件东西，但我知道，握着它的人同样重要。"
   ],
   [
    "res#60993/whatIHaveToSay[0]",

@@ -27,7 +27,7 @@
    "res#59778/whatIHaveToSay[0]",
    "graveyard",
    "I locked it up. People were complaining about finding desecrated graves. I don't need more trouble in this town. If you must go, the key fell into a crack as I was taking a stroll.",
-   "我把它锁了。人们抱怨说发现有坟墓被亵渎。这镇上不需要更多麻烦了。你非要去的话——我散步时，钥匙掉进了一道裂缝里。"
+   "我把它锁了。人们抱怨说发现有坟墓被亵渎。这镇上不需要更多麻烦了。你非要去的话，我散步时，钥匙掉进了一道裂缝里。"
   ],
   [
    "res#59778/whatIHaveToSay[1]",
@@ -45,7 +45,7 @@
    "res#59825/whatIHaveToSay[0]",
    "Emerisk",
    "Emerisk is the most amazing place... in all of Solmaria! That's because it is the only town in Solmaria. All the rest of the world is fog.\n\nWe are humble folk; well, except for the Baron.",
-   "埃梅里斯克，是整个索尔玛利亚……最了不起的地方！因为它是索尔玛利亚唯一的镇子。世界其余的地方全是迷雾。\n\n我们是些谦卑的百姓——嗯，男爵除外。"
+   "埃梅里斯克是整个索尔玛利亚……最了不起的地方！因为它是索尔玛利亚唯一的镇子。世界其余的地方全是迷雾。\n\n我们是些谦卑的百姓，嗯，男爵除外。"
   ],
   [
    "res#59825/whatIHaveToSay[1]",
@@ -69,7 +69,7 @@
    "res#59878/whatIHaveToSay[1]",
    "caves",
    "But that cannot be. The dark lord was destroyed generations ago.\n\nAt least it provides a clean source of water for our village. The well goes deep into the caves; much deeper than any have been in a long time.",
-   "可那不可能。黑暗领主，好几个世代前就被毁灭了。\n\n至少它为我们村子提供了洁净的水。这口井深入洞穴——深得多年无人到过的地步。"
+   "可那不可能。黑暗领主，好几个世代前就被毁灭了。\n\n至少它为我们村子提供了洁净的水。这口井深入洞穴，深得多年无人到过的地步。"
   ],
   [
    "res#59892/whatIHaveToSay[0]",
@@ -105,7 +105,7 @@
    "res#60031/whatIHaveToSay[0]",
    "Agmarians",
    "Agmarians are a foul people, if they can even be called people. Half lizard they are, and vicious too!",
-   "阿格玛人，是群可恶的家伙——如果他们还配叫「人」的话。半蜥蜴的血统，还凶残得很！"
+   "阿格玛人，是群可恶的家伙，如果他们还配叫「人」的话。半蜥蜴的血统，还凶残得很！"
   ],
   [
    "res#60031/whatIHaveToSay[1]",
@@ -117,7 +117,7 @@
    "res#60128/whatIHaveToSay[0]",
    "Merewen",
    "Hello again lass. You didn't follow that young fool into the fog did you? My warnings were clear you know. Emerisk has few enough young folk as it is. We need every last one of you if we are to prepare for the next cycle.",
-   "又见面了，姑娘。你没跟着那个傻小子进迷雾吧？我的警告可是说得清清楚楚。埃梅里斯克，本就年轻人不多。要为下一轮做准备，你们每一个都不能少。"
+   "又见面了，姑娘。你没跟着那个傻小子进迷雾吧？我的警告可是说得清清楚楚。埃梅里斯克本就年轻人不多。要为下一轮做准备，你们每一个都不能少。"
   ],
   [
    "res#60172/whatIHaveToSay[0]",
@@ -201,13 +201,13 @@
    "res#60394/whatIHaveToSay[0]",
    "job",
    "Oh, I am the welcoming committee for Emerisk; the one and only member too. I welcome folks to our fine town. We're a small enough town that only one member is needed on the committee.",
-   "哦，我是埃梅里斯克，的欢迎委员会——还是唯一一名成员。我负责迎接来我们这座好镇子的人。镇子小，委员会有一个人就够了。"
+   "哦，我是埃梅里斯克的迎宾委员会成员，也是唯一的成员。我欢迎各位来到我们这座美丽的小镇。这里人口不多，所以委员会只需要一名成员就够了。"
   ],
   [
    "res#60551/whatIHaveToSay[0]",
    "Lannon",
    "Welcome to the town of Emerisk. Wait a moment... I recognize you. Welcome back. It has been a while since I last saw you, wandering off to find your lost sheep.",
-   "欢迎来到埃梅里斯克，镇。等等……我认得你。欢迎回来。上次见你还是好久以前——你为了找丢失的羊，晃出了镇子。"
+   "欢迎来到埃梅里斯克镇。等等……我认得你。欢迎回来。上次见你还是好久以前，那时你为了找丢失的羊，晃出了镇子。"
   ],
   [
    "res#60551/whatIHaveToSay[1]",
@@ -267,7 +267,7 @@
    "res#60845/whatIHaveToSay[0]",
    "Renault",
    "The Renault family was once very prominent in the town of... the... village... of Emerisk is the only habitable place in the whole world, you know.",
-   "雷诺家族，曾在……那个……埃梅里斯克，的村子里十分显赫。要知道，那可是全世界唯一适合居住的地方。"
+   "雷诺家族，曾在……那个……埃梅里斯克的村子里十分显赫。要知道，那可是全世界唯一适合居住的地方。"
   ],
   [
    "res#60906/options[0].text",
@@ -369,7 +369,7 @@
    "res#60959/whatIHaveToSay[0]",
    "onQuest",
    "Take this key. It will allow you into the deeper parts of the cave where most of the slimes dwell.",
-   "拿着这把钥匙。它能让你进入洞穴更深处——史莱姆大多聚集在那里。"
+   "拿着这把钥匙。它能让你进入洞穴更深处，史莱姆大多聚集在那里。"
   ]
  ]
 }

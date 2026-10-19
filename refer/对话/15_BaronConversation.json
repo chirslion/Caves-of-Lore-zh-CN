@@ -15,7 +15,7 @@
    "res#59731/whatIHaveToSay[0]",
    "caves",
    "I hear they used to build cities in them. If you ask me, and you did, only a fool would leave luxury to crawl around in filth. Now, if you don't mind I'm on the way to get lost in a drink.",
-   "听说他们从前会在洞穴里建城。要问我的看法——既然你问了——只有傻瓜才会放着安逸日子不过，去烂泥里爬来爬去。好了，失陪，我正要去杯酒里好好迷失一番。"
+   "听说他们从前会在洞穴里建城。要问我的看法（既然你问了）只有傻瓜才会放着安逸日子不过，去烂泥里爬来爬去。好了，失陪，我正要去杯酒里好好迷失一番。"
   ],
   [
    "res#59807/whatIHaveToSay[0]",
@@ -39,7 +39,7 @@
    "res#59966/whatIHaveToSay[0]",
    "onQuest",
    "Bring me 5 quality pieces of snail meat and I will reward you handsomely. You will have to ask the Mayor for the key. He locked those creatures away, and not without good reason.",
-   "给我带来 5 块上等蜗牛肉，我会重重赏你。你得先向镇长讨钥匙。他把那些东西锁了起来——而且不是没有道理的。"
+   "给我带来 5 块上等蜗牛肉，我会重重赏你。你得先向镇长讨钥匙。他把那些东西锁了起来，而且不是没有道理的。"
   ],
   [
    "res#59967/whatIHaveToSay[0]",
@@ -171,7 +171,7 @@
    "res#60380/whatIHaveToSay[0]",
    "job",
    "Is it not apparent? I am this town's fancy dresser.\n\nNo doubt I was elected to this position because of my excellent sense of style, which has been a Renault family trait for generations.",
-   "这还不明显吗？我是这个镇子的体面衣着官。\n\n毫无疑问，我之所以当选，全凭我出色的衣着品味——那是我家世代相传的特质，源自雷诺。"
+   "这还不明显吗？我是这个镇子的体面衣着官。\n\n毫无疑问，我之所以当选，全凭我出色的衣着品味，那是我家世代相传的特质，源自雷诺。"
   ],
   [
    "res#60380/whatIHaveToSay[1]",
@@ -231,7 +231,7 @@
    "res#60792/whatIHaveToSay[0]",
    "Gallitzin",
    "I could use a servant of your strength. You will have to sleep outside of course, for I have no room in my home.",
-   "我正用得着像你这样有力的仆人。当然，你得睡在屋外——我家里可没地方。"
+   "我正用得着像你这样有力的仆人。当然，你得睡在屋外，我家里可没地方。"
   ],
   [
    "res#60892/options[0].text",

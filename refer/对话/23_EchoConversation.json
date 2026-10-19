@@ -75,7 +75,7 @@
    "res#59927/whatIHaveToSay[0]",
    "Bhulown",
    "You may have travelled further than any of your kind by coming here.",
-   "你可能是你们一族中走得最远的人——因为你来到了这里。"
+   "你可能是你们一族中走得最远的人，因为你来到了这里。"
   ],
   [
    "res#59934/whatIHaveToSay[0]",
@@ -99,7 +99,7 @@
    "res#59993/whatIHaveToSay[1]",
    "echo",
    "Kazimar had to abandon me here, a piece of himself, in order to escape. I believe that I am permanently disconnected from him now.",
-   "卡齐玛尔为了脱身，不得不把我——他自身的一片——抛弃在此。我相信，如今我已与他永久地断开了。"
+   "卡齐玛尔为了脱身，不得不把我（他自身的一片）抛弃在此。我相信，如今我已与他永久地断开了。"
   ],
   [
    "res#60000/whatIHaveToSay[0]",
@@ -123,13 +123,13 @@
    "res#60065/whatIHaveToSay[1]",
    "past",
    "He sought dangerous secrets, and opened portals to places locked away from the world. In this place he established a sanctum. But there was a more dangerous place, and that is where he was seen by this creature.",
-   "他追寻危险的秘密，开启通往与世隔绝之地的传送门。在这地方，他建起了一座圣所。但还有一处更危险的地方——正是在那里，他被这个生物看见了。"
+   "他追寻危险的秘密，开启通往与世隔绝之地的传送门。在这地方，他建起了一座圣所。但还有一处更危险的地方，正是在那里，他被这个生物看见了。"
   ],
   [
    "res#60065/whatIHaveToSay[2]",
    "past",
    "I suspect it was Baumonus, ruler of our world along the spirit Solmaria, before our world was named after her. If Baumonus was able to find Kazimar here, then his prison must be weakening. I pray that it was not Kazimar's unwitting folly that made it so.",
-   "我猜想那是鲍莫努斯——在世界以灵索尔玛利亚为名之前，他与她共同统治着我们的世界。若鲍莫努斯能在这里找到卡齐玛尔，那说明他的囚牢正在削弱。我祈祷，这并非卡齐玛尔无意间的愚行所致。"
+   "我猜想那是鲍莫努斯，在世界以灵索尔玛利亚为名之前，他与她共同统治着我们的世界。若鲍莫努斯能在这里找到卡齐玛尔，那说明他的囚牢正在削弱。我祈祷，这并非卡齐玛尔无意间的愚行所致。"
   ],
   [
    "res#60071/whatIHaveToSay[0]",

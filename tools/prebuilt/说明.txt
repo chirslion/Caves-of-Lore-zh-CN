@@ -4,13 +4,13 @@ prebuilt/ —— 预编译补丁件（工程包内置）
 本目录是工程包（output/ 仓库快照）**逐字节复现构建产物**所必需的二进制输入。
 它们由开发工作区（workspace/，不在工程包内）的源码生成，发布时整体同步：
 
-  Assembly-CSharp.dll   2,745,344 B  934dc80a794b9de02be2a4e85c5ae729
+  Assembly-CSharp.dll   2,745,344 B  ab6f7f87e899603f22711969dbfaf408
       补丁版游戏程序集：571 处 ldstr 替换 + 多组 IL 显示层注入
       （workspace/colpatch 的 apply-map 产物）
   CavesL10N.dll            16,384 B  e3077c8ce7808d79c9c136018c203be3
       存档边界翻译 + 显示层包装辅助程序集
       （workspace/savefix 的 CavesL10N.csproj 产物）
-  CavesL10N.table.txt     375,660 B  015a63a3920e423583ce53f434548204
+  CavesL10N.table.txt     375,576 B  b420d53a84cad503b140e1143cee3728
       存档边界翻译表（workspace/savefix/table_gen.py 产物）
   affix_words.tsv           3,516 B  品质词缀词表（与 DLL 注入共用；构建字体字符集用）
       （workspace/savefix/affix_words.tsv 的发布副本）

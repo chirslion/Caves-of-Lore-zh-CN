@@ -21,7 +21,7 @@
    "res#59840/whatIHaveToSay[0]",
    "traitors",
    "I heard the story long ago, but if I remember correctly, and I rarely do, they were servants of the dark lord. Even though he was killed long ago, they continued to serve him, and were found doing dark things in the forest.",
-   "我很久以前听过那个故事，若我记得没错——而我难得记得准——他们是黑暗领主，的仆从。尽管他早已被杀，他们仍继续效忠于他，后来被发现鬼鬼祟祟在森林里做着黑暗的勾当。"
+   "我很久以前听过那个故事，若我记得没错（而我难得记得准）他们是黑暗领主的仆从。尽管他早已被杀，他们仍继续效忠于他，后来被发现鬼鬼祟祟在森林里做着黑暗的勾当。"
   ],
   [
    "res#59840/whatIHaveToSay[1]",
@@ -45,7 +45,7 @@
    "res#59873/whatIHaveToSay[0]",
    "caves",
    "A traveller once told me that all of the caves are interconnected, part of some ancient city complex. I believe he was a miner or some such occupation. He went into the graveyard one day but never returned, at least not that I saw.",
-   "有位旅人，曾告诉我所有洞穴都是相连的，是某座古代城市的一部分。我想他是矿工之类的人。有一天他进了墓地，再也没回来——至少我没再见过。"
+   "有位旅人，曾告诉我所有洞穴都是相连的，是某座古代城市的一部分。我想他是矿工之类的人。有一天他进了墓地，再也没回来，至少我没再见过。"
   ],
   [
    "res#59896/whatIHaveToSay[0]",
@@ -57,7 +57,7 @@
    "res#60005/whatIHaveToSay[0]",
    "Shione",
    "Music is a fine job, in its place. But farming is the basis for sustaining our community. If only music could feed us... I might have chosen another profession.",
-   "音乐是个好行当——在它该在的位置上。可支撑我们这个小社会的根基是农耕。要是音乐能填饱肚子……我或许会选别的职业。"
+   "音乐是个好行当，在它该在的位置上。可支撑我们这个小社会的根基是农耕。要是音乐能填饱肚子……我或许会选别的职业。"
   ],
   [
    "res#60024/whatIHaveToSay[0]",
@@ -333,13 +333,13 @@
    "res#60933/whatIHaveToSay[0]",
    "Laszra",
    "A wizard? And what does that job entail? Plowing? Tilling? Don't tell me... churning? You probably want to speak to that milk maid. Well, her cows get their food from me so if you are looking for work where it all begins, I am always employing.",
-   "巫师？那活儿都干些什么？犁地？翻土？别告诉我……是搅黄油？你大概想找那个挤奶姑娘谈谈。不过，她那些牛的口粮是我供的——所以你要找「万业之源」的活计，我这儿永远缺人手。"
+   "巫师？那活儿都干些什么？犁地？翻土？别告诉我……是搅黄油？你大概想找那个挤奶姑娘谈谈。不过，她那些牛的口粮是我供的，所以你要找「万业之源」的活计，我这儿永远缺人手。"
   ],
   [
    "res#60960/whatIHaveToSay[0]",
    "dark lord",
    "Not many tell the story anymore, but I remember. He was killed by a valiant hero who sacrificed his own life to end that reign of evil. I am not sure whether I believe in such stories.",
-   "如今没多少人再讲那个故事了，但我记得。他被一位英勇的英雄所杀——那英雄为终结邪恶的统治，牺牲了自己的性命。我不确定自己信不信这样的故事。"
+   "如今没多少人再讲那个故事了，但我记得。他被一位英勇的英雄所杀，那英雄为终结邪恶的统治，牺牲了自己的性命。我不确定自己信不信这样的故事。"
   ],
   [
    "res#60960/whatIHaveToSay[1]",

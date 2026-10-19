@@ -168,7 +168,7 @@
   [
    "lv0#20059/m_Text",
    "Each Trait has a progress bar.\n\nWhen you complete the progress you learn something about that creature, either a weakness or strength. Each Species Trait (as opposed to a Body or Type trait) will move you closer to unlocking the Trait.\n\nOnce you unlocked all of the Species Traits for that monster, the locked Trait will become available for purchase with Trait Points.\n\n",
-   "每种特质都有一条进度条。\n\n完成进度后，你会了解到该生物的一些特点——或是一个弱点，或是一项优势。每个物种特质（相对于身体特质或类型特质而言）都会让你更接近解锁该特质。\n\n一旦你解锁了那只怪物的全部物种特质，被锁定的特质就可以用特质点购买了。\n\n"
+   "每种特质都有一条进度条。\n\n完成进度后，你会了解到该生物的一些特点，或是一个弱点，或是一项优势。每个物种特质（相对于身体特质或类型特质而言）都会让你更接近解锁该特质。\n\n一旦你解锁了那只怪物的全部物种特质，被锁定的特质就可以用特质点购买了。\n\n"
   ],
   [
    "lv0#20060/m_Text",
@@ -803,7 +803,7 @@
   [
    "lv0#21055/m_Text",
    "Runes:\n\nRunes are a collection of symbols, etched in stone. These symbols consist of a central element, the most noticable part of the rune, that represents what kind of thing the rune is tied to. This can be a moon, or an individual, or perhaps even something else. \n\nThere are also secondary markings that indicate additional requirements for the rune to activate.\n\n(to avoid Spoilers, this section is a work in progress)",
-   "符文：\n\n符文是一组刻在石头上的符号。这些符号由一个核心元素（符文最显著的部分）构成，代表符文所系之物——可能是一轮月亮、一个人，甚至别的东西。 \n\n此外还有次级标记，用来表示符文激活所需的额外条件。\n\n（为避免剧透，本节仍在撰写中）"
+   "符文：\n\n符文是一组刻在石头上的符号。这些符号由一个核心元素（符文最显著的部分）构成，代表符文所系之物，可能是一轮月亮、一个人，甚至别的东西。 \n\n此外还有次级标记，用来表示符文激活所需的额外条件。\n\n（为避免剧透，本节仍在撰写中）"
   ],
   [
    "lv0#21088/m_Text",
@@ -2563,7 +2563,7 @@
   [
    "lv0#23270/m_Text",
    "Stirred by a low humming sound, I awoke from my slumber. My eyes opened and I beheld a red glow, not from the soft light of my campfire, but of a large gate, twice the height of a man. Twisting lines of blazing red wound around it, and it bore something like wounds, as though pierced by arrows, but not of flesh.",
-   "一阵低沉的嗡鸣将我惊醒。我睁开双眼，看到一片红光——不是营火柔和的光，而是一扇大门，足有两人高。炽红的线条缠绕盘绕其上，门上还有像是伤口的东西，仿佛被箭矢穿透，却不是血肉之躯。"
+   "一阵低沉的嗡鸣将我惊醒。我睁开双眼，看到一片红光，不是营火柔和的光，而是一扇大门，足有两人高。炽红的线条缠绕盘绕其上，门上还有像是伤口的东西，仿佛被箭矢穿透，却不是血肉之躯。"
   ],
   [
    "lv0#23271/m_Text",
@@ -2588,7 +2588,7 @@
   [
    "lv0#23300/m_Text",
    "This is an Doorway mark. It indicates a doorway, and often an invisible one.",
-   "这是门径标记。它表示此处有一道门——而且往往是隐形的门。"
+   "这是门径标记。它表示此处有一道门，而且往往是隐形的门。"
   ],
   [
    "lv0#23301/m_Text",
@@ -3998,7 +3998,7 @@
   [
    "lv0#25545/m_Text",
    "All around it lay solid stone, but in the center I saw something familiar; the place where I had laid among the trees. A strange creature rummaged through my supplies. It's beady eyes jerked towards me, and it hissed. It's skin was green, and it had roughly made armor and a whip at its side.\n\n\nIt drew its arm back, ready to lash at me, when a shimmer passed over the gate, and the creature perceived me no more.",
-   "四周全是坚硬的岩石，但中央却是我熟悉的东西——我曾在林间躺卧的那片地方。一只奇怪的生物正在翻找我的补给。它珠子般的眼睛猛地转向我，发出嘶声。它的皮肤是绿色的，身上披着粗糙的护甲，腰间挂着一条鞭子。\n\n\n它抡起手臂，正要向我抽来——这时门上一道微光闪过，那生物再也看不见我了。"
+   "四周全是坚硬的岩石，但中央却是我熟悉的东西，我曾在林间躺卧的那片地方。一只奇怪的生物正在翻找我的补给。它珠子般的眼睛猛地转向我，发出嘶声。它的皮肤是绿色的，身上披着粗糙的护甲，腰间挂着一条鞭子。\n\n\n它抡起手臂，正要向我抽来，这时门上一道微光闪过，那生物再也看不见我了。"
   ],
   [
    "lv0#25554/m_Text",
@@ -4903,7 +4903,7 @@
   [
    "lv0#26869/m_Text",
    "What a mistake that was. I was derided as a fool, or a man gone mad. None believe my tale to this day, so I leave this last letter. On my deathbed, I recount, so that perhaps someday, long after my death, I will be known not as a fool, but as a survivor, and a herald of things unseen.\n\n\n- Maurin Tangelf, the madman of Pirmory.\n",
-   "那真是个天大的错误。人们嘲笑我是个蠢货，或是个发了疯的人。直到今天也没人相信我的故事，所以我留下这最后一封信。临终之际，我把一切重新讲述出来：但愿在很久以后，我不再被当作疯子，而是被记作一名幸存者，一个未曾目睹之物的传信人。\n\n\n——毛林·坦格尔夫，皮尔莫里的疯子。\n"
+   "那真是个天大的错误。人们嘲笑我是个蠢货，或是个发了疯的人。直到今天也没人相信我的故事，所以我留下这最后一封信。临终之际，我把一切重新讲述出来：但愿在很久以后，我不再被当作疯子，而是被记作一名幸存者，一个未曾目睹之物的传信人。\n\n\n毛林·坦格尔夫，皮尔莫里的疯子。\n"
   ],
   [
    "lv0#26872/m_Text",
@@ -5713,7 +5713,7 @@
   [
    "lv0#28226/m_Text",
    "For three days I did and said nothing. I slept when I could, and fretted when I could not sleep.\r\n\r\nThis kind of survival could only go on for so long. I had to venture back. I moved the brush, stood, and fear filled my heart. Before me stood... no, flew, a creature unlike any I had ever seen. It hung like a snake caught by an eagle. A halo, with one singular eye, circled its face. And it spoke. I could not understand what it said, for my heart beat so loudly that all else was drowned out.\r",
-   "整整三天，我没有行动，也没有说话。能睡的时候就睡，睡不着时就焦躁不安。\r\n\r\n这样的求生撑不了多久。我必须回去一趟。我拨开灌木，站起身，恐惧攫住了我的心。在我面前站着——不，是飞着——一只我从未见过的生物。它悬停着，像被鹰抓住的蛇。一道光环绕着脸庞旋转，光环上只有一只独眼。它开口说话了。我听不懂它说了什么，因为我的心跳声太响，淹没了一切。\r"
+   "整整三天，我没有行动，也没有说话。能睡的时候就睡，睡不着时就焦躁不安。\r\n\r\n这样的求生撑不了多久。我必须回去一趟。我拨开灌木，站起身，恐惧攫住了我的心。在我面前站着（不，是飞着）一只我从未见过的生物。它悬停着，像被鹰抓住的蛇。一道光环绕着脸庞旋转，光环上只有一只独眼。它开口说话了。我听不懂它说了什么，因为我的心跳声太响，淹没了一切。\r"
   ],
   [
    "lv0#28228/m_Text",
@@ -5908,7 +5908,7 @@
   [
    "res#61855/m_Text",
    "To my son Hawthen, heir to the Renault family fortune, I leave this word of wisdom. Ever since an alliance was forged in the 'north' between Renault and Gyffard, our families have stood as 'pillars' of leadership. Emerisk needs us, if it is to survive. Remember the ancient word of our fathers, \"@4\". May it guide you, and our people, to Shelter.",
-   "致我的儿子霍森——雷诺家族财富的继承人，我留下这句箴言。自从雷诺与吉法德在「北方」结盟以来，我们的家族一直作为领导力的「支柱」屹立不倒。埃梅里斯克若要存续，离不开我们。记住我们先祖的古老箴言：「@4」。愿它指引你，也指引我们的人民，前往庇护所。"
+   "致我的儿子霍森，雷诺家族财富的继承人，我留下这句箴言。自从雷诺与吉法德在「北方」结盟以来，我们的家族一直作为领导力的「支柱」屹立不倒。埃梅里斯克若要存续，离不开我们。记住我们先祖的古老箴言：「@4」。愿它指引你，也指引我们的人民，前往庇护所。"
   ],
   [
    "res#61856/m_Text",
@@ -5918,7 +5918,7 @@
   [
    "res#61857/m_Text",
    "This land of massive fungus has been our refuge for ten long cycles, and I am certain that all the others who fled are lost to us forever. We have long worked alongside the Scaphin here to share this place, even before our city fell. In truth, it belongs to them more than us, but we are refugees now. How I long to see the sun again, and would gladly leave this place. They are kind enough, but something stirs among them. I worry that they tire of us. And there is more. The mushrooms are... different, leaning slightly towards us, as if they wish to say something, though I cannot say what. Perhaps it is in my head, but I think it bodes ill. Between this and the Scaphin, I doubt we will need the dark lord to finish what he began.",
-   "这片巨菌之地已经庇护了我们整整十轮，我确信，其他所有逃散的人都已永远与我们失散。早在城市陷落之前，我们就一直与这里的斯卡芬共同生活、共享此地。说实话，这里与其说属于我们，不如说属于它们——但我们现在是难民。我多么渴望再见一次太阳，愿意就此离开这里。它们待我们足够友善，但它们之中有些东西在骚动。我担心它们已经厌倦了我们。还有一事。那些蘑菇……不太一样，它们稍稍朝我们倾斜，仿佛想说些什么，我却说不出是什么。也许只是我的错觉，但我认为这是不祥之兆。有这些异状和斯卡芬，我们恐怕等不到黑暗领主来亲手了结我们了。"
+   "这片巨菌之地已经庇护了我们整整十轮，我确信，其他所有逃散的人都已永远与我们失散。早在城市陷落之前，我们就一直与这里的斯卡芬共同生活、共享此地。说实话，这里与其说属于我们，不如说属于它们，但我们现在是难民。我多么渴望再见一次太阳，愿意就此离开这里。它们待我们足够友善，但它们之中有些东西在骚动。我担心它们已经厌倦了我们。还有一事。那些蘑菇……不太一样，它们稍稍朝我们倾斜，仿佛想说些什么，我却说不出是什么。也许只是我的错觉，但我认为这是不祥之兆。有这些异状和斯卡芬，我们恐怕等不到黑暗领主来亲手了结我们了。"
   ],
   [
    "res#61858/m_Text",
@@ -5928,12 +5928,12 @@
   [
    "res#61859/m_Text",
    "I have only this paper left after leaving my journal. A name carries on the air. Baumonus. I know this name from my studies, but it was a myth... no matter. Baumonus reaches out, corrupting the manatite here, and I with it. I shall try to close the rift if I can. Perhaps, if I could detonate some of the corrupted manatite nearby...",
-   "丢下日志之后，我手头只剩这张纸了。一个名字在空气中回荡：鲍莫努斯。我在研习中见过这个名字，但它本该只是个传说……罢了。鲍莫努斯正伸来它的触手，腐蚀这里的法力晶石——连同我一起。若有可能，我会试着关闭那道裂隙。也许，如果我能引爆附近一些被腐蚀的法力晶石……"
+   "丢下日志之后，我手头只剩这张纸了。一个名字在空气中回荡：鲍莫努斯。我在研习中见过这个名字，但它本该只是个传说……罢了。鲍莫努斯正伸来它的触手，腐蚀这里的法力晶石，连同我一起。若有可能，我会试着关闭那道裂隙。也许，如果我能引爆附近一些被腐蚀的法力晶石……"
   ],
   [
    "res#61860/m_Text",
    "For 600 years we have lived in Undralis, the undercity of Elok`ora. I leave this note, that the world to come (for I trust that mankind will endure) will know what was done here. We built a civilization, and have lived in relative peace. Although constrained to these caverns, we have toiled and chiseled a city for ourselves. Our lives have been good and full. Today that comes to an end, for the spawn of the dark lord is pouring forth from both above and below. The ground vomits forth vile creatures the likes of which we have never seen before. Above us, the goblins and trolls, once our allies, join his legions and rake the ground apart to find us. There will be no escape for us, yet we have long been acquainted with this ending. It was clear many years ago that this would be our fate. There is one more hope. Zakerunda has found something ancient...",
-   "六百年来，我们一直生活在翁德拉利斯——埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头——黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉——许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……"
+   "六百年来，我们一直生活在翁德拉利斯，埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头，黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉，许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……"
   ],
   [
    "res#61861/m_Text",
@@ -5958,7 +5958,7 @@
   [
    "res#61865/m_Text",
    "... I have done it! I finally narrowed the password down to three possible options; all words of power used in ancient times. I hope this spell will transcribe the magical words as well. The first, \"@0\" I believe to be the correct one. The others are \"@1\" and \"@2\". It should be uttered into the air as close as possible to the wall carvings in the stairwell. I must hurry, it is hunting for me even now.. oh no... it has found me... no... NOOO!!!!",
-   "……我成功了！我终于把密码缩小到三种可能——都是上古时代使用过的力量之词。我希望这道法术也能把魔法词转写下来。第一个「@0」，我相信是正确的那个。另外两个是「@1」和「@2」。要在楼梯间的墙壁雕刻附近尽可能贴近地念出它。我必须快一点，它现在就在猎捕我……哦不……它找到我了……不……不——！！！！"
+   "……我成功了！我终于把密码缩小到三种可能，都是上古时代使用过的力量之词。我希望这道法术也能把魔法词转写下来。第一个「@0」，我相信是正确的那个。另外两个是「@1」和「@2」。要在楼梯间的墙壁雕刻附近尽可能贴近地念出它。我必须快一点，它现在就在猎捕我……哦不……它找到我了……不……不……！！！！"
   ],
   [
    "res#61866/m_Text",
@@ -5973,12 +5973,12 @@
   [
    "res#61868/m_Text",
    "I was promised a night I would never forget as an apology for the disrespect I was shown. One free night in the inn, fully catered. This is treachery! All I did was ransack some peasant's home. I cannot take it down here anymore! And to make matters worse, there is the horrible smelling red ooze slowly seeping in from a crack in the walls. Ghastly. I cannot wait to be let out so I can give that Gyffard a piece of my mind... and sword! And this letter shall be proof of my improper conditions!",
-   "他们答应给我一个终生难忘的夜晚，作为对我所受轻慢的道歉——旅店免费住一晚，吃喝全包。这是背信弃义！我不过是洗劫了一户农民的家而已。我在这下面再也待不下去了！更糟的是，墙缝里正缓缓渗进来一种气味恶心的红色黏液。真吓人。我巴不得赶紧被放出去，好去教训那个吉法德一顿……用我的剑教训！这封信就是我遭受不公待遇的证据！"
+   "他们答应给我一个终生难忘的夜晚，作为对我所受轻慢的道歉，旅店免费住一晚，吃喝全包。这是背信弃义！我不过是洗劫了一户农民的家而已。我在这下面再也待不下去了！更糟的是，墙缝里正缓缓渗进来一种气味恶心的红色黏液。真吓人。我巴不得赶紧被放出去，好去教训那个吉法德一顿……用我的剑教训！这封信就是我遭受不公待遇的证据！"
   ],
   [
    "res#61869/m_Text",
    "By order of Festos Ingram, Mayor of Emerisk, this attached key is not to be used. The graveyard is becoming not only a home to dangerous animals, but much worse, in my opinion, a noise nuisance. I simply cannot sleep with all the wailing and howling. No more parties there, and no more entry!",
-   "奉埃梅里斯克市长费斯托斯·英格拉姆之命，随附的这把钥匙禁止使用。墓园如今不但成了危险动物的巢穴，更糟的是——依我之见——还成了噪音之源。又是哀嚎又是长啸，我根本睡不着。那里再也不准聚会，再也不准进入！"
+   "奉埃梅里斯克市长费斯托斯·英格拉姆之命，随附的这把钥匙禁止使用。墓园如今不但成了危险动物的巢穴，更糟的是（依我之见）还成了噪音之源。又是哀嚎又是长啸，我根本睡不着。那里再也不准聚会，再也不准进入！"
   ],
   [
    "res#61870/m_Text",
@@ -5993,12 +5993,12 @@
   [
    "res#61872/m_Text",
    "If you are reading this then I did not survive, or am lost to these bleak halls. Know that Naira, chief librarian for Queen Elyscia of Arenquist, has extracted some of her memories and kept them in a safe place in case the shelter cannot protect her. She will need help retrieving them. The word \"@5\" should trigger her to remember where she kept them, and it should open the door to Kalindraur, right beside this chest. The magic will know friend or foe.",
-   "如果你读到了这封信，那么我多半已经殒命，或迷失在了这些凄凉的厅堂中。你要知道，阿伦奎斯特女王埃莉西亚的首席图书管理员奈拉，曾抽取出自己的一部分记忆，存放在安全之处，以防庇护所无法保护她。她需要有人帮忙找回这些记忆。念出「@5」这个词，应当能让她想起存放之处，它也能打开卡林德劳尔的门——就在这只箱子旁边。这魔法会自行分辨敌友。"
+   "如果你读到了这封信，那么我多半已经殒命，或迷失在了这些凄凉的厅堂中。你要知道，阿伦奎斯特女王埃莉西亚的首席图书管理员奈拉，曾抽取出自己的一部分记忆，存放在安全之处，以防庇护所无法保护她。她需要有人帮忙找回这些记忆。念出「@5」这个词，应当能让她想起存放之处，它也能打开卡林德劳尔的门，就在这只箱子旁边。这魔法会自行分辨敌友。"
   ],
   [
    "res#61873/m_Text",
    "For 600 years we have lived in Undralis, the undercity of Elok`ora. I leave this note, that the world to come (for I trust that mankind will endure) will know what was done here. We built a civilization, and have lived in relative peace. Although constrained to these caverns, we have toiled and chiseled a city for ourselves. Our lives have been good and full. Today that comes to an end, for the spawn of the dark lord is pouring forth from both above and below. The ground vomits forth vile creatures the likes of which we have never seen before. Above us, the goblins and trolls, once our allies, join his legions and rake the ground apart to find us. There will be no escape for us, yet we have long been acquainted with this ending. It was clear many years ago that this would be our fate. There is one more hope. Zakerunda has found something ancient...",
-   "六百年来，我们一直生活在翁德拉利斯——埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头——黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉——许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……"
+   "六百年来，我们一直生活在翁德拉利斯，埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头，黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉，许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……"
   ],
   [
    "res#63576/m_Options.m_Options[0].m_Text",

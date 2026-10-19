@@ -33,7 +33,7 @@
 <color=#FFE017>先攻：\r</color>\n\n先攻决定战斗开始时你的角色行动的顺序。它先由你的速度值决定，再受队伍阵型修正。\n\n阵型可在「属性」与「抗性」按钮之间的阵型菜单中调整。 \n\n你也可以用「推迟回合」按钮延后你的回合。	<color=#FFE017>Initiative:\r</color>\n\nInitiative determines the order in which your character goes at the start of combat. It is determined first, by your Speed value, and then modified by your formation.\n\nFormation can be modified in the Formation Menu, available in-between the Stats and Resist buttons. \n\nYour turn can also be delayed with the Delay Turn button.
 <color=#FFE017>力量：\r</color>\n+ 武器伤害\r\n+ 抵抗物理\r\n+ 抵抗恐惧\r\n+ 生命值（次要）\r\n\r\n<color=#00BFBF>技能：\r</color>\n+ 徒手格斗\r\n+ 单手武器\r\n+ 双手武器\r\n+ 远程武器	<color=#FFE017>Strength:\r</color>\n+ Weapon Damage\r\n+ Resisting Physical\r\n+ Resisting Fear\r\n+ Hit Points (secondary)\r\n\r\n<color=#00BFBF>Skills:\r</color>\n+ Hand-To-Hand Weapons\r\n+ One-Handed Weapons\r\n+ Two-Handed Weapons\r\n+ Ranged Weapons
 <color=#FFE017>力量：\r</color>\n+ 武器伤害\r\n+ 抵抗物理\r\n+ 抵抗恐惧\r\n+ 生命值（次要）\r\n\r\n<color=#00BFBF>技能：\r</color>\n+ 徒手格斗\r\n+ 单手武器\r\n+ 双手武器\r\n+ 远程武器\n\n<color=#FFE017>属性如何生效：\r</color>\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。	<color=#FFE017>Strength:\r</color>\n+ Weapon Damage\r\n+ Resisting Physical\r\n+ Resisting Fear\r\n+ Hit Points (secondary)\r\n\r\n<color=#00BFBF>Skills:\r</color>\n+ Hand-To-Hand Weapons\r\n+ One-Handed Weapons\r\n+ Two-Handed Weapons\r\n+ Ranged Weapons\n\n<color=#FFE017>How Stats work:\r</color>\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.
-<color=#FFE017>升级：\r</color>\n\n等级代表你角色的成长程度。赢得战斗或完成任务时，你会获得经验值。\n当经验值足够高时，经验条会填满，你将提升一级。随后经验条重置，你也会回复全部失去的生命与法力。\n升级时你还会获得：\n+ 技能点——可在技能菜单中投入，以提升技能等级。\n<color=#FFBF00>+ 能力点 </color>——可在能力菜单中购买新能力。\n能力点每 5 级发放一次，以你头像旁的橙色标记表示。\n<color=#00BFFF>+ 特质点 </color>——可在特质菜单中购买新特质。\n特质点每 3 级发放一次，以你头像旁的蓝色标记表示。\n当你通过「怪物学识」对某种怪物了解得足够多时，即可选择新的特质。\n<color=#F50002>+ 最大生命 </color>——获得的生命点数等于你的抗性点数除以 10，加上力量点数的一半除以 10。\n<color=#005BF5>+ 最大法力 </color>——获得的法力点数等于你的心智点数除以 10，加上精神点数的一半除以 10。\n	<color=#FFE017>Leveling:\r</color>\n\nLevels are how far your character has progressed. When battles are won or quests are completed, you are awarded Experience Points.\nWhen these points are high enough, your experience bar will be full and you will gain a level. The experience bar will then reset and you will regain all missing Health and Mana.\nWhen you level up you also gain:\n+ Skill Points - These can be aded in the Skills menu to raise skill levels.\n<color=#FFBF00>+ Ability Points </color>- These can be used to purchase new Abilities under the Abilities menu.\nAbility Points are awarded every 5 levels and are represented by an orange mark near your portrait.\n<color=#00BFFF>+ Trait Points </color>- These can be used to purchase new Traits under the Traits menu.\nTrait Points are awarded every 3 levels and are represented by a blue mark near your portrait.\nNew traits become availble to choose when you learn enough about a monster through Monster Lore.\n<color=#F50002>+ Max Health </color> - Health points gained are equal to your Resistance points over 10 plus half your Strength points over 10.\n<color=#005BF5>+ Max Mana </color> -  Mana points gained are equal to your Mind points over 10 plus half your Spirit points over 10.\n
+<color=#FFE017>升级：\r</color>\n\n等级代表你角色的成长程度。赢得战斗或完成任务时，你会获得经验值。\n当经验值足够高时，经验条会填满，你将提升一级。随后经验条重置，你也会回复全部失去的生命与法力。\n升级时你还会获得：\n+ 技能点，可在技能菜单中投入，以提升技能等级。\n<color=#FFBF00>+ 能力点 </color>，可在能力菜单中购买新能力。\n能力点每 5 级发放一次，以你头像旁的橙色标记表示。\n<color=#00BFFF>+ 特质点 </color>，可在特质菜单中购买新特质。\n特质点每 3 级发放一次，以你头像旁的蓝色标记表示。\n当你通过「怪物学识」对某种怪物了解得足够多时，即可选择新的特质。\n<color=#F50002>+ 最大生命 </color>，获得的生命点数等于你的抗性点数除以 10，加上力量点数的一半除以 10。\n<color=#005BF5>+ 最大法力 </color>，获得的法力点数等于你的心智点数除以 10，加上精神点数的一半除以 10。\n	<color=#FFE017>Leveling:\r</color>\n\nLevels are how far your character has progressed. When battles are won or quests are completed, you are awarded Experience Points.\nWhen these points are high enough, your experience bar will be full and you will gain a level. The experience bar will then reset and you will regain all missing Health and Mana.\nWhen you level up you also gain:\n+ Skill Points - These can be aded in the Skills menu to raise skill levels.\n<color=#FFBF00>+ Ability Points </color>- These can be used to purchase new Abilities under the Abilities menu.\nAbility Points are awarded every 5 levels and are represented by an orange mark near your portrait.\n<color=#00BFFF>+ Trait Points </color>- These can be used to purchase new Traits under the Traits menu.\nTrait Points are awarded every 3 levels and are represented by a blue mark near your portrait.\nNew traits become availble to choose when you learn enough about a monster through Monster Lore.\n<color=#F50002>+ Max Health </color> - Health points gained are equal to your Resistance points over 10 plus half your Strength points over 10.\n<color=#005BF5>+ Max Mana </color> -  Mana points gained are equal to your Mind points over 10 plus half your Spirit points over 10.\n
 <color=#FFE017>反应：\r</color>\n\n反应让你有机会躲开某些能力、抵抗定身，并在本会受伤时避开陷阱。	<color=#FFE017>Reflex:\r</color>\n\nReflex allows you an opportunity to dodge certain abilities, resist being rooted and avoid traps when you would otherwise be damaged.
 <color=#FFE017>命中：\r</color>\n\n命中以 1-20 的随机掷骰开始。\n随后将你的命中值，以及你因了解该类怪物而获得的学识加成，加到掷值上。\n\n再用你的命中掷值对抗防御者的闪避掷值。若达到或超过对方的数值，即命中。\n\n若你的回合中未移动，命中提高 10%。\n	<color=#FFE017>To Hit:\r</color>\n\nHit attempts begin with a random roll of 1-20.\nYour ToHit value is then added to that roll along with any Lore Boost you may have from learning about that type of monster.\n\nYour ToHit roll is then matched against a defenders Dodge roll. If you match or beat their value then you have scored a hit.\n\nToHit is increased by 10% if you have not moved on your turn.\n
 <color=#FFE017>心智：\r</color>\n+ 抵抗恐惧\n+ 抗心智\n+ 法力值（主要）\n+ 技能点\n+ 更快学会技能、能力与法术\n+ 决定最高法术层级（若高于 SPI）\n\n<color=#00BFBF>技能：\r</color>\n+ 警觉\n+ 怪物学识\n+ 生存\n+ 卸除武器\n+ 鉴定\n+ 议价\n\n<color=#FFE017>属性如何生效：\r</color>\n\n属性以倍率方式生效，基准值为 10。每高出或低于 10 一点，修正值就变化 10%。因此，单点提升看似不多，实际上会随着你的成长带来越来越大的增益。	<color=#FFE017>Mind:\r</color>\n+ Resisting Fear\n+ Resist Mind\n+ Mana Points (primary)\n+ Skill Points\n+ Learn Skills, Abilities and Spells Faster\n+ Determines max Spell Tier (if higher than SPI)\n\n<color=#00BFBF>Skills:\r</color>\n+ Awareness\n+ Monster Lore\n+ Survival\n+ Disarm\n+ Identify\n+ Barter\n\n<color=#FFE017>How Stats work:\r</color>\n\nStats work as multipliers, with 10 being the baseline. Every Stat value above or below that changes your modifier by 10%. In this regard, a single point increase may not look like much, but actually represents an increase that scales as you grow more powerful.
@@ -90,7 +90,7 @@ Wulfleda Monteau\n挚爱的女儿	Wulfleda Monteau\nBeloved daughter
 Yorhan Fennegar\n倒霉到当了信使	Yorhan Fennegar\nUnfortunate enough to be the messenger
 Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest bakers in the world
 ……哪怕滴水不沾，也依然能站立起来。当水稀少时，放缓呼吸，不要说话。每一滴浪费的水都弥足珍贵。\r\n\r\n我寻找凉爽的地方，却遍寻不见。于是我挖掘。我用一块锯齿状的石头挖到凉爽的泥土，然后躺了进去。在我上方，奇怪的植物像地衣一样长在岩石之间。我把它们扯下来，盖在身上。\r	going without any at all and still being able to stand. When water is scarce, slow your breath, and do not talk. Every wasted drop is precious.\r\n\r\nI sought for a cool place, but there was none. So I dug. With a jagged rock I dug until I found cool earth, and then lay in it. Above me, strange plants, like lichen, grew amongst the rocks. I pulled them off and covered myself.\r
-……我成功了！我终于把密码缩小到三种可能——都是上古时代使用过的力量之词。我希望这道法术也能把魔法词转写下来。第一个「@0」，我相信是正确的那个。另外两个是「@1」和「@2」。要在楼梯间的墙壁雕刻附近尽可能贴近地念出它。我必须快一点，它现在就在猎捕我……哦不……它找到我了……不……不——！！！！	... I have done it! I finally narrowed the password down to three possible options; all words of power used in ancient times. I hope this spell will transcribe the magical words as well. The first, "@0" I believe to be the correct one. The others are "@1" and "@2". It should be uttered into the air as close as possible to the wall carvings in the stairwell. I must hurry, it is hunting for me even now.. oh no... it has found me... no... NOOO!!!!
+……我成功了！我终于把密码缩小到三种可能，都是上古时代使用过的力量之词。我希望这道法术也能把魔法词转写下来。第一个「@0」，我相信是正确的那个。另外两个是「@1」和「@2」。要在楼梯间的墙壁雕刻附近尽可能贴近地念出它。我必须快一点，它现在就在猎捕我……哦不……它找到我了……不……不……！！！！	... I have done it! I finally narrowed the password down to three possible options; all words of power used in ancient times. I hope this spell will transcribe the magical words as well. The first, "@0" I believe to be the correct one. The others are "@1" and "@2". It should be uttered into the air as close as possible to the wall carvings in the stairwell. I must hurry, it is hunting for me even now.. oh no... it has found me... no... NOOO!!!!
 《不可见的光谱》	The Unseen Spectrum
 《光与影》	Light and Shadow
 《冰之幻象》	Visions of Ice
@@ -159,14 +159,14 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 一种黑暗的震颤从这里散发出来。	A dark termor emanates from here.
 一股奇异的光芒漂浮在未知材质的卷须之间。	A strange light floats between tendrils of an unknown material.
 一臂之外	At Arms Length
-一阵低沉的嗡鸣将我惊醒。我睁开双眼，看到一片红光——不是营火柔和的光，而是一扇大门，足有两人高。炽红的线条缠绕盘绕其上，门上还有像是伤口的东西，仿佛被箭矢穿透，却不是血肉之躯。	Stirred by a low humming sound, I awoke from my slumber. My eyes opened and I beheld a red glow, not from the soft light of my campfire, but of a large gate, twice the height of a man. Twisting lines of blazing red wound around it, and it bore something like wounds, as though pierced by arrows, but not of flesh.
+一阵低沉的嗡鸣将我惊醒。我睁开双眼，看到一片红光，不是营火柔和的光，而是一扇大门，足有两人高。炽红的线条缠绕盘绕其上，门上还有像是伤口的东西，仿佛被箭矢穿透，却不是血肉之躯。	Stirred by a low humming sound, I awoke from my slumber. My eyes opened and I beheld a red glow, not from the soft light of my campfire, but of a large gate, twice the height of a man. Twisting lines of blazing red wound around it, and it bore something like wounds, as though pierced by arrows, but not of flesh.
 一阵稳定的微风从南侧通道吹来……	A steady breeze blows from the south passage...
 一面做工精良的皮革塔博鼓。	A finely crafted leather tabor.
 万分抱歉！游戏遇到了一个 ERROR（错误），此时不建议保存进度。右下角的气泡可以让你查看该错误。\n\n打开后，点击某条错误，直到它被高亮为蓝色。\n\n非常欢迎你把当时的截图发给我，或使用下方任一链接留言。\n\n你也可以在 C:\\Users\\*username*\\AppData\\LocalLow\\Red Plume LLC\\Caves of Lore 找到 player.log、player-prev.log 与 SAVEGAME 文件。\n\n那个日志文件能准确告诉我发生了什么，是最重要的信息。\n	My sincerest apologies! An ERROR has been encountered and it is not advised to save your game. The bubble in the lower right hand corner will allow you to look at the error.\n\nOnce open, click on an error until it is highlighted blue.\n\nI would very much appreciate a screenshot of your situation or a message using one of the links below.\n\nYou can also find a player.log, player-prev.log and SAVEGAME at C:\\Users\\*username*\\AppData\\LocalLow\\Red Plume LLC\\Caves of Lore\n\nThat log file will tell me exactly what happened, and is the most important part to receive.\n
 三叉戟	Trident
 三轮月同升时持续受创	Takes Continual Damage If All Three Moons Are Up
 三连射	Triple Shot
-三颗宝珠都到手了。现在我可以进入卡齐玛尔的圣所了。不过要小心——他被困在这里之前所做的事，多半很危险。	I have all three orbs. Now I can enter Kazimar's sanctum. We must be careful, though. Whatever he was up to before he was trapped here is likely dangerous.
+三颗宝珠都到手了。现在我可以进入卡齐玛尔的圣所了。不过要小心，他被困在这里之前所做的事，多半很危险。	I have all three orbs. Now I can enter Kazimar's sanctum. We must be careful, though. Whatever he was up to before he was trapped here is likely dangerous.
 上古之石	Elder Stone
 上移	Up
 下移	Down
@@ -201,7 +201,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 不稳定裂隙	Unstable Rift
 不过有一次确实有东西过去了。	Something did get past me once.
 不过有时候，我发誓那扇怪门后面传来说话声。	Sometimes though, I swear that I can hear a voice coming from that odd door.
-不过这工作还是不错。	The job is still nice though.
+不过这活儿还是挺好的。	The job is still nice though.
 不过，这名字真的很好听。	It is a really good name though.
 不，喜欢不起来。萨姆贾……必须回头。	No like. Summjah... must turn back.
 与 Tassie 交谈。	Talk to Tassie.
@@ -216,8 +216,8 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 东：埃梅里斯克\n西：纳尔温\n西北：安布罗斯特森林	E: Emerisk\nW: Nalwin\nNW: Ambrost Forest
 丝线	Silk Thread
 丝路	Silk Road
-丢下日志之后，我手头只剩这张纸了。一个名字在空气中回荡：鲍莫努斯。我在研习中见过这个名字，但它本该只是个传说……罢了。鲍莫努斯正伸来它的触手，腐蚀这里的法力晶石——连同我一起。若有可能，我会试着关闭那道裂隙。也许，如果我能引爆附近一些被腐蚀的法力晶石……	I have only this paper left after leaving my journal. A name carries on the air. Baumonus. I know this name from my studies, but it was a myth... no matter. Baumonus reaches out, corrupting the manatite here, and I with it. I shall try to close the rift if I can. Perhaps, if I could detonate some of the corrupted manatite nearby...
-两条骇人的手臂各对单一目标造成 1 点土伤害与 5 点挥砍伤害。\n\n目标若反应检定失败还会被定身——即使是虚体或虚空生物也不例外——并变得更易受到攻击。\n\n第 3 级之后每两级法术等级再增加一条手臂，数量受精神属性影响。\n\n第一级之后每级使每条手臂的伤害加成提高 1，并使受击易伤提高 3。\n\n若目标位于喷气孔或裂隙上，每条手臂再获得 2 点火焰伤害，外加随等级提升的伤害加成。\n\n对同一目标每次使用「暗影缠拥」都会再增加 10% 伤害。\n\n结束回合：是	Two horrifying arms each deal 1 Earth and 5 Slashing damage each to a single target.\n\nThe target will also be rooted if they fail a Reflex roll, even if they are Incorporeal or Void, and become more vulnerable to attack.\n\nEvery two spell levels beyond the first 3 add an additional arm, subject to modification by Spirit attribute.\n\nSpell levels increase damage bonus per arm by 1 for every level beyond the first and increases damage vulnerability by 3.\n\nIf your target is on a Vent or Crevice each arm gains an additional 2 Fire damage plus the damage bonus for levels.\n\nEach time Umbral Embrace has been used against the same target adds 10% more damage.\n\nEnds Turn: Yes
+丢下日志之后，我手头只剩这张纸了。一个名字在空气中回荡：鲍莫努斯。我在研习中见过这个名字，但它本该只是个传说……罢了。鲍莫努斯正伸来它的触手，腐蚀这里的法力晶石，连同我一起。若有可能，我会试着关闭那道裂隙。也许，如果我能引爆附近一些被腐蚀的法力晶石……	I have only this paper left after leaving my journal. A name carries on the air. Baumonus. I know this name from my studies, but it was a myth... no matter. Baumonus reaches out, corrupting the manatite here, and I with it. I shall try to close the rift if I can. Perhaps, if I could detonate some of the corrupted manatite nearby...
+两条骇人的手臂各对单一目标造成 1 点土伤害与 5 点挥砍伤害。\n\n目标若反应检定失败还会被定身（即使是虚体或虚空生物也不例外）并变得更易受到攻击。\n\n第 3 级之后每两级法术等级再增加一条手臂，数量受精神属性影响。\n\n第一级之后每级使每条手臂的伤害加成提高 1，并使受击易伤提高 3。\n\n若目标位于喷气孔或裂隙上，每条手臂再获得 2 点火焰伤害，外加随等级提升的伤害加成。\n\n对同一目标每次使用「暗影缠拥」都会再增加 10% 伤害。\n\n结束回合：是	Two horrifying arms each deal 1 Earth and 5 Slashing damage each to a single target.\n\nThe target will also be rooted if they fail a Reflex roll, even if they are Incorporeal or Void, and become more vulnerable to attack.\n\nEvery two spell levels beyond the first 3 add an additional arm, subject to modification by Spirit attribute.\n\nSpell levels increase damage bonus per arm by 1 for every level beyond the first and increases damage vulnerability by 3.\n\nIf your target is on a Vent or Crevice each arm gains an additional 2 Fire damage plus the damage bonus for levels.\n\nEach time Umbral Embrace has been used against the same target adds 10% more damage.\n\nEnds Turn: Yes
 中空菌柄	Hollow Stem
 中箱子	Medium Chest
 串刺	Skewering
@@ -298,12 +298,12 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 从附近的洞穴采集隧道苔藓。	Gather tunnel moss from nearby caves.
 从饮食中获得更多收益。	Gain more from Eating and Drinking.
 他们为什么放任我们走到这么远？	Why were we allowed to come this far?
-他们答应给我一个终生难忘的夜晚，作为对我所受轻慢的道歉——旅店免费住一晚，吃喝全包。这是背信弃义！我不过是洗劫了一户农民的家而已。我在这下面再也待不下去了！更糟的是，墙缝里正缓缓渗进来一种气味恶心的红色黏液。真吓人。我巴不得赶紧被放出去，好去教训那个吉法德一顿……用我的剑教训！这封信就是我遭受不公待遇的证据！	I was promised a night I would never forget as an apology for the disrespect I was shown. One free night in the inn, fully catered. This is treachery! All I did was ransack some peasant's home. I cannot take it down here anymore! And to make matters worse, there is the horrible smelling red ooze slowly seeping in from a crack in the walls. Ghastly. I cannot wait to be let out so I can give that Gyffard a piece of my mind... and sword! And this letter shall be proof of my improper conditions!
+他们答应给我一个终生难忘的夜晚，作为对我所受轻慢的道歉，旅店免费住一晚，吃喝全包。这是背信弃义！我不过是洗劫了一户农民的家而已。我在这下面再也待不下去了！更糟的是，墙缝里正缓缓渗进来一种气味恶心的红色黏液。真吓人。我巴不得赶紧被放出去，好去教训那个吉法德一顿……用我的剑教训！这封信就是我遭受不公待遇的证据！	I was promised a night I would never forget as an apology for the disrespect I was shown. One free night in the inn, fully catered. This is treachery! All I did was ransack some peasant's home. I cannot take it down here anymore! And to make matters worse, there is the horrible smelling red ooze slowly seeping in from a crack in the walls. Ghastly. I cannot wait to be let out so I can give that Gyffard a piece of my mind... and sword! And this letter shall be proof of my improper conditions!
 他和一只视者对视，赢了。	He won a staring contest with an occulant.
 他把自己封在里面了吗？	Did he seal himself in there?
 他挖出的陶器都够开一间作坊了。	He's dug up enough pottery to open a studio.
 他曾把一只宝箱怪当凳子，去够架子顶上的面粉。	He once used a mimic as a stool to get flour off the top shelf.
-他烤的苹果派一流。	He bakes a mean apple pie.
+他烤的苹果派也一流。	He bakes a mean apple pie.
 他自称在寻找自己遗失的魔法，那魔法是被人设计封印在一座墓穴中的。没人说得清他来自何方，但他一直到死都在胡言乱语。据他说，只有在正确的地点、拱门之下，念出他的名字，才能找到那魔法。墓地并不大，若真有此事，照理说他早该找到那个地点了。有趣的是，Atticus 这个名字本身是阿梅利亚之地的一个姓氏，只是读作 Addicus。	He claimed to be searching for his lost magic, which he had been tricked into sealing away in a tomb. No one is quite sure where he came from, but he continued his ravings up until his death. According to him, the magic could only be found by saying his name at the right location, under an archway. The graveyard is not very large, and one would think that he surely would have found the location were such a thing true. Interestingly, the name Atticus is itself a surname in the land of Ameyria, though it is pronounced Addicus.
 仙光浮甲	Fairlight Hoverskin
 仙光额冠	Fairlight Brow
@@ -359,7 +359,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 伤害：	Damage:
 伦尼克	Lennic
 伸出手，触碰方尖碑。	Reach out your hand and touch the obelisk.
-但后来什么也没发生。结果好就一切都好，对吧？	But nothing ever came of it, so all is well that ends well, right?
+但后来什么也没发生。结局圆满，那就一切都好，对吧？	But nothing ever came of it, so all is well that ends well, right?
 但愿没有蜘蛛。	Let's hope there are no spiders.
 但愿这番折腾值得。这苔藓黏糊糊的，我暂时不想再碰了。	Let us hope this was worth the trouble. This moss is sticky, and I would rather not touch any more of it for a while.
 位面泥沼	Planemire	1
@@ -386,7 +386,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 你们得把我扔过去。	You are going to have to throw me.
 你们找到我了！	You found me!
 你们还没找到我，我怎么加入你们？	How I join you if you not find me yet?
-你们这些人还挺可疑的。	You guys are pretty sketchy.
+你们这些人看着就挺可疑的。	You guys are pretty sketchy.
 你会把它们打碎的，对吧？	You're going to break them, aren't you?
 你体内蕴含着暖意，使你免受冰封。	You have an inner warmth that prevents you from being Frozen.
 你免疫石化与变形。	You are Immune to Petrification and Polymorph.
@@ -426,14 +426,15 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 你的矿都是我的	All Your Ores Are Mine
 你的精力水平决定休息时回复多少生命与法力。若不疲劳，休息时回得不多。战斗与移动都会加重疲劳。	Your Energy Level determines how much health and mana you gain when resting. If you are not tired, you will not gain much back when resting. Combat and movement increase tiredness.
 你的身体极擅自愈，生命回复提高 5%。	Your body is adept at healing, increasing Health regeneration by 5%.
-你看，这儿一声哞。	You know, a moo moo here.
-你真该看看他做出来的收藏，美极了。	You should see the beautiful collection he has made.
+你真该看看他攒下的收藏，美极了。	You should see the beautiful collection he has made.
 你瞬息间出现在目标身后，蓄势待发。\n\n每级能力使你的暴击几率提高 1%。\n\n可叠加：否\n结束回合：否	You appear behind your target in an instant, ready to strike.\n\nFor each Ability level you gain 1% higher chance to land a Critical Strike.\n\nStacking: No\nEnds Turn: No
 你能在他人找不到的地方发现财宝，找到的金币提高 10%。	You can find treasure where others cannot, increasing your found gold by 10%.
 你能想象我要是困在那个洞里会怎样吗？	Can you imagine if I had gotten stuck in that cave?
 你能感觉到周围弥漫的能量，并可将它导入宝珠转化为法力。随机驱散自身一个状态效果，获得 15 点法力。\n\n第一级之后每级使可吸收的法力上限提高 2。\n\n获得的法力受精神影响。\n\n需要：宝珠\n结束回合：否\n每回合限用一次	You can feel the energy surrounding you, and are able to convert it into mana by funneling it into an Orb. Destroy a random effect on you, and gain 15 mana.\n\nEach skill level beyond the first increases the amount of Mana that can be absorbed by 2.\n\nMana gained is affected by Spirit.\n\nRequires: Orb\nEnds Turn: No\nUsable Once Per Turn
+你能来这儿看我，我真高兴。	I am very glad you came to visit me here.
 你角色的强项与弱点由其属性决定，列在左侧。点击其中一项即可查看说明。	Your characters strengths and weaknesses are determined by their stats, listed on the left. Click on one to get a description.
 你角色的强项与弱点由其属性决定，列在左侧。用十字键或摇杆移动到高亮的方框，按 Select (A) 查看说明。	Your characters strengths and weaknesses are determined by their stats, listed on the left. Use the dpad or joystick to maneuver to the highlighted box and press Select (A) to see a description.
+你越想，它们越来劲。	It only encourages them.
 你还不了解这个标记。	You do not know about this mark yet.
 你还不了解这枚符文。	You do not know about this rune yet.
 你这怪物！	You Monster!
@@ -574,7 +575,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 全部允许	Allow All
 全部整理	Sort All
 全部还原	Revert All
-六百年来，我们一直生活在翁德拉利斯——埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头——黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉——许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……	For 600 years we have lived in Undralis, the undercity of Elok`ora. I leave this note, that the world to come (for I trust that mankind will endure) will know what was done here. We built a civilization, and have lived in relative peace. Although constrained to these caverns, we have toiled and chiseled a city for ourselves. Our lives have been good and full. Today that comes to an end, for the spawn of the dark lord is pouring forth from both above and below. The ground vomits forth vile creatures the likes of which we have never seen before. Above us, the goblins and trolls, once our allies, join his legions and rake the ground apart to find us. There will be no escape for us, yet we have long been acquainted with this ending. It was clear many years ago that this would be our fate. There is one more hope. Zakerunda has found something ancient...
+六百年来，我们一直生活在翁德拉利斯，埃洛克欧拉的地下城。我留下这张便笺，愿未来的世界（我相信人类终将延续）知晓这里发生过什么。我们建立起文明，过着相对安宁的生活。虽然困守于这些洞穴，我们仍辛勤开凿出了属于自己的城市。我们的人生美好而充实。今天，这一切走到了尽头，黑暗领主的孽种正从地上地下同时涌出。大地呕吐出我们前所未见的邪恶生物。在我们上方，曾是盟友的哥布林与巨魔加入了它的军团，将地表翻得支离破碎来搜寻我们。我们无路可逃，而这样的结局我们早已熟悉，许多年前就清楚这会是我们的命运。还剩最后一线希望。扎克伦达找到了某样古老之物……	For 600 years we have lived in Undralis, the undercity of Elok`ora. I leave this note, that the world to come (for I trust that mankind will endure) will know what was done here. We built a civilization, and have lived in relative peace. Although constrained to these caverns, we have toiled and chiseled a city for ourselves. Our lives have been good and full. Today that comes to an end, for the spawn of the dark lord is pouring forth from both above and below. The ground vomits forth vile creatures the likes of which we have never seen before. Above us, the goblins and trolls, once our allies, join his legions and rake the ground apart to find us. There will be no escape for us, yet we have long been acquainted with this ending. It was clear many years ago that this would be our fate. There is one more hope. Zakerunda has found something ancient...
 关键情报	Vital Information
 兴旺	Prosperity
 其他人喜欢捉弄我。	The others like to mess with me.
@@ -593,13 +594,10 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 内蕴暖意	Inner Warmth
 再往右是「法术/能力」按钮，可一次查看你所有的法术与能力。	To the right of that is the Spells/Abilities button that will allow you to see all of your Spells and Abilities at once.
 再或者，武器会直接穿过它的身体。	Or a body that my weapon passes straight through.
-再把我周围的空气冻住。	And freeze the very air around me.
 再次施放你最近用过的法术。	Cast your last used Spell again.
 再次点击该格即可移动到那里。	Click that tile again to move to that location.
-再没有别的名字像它一样。	There's no other name like it.
+再没有别的名字像它了。	There's no other name like it.
 再生	Regenerative	1
-再用爪子硬挤进我的脑子。	And claw its way into my mind.
-再轻声低语我的厄运。	And whisper softly of my doom.
 冒险	adventure
 冒险者	Adventurer
 冒险者之靴	Adventurer's Boots
@@ -775,7 +773,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 卡林德劳尔	Kalindraur
 卡洛尔	Callor
 卡齐玛尔	Kazimar	1
-卡齐玛尔在找一种生长于潮湿地下的奇异植物。他说它同时活在两个世界里——这一点，我感同身受。也许，我从来就不该只是个牧羊人。	Kazimar is looking for a strange plant that grows in wet, underground conditions. He says it lives in two worlds at once; something I can relate to. Maybe, I was always meant to be more than just a shepherd.
+卡齐玛尔在找一种生长于潮湿地下的奇异植物。他说它同时活在两个世界里，这一点，我感同身受。也许，我从来就不该只是个牧羊人。	Kazimar is looking for a strange plant that grows in wet, underground conditions. He says it lives in two worlds at once; something I can relate to. Maybe, I was always meant to be more than just a shepherd.
 卢纳玛尔	Leunamar
 卢纳玛尔之助	Leunamar's Aid
 卢纳玛尔之心	Leunamar's Heart
@@ -856,7 +854,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 只要空无一物，长厅深壑我都不介意。	I do not mind long halls and deep chasms so long as they are empty.
 召出爆裂的巨大冰晶，伤害一片区域并冻结中心	Summon a burst of giant Ice crystals that damage an area and freeze the center
 召出爆裂的巨大冰晶，对指定格造成 5 点冰霜伤害，所有相邻格受到一半伤害。该伤害不受视线阻挡。\n\n若目标格上有实体，其抗冰霜检定失败则被冰封。\n\n第一级之后每级使伤害加成提高 1。\n\n雨天会使造成的伤害提高 15。\n\n结束回合：是	Summon a burst of giant Ice crystals and damage the specified tile for 5 Ice Damage. All adjacent tiles take half damage. This damage is not blocked by line of sight.\n\nIf an entity is on the targeted tile, a failed Resist Ice roll causes it to become Frozen.\n\nSkill levels increase damage bonus by 1 for every level beyond the first.\n\nRain increases damage dealt by 15.\n\nEnds Turn: Yes
-召唤 4 颗光球——火焰、土、电击与冰霜——环绕目标悬浮，并在其回合开始时随机放电。每颗光球造成 2 点伤害。\n\n第一级之后每级使伤害提高 1。\n\n结束回合：是	Summon 4 orbs; Fire, Earth, Shock and Ice, to hover around your target and randomly discharge at the start of their turn. Each orb deals 2 damage.\n\nDamage increases by 1 for every skill level beyond the first.\n\nEnds Turn: Yes
+召唤 4 颗光球（火焰、土、电击与冰霜）环绕目标悬浮，并在其回合开始时随机放电。每颗光球造成 2 点伤害。\n\n第一级之后每级使伤害提高 1。\n\n结束回合：是	Summon 4 orbs; Fire, Earth, Shock and Ice, to hover around your target and randomly discharge at the start of their turn. Each orb deals 2 damage.\n\nDamage increases by 1 for every skill level beyond the first.\n\nEnds Turn: Yes
 召唤一只你已解锁其怪物特质的害兽。	Summon a vermin whose monster Trait you have unlocked.
 召唤一只你已解锁其怪物特质的活体生物。	Summon a living creature whose monster Trait you have unlocked.
 召唤一只僵尸协助你。\n\n第一级之后每 3 级技能再增加一只僵尸。\n\n同一时间的主要召唤物不能超过 6 只，且该法术与其他召唤法术叠加。\n\n结束回合：是	Summon a zombie to aid you.\n\nEvery 3 skill levels beyond the first adds another zombie.\n\nYou may not have more than 6 main summons at a time and this stacks with other summoning spells.\n\nEnds Turn: Yes
@@ -887,8 +885,8 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 可以制作药水及其他物品。	Allows crafting potions and other items.
 可出售	Sellable
 可它掉下崖边了。	He fell over the ledge, though.
-可惜。	Too bad.
 可惜对方会飞时就不太好使了。	It doesn't work so well when they can fly.
+可惜，不告诉你。	Too bad.
 可放置于除武器与盾牌外的任意栏位。	Place in any slot except weapon and shield.
 可有时候，好奇心就是会战胜理智。	But, sometimes curiosity just gets the best of you.
 可能的话，我宁可走干燥的路。	I prefer to stay on the dry paths, of possible.
@@ -958,6 +956,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 哦不……现在我们没法再深入那个恶心的蜘蛛巢穴了。	Oh no... now we can't go deeper into a hideous spider lair.
 哦，看哪。一栋房子下面有座完全正常的地牢。一切都好。	Oh look. A completely normal dungeon under a house. Everything is fine.
 哦，看哪！一道黑暗的裂隙！真是盛情相邀。	Oh, look! A dark crevice! How inviting.
+唉，本来能看见的，可惜我的面甲太小了。	Well, I could, if my visor wasn't so small.
 唯一	Unique
 商人	Merchant
 商人收购范围之外的物品只能以半价出售	Items the vendor does not accept will only sell for half price
@@ -970,7 +969,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 噬识者	Lore Eater
 噬识者免疫眩晕效果。	Lore Eater is immune to stun effects.
 嚎叫	Howl	1
-四周全是坚硬的岩石，但中央却是我熟悉的东西——我曾在林间躺卧的那片地方。一只奇怪的生物正在翻找我的补给。它珠子般的眼睛猛地转向我，发出嘶声。它的皮肤是绿色的，身上披着粗糙的护甲，腰间挂着一条鞭子。\n\n\n它抡起手臂，正要向我抽来——这时门上一道微光闪过，那生物再也看不见我了。	All around it lay solid stone, but in the center I saw something familiar; the place where I had laid among the trees. A strange creature rummaged through my supplies. It's beady eyes jerked towards me, and it hissed. It's skin was green, and it had roughly made armor and a whip at its side.\n\n\nIt drew its arm back, ready to lash at me, when a shimmer passed over the gate, and the creature perceived me no more.
+四周全是坚硬的岩石，但中央却是我熟悉的东西，我曾在林间躺卧的那片地方。一只奇怪的生物正在翻找我的补给。它珠子般的眼睛猛地转向我，发出嘶声。它的皮肤是绿色的，身上披着粗糙的护甲，腰间挂着一条鞭子。\n\n\n它抡起手臂，正要向我抽来，这时门上一道微光闪过，那生物再也看不见我了。	All around it lay solid stone, but in the center I saw something familiar; the place where I had laid among the trees. A strange creature rummaged through my supplies. It's beady eyes jerked towards me, and it hissed. It's skin was green, and it had roughly made armor and a whip at its side.\n\n\nIt drew its arm back, ready to lash at me, when a shimmer passed over the gate, and the creature perceived me no more.
 四周都是星辰。这里像一场深眠。	There are stars all around. This place is like a deep sleep.
 回去见伊索贝尔	Return to Isobel
 回去见卡齐玛尔	Return To Kazimar
@@ -991,7 +990,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 围困	Trapping
 固若金汤	Unflankable	1
 图书管理员	librarian
-图书管理员一定是深入厅堂里去了。要过去，我得从图书馆进入——钥匙我有。厅堂的另一端有一份关于图书管理员的情报，我必须交给奈拉。	The librarian must have gone deeper into the halls. To get there I need to enter from the Library, for which I have a key. There is information at the other end of these halls that I must give to Naira regarding the librarian.
+图书管理员一定是深入厅堂里去了。要过去，我得从图书馆进入，钥匙我有。厅堂的另一端有一份关于图书管理员的情报，我必须交给奈拉。	The librarian must have gone deeper into the halls. To get there I need to enter from the Library, for which I have a key. There is information at the other end of these halls that I must give to Naira regarding the librarian.
 图书管理员的便笺	Librarian's Note
 图书管理员还活着，而且她进了墓室！我得找到她，但那意味着要穿过地下墓窟……这可不是我期待的事。	The librarian lives, and she went into the crypt! I need to find her, but that will require making my way through catacombs... something I do not look foward to.
 图书馆钥匙	TELibrary1
@@ -1017,7 +1016,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 在你所在的格子上挖掘，以发现隐藏物品。	Dig on your tile to discover hidden items.
 在你攻击前干扰一名敌人。	Distract an enemy before your attack.
 在图书馆中寻找石板	Search the Library for the Tablet
-在图书馆内请保持安静。除非有怪物来袭——那时请尽情喧哗。	Be quiet in the library. Unless monsters are attacking. Then be very loud.
+在图书馆内请保持安静。除非有怪物来袭，那时请尽情喧哗。	Be quiet in the library. Unless monsters are attacking. Then be very loud.
 在地面撕开一道裂隙，眩晕其上的一切并造成土与火焰伤害。	Creates a crack in the ground, stunning and dealing earth and fire damage to anything standing on it.
 在埃梅里斯克以西的矿井中寻找位面材料	Search a mine to the west of Emerisk for the Planar Material
 在墓园下方寻找吟游诗人丢失的鲁特琴。	Find the bard's lost lute beneath the graveyard.
@@ -1049,9 +1048,8 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 在菌菇台地寻找斯卡福斯之心。它喜欢蓝色？	Find the Heart of Scaphos in the Fungal Shelf. It Likes Blue?
 在贴身距离射出箭矢，对目标造成 50% 额外伤害。\n\n第一级之后每级使该加成提高 3%。\n\n结束回合：是	Fire an arrow at point blank range, dealing 50% bonus damage to your target.\n\nEvery level beyond the first increases that bonus by 3%.\n\nEnds Turn: Yes
 在近距离释放强力电击	Delivers a powerful shock at close ranges
-在这个地方，我能看见红月——但也只在它升起的时候，和其他月亮一样。我还以为在这里能随时看见它们呢。这到底是什么地方？	In this place I can see the red moon, but only when it rises; just like the others. I would expect to be able to see them at all times. What is this place?
+在这个地方，我能看见红月，但也只在它升起的时候，和其他月亮一样。我还以为在这里能随时看见它们呢。这到底是什么地方？	In this place I can see the red moon, but only when it rises; just like the others. I would expect to be able to see them at all times. What is this place?
 在这个菜单中，你可以把角色拖进不同的阵型位置。	In this menu you can drag characters into different formation slots.
-在这儿能把任何威胁看得远远的。	I can see any threat coming from way up here.
 在重启之前，你的更改不会生效。	Your change will not take effect until you do.
 在门前低语	Whisper At The Door
 在阵型菜单中，把角色图标拖放到你想要的位置即可完成布置。\n\n每个位置都会为先攻顺序带来正面或负面的加成。\n可以在物品栏菜单中找到带有          图标的这个菜单。	Placement in the Formation Menu is done by dragging and dropping a character icon into the slot position that you want.\n\nEach position adds a positive or negative bonus to your initiative order.\nThis menu can be found with the           icon in the Inventory Menu.
@@ -1127,7 +1125,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 复活次数：	Resuscitations:
 复生	Regeneration
 外膜	Integument
-多么令人满足的声音。	Such a satisfying sound.
 多半只是些小动物。	It's probably just critters.
 多面手	Multipotentialite
 夜幕之力	Strength Of Night
@@ -1181,7 +1178,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 奇怪的靴子	Strange Boots
 奈拉	Naira	1
 奈拉就是那位图书管理员。帮她找回记忆	Naira is the Librarian. Help Return Her Memories
-奉埃梅里斯克市长费斯托斯·英格拉姆之命，随附的这把钥匙禁止使用。墓园如今不但成了危险动物的巢穴，更糟的是——依我之见——还成了噪音之源。又是哀嚎又是长啸，我根本睡不着。那里再也不准聚会，再也不准进入！	By order of Festos Ingram, Mayor of Emerisk, this attached key is not to be used. The graveyard is becoming not only a home to dangerous animals, but much worse, in my opinion, a noise nuisance. I simply cannot sleep with all the wailing and howling. No more parties there, and no more entry!
+奉埃梅里斯克市长费斯托斯·英格拉姆之命，随附的这把钥匙禁止使用。墓园如今不但成了危险动物的巢穴，更糟的是（依我之见）还成了噪音之源。又是哀嚎又是长啸，我根本睡不着。那里再也不准聚会，再也不准进入！	By order of Festos Ingram, Mayor of Emerisk, this attached key is not to be used. The graveyard is becoming not only a home to dangerous animals, but much worse, in my opinion, a noise nuisance. I simply cannot sleep with all the wailing and howling. No more parties there, and no more entry!
 奎伊	Quay
 奖励	Reward
 奥尔森·吉法德	Olsun Gyffard
@@ -1203,9 +1200,9 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 奶桶	Milk Bucket
 奶酪	Cheese
 好。	Yes.
-好一把鲁特琴。从崖边坠落还能幸存，实在非同寻常——它显然不是普通的乐器。	This is a fine lute. It is truly special to have survived the trip over the edge, and is clearly more than just an ordinary instrument.
+好一把鲁特琴。从崖边坠落还能幸存，实在非同寻常，它显然不是普通的乐器。	This is a fine lute. It is truly special to have survived the trip over the edge, and is clearly more than just an ordinary instrument.
 好吧，两次。但就这些了。	Ok, twice. But, that was it.
-好吧，以前能——直到这片迷雾漫了过来。	Well, I used to, until this fog rolled in.
+好吧，以前能看到，直到这片迷雾漫了过来。	Well, I used to, until this fog rolled in.
 好吧，就告诉你。叫「黑尤」。我就说很棒吧。	Fine, I'll tell you. It's "Heyou". I told you it was great.
 好吧，是啊，说出口之后听着是挺糟的。	Ok yeah, when I say it out loud it sounds pretty bad.
 好吧，没了那些小东西四处乱窜，这儿现在反倒显得有点安静了。	Well, now it feels a little quiet around here without all those critters running about.
@@ -1216,7 +1213,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 好斗	Scrapper	1
 如果你发现了 bug，请通过下方任一链接联系我。我会尽快亲自处理。作为一名独立开发者，我非常珍视这个项目，希望遇到的问题都能迅速解决。	If you have found a bug, please contact me with one of the links below. I will personally attend to the issue as quickly as possible. As a solo dev, I care deeply for this project and desire a quick turnaround for any issues encountered.
 如果你找到了这张便笺，说明情况不妙。我启程去寻找那座名为卡林德劳尔的古老避难所。随行的有拉齐德、奎伊、杰斯帕和我的女儿。其他人大多已经不记得一天以前的事。无论是什么在侵蚀我们，它都不会停下。\n\n我相信，只要能找到那座避难所，它就能保护我们不再继续退化。我曾以为可以穿过图书馆或雷诺家族的墓室，但黑暗生物挡住了去路。我们只得改走洞穴。典籍由拉齐德携带。\n\n如果我们没能成功，那么这些钥匙或许能给你最后一次机会。愿「未知」与你同在。	If you have found this note, then all is not well. I begin my journey to find the ancient safehouse known as Kalindruar. With me, I take Razeed, Quay, Jesper and my daughter. Few others remember details more than a day old. Whatever is taking hold of us will not stop.\n\nI believe the shelter will protect us from further degradation, if we can find it. I once thought that there was a way through the library or Renault family crypt, but we were prevented by dark creatures. Instead, we must venture into the caves. Razeed will carry the Codex.\n\nIf we did not make it, then perhaps these keys will allow you one last opportunity. May the Unknown be with you.
-如果你读到了这封信，那么我多半已经殒命，或迷失在了这些凄凉的厅堂中。你要知道，阿伦奎斯特女王埃莉西亚的首席图书管理员奈拉，曾抽取出自己的一部分记忆，存放在安全之处，以防庇护所无法保护她。她需要有人帮忙找回这些记忆。念出「@5」这个词，应当能让她想起存放之处，它也能打开卡林德劳尔的门——就在这只箱子旁边。这魔法会自行分辨敌友。	If you are reading this then I did not survive, or am lost to these bleak halls. Know that Naira, chief librarian for Queen Elyscia of Arenquist, has extracted some of her memories and kept them in a safe place in case the shelter cannot protect her. She will need help retrieving them. The word "@5" should trigger her to remember where she kept them, and it should open the door to Kalindraur, right beside this chest. The magic will know friend or foe.
+如果你读到了这封信，那么我多半已经殒命，或迷失在了这些凄凉的厅堂中。你要知道，阿伦奎斯特女王埃莉西亚的首席图书管理员奈拉，曾抽取出自己的一部分记忆，存放在安全之处，以防庇护所无法保护她。她需要有人帮忙找回这些记忆。念出「@5」这个词，应当能让她想起存放之处，它也能打开卡林德劳尔的门，就在这只箱子旁边。这魔法会自行分辨敌友。	If you are reading this then I did not survive, or am lost to these bleak halls. Know that Naira, chief librarian for Queen Elyscia of Arenquist, has extracted some of her memories and kept them in a safe place in case the shelter cannot protect her. She will need help retrieving them. The word "@5" should trigger her to remember where she kept them, and it should open the door to Kalindraur, right beside this chest. The magic will know friend or foe.
 如果想再次查看，请按 Start (≡) 按钮。	If you wish to see this again, Press Start (≡) button.
 如果想再次查看，请按「信息」按钮。	If you wish to see this again, Press the Info button.
 如果想再次查看，请点击「信息」按钮。	If you wish to see this again, Click the Info button.
@@ -1421,7 +1418,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 将圣战的兵器如雨般洒向邪恶之敌，并治疗你的盟友	Rain instruments of Holy Battle onto unholy enemies and heal your allies
 将对手推开并占据其位置，同时使其防御降低 1。\n\n第一级之后每级再使其防御多降低 1。\n\n结束回合：是	Push an opponent back and take their place, lowering their Defense by 1.\n\nEvery skill level beyond the first lowers their Defense by an additional 1.\n\nEnds Turn: Yes
 将对手推开，占据其位置。	Push an opponent back and take their place.
-将尘土扬向敌人面部，使其失明，直到其下一次物理攻击或闪避——那一次将必定失败。\n\n第一级之后每两级技能返还 1 点已用移动。\n\n结束回合：否	Throw dust into your enemy's face, blinding them until their next physical attack or dodge, which will fail.\n\nGain back a used movement for every second skill level after the first.\n\nEnds Turn: No
+将尘土扬向敌人面部，使其失明，直到其下一次物理攻击或闪避，那一次将必定失败。\n\n第一级之后每两级技能返还 1 点已用移动。\n\n结束回合：否	Throw dust into your enemy's face, blinding them until their next physical attack or dodge, which will fail.\n\nGain back a used movement for every second skill level after the first.\n\nEnds Turn: No
 将已激活的符文缚在原地，使其不再消散能量	Bind an activated rune in place, preventing it from dissipating its energy
 将所有敌人拉向你	Draw all enemies towards you
 将敌人从你身边击退	Knock enemies away from you
@@ -1447,7 +1444,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 尤其是夜里。	Especially at night.
 就像那只被我踢下去的老鼠。	Like that rat I kicked off once.
 就是这扇门。我想，跟它说说话总没坏处。	This is the door. I suppose talking to it couldn't hurt.
-就是这里了。奈拉的记忆就在那座被水围绕的拱门之后。用过「奥术视觉」之后，我们可以用与位面材料融合的法术将月亮连成一线，然后进去——或者在宿舍里消磨时间。	This is it. Naira's memories are through that archway surrounded by water. Once we have used Arcane Sight, we can use the spell fused with the Planar Material to align the moons and enter, or we can pass time in the Dormitory.
+就是这里了。奈拉的记忆就在那座被水围绕的拱门之后。用过「奥术视觉」之后，我们可以用与位面材料融合的法术将月亮连成一线，然后进去，或者在宿舍里消磨时间。	This is it. Naira's memories are through that archway surrounded by water. Once we have used Arcane Sight, we can use the spell fused with the Planar Material to align the moons and enter, or we can pass time in the Dormitory.
 就是那温柔的哞哞声。	It's the gentle lowing. The sound of moos.
 尸架	Corpse Shelf
 尽管埋在土里许久，这枚吊坠依然毫无磨损。	Despite being in the dirt for a long time, the pendant appears unmarked.
@@ -1628,7 +1625,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 怪物学识让你能更快地了解怪物的强项与弱点。\n\n以技能值最高的角色为准，并加上其他队员的平均技能值。\n\n影响属性：心智	Monster Lore allows you to learn the strengths and weaknesses of monsters at a faster rate.\n\nThe character with the highest skill is used, with the the average skill of the other characters in the party added to it.\n\nModifiers: Mind
 怪物特征	Monster Characteristics
 怪物生成速率	Monster Spawn Rate
-总之，这里的西边道路是安全的。	Anyways, the western road here is safe.
+总之，这边的西路是安全的。	Anyways, the western road here is safe.
 总比住在墓室里强。哪怕它可能被烧掉。	Still better home than a crypt. Even if it might burn down.
 总比墓室强。	Still preferrable to a crypt.
 总而言之，我的绊人战术很少奏效。	Basically, my tripping tactic rarely works.
@@ -1664,7 +1661,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 惩戒	Scourging
 想到一件珍贵之物竟能在泥土里躺那么久，无人察觉，却又近在咫尺，真让人难过。	It is sad to think that something valuable can lie in the dirt for so long, unnoticed and yet so close.
 想听个笑话吗？	Want to hear a joke?
-想它们只会给它们助威。	It only encourages them.
 想家。但心，想要冒险。	Miss home, but heart want adventure.
 想想这些人再也用不上的所有东西（战利品）。	Think of all the loot that these people do not need anymore.
 想来确实挺怪的。	I guess that is strange.
@@ -1685,13 +1681,13 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 成功背刺对手时额外造成 3 点伤害。	Add 3 bonus damage when successfully stabbing an opponent in the back.
 成就信息	Achievement Info Here
 成就名称	Achievement Name
-我一天干 24 小时，加班费赚得飞起。	I'm making killer overtime pay working 24 hours a day.
+我一天干 24 小时，加班费拿到手软。	I'm making killer overtime pay working 24 hours a day.
 我一点都不期待我们接下来必须做的事。	I am not looking forward to what we must do here.
 我一直都有。	I do all the time.
 我一路走到这里……走了这么远。如今却过不去了。这些厅堂里潜藏的怪物太多了。对我来说，这就是终点了。但在面对终局之时，也许我还能做点好事。身旁的石头上刻着一个妖精的符号。我相信，要过去必须得到妖精的帮助。具体如何，我说不上来，但我已经再无办法。也许我当初该先调查那栋老房子再来……我想我该躺下歇一歇了。是的。我要休息了，再也不要醒来。	I came all this way... all this way. And now I cannot cross. There are too many creatures lurking these halls. It is the end for me, but perhaps I can do some good as I face the end. Etched on the stone next to me is a symbol of the fae. I believe you need the aid of one to cross. How, I cannot say, but I am out of ideas. Maybe I should have investigated the old house before I came... I believe I shall lie down and rest. Yes. I shall rest, and never wake.
 我上次在这些厅堂里游荡时，它们也没好到哪去。	When I last wandered these halls they were no better.
 我不喜欢进那里面的主意。	I do not like the idea of going in there.
-我也想。大门封死之后，日子就无聊透了。	Me too. It's been boring ever since the gate was sealed.
+我也想听。大门封死之后，日子就无聊透了。	Me too. It's been boring ever since the gate was sealed.
 我亲眼见过他单枪匹马守住南门。	I saw him single-handedly hold the southern gate.
 我从未见过这么愤怒的生物。	I've never seen such angry creatures.
 我以前从没能进入这个地方。	I have never been able to enter this place before.
@@ -1702,10 +1698,10 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 我们就非得一直待在地下吗？	Must we continually remain underground?
 我们已经走到这里了。我会再一次见到天日。再往前一点就好。	We have made it this far. I will see the light of day once more. Just a little bit further.
 我们已退守翁德拉利斯的地下城区。地上发生着什么，我们已无从得知，但斯普林霍尔德的地表恐怕已无人幸存。至于世界的其他地方……愿卢纳玛尔拯救他们。我们将在此加固防御。庆幸的是，我们的先祖有先见之明，把这里建得足够坚固。黑暗生物虽多，我相信我们守得住。总有一天，我们会重返地上世界，向吞噬了我们世界的邪恶复仇。	We have retreated to the undercity district of Undralis. We no longer know what transpires above ground, but it is unlikely that anyone has survived on the entire surface of Springhold. The rest of the world... may Leunamar save them. Here we shall fortify. Praise be that our ancestors had the foresight to make this place as secure as it is. Though the creatures of darkness are many, I believe we can hold them back. One day we shall return to the world above and bring vengeance upon the evil that has devoured our world.
-我们应当作为整体运转，而不是作为个人。	We have to function as a whole, not individuals.
 我们很容易迷路。还好我一直在往地图上做记录。	We could get lost easily. It's a good thing I've been recording on this map.
 我们得找到出去的路，@。去搜搜那具骷髅，看看有没有能用的东西。	We need to find a way out of here, @. Let's check that skeleton for useful items.
 我们找到了卡林德劳尔，但那些怪物仍在不断袭击我们。我潜入厅堂，要将它们消灭，或至少拖住它们，直到各扇门被封死。我已断掉身后的桥，并布下了结界。如今唯一的其他通路要穿过图书馆。\n\n\n我在卡林德劳尔南门外藏了一只箱子，只有持有此条的人才能打开。里面装着至关重要的信息。身在野外，我已感觉到自己的知识正在流失。从图书馆进入，找到那只箱子，把信息交给奈拉。	We found Kalindraur, but these monsters continue to assault us. I have ventured into the halls to destroy them or at least keep them at bay until the doors can be sealed. I have shut the bridge behind me and set up a ward. The only other way is now through the library.\n\n\nI left a chest hidden outside Kalindraur's southern door that will only open for whoever possesses this note. There is vital information in it. I can already feel my knowledge slipping away, now that I am outside. Enter from the Library, find this chest, and return the information to Naira.
+我们是一个整体，不是一个个个体。	We have to function as a whole, not individuals.
 我们真该随身带把梯子什么的。	We should start carring a ladder or something.
 我们离潜伏在此的东西越来越近了……	We draw closer to whatever lurks here...
 我们见过许多人从迷雾里游荡出来。	We see many people wander out of the fog.
@@ -1719,7 +1715,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 我喜欢银月的辉光，但等它升起着实累人。也许我该扎营休息，给米亚拉一点时间走完她的轨迹。	I love the glow of the silver moon, but waiting for it to rise can be exhausting. Maybe I should make camp to give Miala time to plot her course.
 我在悬崖边张望的时间已经太久了。	I have spent far too much time peering over chasms.
 我在这里感觉到米亚拉。	I feel Miala here.
-我大概有段时间吃不下蘑菇了。我们做到了，斯卡芬的家园清干净了。现在，谈正事吧——去拿那把钥匙。	It may be some time before I can eat mushrooms again. We have done it. The Scaphin home is clear. Now, let us get to business and collect this key.
+我大概有段时间吃不下蘑菇了。我们做到了，斯卡芬的家园清干净了。现在，谈正事吧，去拿那把钥匙。	It may be some time before I can eat mushrooms again. We have done it. The Scaphin home is clear. Now, let us get to business and collect this key.
 我大概该回去干活了。	I should probably get back to work.
 我宁愿相信它到今天还在往下掉。	I like to think it's still falling to this day.
 我察觉到……邪恶。	I sense something... evil.
@@ -1737,7 +1733,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 我必须进入法力晶石矿。钥匙在镇西某个守护者手里。如果我们说明来意，也许它会交出钥匙。无论如何，我们都得拿到它。	I must enter the Manatite Mine. Some guardian west of town has the key. Maybe the guardian will give us the key if we state our purpose. Either way, we will get it.
 我怕高。好，我说出来了。	I am afraid of heights. There, I said it.
 我总听见下面有动静。	I hear noises down there all the time.
-我想唱歌——哪怕只是为了盖过耳边那令人发狂的杂音。	I wish to sing, if only to drown out the maddening noise that I hear.
+我想唱歌，哪怕只是为了盖过耳边那令人发狂的杂音。	I wish to sing, if only to drown out the maddening noise that I hear.
 我想我们都清楚这里等着我们的是什么。	I think we all know what awaits us here.
 我想正式声明：我反对这个主意。	I wish to make known my objection to this idea.
 我想，那也不重要。	I suppose it doesn't matter.
@@ -1753,8 +1749,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 我敢说这些洞里到处都是铁。凑够要挖的量应该不难。等我回去，加莱伦可有得忙了。	I bet these caves are full of iron. I should not have trouble finding enough to mine. Galeren will have his work cut out for him once I return.
 我敢说这把钥匙能打开那扇门。	I bet we can use this key to open the door.
 我是想离开洞穴，不是越钻越深……	I was hoping to leave the caves, not go deeper in...
-我是照着曾侄孙的猫取的名。	I'm named after my great grandnephew's cat.
-我是说东边那条路。	I mean eastern road.
+我是说，东边那条路。	I mean eastern road.
 我更偏爱干燥的地方。可这里的魔力实在让人无法忽视。	I prefer places more dry. But I cannot help but feel the magic of this place.
 我曾无视过长老的告诫。不会再有第二次。	I ignored the elders once. I will not do it again.
 我最爱的招数是把它们绊下崖边。	My favorite trick was to trip them over the ledge.
@@ -1768,7 +1763,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 我甚至不用睡觉。	I don't even need to sleep.
 我的同伴们过不去。我绝不抛下他们。	My companions cannot follow. I will not leave them behind.
 我的同族曾常来此地。	My kind once frequented this place.
-我的想象力很狂野，对吧？	I have a wild imagination, right?
+我的想象力可真丰富，对吧？	I have a wild imagination, right?
 我的朋友们跟不进去那里。	My friends cannot follow me there.
 我的职责非常明确。	I have very specific duties.
 我相信它没事。	I'm sure he's alright.
@@ -1798,7 +1793,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 我都不知道人竟能在此处停留超过一瞬。	I did not know one could remain in this place for more than an instant.
 戒指	Ring
 或者根本没有腿。	Or have no legs.
-或者说这是东边？	Or is this the east?
 战争	Warfare
 战场上的一个目标必须向你移动，其他所有敌人则必须远离你。\n\n可叠加：否\n结束回合：是	A target on the battlefield must move towards you and and all others must retreat from you.\n\nStacking: No\nEnds Turn: Yes
 战场上的一个目标必须向你移动；敌人若未能通过意志力检定，每级技能失去 1 点心智。\n\n可叠加：否\n结束回合：否	A target on the battlefield must move towards you and enemies must succeed a Willpower check or lose 1 Mind for every skill level.\n\nStacking: No\nEnds Turn: No
@@ -1817,7 +1811,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 战锤	War Hammer
 战阵	Battle
 戟	Halberd
-所以我上一份工作被开除了。	That's why I was fired from my last job.
+所以上一份工作把我开除了。	That's why I was fired from my last job.
 所以我才养了只宠物鼠。	That's why I have a pet rat.
 所以说，当一群人千方百计对你隐瞒某些事时，你永远都该起疑心。诚然，是我自己的愚蠢和冒险心把我引到了那里，它几乎让我失去了一切。\n\n\n\n\n\n	And that, is why you should always be suspicious when a group of people hides something from you. True, my own folly and sense of adventure led me there to begin with, and it nearly cost me everything.\n\n\n\n\n\n
 所有亡灵免疫恐惧效果，除非其本质为神圣。	All Undead are Immune to Fear effects unless they are Holy in nature.
@@ -2072,7 +2066,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 攻击至多三个相邻目标	Attack up to three adjacent targets
 攻击造成极强击退	Attacks do Extreme Knockback
 攻城箭袋	Siege Quiver
-放出一道火焰之浪，对路径上的每个实体造成伤害——火浪每前进一格，便造成 2 点火焰伤害。\n\n所有受伤害且抗火失败的实体都会着火。\n\n第一级之后每级使伤害加成提高 1。\n\n结束回合：是	Send out a wave of fire that deals 2 fire damage for each tile the wave has travelled, to each entity in its path.\n\nAll damaged entities that fail a Resist Fire roll will catch on fire.\n\nSkill levels increase damage bonus by 1 for every level beyond the first.\n\nEnds Turn: Yes
+放出一道火焰之浪，对路径上的每个实体造成伤害，火浪每前进一格，便造成 2 点火焰伤害。\n\n所有受伤害且抗火失败的实体都会着火。\n\n第一级之后每级使伤害加成提高 1。\n\n结束回合：是	Send out a wave of fire that deals 2 fire damage for each tile the wave has travelled, to each entity in its path.\n\nAll damaged entities that fail a Resist Fire roll will catch on fire.\n\nSkill levels increase damage bonus by 1 for every level beyond the first.\n\nEnds Turn: Yes
 效力	serve
 敌人会被击退到离你一格远的位置，并受到 1 点额外伤害。若目标无法后退，则再受 50% 额外伤害。\n\n第一级之后每级再增加 2 点额外伤害。\n\n结束回合：是	Enemies are knocked one tile away from your position, taking an extra point of bonus damage. If the target cannot move back, they take an additional 50% bonus damage.\n\nEach skill level beyond the first adds 2 Bonus Damage.\n\nEnds Turn: Yes
 敌人会被击退到离攻击者一格远的位置，并受到相当于攻击者力量 50%、无视护甲的钝击伤害。\n\n目标若抗物理失败则被眩晕。\n\n第一级之后每级再使钝击伤害加成提高 4%。\n\n结束回合：是	Enemies are knocked one tile away from the attacker, and take 50% of the attackers Strength in Blunt damage that ignores armor. \n\nThe target is stunned if they fail to Resist Physical.\n\nEvery skill level beyond the first gives an additional 4% bonus to Blunt damage.\n\nEnds Turn: Yes
@@ -2087,7 +2081,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 散出毒云，使周围所有实体中毒	Emit a cloud of poisonous vapor that poisons all surrounding entities
 敬视镜	Respectacle	1
 整排肋排	Full Rack of Ribs
-整整三天，我没有行动，也没有说话。能睡的时候就睡，睡不着时就焦躁不安。\r\n\r\n这样的求生撑不了多久。我必须回去一趟。我拨开灌木，站起身，恐惧攫住了我的心。在我面前站着——不，是飞着——一只我从未见过的生物。它悬停着，像被鹰抓住的蛇。一道光环绕着脸庞旋转，光环上只有一只独眼。它开口说话了。我听不懂它说了什么，因为我的心跳声太响，淹没了一切。\r	For three days I did and said nothing. I slept when I could, and fretted when I could not sleep.\r\n\r\nThis kind of survival could only go on for so long. I had to venture back. I moved the brush, stood, and fear filled my heart. Before me stood... no, flew, a creature unlike any I had ever seen. It hung like a snake caught by an eagle. A halo, with one singular eye, circled its face. And it spoke. I could not understand what it said, for my heart beat so loudly that all else was drowned out.\r
+整整三天，我没有行动，也没有说话。能睡的时候就睡，睡不着时就焦躁不安。\r\n\r\n这样的求生撑不了多久。我必须回去一趟。我拨开灌木，站起身，恐惧攫住了我的心。在我面前站着（不，是飞着）一只我从未见过的生物。它悬停着，像被鹰抓住的蛇。一道光环绕着脸庞旋转，光环上只有一只独眼。它开口说话了。我听不懂它说了什么，因为我的心跳声太响，淹没了一切。\r	For three days I did and said nothing. I slept when I could, and fretted when I could not sleep.\r\n\r\nThis kind of survival could only go on for so long. I had to venture back. I moved the brush, stood, and fear filled my heart. Before me stood... no, flew, a creature unlike any I had ever seen. It hung like a snake caught by an eagle. A halo, with one singular eye, circled its face. And it spoke. I could not understand what it said, for my heart beat so loudly that all else was drowned out.\r
 整猪盛宴	Full Hog
 整理物品	Sort Items
 斗殴者	Brawler	1
@@ -2252,7 +2246,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 未经科尔文许可，千万别碰那台装置。	Make sure not to touch the device without talking to Corvin.
 未被发现的物品不会出现在你的地图上。	Items that have not been spotted will not appear on your map.
 未鉴定	Unidentified
-本来是可以的——如果我的面甲没这么小。	Well, I could, if my visor wasn't so small.
 本源弱点	Primordial Weakness
 本节介绍各种战斗交互机制。\n\n\n\n\n\n\n\n	This section describes various combat interactions.\n\n\n\n\n\n\n\n
 机动	Mobility
@@ -2288,7 +2281,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 枯败丘陵	Withering Hills
 枯败眺望台	Withering Overlook
 某些法术与能力需要训练到足够高的等级，才能解锁另一个法术或能力。	Some Spells and Abilities have to be trained high enough to unlock another Spell or Ability.
-某处有一本谈及黑暗领主的书。我不禁想，捧着那样一本书会不会多几份力量？总之，它多半在图书馆——书就该待的地方。	There is a book somewhere that speaks of the Dark Lord. I wonder, would holding such a book result in more powers? Anyways, it is probably in the library, where books belong.
+某处有一本谈及黑暗领主的书。我不禁想，捧着那样一本书会不会多几份力量？总之，它多半在图书馆，书就该待的地方。	There is a book somewhere that speaks of the Dark Lord. I wonder, would holding such a book result in more powers? Anyways, it is probably in the library, where books belong.
 某种奥术能量笼罩着这里，也横跨着这道裂隙。	Some kind of arcane energy surrounds this place. It spans this gap too.
 查明关联	Find the Connection
 查明黑暗领主与诅咒之间的关联。	Find out how the Dark Lord is connected to the curse.
@@ -2309,7 +2302,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 棱钉锤	Flanged Mace
 棺巢妖	Coffinaerie
 植物	Plant
-植物到手了，拿着它实在相当瘆人。每次触碰，我都能感觉到另一个地方在呼唤。真希望这不会让他的状况更糟——如果还能更糟的话。	We have the plant, and holding it is more than a little distrubing. I feel another place calling out when I touch it. I really hope this does not make his condition worse, if such a thing is possible.
+植物到手了，拿着它实在相当瘆人。每次触碰，我都能感觉到另一个地方在呼唤。真希望这不会让他的状况更糟，如果还能更糟的话。	We have the plant, and holding it is more than a little distrubing. I feel another place calling out when I touch it. I really hope this does not make his condition worse, if such a thing is possible.
 模仿更黑暗的敌人，将怪物吓退。	Frighten monsters away by mimicking an even darker foe.
 横扫	Sweep
 橙色方块代表箱子及其他储物处。	Orange Squares represent Chests and other item stashes.
@@ -2358,7 +2351,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 每有一名相邻的敌人，获得 10% 伤害加成。	For each adjacent enemy, gain a 10% damage bonus.
 每有一名相邻的队友，获得 10% 伤害加成。	For each adjacent hero, gain a 10% damage bonus.
 每有一轮尚未升起的月亮，宝箱怪每回合便回复 1% 的生命。	Treasure Mimics gain 1% of their health back every turn, for each moon that has not yet risen.
-每种特质都有一条进度条。\n\n完成进度后，你会了解到该生物的一些特点——或是一个弱点，或是一项优势。每个物种特质（相对于身体特质或类型特质而言）都会让你更接近解锁该特质。\n\n一旦你解锁了那只怪物的全部物种特质，被锁定的特质就可以用特质点购买了。\n\n	Each Trait has a progress bar.\n\nWhen you complete the progress you learn something about that creature, either a weakness or strength. Each Species Trait (as opposed to a Body or Type trait) will move you closer to unlocking the Trait.\n\nOnce you unlocked all of the Species Traits for that monster, the locked Trait will become available for purchase with Trait Points.\n\n
+每种特质都有一条进度条。\n\n完成进度后，你会了解到该生物的一些特点，或是一个弱点，或是一项优势。每个物种特质（相对于身体特质或类型特质而言）都会让你更接近解锁该特质。\n\n一旦你解锁了那只怪物的全部物种特质，被锁定的特质就可以用特质点购买了。\n\n	Each Trait has a progress bar.\n\nWhen you complete the progress you learn something about that creature, either a weakness or strength. Each Species Trait (as opposed to a Body or Type trait) will move you closer to unlocking the Trait.\n\nOnce you unlocked all of the Species Traits for that monster, the locked Trait will become available for purchase with Trait Points.\n\n
 每轮，噬识者会对每个敌对实体造成等同于其「怪物学识」技能的伤害。	Each round, Lore Eaters deal damage to each opposing entity equal to their Monster Lore skill.
 每项技能都有一个基础等级值，即该技能的实际等级，以橙色标示。\n\n右侧的白色进度条会向上攀升，到达顶端时，你就会提升该项技能一级。\n\n\n\n\n	Each skill has a Base Level value, which is the actual level of the skill, marked in Orange.\n\nA white progress bar on the right climbs until it reaches the top, at which point you gain a level in that skill.\n\n\n\n\n
 毒	Poison	1
@@ -2699,7 +2692,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 看上去像染色的象牙或骨料，挂在一根弯折的金丝上。	It looks to be dyed ivory or bone, hanging from a bent gold wire.
 看到这么多书无人翻阅，真让人难过……可这是为什么呢？	It saddens me to see so many books unread... but why?
 看卡洛尔干活真是一种荣幸。	It is such an honor to watch Callor work.
-看来保持干燥是没指望了。至少——	I guess staying dry is out of the question. At least
+看来保持干燥是没指望了。至少……	I guess staying dry is out of the question. At least
 看来我们注定要在黑暗里爬行。	I suppose we are destined to crawl through the darkness.
 看来这里发生过塌方，有人被埋在碎石下面了。	It looks like there was a collapse, and someone was trapped under the rubble.
 看来门是从这一侧锁上的。我该让 @ 当领队，也许他帮得上忙。	It looks like it was locked from this side. I should make @ the leader. Maybe he can help.
@@ -2740,7 +2733,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 石上刻着这样的话：\n\n这是空缺的符文。你所寻之物必不在此。	The stone is inscribed with these words:\n\nThis is the rune of Absence. What you seek must not be present.
 石上刻着这样的话：\n\n这是米亚拉的符文。愿她在至暗之路上为你照亮前行。	The stone is inscribed with these words:\n\nThis is the rune of Miala. May she light your way on darkest paths.
 石上刻着这样的话：\n\n这是黑暗的符文。愿你能避开烈日的灼烧。	The stone is inscribed with these words:\n\nThis is the rune of Darkness. May you shelter from the suns rays.
-石上刻着这样的话：\n\n门径标记会揭示极为重要的门户——无论看得见，还是看不见。	The stone is inscribed with these words:\n\nDoorway marks reveal gates of much importance, whether seen or unseen.
+石上刻着这样的话：\n\n门径标记会揭示极为重要的门户，无论看得见，还是看不见。	The stone is inscribed with these words:\n\nDoorway marks reveal gates of much importance, whether seen or unseen.
 石制生物免疫土系法术、能力与武器造成的伤害。	Creatures made of Stone are immune to damage from Earth spells, abilities and weapons.
 石制生物免疫毒素法术、能力与武器造成的伤害。	Creatures made of Stone are immune to damage from Poison spells, abilities and weapons.
 石制生物对木头与木质武器有 75% 抗性。	Creatures made of Stone are 75% resistant to Wood and Wood weapons.
@@ -2834,6 +2827,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 突袭	Strike	1
 窃取敌人的生命与法力	Steal Health and Mana from an enemy
 站在水中时获得治疗	Heal When Standing in Water
+站在这儿，远远就能看见任何威胁靠近。	I can see any threat coming from way up here.
 站岗并不是最刺激的工作。	Guard duty isn't the most exciting job.
 笔记	Note
 笔记信息	Note Information
@@ -2843,10 +2837,10 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 符文标记	Runes and Marks
 符文石	Glyph Stones	1
 符文蝇	Runefly
-符文：\n\n符文是一组刻在石头上的符号。这些符号由一个核心元素（符文最显著的部分）构成，代表符文所系之物——可能是一轮月亮、一个人，甚至别的东西。 \n\n此外还有次级标记，用来表示符文激活所需的额外条件。\n\n（为避免剧透，本节仍在撰写中）	Runes:\n\nRunes are a collection of symbols, etched in stone. These symbols consist of a central element, the most noticable part of the rune, that represents what kind of thing the rune is tied to. This can be a moon, or an individual, or perhaps even something else. \n\nThere are also secondary markings that indicate additional requirements for the rune to activate.\n\n(to avoid Spoilers, this section is a work in progress)
+符文：\n\n符文是一组刻在石头上的符号。这些符号由一个核心元素（符文最显著的部分）构成，代表符文所系之物，可能是一轮月亮、一个人，甚至别的东西。 \n\n此外还有次级标记，用来表示符文激活所需的额外条件。\n\n（为避免剧透，本节仍在撰写中）	Runes:\n\nRunes are a collection of symbols, etched in stone. These symbols consist of a central element, the most noticable part of the rune, that represents what kind of thing the rune is tied to. This can be a moon, or an individual, or perhaps even something else. \n\nThere are also secondary markings that indicate additional requirements for the rune to activate.\n\n(to avoid Spoilers, this section is a work in progress)
 第 2 章单独保存	Saves Seperaately for Chapter 2
 等待重新绑定输入……	Waiting for Rebinding Input...
-等我哪天退休，就去实现免费当守卫的梦想！	I'll retire one day and live my dream of being a guard for free!
+等我哪天退休，就去圆我的梦：免费当守卫！	I'll retire one day and live my dream of being a guard for free!
 等等，那就是我。	Wait, that was me.
 等级	LVL
 答案	Answer
@@ -2976,7 +2970,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 至多三个相邻目标受到 2 点挥砍额外伤害与 2 点穿刺额外伤害。\n\n每级技能使伤害加成提高 50%。\n\n结束回合：是	Up to three adjacent targets take 2 bonus damage from slashing and 2 bonus damage from piercing .\n\nDamage bonuses increase 50% per skill level.\n\nEnds Turn: Yes
 至深之境书卷	Tome of Deepest Reaches
 致密躯体	Dense Body
-致我的儿子霍森——雷诺家族财富的继承人，我留下这句箴言。自从雷诺与吉法德在「北方」结盟以来，我们的家族一直作为领导力的「支柱」屹立不倒。埃梅里斯克若要存续，离不开我们。记住我们先祖的古老箴言：「@4」。愿它指引你，也指引我们的人民，前往庇护所。	To my son Hawthen, heir to the Renault family fortune, I leave this word of wisdom. Ever since an alliance was forged in the 'north' between Renault and Gyffard, our families have stood as 'pillars' of leadership. Emerisk needs us, if it is to survive. Remember the ancient word of our fathers, "@4". May it guide you, and our people, to Shelter.
+致我的儿子霍森，雷诺家族财富的继承人，我留下这句箴言。自从雷诺与吉法德在「北方」结盟以来，我们的家族一直作为领导力的「支柱」屹立不倒。埃梅里斯克若要存续，离不开我们。记住我们先祖的古老箴言：「@4」。愿它指引你，也指引我们的人民，前往庇护所。	To my son Hawthen, heir to the Renault family fortune, I leave this word of wisdom. Ever since an alliance was forged in the 'north' between Renault and Gyffard, our families have stood as 'pillars' of leadership. Emerisk needs us, if it is to survive. Remember the ancient word of our fathers, "@4". May it guide you, and our people, to Shelter.
 致谢	Attribution
 舒适	Coziness
 艾伦达尔	Airendal	1
@@ -3165,7 +3159,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 请勿触碰文物。	Do not disturb the artifacts.
 请输入名称：\n	Please enter a name:\n
 请重启游戏。	Please restart the game.
-谁会不想看看我这身漂亮行头呢。	Who wouldn't want to look at my fancy getup.
+谁会不想看看我这身漂亮行头呢？	Who wouldn't want to look at my fancy getup.
 调整\n摇杆	Adjust\nThumbsticks
 调整后花费：	Adjusted Cost:
 调试日志摘要	Debug.Log summary
@@ -3225,10 +3219,16 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 过目不忘	Eidetic Memory
 返回物品栏上一页。	Go back one inventory page.
 返回顶部	Return to Top
+还会把我周围的空气冻住。	And freeze the very air around me.
+还会狂野地嚎叫。	And howl wildly.
+还会用爪子硬挤进我的脑子。	And claw its way into my mind.
+还会轻声低语我的厄运。	And whisper softly of my doom.
 还原为默认	Revert to Defaults
 还是没看到雾。希望有雾。需要水汽。	Still no see fog. Wish there was fog, Need moisture.
+还是说，这边其实是东边？	Or is this the east?
 这一个小村子底下，怎么会藏着这么多东西？	How can there be so much beneath this one village?
 这一切……就在我困守许久之地的对面，隔着那道深渊。	All of this... just across the chasm from where I spent so long.
+这世上只有这一座镇子，所以他们多半是从这儿出去的。	This is the only town in the world, so maybe they came from here.
 这两边我老是搞混。	I always get those two mixed up.
 这个人怎么只有书，别的什么都没有？我得再查查他们的事。	Why did this person have books and nothing else? I should learn more about them.
 这个出口没有雾，肯定有个很充分的理由。大概吧。	There is probably a really good reason why there is no fog at this exit. Probably.
@@ -3250,9 +3250,12 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 这些训练武器虽然简陋，但做工扎实、结实耐用。	These training weapons, though simplistic, are well made and sturdy.
 这份工作我说什么都不换。	I wouldn't give this job up for anything.
 这像座墓室，只是打扮得体面些。	It is like a crypt, but dressed up.
+这儿一声哞。	You know, a moo moo here.
 这儿哞一声。	Here a moo.
 这只小卷轴似乎曾被系在什么上面，但绳子已经断了。	The small scroll appears to have been tied to something, but the string is broken.
 这可能是个糟糕透顶的选择。	This may end up being a terrible choice.
+这可违反守则。	It's against the code.
+这名字取自曾侄孙的猫。	I'm named after my great grandnephew's cat.
 这地方为什么被废弃了呢。	I wonder why this place is abandoned.
 这地方太孤单了。我不喜欢。	This place is lonely. I do not like it.
 这地方对我来说没什么好回忆。不过宝藏是真不错！	This is not a place of fond memories for me. But the treasure was good!
@@ -3263,6 +3266,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 这块石头和我们之前在洞里找到的那块很像。找人问问吧。	This stone looks like the one we found in the cave. Let's ask someone here about it.
 这块石头损坏得太严重，已经辨认不出刻文。	This stone is too damaged to make out the inscription.
 这块蛋糕最好值得。可费了不少劲。	This cake had better be worth it. That was a lot of trouble.
+这声音多让人满足。	Such a satisfying sound.
 这就有点尴尬了。	This has gotten awkward.
 这座大厅当初是做什么用的？	What was the purpose of this hall?
 这座房子里有点不对劲。	There is something off about this home.
@@ -3277,7 +3281,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 这张羊皮纸年代久远却不算太古，干燥的空气让它保存得还不错。	This parchment is old, but not ancient. Dry air has left it in fair condition.
 这是一份制作奶酪的配方。	This is a recipe for making cheese.
 这是一份酿造药水的配方。	This is a recipe for brewing a potion.
-这是世上唯一的镇子，所以他们大概就是从这儿出去的。	This is the only town in the world, so maybe they came from here.
 这是低语标记。念出正确的魔法词即可解开。	This is a Whisper mark. It will unlock if you whisper a magic word.
 这是你在商店中可支配的金币。	This is how much gold you have to spend in shops.
 这是全镇最好的守卫岗。	This is the best guard spot in town.
@@ -3288,7 +3291,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 这是物品标记。它通常表示此处埋有物品。	This is an Item mark. It often indicates a buried item.
 这是触发标记。踩上去会激活某些东西。	This is a Trigger mark. Stepping on it will activate something.
 这是路径标记。它表示此处有一条隐形的通路。	This is a Pathway mark. It indicates that there is an invisible path.
-这是门径标记。它表示此处有一道门——而且往往是隐形的门。	This is an Doorway mark. It indicates a doorway, and often an invisible one.
+这是门径标记。它表示此处有一道门，而且往往是隐形的门。	This is an Doorway mark. It indicates a doorway, and often an invisible one.
 这是魔法标记。它表示此处存在某种魔法之物。	This is a Magic mark. It indicates the presence of something magical.
 这木料一直在……盯着我。我巴不得赶紧脱手。快把它送回给哈德温吧。	This wood keeps... staring at me. I cannot wait to hand this over. Let us get this back to Hardwin quickly.
 这本书腐坏得太严重，已经毫无用处。	This book is too degraded to be of any use.
@@ -3306,7 +3309,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 这段文字写在一块旧布上，历经岁月竟保存得相当完好。	This note was inscribed on a piece of old cloth, which has stood the test of time quite well.
 这活儿比种地轻松多了。	This job is a lot easier than farming.
 这活有时是有点单调，但值得。挖矿、打造；挖矿、打造。嗯，还挺顺口。	This can feel a bit repetitive sometimes, but it is worth it. Mine, craft. Mine, craft. Hmmm, catchy.
-这片巨菌之地已经庇护了我们整整十轮，我确信，其他所有逃散的人都已永远与我们失散。早在城市陷落之前，我们就一直与这里的斯卡芬共同生活、共享此地。说实话，这里与其说属于我们，不如说属于它们——但我们现在是难民。我多么渴望再见一次太阳，愿意就此离开这里。它们待我们足够友善，但它们之中有些东西在骚动。我担心它们已经厌倦了我们。还有一事。那些蘑菇……不太一样，它们稍稍朝我们倾斜，仿佛想说些什么，我却说不出是什么。也许只是我的错觉，但我认为这是不祥之兆。有这些异状和斯卡芬，我们恐怕等不到黑暗领主来亲手了结我们了。	This land of massive fungus has been our refuge for ten long cycles, and I am certain that all the others who fled are lost to us forever. We have long worked alongside the Scaphin here to share this place, even before our city fell. In truth, it belongs to them more than us, but we are refugees now. How I long to see the sun again, and would gladly leave this place. They are kind enough, but something stirs among them. I worry that they tire of us. And there is more. The mushrooms are... different, leaning slightly towards us, as if they wish to say something, though I cannot say what. Perhaps it is in my head, but I think it bodes ill. Between this and the Scaphin, I doubt we will need the dark lord to finish what he began.
+这片巨菌之地已经庇护了我们整整十轮，我确信，其他所有逃散的人都已永远与我们失散。早在城市陷落之前，我们就一直与这里的斯卡芬共同生活、共享此地。说实话，这里与其说属于我们，不如说属于它们，但我们现在是难民。我多么渴望再见一次太阳，愿意就此离开这里。它们待我们足够友善，但它们之中有些东西在骚动。我担心它们已经厌倦了我们。还有一事。那些蘑菇……不太一样，它们稍稍朝我们倾斜，仿佛想说些什么，我却说不出是什么。也许只是我的错觉，但我认为这是不祥之兆。有这些异状和斯卡芬，我们恐怕等不到黑暗领主来亲手了结我们了。	This land of massive fungus has been our refuge for ten long cycles, and I am certain that all the others who fled are lost to us forever. We have long worked alongside the Scaphin here to share this place, even before our city fell. In truth, it belongs to them more than us, but we are refugees now. How I long to see the sun again, and would gladly leave this place. They are kind enough, but something stirs among them. I worry that they tire of us. And there is more. The mushrooms are... different, leaning slightly towards us, as if they wish to say something, though I cannot say what. Perhaps it is in my head, but I think it bodes ill. Between this and the Scaphin, I doubt we will need the dark lord to finish what he began.
 这片易碎的羊皮纸太古老了，随时都可能化为尘土。	The brittle piece of parchment is so old that it may turn to dust at any moment.
 这番景色让我安心。而这，恰恰很危险。	This sight puts me at ease. That is a dangerous.
 这种地方不适合我。	Places like this are not for me.
@@ -3316,7 +3319,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 这表示该物品已被标记为待售。在下一个商人处，你可以将所有标记物品一并出售。	This indicates that this item has been marked for Sale. At the next vendor, you can sell all marked items together.
 这表示银月米亚拉位于地平线之上。每轮月亮都有各种效果，可在「学识」中了解。	This indicates that the silver moon Miala is above the horizon. Each moon has various effects which you can learn about in the Lore.
 这边有废弃的老矿。我提议去看看。	There are old mines out this way. I vote to visit them.
-这违反守则。	It's against the code.
 这里……安全吗？	Is this... safe?
 这里……没有音乐。	There is... no music here.
 这里为什么没有雾？我们真能离开了吗？	Why is there no fog here? Can we actually leave?
@@ -3425,7 +3427,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 那时也有迷雾。有一次，一只蠢猫害我掉进了洞里。	There was fog then too. Once, I fell into a hole because of some dumb cat.
 那是扇门吗？	Is that a door?
 那本书	The Book
-那真是个天大的错误。人们嘲笑我是个蠢货，或是个发了疯的人。直到今天也没人相信我的故事，所以我留下这最后一封信。临终之际，我把一切重新讲述出来：但愿在很久以后，我不再被当作疯子，而是被记作一名幸存者，一个未曾目睹之物的传信人。\n\n\n——毛林·坦格尔夫，皮尔莫里的疯子。\n	What a mistake that was. I was derided as a fool, or a man gone mad. None believe my tale to this day, so I leave this last letter. On my deathbed, I recount, so that perhaps someday, long after my death, I will be known not as a fool, but as a survivor, and a herald of things unseen.\n\n\n- Maurin Tangelf, the madman of Pirmory.\n
+那真是个天大的错误。人们嘲笑我是个蠢货，或是个发了疯的人。直到今天也没人相信我的故事，所以我留下这最后一封信。临终之际，我把一切重新讲述出来：但愿在很久以后，我不再被当作疯子，而是被记作一名幸存者，一个未曾目睹之物的传信人。\n\n\n毛林·坦格尔夫，皮尔莫里的疯子。\n	What a mistake that was. I was derided as a fool, or a man gone mad. None believe my tale to this day, so I leave this last letter. On my deathbed, I recount, so that perhaps someday, long after my death, I will be known not as a fool, but as a survivor, and a herald of things unseen.\n\n\n- Maurin Tangelf, the madman of Pirmory.\n
 那里面要是有矿，我非找出来不可。	If there is ore in there, I aim to find it.
 邪恶	Villainy
 邪恶之种	Seed of Evil
@@ -3563,7 +3565,7 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 阿奇文	Archaven	1
 阿尔福德·海菲斯特	Alford Hayfest
 阿德拉·梅亚德	Adela Meyard
-阿德拉在找一种陈年奶酪——真正陈年的奶酪。我不知道它有什么特别，但据说就在墓园里一座被水淹没的墓室中。	Adela is looking for some old cheese. Really old cheese. I do not know what is so special about it, but apparently it is in a flooded crypt in the graveyard.
+阿德拉在找一种陈年奶酪，真正陈年的奶酪。我不知道它有什么特别，但据说就在墓园里一座被水淹没的墓室中。	Adela is looking for some old cheese. Really old cheese. I do not know what is so special about it, but apparently it is in a flooded crypt in the graveyard.
 阿明达斯	Armindas	1
 阿格玛人	Agmarians	1
 阿格玛僵尸对冰霜伤害及效果有 50% 易伤。	Agmarian Zombies are 50% vulnerable to Ice damage and effects.
@@ -3621,7 +3623,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 露营：进入或退出露营模式，在其中休整。	Camp: Enter or Exit camping mode, where you can rest up.
 露营：进入或退出露营模式，在其中休整。\n\n露营能让你更快地恢复生命与法力，但若不采取防备，就有遭遇怪物袭击的风险。	Camp: Enter or Exit camping mode, where you can rest up.\n\nCamping allows you to gain back your health and mana faster, but you run the risk of a monster attack if you don't take precautions.
 非实体	Immaterial
-非常高兴你来看我。	I am very glad you came to visit me here.
 靠近光源时易受物理伤害	Vulnerable to Physical Damage Near Light Sources
 靠近光源时目眩	Blinded When Near Light Sources
 面包	Bread Loaf
@@ -3635,7 +3636,6 @@ Yuvo and Greama Clere\n世上最好的面包师	Yuvo and Greama Clere\nFinest ba
 音乐：\n\n指派一名角色进入音乐位，可以为全队提供加成，并让恢复速度稍快。加成可以分配在许多属性与能力上，但会随机作用于每个角色。\n\n加成的强度取决于你的音乐技能与休息时长。\n\n乐手仍会恢复，但速度不如熟睡的人。	Music:\n\nAssigning a character to the Music slot allows you to give your party bonuses and to heal slightly faster. The bonus can be split between many stats and attributes, but is applied randomly to each character.\n\nThe strength of the bonus is increased by your Music skill and the length of your rest.\n\nThe Music Player will still heal, but not as fast as those who are asleep.
 音效音量	Sound FX Volume
 项链	Necklace
-顺便狂野地嚎叫。	And howl wildly.
 顽韧	Unyielding
 额外对两个目标发动远程攻击，二者都须在你初始目标 2 格射程以内。每个目标受到的伤害降低 50%。第二、第三个目标为离你次近的敌人。\n\n你的最大射程降低 3。\n\n第一级之后每级使伤害提高 4%。\n\n结束回合：是	Make a ranged attack against two extra targets, each within 2 Range of your initial target. Each target takes 50% less damage. The second and third targets will be the next closest enemies to you.\n\nYour max range is reduced by 3.\n\nEvery level beyond the first increases damage by 4%.\n\nEnds Turn: Yes
 额外护甲与物理抗性	Extra Armor and Physical Resistance

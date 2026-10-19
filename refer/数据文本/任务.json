@@ -143,7 +143,7 @@
   [
    "lv0#28465/myQuests[11].phases[0].phaseDetails",
    "Adela is looking for some old cheese. Really old cheese. I do not know what is so special about it, but apparently it is in a flooded crypt in the graveyard.",
-   "阿德拉在找一种陈年奶酪——真正陈年的奶酪。我不知道它有什么特别，但据说就在墓园里一座被水淹没的墓室中。"
+   "阿德拉在找一种陈年奶酪，真正陈年的奶酪。我不知道它有什么特别，但据说就在墓园里一座被水淹没的墓室中。"
   ],
   [
    "lv0#28465/myQuests[11].phases[0].phaseName",
@@ -743,7 +743,7 @@
   [
    "lv0#28465/myQuests[22].phases[2].phaseDetails",
    "In this place I can see the red moon, but only when it rises; just like the others. I would expect to be able to see them at all times. What is this place?",
-   "在这个地方，我能看见红月——但也只在它升起的时候，和其他月亮一样。我还以为在这里能随时看见它们呢。这到底是什么地方？"
+   "在这个地方，我能看见红月，但也只在它升起的时候，和其他月亮一样。我还以为在这里能随时看见它们呢。这到底是什么地方？"
   ],
   [
    "lv0#28465/myQuests[22].phases[2].phaseName",
@@ -763,7 +763,7 @@
   [
    "lv0#28465/myQuests[22].phases[3].phaseDetails",
    "I have all three orbs. Now I can enter Kazimar's sanctum. We must be careful, though. Whatever he was up to before he was trapped here is likely dangerous.",
-   "三颗宝珠都到手了。现在我可以进入卡齐玛尔的圣所了。不过要小心——他被困在这里之前所做的事，多半很危险。"
+   "三颗宝珠都到手了。现在我可以进入卡齐玛尔的圣所了。不过要小心，他被困在这里之前所做的事，多半很危险。"
   ],
   [
    "lv0#28465/myQuests[22].phases[3].phaseName",
@@ -1053,7 +1053,7 @@
   [
    "lv0#28465/myQuests[27].phases[1].phaseDetails",
    "There is a book somewhere that speaks of the Dark Lord. I wonder, would holding such a book result in more powers? Anyways, it is probably in the library, where books belong.",
-   "某处有一本谈及黑暗领主的书。我不禁想，捧着那样一本书会不会多几份力量？总之，它多半在图书馆——书就该待的地方。"
+   "某处有一本谈及黑暗领主的书。我不禁想，捧着那样一本书会不会多几份力量？总之，它多半在图书馆，书就该待的地方。"
   ],
   [
    "lv0#28465/myQuests[27].phases[1].phaseName",
@@ -1163,7 +1163,7 @@
   [
    "lv0#28465/myQuests[28].phases[3].phaseDetails",
    "This is it. Naira's memories are through that archway surrounded by water. Once we have used Arcane Sight, we can use the spell fused with the Planar Material to align the moons and enter, or we can pass time in the Dormitory.",
-   "就是这里了。奈拉的记忆就在那座被水围绕的拱门之后。用过「奥术视觉」之后，我们可以用与位面材料融合的法术将月亮连成一线，然后进去——或者在宿舍里消磨时间。"
+   "就是这里了。奈拉的记忆就在那座被水围绕的拱门之后。用过「奥术视觉」之后，我们可以用与位面材料融合的法术将月亮连成一线，然后进去，或者在宿舍里消磨时间。"
   ],
   [
    "lv0#28465/myQuests[28].phases[3].phaseName",
@@ -1233,7 +1233,7 @@
   [
    "lv0#28465/myQuests[29].phases[0].phaseDetails",
    "Kazimar is looking for a strange plant that grows in wet, underground conditions. He says it lives in two worlds at once; something I can relate to. Maybe, I was always meant to be more than just a shepherd.",
-   "卡齐玛尔在找一种生长于潮湿地下的奇异植物。他说它同时活在两个世界里——这一点，我感同身受。也许，我从来就不该只是个牧羊人。"
+   "卡齐玛尔在找一种生长于潮湿地下的奇异植物。他说它同时活在两个世界里，这一点，我感同身受。也许，我从来就不该只是个牧羊人。"
   ],
   [
    "lv0#28465/myQuests[29].phases[0].phaseName",
@@ -1253,7 +1253,7 @@
   [
    "lv0#28465/myQuests[29].phases[1].phaseDetails",
    "We have the plant, and holding it is more than a little distrubing. I feel another place calling out when I touch it. I really hope this does not make his condition worse, if such a thing is possible.",
-   "植物到手了，拿着它实在相当瘆人。每次触碰，我都能感觉到另一个地方在呼唤。真希望这不会让他的状况更糟——如果还能更糟的话。"
+   "植物到手了，拿着它实在相当瘆人。每次触碰，我都能感觉到另一个地方在呼唤。真希望这不会让他的状况更糟，如果还能更糟的话。"
   ],
   [
    "lv0#28465/myQuests[29].phases[1].phaseName",
@@ -1333,7 +1333,7 @@
   [
    "lv0#28465/myQuests[3].phases[1].phaseDetails",
    "It may be some time before I can eat mushrooms again. We have done it. The Scaphin home is clear. Now, let us get to business and collect this key.",
-   "我大概有段时间吃不下蘑菇了。我们做到了，斯卡芬的家园清干净了。现在，谈正事吧——去拿那把钥匙。"
+   "我大概有段时间吃不下蘑菇了。我们做到了，斯卡芬的家园清干净了。现在，谈正事吧，去拿那把钥匙。"
   ],
   [
    "lv0#28465/myQuests[3].phases[1].phaseName",
@@ -1583,7 +1583,7 @@
   [
    "lv0#28465/myQuests[6].phases[6].phaseDetails",
    "The librarian must have gone deeper into the halls. To get there I need to enter from the Library, for which I have a key. There is information at the other end of these halls that I must give to Naira regarding the librarian.",
-   "图书管理员一定是深入厅堂里去了。要过去，我得从图书馆进入——钥匙我有。厅堂的另一端有一份关于图书管理员的情报，我必须交给奈拉。"
+   "图书管理员一定是深入厅堂里去了。要过去，我得从图书馆进入，钥匙我有。厅堂的另一端有一份关于图书管理员的情报，我必须交给奈拉。"
   ],
   [
    "lv0#28465/myQuests[6].phases[6].phaseName",
@@ -1683,7 +1683,7 @@
   [
    "lv0#28465/myQuests[8].phases[1].phaseDetails",
    "This is a fine lute. It is truly special to have survived the trip over the edge, and is clearly more than just an ordinary instrument.",
-   "好一把鲁特琴。从崖边坠落还能幸存，实在非同寻常——它显然不是普通的乐器。"
+   "好一把鲁特琴。从崖边坠落还能幸存，实在非同寻常，它显然不是普通的乐器。"
   ],
   [
    "lv0#28465/myQuests[8].phases[1].phaseName",

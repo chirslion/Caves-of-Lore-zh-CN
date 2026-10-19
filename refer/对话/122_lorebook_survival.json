@@ -9,13 +9,13 @@
    "res#60479/whatIHaveToSay[0]",
    "Start",
    "\tStirred by a low humming sound, I awoke from my slumber. My eyes opened and I beheld a red glow, not from the soft light of my campfire, but of a large gate, twice the height of a man. Twisting lines of blazing red wound around it, and it bore something like wounds, as though pierced by arrows, but not of flesh.",
-   "\t一阵低沉的嗡鸣将我惊醒。我睁开双眼，看到一片红光——不是营火柔和的光，而是一扇大门，足有两人高。炽红的线条缠绕盘绕其上，门上还有像是伤口的东西，仿佛被箭矢穿透，却不是血肉之躯。"
+   "\t一阵低沉的嗡鸣将我惊醒。我睁开双眼，看到一片红光，不是营火柔和的光，而是一扇大门，足有两人高。炽红的线条缠绕盘绕其上，门上还有像是伤口的东西，仿佛被箭矢穿透，却不是血肉之躯。"
   ],
   [
    "res#60479/whatIHaveToSay[1]",
    "Start",
    "\tAll around it lay solid stone, but in the center I saw something familiar; the place where I had laid among the trees. A strange creature rummaged through my supplies. Its beady eyes jerked towards me, and it hissed. Its skin was green, and it had roughly made armor and a whip at its side.\n\n\tIt drew its arm back, ready to lash at me, when a shimmer passed over the gate, and the creature perceived me no more.",
-   "\t四周全是坚硬的岩石，但中央却是我熟悉的东西——我曾在林间躺卧的那片地方。一只奇怪的生物正在翻找我的补给。它珠子般的眼睛猛地转向我，发出嘶声。它的皮肤是绿色的，身上披着粗糙的护甲，腰间挂着一条鞭子。\n\n\t它抡起手臂，正要向我抽来——这时门上一道微光闪过，那生物再也看不见我了。"
+   "\t四周全是坚硬的岩石，但中央却是我熟悉的东西，我曾在林间躺卧的那片地方。一只奇怪的生物正在翻找我的补给。它珠子般的眼睛猛地转向我，发出嘶声。它的皮肤是绿色的，身上披着粗糙的护甲，腰间挂着一条鞭子。\n\n\t它抡起手臂，正要向我抽来，这时门上一道微光闪过，那生物再也看不见我了。"
   ],
   [
    "res#60479/whatIHaveToSay[2]",
@@ -33,7 +33,7 @@
    "res#60479/whatIHaveToSay[4]",
    "Start",
    "\tFor three days I did and said nothing. I slept when I could, and fretted when I could not sleep.\r\n\r\n\tThis kind of survival could only go on for so long. I had to venture back. I moved the brush, stood, and fear filled my heart. Before me stood... no, flew, a creature unlike any I had ever seen. It hung like a snake caught by an eagle. A halo, with one singular eye, circled its face. And it spoke. I could not understand what it said, for my heart beat so loudly that all else was drowned out.\r",
-   "\t整整三天，我没有行动，也没有说话。能睡的时候就睡，睡不着时就焦躁不安。\r\n\r\n\t这样的求生撑不了多久。我必须回去一趟。我拨开灌木，站起身，恐惧攫住了我的心。在我面前站着——不，是飞着——一只我从未见过的生物。它悬停着，像被鹰抓住的蛇。一道光环绕着脸庞旋转，光环上只有一只独眼。它开口说话了。我听不懂它说了什么，因为我的心跳声太响，淹没了一切。\r"
+   "\t整整三天，我没有行动，也没有说话。能睡的时候就睡，睡不着时就焦躁不安。\r\n\r\n\t这样的求生撑不了多久。我必须回去一趟。我拨开灌木，站起身，恐惧攫住了我的心。在我面前站着（不，是飞着）一只我从未见过的生物。它悬停着，像被鹰抓住的蛇。一道光环绕着脸庞旋转，光环上只有一只独眼。它开口说话了。我听不懂它说了什么，因为我的心跳声太响，淹没了一切。\r"
   ],
   [
    "res#60479/whatIHaveToSay[5]",
@@ -45,7 +45,7 @@
    "res#60479/whatIHaveToSay[6]",
    "Start",
    "What a mistake that was. I was derided as a fool, or a man gone mad. None believe my tale to this day, so I leave this last letter. On my deathbed, I recount, so that perhaps someday, long after my death, I will be known not as a fool, but as a survivor, and a herald of things unseen.\n\n\n- Maurin Tangelf, the madman of Pirmory.\n",
-   "那真是个天大的错误。人们嘲笑我是个蠢货，或是个发了疯的人。直到今天也没人相信我的故事，所以我留下这最后一封信。临终之际，我把一切重新讲述出来：但愿在很久以后，我不再被当作疯子，而是被记作一名幸存者，一个未曾目睹之物的传信人。\n\n\n——毛林·坦格尔夫，皮尔莫里的疯子。\n"
+   "那真是个天大的错误。人们嘲笑我是个蠢货，或是个发了疯的人。直到今天也没人相信我的故事，所以我留下这最后一封信。临终之际，我把一切重新讲述出来：但愿在很久以后，我不再被当作疯子，而是被记作一名幸存者，一个未曾目睹之物的传信人。\n\n\n毛林·坦格尔夫，皮尔莫里的疯子。\n"
   ]
  ]
 }

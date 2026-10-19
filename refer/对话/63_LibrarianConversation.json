@@ -111,13 +111,13 @@
    "res#60125/whatIHaveToSay[0]",
    "Merewen",
    "If you were sent to us by the librarian, then you must be connected to us somehow. Perhaps we will find out soon enough.",
-   "若是图书管理员，派你来的——那你必定与我们有着某种联系。也许很快我们就会知道。"
+   "若是图书管理员，派你来的，那你必定与我们有着某种联系。也许很快我们就会知道。"
   ],
   [
    "res#60170/whatIHaveToSay[0]",
    "book",
    "Some are important, some are not. What matters more is whether anyone can read them, and most cannot. Some ability was preserved in this place, but much has been lost, both memory and ability.",
-   "有些书重要，有些无关紧要。更要紧的是有没有人读得懂——而多数人读不懂。这地方还保留着一些能力，但失去的更多：记忆，和能力。"
+   "有些书重要，有些无关紧要。更要紧的是有没有人读得懂，而多数人读不懂。这地方还保留着一些能力，但失去的更多：记忆，和能力。"
   ],
   [
    "res#60170/whatIHaveToSay[1]",
@@ -237,7 +237,7 @@
    "res#60585/whatIHaveToSay[0]",
    "librarian",
    "If she knows of the book then she is our last hope, along with you. If you can bring her the book perhaps we will find a way to stop the memory loss. Whether or not we can reverse it is another question entirely.",
-   "如果她知道那本书，那她就是我们最后的希望——还有你。若你能把书带给她，也许我们就能找到阻止记忆流失的办法。至于能否逆转，那完全是另一个问题。"
+   "如果她知道那本书，那她就是我们最后的希望，还有你。若你能把书带给她，也许我们就能找到阻止记忆流失的办法。至于能否逆转，那完全是另一个问题。"
   ],
   [
    "res#60631/whatIHaveToSay[0]",
@@ -297,7 +297,7 @@
    "res#60873/whatIHaveToSay[1]",
    "dark lord",
    "Rumors were that he was immortal; some kind of god, or demigod. None know for sure, except perhaps the librarian that we seek.\n\n     His power was so great that he ruled all the lands. But even in this strength he was not all knowing. Good men and women rose up to challenge him.",
-   "传言他不死不灭，是某种神明，或半神。无人确知其详——也许只有我们在寻找的那位图书管理员。\n\n     他的力量强大到统治了所有土地。但即便拥有这等力量，他也并非全知全能。善良的人们奋起挑战他。"
+   "传言他不死不灭，是某种神明，或半神。无人确知其详，也许只有我们在寻找的那位图书管理员。\n\n     他的力量强大到统治了所有土地。但即便拥有这等力量，他也并非全知全能。善良的人们奋起挑战他。"
   ],
   [
    "res#60873/whatIHaveToSay[2]",

@@ -24,10 +24,10 @@ MODIFIED_LIST = os.path.join(GAME_DIR, "modified_files.txt")
 
 # 指纹（构建后回填；三处同步：本文件 ↔ 玩家包说明.txt ↔ README）
 CN_FINGERPRINTS = {
-    "Caves of Lore_Data/resources.assets": (37275968, "1930c597403407cb9353809b717a1acf"),
-    "Caves of Lore_Data/sharedassets0.assets": (51419552, "0d659384a14113caf795353f83667ab9"),
-    "Caves of Lore_Data/level0": (24283776, "4d3772c9037df359654339bb805b33aa"),
-    "Caves of Lore_Data/Managed/Assembly-CSharp.dll": (2745344, "934dc80a794b9de02be2a4e85c5ae729"),
+    "Caves of Lore_Data/resources.assets": (37275304, "5dc569840ae9bfa2ada22e71c059fd7e"),
+    "Caves of Lore_Data/sharedassets0.assets": (51420200, "f6024b0d9d7b3b6c1f3ba565cc161271"),
+    "Caves of Lore_Data/level0": (24283688, "9e16e6625c280ba38854c657f670d97b"),
+    "Caves of Lore_Data/Managed/Assembly-CSharp.dll": (2745344, "ab6f7f87e899603f22711969dbfaf408"),
     "Caves of Lore_Data/Managed/CavesL10N.dll": (16384, "e3077c8ce7808d79c9c136018c203be3"),
-    "Caves of Lore_Data/Managed/CavesL10N.table.txt": (375660, "015a63a3920e423583ce53f434548204"),
+    "Caves of Lore_Data/Managed/CavesL10N.table.txt": (375576, "b420d53a84cad503b140e1143cee3728"),
 }

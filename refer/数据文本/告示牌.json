@@ -28,7 +28,7 @@
   [
    "lv12#7734/plaqueMessage",
    "The stone is inscribed with these words:\n\nDoorway marks reveal gates of much importance, whether seen or unseen.",
-   "石上刻着这样的话：\n\n门径标记会揭示极为重要的门户——无论看得见，还是看不见。"
+   "石上刻着这样的话：\n\n门径标记会揭示极为重要的门户，无论看得见，还是看不见。"
   ],
   [
    "lv13#11825/plaqueMessage",
@@ -123,7 +123,7 @@
   [
    "lv20#10610/plaqueMessages[9]",
    "Me too. It's been boring ever since the gate was sealed.",
-   "我也想。大门封死之后，日子就无聊透了。"
+   "我也想听。大门封死之后，日子就无聊透了。"
   ],
   [
    "lv20#10641/plaqueMessage",
@@ -153,7 +153,7 @@
   [
    "lv20#10646/plaqueMessages[4]",
    "You should see the beautiful collection he has made.",
-   "你真该看看他做出来的收藏，美极了。"
+   "你真该看看他攒下的收藏，美极了。"
   ],
   [
    "lv20#10646/plaqueMessages[5]",
@@ -288,7 +288,7 @@
   [
    "lv20#10763/plaqueMessage",
    "Be quiet in the library. Unless monsters are attacking. Then be very loud.",
-   "在图书馆内请保持安静。除非有怪物来袭——那时请尽情喧哗。"
+   "在图书馆内请保持安静。除非有怪物来袭，那时请尽情喧哗。"
   ],
   [
    "lv20#10787/plaqueMessage",
@@ -358,7 +358,7 @@
   [
    "lv20#10892/plaqueMessages[9]",
    "He bakes a mean apple pie.",
-   "他烤的苹果派一流。"
+   "他烤的苹果派也一流。"
   ],
   [
    "lv20#10930/plaqueMessages[0]",
@@ -423,17 +423,17 @@
   [
    "lv20#10959/plaqueMessages[1]",
    "Too bad.",
-   "可惜。"
+   "可惜，不告诉你。"
   ],
   [
    "lv20#10959/plaqueMessages[2]",
    "It's against the code.",
-   "这违反守则。"
+   "这可违反守则。"
   ],
   [
    "lv20#10959/plaqueMessages[3]",
    "We have to function as a whole, not individuals.",
-   "我们应当作为整体运转，而不是作为个人。"
+   "我们是一个整体，不是一个个个体。"
   ],
   [
    "lv20#10959/plaqueMessages[4]",
@@ -443,7 +443,7 @@
   [
    "lv20#10959/plaqueMessages[5]",
    "I'm named after my great grandnephew's cat.",
-   "我是照着曾侄孙的猫取的名。"
+   "这名字取自曾侄孙的猫。"
   ],
   [
    "lv20#10959/plaqueMessages[6]",
@@ -453,7 +453,7 @@
   [
    "lv20#10959/plaqueMessages[7]",
    "There's no other name like it.",
-   "再没有别的名字像它一样。"
+   "再没有别的名字像它了。"
   ],
   [
    "lv20#10959/plaqueMessages[8]",
@@ -643,7 +643,7 @@
   [
    "lv6#22286/plaqueMessages[3]",
    "You know, a moo moo here.",
-   "你看，这儿一声哞。"
+   "这儿一声哞。"
   ],
   [
    "lv6#22286/plaqueMessages[4]",
@@ -673,7 +673,7 @@
   [
    "lv6#22286/plaqueMessages[9]",
    "Such a satisfying sound.",
-   "多么令人满足的声音。"
+   "这声音多让人满足。"
   ],
   [
    "lv6#22296/plaqueMessage",
@@ -693,7 +693,7 @@
   [
    "lv6#22313/plaqueMessages[0]",
    "I am very glad you came to visit me here.",
-   "非常高兴你来看我。"
+   "你能来这儿看我，我真高兴。"
   ],
   [
    "lv6#22313/plaqueMessages[1]",
@@ -713,7 +713,7 @@
   [
    "lv6#22313/plaqueMessages[4]",
    "You guys are pretty sketchy.",
-   "你们这些人还挺可疑的。"
+   "你们这些人看着就挺可疑的。"
   ],
   [
    "lv6#22313/plaqueMessages[5]",
@@ -763,12 +763,12 @@
   [
    "lv6#22321/plaqueMessages[4]",
    "Well, I used to, until this fog rolled in.",
-   "好吧，以前能——直到这片迷雾漫了过来。"
+   "好吧，以前能看到，直到这片迷雾漫了过来。"
   ],
   [
    "lv6#22321/plaqueMessages[5]",
    "The job is still nice though.",
-   "不过这工作还是不错。"
+   "不过这活儿还是挺好的。"
   ],
   [
    "lv6#22321/plaqueMessages[6]",
@@ -783,12 +783,12 @@
   [
    "lv6#22321/plaqueMessages[8]",
    "I'm making killer overtime pay working 24 hours a day.",
-   "我一天干 24 小时，加班费赚得飞起。"
+   "我一天干 24 小时，加班费拿到手软。"
   ],
   [
    "lv6#22321/plaqueMessages[9]",
    "I'll retire one day and live my dream of being a guard for free!",
-   "等我哪天退休，就去实现免费当守卫的梦想！"
+   "等我哪天退休，就去圆我的梦：免费当守卫！"
   ],
   [
    "lv6#22327/plaqueMessage",
@@ -843,7 +843,7 @@
   [
    "lv6#22382/plaqueMessages[6]",
    "It only encourages them.",
-   "想它们只会给它们助威。"
+   "你越想，它们越来劲。"
   ],
   [
    "lv6#22382/plaqueMessages[7]",
@@ -918,12 +918,12 @@
   [
    "lv6#22437/plaqueMessages[4]",
    "Anyways, the western road here is safe.",
-   "总之，这里的西边道路是安全的。"
+   "总之，这边的西路是安全的。"
   ],
   [
    "lv6#22437/plaqueMessages[5]",
    "I mean eastern road.",
-   "我是说东边那条路。"
+   "我是说，东边那条路。"
   ],
   [
    "lv6#22437/plaqueMessages[6]",
@@ -943,7 +943,7 @@
   [
    "lv6#22437/plaqueMessages[9]",
    "But nothing ever came of it, so all is well that ends well, right?",
-   "但后来什么也没发生。结果好就一切都好，对吧？"
+   "但后来什么也没发生。结局圆满，那就一切都好，对吧？"
   ],
   [
    "lv6#22444/plaqueMessage",
@@ -998,7 +998,7 @@
   [
    "lv6#22494/plaqueMessages[2]",
    "This is the only town in the world, so maybe they came from here.",
-   "这是世上唯一的镇子，所以他们大概就是从这儿出去的。"
+   "这世上只有这一座镇子，所以他们多半是从这儿出去的。"
   ],
   [
    "lv6#22494/plaqueMessages[3]",
@@ -1088,27 +1088,27 @@
   [
    "lv6#22535/plaqueMessages[4]",
    "Who wouldn't want to look at my fancy getup.",
-   "谁会不想看看我这身漂亮行头呢。"
+   "谁会不想看看我这身漂亮行头呢？"
   ],
   [
    "lv6#22535/plaqueMessages[5]",
    "And howl wildly.",
-   "顺便狂野地嚎叫。"
+   "还会狂野地嚎叫。"
   ],
   [
    "lv6#22535/plaqueMessages[6]",
    "And freeze the very air around me.",
-   "再把我周围的空气冻住。"
+   "还会把我周围的空气冻住。"
   ],
   [
    "lv6#22535/plaqueMessages[7]",
    "And claw its way into my mind.",
-   "再用爪子硬挤进我的脑子。"
+   "还会用爪子硬挤进我的脑子。"
   ],
   [
    "lv6#22535/plaqueMessages[8]",
    "And whisper softly of my doom.",
-   "再轻声低语我的厄运。"
+   "还会轻声低语我的厄运。"
   ],
   [
    "lv6#22535/plaqueMessages[9]",
@@ -1173,7 +1173,7 @@
   [
    "lv6#22596/plaqueMessages[1]",
    "Or is this the east?",
-   "或者说这是东边？"
+   "还是说，这边其实是东边？"
   ],
   [
    "lv6#22596/plaqueMessages[2]",
@@ -1198,12 +1198,12 @@
   [
    "lv6#22596/plaqueMessages[6]",
    "I can see any threat coming from way up here.",
-   "在这儿能把任何威胁看得远远的。"
+   "站在这儿，远远就能看见任何威胁靠近。"
   ],
   [
    "lv6#22596/plaqueMessages[7]",
    "Well, I could, if my visor wasn't so small.",
-   "本来是可以的——如果我的面甲没这么小。"
+   "唉，本来能看见的，可惜我的面甲太小了。"
   ],
   [
    "lv6#22596/plaqueMessages[8]",
@@ -1298,12 +1298,12 @@
   [
    "lv6#22687/plaqueMessages[8]",
    "I have a wild imagination, right?",
-   "我的想象力很狂野，对吧？"
+   "我的想象力可真丰富，对吧？"
   ],
   [
    "lv6#22687/plaqueMessages[9]",
    "That's why I was fired from my last job.",
-   "所以我上一份工作被开除了。"
+   "所以上一份工作把我开除了。"
   ],
   [
    "lv6#22688/plaqueMessage",

@@ -21,7 +21,7 @@
    "sa0#10653/whatIHaveToSay[1]",
    "Miala",
    "I have never heard of tales from before she was split, but they say that her death rained silver upon the land. If you do not know about silver, it is often the bane of unholy or magical things. Perhaps this was her last effort to help us, as her death brought such materials to our world.",
-   "我没听过她被劈裂之前的传说，但人们说，她的陨落让银如雨般洒落大地。若你还不知道银——它往往是不洁与魔法之物的克星。也许这是她最后的努力：她的死，为我们的世界带来了这样的东西。"
+   "我没听过她被劈裂之前的传说，但人们说，她的陨落让银如雨般洒落大地。若你还不知道银，它往往是不洁与魔法之物的克星。也许这是她最后的努力：她的死，为我们的世界带来了这样的东西。"
   ],
   [
    "sa0#10653/whatIHaveToSay[2]",
@@ -57,7 +57,7 @@
    "sa0#10677/whatIHaveToSay[0]",
    "graveyard",
    "A place where stories end but songs begin. Most songs are about those who are no longer with us; the good ones anyways.",
-   "一个故事结束、歌声开始的地方。大多数歌都唱给离去的人——好歌尤其如此。"
+   "一个故事结束、歌声开始的地方。大多数歌都唱给离去的人，好歌尤其如此。"
   ],
   [
    "sa0#10694/whatIHaveToSay[0]",
@@ -153,7 +153,7 @@
    "sa0#11308/whatIHaveToSay[0]",
    "fog",
    "I had to travel through it to get here. Though, I cannot remember where I was before, or what I did while in it. I suppose this is my life now. And not a bad place to start one. A life that is. I've always admired the small towns.",
-   "我来这里，得穿过它。可我记不得自己之前在哪儿，也不记得在里面做过什么。我想，这就是我现在的人生了。而这地方，不算个坏的起点——我是说，人生的起点。我一向喜欢小村镇。"
+   "我来这里，得穿过它。可我记不得自己之前在哪儿，也不记得在里面做过什么。我想，这就是我现在的人生了。而这地方，不算个坏的起点，我是说，人生的起点。我一向喜欢小村镇。"
   ],
   [
    "sa0#11317/options[0].text",
@@ -243,7 +243,7 @@
    "sa0#11579/whatIHaveToSay[0]",
    "silver",
    "A song says that the moon Miala rained down its tears upon the world, giving us silver. It gave this gift as it died. It remains split nearly down the middle.\n\nIf a moon can be alive, I would think Miala still is. Just... wounded.",
-   "有首歌谣说，月亮的眼泪洒向人间——那是米亚拉，给了我们银。它在死去时留下了这份赠礼。如今它几乎从正中裂成两半。\n\n若月亮也能称之为活着，我想米亚拉还活着。只是……受了伤。"
+   "有首歌谣说，月亮的眼泪洒向人间，那是米亚拉，给了我们银。它在死去时留下了这份赠礼。如今它几乎从正中裂成两半。\n\n若月亮也能称之为活着，我想米亚拉还活着。只是……受了伤。"
   ],
   [
    "sa0#11598/whatIHaveToSay[0]",
@@ -261,7 +261,7 @@
    "sa0#11648/whatIHaveToSay[0]",
    "Scaphin",
    "I am not familiar with such creatures, though it would not surprise me to encounter such a thing on my travels. I have seen many strange things as I venture, and I can even remember some of them.",
-   "我不认识这样的生物——不过在旅途中遇到这种东西，我也不会惊讶。我四处闯荡，见过许多怪事，甚至还能记住其中一些。"
+   "我不认识这样的生物，不过在旅途中遇到这种东西，我也不会惊讶。我四处闯荡，见过许多怪事，甚至还能记住其中一些。"
   ],
   [
    "sa0#11655/whatIHaveToSay[0]",
@@ -435,7 +435,7 @@
    "sa0#11696/whatIHaveToSay[0]",
    "onQuest",
    "I have heard the baron talking, loudly I should say... that he has been selling sweets to people, but they keep forgetting that they paid him, or even asked for food. He stores all the excess in crates and stashes them somewhere below his house.",
-   "我听见男爵在说——还是大声地说——他一直在向人们卖甜食，可人们老是忘记自己付过钱，甚至忘记自己讨过吃的。他把多余的都装进箱子，囤在他宅邸底下的什么地方。"
+   "我听见男爵在说（还是大声地说）他一直在向人们卖甜食，可人们老是忘记自己付过钱，甚至忘记自己讨过吃的。他把多余的都装进箱子，囤在他宅邸底下的什么地方。"
   ],
   [
    "sa0#11696/whatIHaveToSay[1]",
